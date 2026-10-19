@@ -1,0 +1,1278 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Priest's Handbook">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="CPr00000.htm">
+    </OBJECT>
+    <A HREF="file:CPr00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="CPr00001.htm">
+    </OBJECT>
+    <A HREF="file:CPr00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="CPr00002.htm">
+    </OBJECT>
+    <A HREF="file:CPr00002.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priests, Gods and the World">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priests, Gods, and the World">
+    <param name="Local" value="CPr00003.htm">
+    </OBJECT>
+    <A HREF="file:CPr00003.htm">Priests, Gods, and the World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creation">
+    <param name="Local" value="CPr00004.htm">
+    </OBJECT>
+    <A HREF="file:CPr00004.htm">Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Propagation">
+    <param name="Local" value="CPr00005.htm">
+    </OBJECT>
+    <A HREF="file:CPr00005.htm">Propagation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Characteristics of the Gods">
+    <param name="Local" value="CPr00006.htm">
+    </OBJECT>
+    <A HREF="file:CPr00006.htm">Characteristics of the Gods</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Humans, Humanoids, Animals, Plants">
+    <param name="Local" value="CPr00007.htm">
+    </OBJECT>
+    <A HREF="file:CPr00007.htm">Humans, Humanoids, Animals, Plants</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fall From Grace">
+    <param name="Local" value="CPr00008.htm">
+    </OBJECT>
+    <A HREF="file:CPr00008.htm">Fall From Grace</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Challenge">
+    <param name="Local" value="CPr00009.htm">
+    </OBJECT>
+    <A HREF="file:CPr00009.htm">The Challenge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Future">
+    <param name="Local" value="CPr00010.htm">
+    </OBJECT>
+    <A HREF="file:CPr00010.htm">The Future</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Pantheon">
+    <param name="Local" value="CPr00011.htm">
+    </OBJECT>
+    <A HREF="file:CPr00011.htm">The Pantheon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Events">
+    <param name="Local" value="CPr00012.htm">
+    </OBJECT>
+    <A HREF="file:CPr00012.htm">Events</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forces and Philosophies">
+    <param name="Local" value="CPr00013.htm">
+    </OBJECT>
+    <A HREF="file:CPr00013.htm">Forces and Philosophies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mythic History Creation Sheet">
+    <param name="Local" value="CPr00014.htm">
+    </OBJECT>
+    <A HREF="file:CPr00014.htm">Mythic History Creation Sheet</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Designing Faith">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Designing Faiths">
+    <param name="Local" value="CPr00015.htm">
+    </OBJECT>
+    <A HREF="file:CPr00015.htm">Designing Faiths</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="God, Force, or Philosophy">
+    <param name="Local" value="CPr00016.htm">
+    </OBJECT>
+    <A HREF="file:CPr00016.htm">God, Force, or Philosophy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ethos and Requirements of the Faith">
+    <param name="Local" value="CPr00017.htm">
+    </OBJECT>
+    <A HREF="file:CPr00017.htm">Ethos and Requirements of the Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sample Priesthoods">
+    <param name="Local" value="CPr00075.htm">
+    </OBJECT>
+    <A HREF="file:CPr00075.htm">Sample Priesthoods</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Faith Design Sheet">
+    <param name="Local" value="CPr00076.htm">
+    </OBJECT>
+    <A HREF="file:CPr00076.htm">Faith Design Sheet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Faith">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Goals and Purposes">
+    <param name="Local" value="CPr00018.htm">
+    </OBJECT>
+    <A HREF="file:CPr00018.htm">Goals and Purposes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alignment">
+    <param name="Local" value="CPr00019.htm">
+    </OBJECT>
+    <A HREF="file:CPr00019.htm">Alignment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ability Scores">
+    <param name="Local" value="CPr00020.htm">
+    </OBJECT>
+    <A HREF="file:CPr00020.htm">Ability Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Races Allowed">
+    <param name="Local" value="CPr00021.htm">
+    </OBJECT>
+    <A HREF="file:CPr00021.htm">Races Allowed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Experience and Spell Progression">
+    <param name="Local" value="CPr00022.htm">
+    </OBJECT>
+    <A HREF="file:CPr00022.htm">Experience and Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gender Requirements">
+    <param name="Local" value="CPr00023.htm">
+    </OBJECT>
+    <A HREF="file:CPr00023.htm">Gender Requirements</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nonweapon and Weapon Proficiencies">
+    <param name="Local" value="CPr00024.htm">
+    </OBJECT>
+    <A HREF="file:CPr00024.htm">Nonweapon and Weapon Proficiencies</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Duties of the Priest">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Duties of the Priest">
+    <param name="Local" value="CPr00025.htm">
+    </OBJECT>
+    <A HREF="file:CPr00025.htm">Duties of the Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Devotions">
+    <param name="Local" value="CPr00026.htm">
+    </OBJECT>
+    <A HREF="file:CPr00026.htm">Devotions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guidance">
+    <param name="Local" value="CPr00027.htm">
+    </OBJECT>
+    <A HREF="file:CPr00027.htm">Guidance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Marriage">
+    <param name="Local" value="CPr00028.htm">
+    </OBJECT>
+    <A HREF="file:CPr00028.htm">Marriage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Missions">
+    <param name="Local" value="CPr00029.htm">
+    </OBJECT>
+    <A HREF="file:CPr00029.htm">Missions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Omen-Reading">
+    <param name="Local" value="CPr00030.htm">
+    </OBJECT>
+    <A HREF="file:CPr00030.htm">Omen-Reading</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vigilance">
+    <param name="Local" value="CPr00031.htm">
+    </OBJECT>
+    <A HREF="file:CPr00031.htm">Vigilance</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rights of the Priesthood">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rights of the Priesthood">
+    <param name="Local" value="CPr00032.htm">
+    </OBJECT>
+    <A HREF="file:CPr00032.htm">Rights of the Priesthood</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Church Trial">
+    <param name="Local" value="CPr00033.htm">
+    </OBJECT>
+    <A HREF="file:CPr00033.htm">Church Trial</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Coronation">
+    <param name="Local" value="CPr00034.htm">
+    </OBJECT>
+    <A HREF="file:CPr00034.htm">Coronation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Other Confirmations">
+    <param name="Local" value="CPr00035.htm">
+    </OBJECT>
+    <A HREF="file:CPr00035.htm">Other Confirmations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tithes">
+    <param name="Local" value="CPr00036.htm">
+    </OBJECT>
+    <A HREF="file:CPr00036.htm">Tithes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Separation from the Faith">
+    <param name="Local" value="CPr00037.htm">
+    </OBJECT>
+    <A HREF="file:CPr00037.htm">Separation from the Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rule">
+    <param name="Local" value="CPr00038.htm">
+    </OBJECT>
+    <A HREF="file:CPr00038.htm">Rule</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The State Religion">
+    <param name="Local" value="CPr00039.htm">
+    </OBJECT>
+    <A HREF="file:CPr00039.htm">The State Religion</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Followers and Believers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Followers and Believers">
+    <param name="Local" value="CPr00056.htm">
+    </OBJECT>
+    <A HREF="file:CPr00056.htm">Followers and Believers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="What Are They?">
+    <param name="Local" value="CPr00057.htm">
+    </OBJECT>
+    <A HREF="file:CPr00057.htm">What Are They?</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Who Are They, and How Do They Know to Arrive?">
+    <param name="Local" value="CPr00058.htm">
+    </OBJECT>
+    <A HREF="file:CPr00058.htm">Who Are They, and How Do They Know to Arrive?</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How Many and How Strong Are They?">
+    <param name="Local" value="CPr00059.htm">
+    </OBJECT>
+    <A HREF="file:CPr00059.htm">How Many and How Strong Are They?</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How Much Control Does the Priest Have?">
+    <param name="Local" value="CPr00060.htm">
+    </OBJECT>
+    <A HREF="file:CPr00060.htm">How Much Control Does the Priest Have?</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="What If They Die or Gain Experience?">
+    <param name="Local" value="CPr00061.htm">
+    </OBJECT>
+    <A HREF="file:CPr00061.htm">What If They Die or Gain Experience?</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="What If The Priest-Character Is Scum?">
+    <param name="Local" value="CPr00062.htm">
+    </OBJECT>
+    <A HREF="file:CPr00062.htm">What If The Priest-Character Is Scum?</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role of the Faith">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role of the Faith">
+    <param name="Local" value="CPr00063.htm">
+    </OBJECT>
+    <A HREF="file:CPr00063.htm">Role of the Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Relations With Other Faiths">
+    <param name="Local" value="CPr00064.htm">
+    </OBJECT>
+    <A HREF="file:CPr00064.htm">Relations With Other Faiths</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Relations With the People">
+    <param name="Local" value="CPr00066.htm">
+    </OBJECT>
+    <A HREF="file:CPr00066.htm">Relations With the People</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Relations With the Aristocracy">
+    <param name="Local" value="CPr00065.htm">
+    </OBJECT>
+    <A HREF="file:CPr00065.htm">Relations With the Aristocracy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Relations With Foreign Faiths">
+    <param name="Local" value="CPr00067.htm">
+    </OBJECT>
+    <A HREF="file:CPr00067.htm">Relations With Foreign Faiths</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rites and the Calendar">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rites and the Calendar">
+    <param name="Local" value="CPr00068.htm">
+    </OBJECT>
+    <A HREF="file:CPr00068.htm">Rites and the Calendar</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Heirarchy of the Faith">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hierarchy of the Faith">
+    <param name="Local" value="CPr00069.htm">
+    </OBJECT>
+    <A HREF="file:CPr00069.htm">Hierarchy of the Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Experience Levels and Hierarchy">
+    <param name="Local" value="CPr00070.htm">
+    </OBJECT>
+    <A HREF="file:CPr00070.htm">Experience Levels and Hierarchy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="PC Priests and the Hierarchy">
+    <param name="Local" value="CPr00071.htm">
+    </OBJECT>
+    <A HREF="file:CPr00071.htm">PC Priests and the Hierarchy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Finances of the PC's Temple">
+    <param name="Local" value="CPr00072.htm">
+    </OBJECT>
+    <A HREF="file:CPr00072.htm">Finances of the PC's Temple</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Non-Priests Working For the Faith">
+    <param name="Local" value="CPr00073.htm">
+    </OBJECT>
+    <A HREF="file:CPr00073.htm">Non-Priests Working For the Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="PCs, Forces and Philosophies">
+    <param name="Local" value="CPr00074.htm">
+    </OBJECT>
+    <A HREF="file:CPr00074.htm">PCs, Forces and Philosophies</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Restrictions on the Priest">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Restrictions on the Priest">
+    <param name="Local" value="CPr00040.htm">
+    </OBJECT>
+    <A HREF="file:CPr00040.htm">Restrictions on the Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor">
+    <param name="Local" value="CPr00041.htm">
+    </OBJECT>
+    <A HREF="file:CPr00041.htm">Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Celibacy">
+    <param name="Local" value="CPr00042.htm">
+    </OBJECT>
+    <A HREF="file:CPr00042.htm">Celibacy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chastity">
+    <param name="Local" value="CPr00043.htm">
+    </OBJECT>
+    <A HREF="file:CPr00043.htm">Chastity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clothing">
+    <param name="Local" value="CPr00044.htm">
+    </OBJECT>
+    <A HREF="file:CPr00044.htm">Clothing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Contamination">
+    <param name="Local" value="CPr00045.htm">
+    </OBJECT>
+    <A HREF="file:CPr00045.htm">Contamination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hit Points">
+    <param name="Local" value="CPr00046.htm">
+    </OBJECT>
+    <A HREF="file:CPr00046.htm">Hit Points</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Items">
+    <param name="Local" value="CPr00047.htm">
+    </OBJECT>
+    <A HREF="file:CPr00047.htm">Magical Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mutilation">
+    <param name="Local" value="CPr00048.htm">
+    </OBJECT>
+    <A HREF="file:CPr00048.htm">Mutilation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapons">
+    <param name="Local" value="CPr00049.htm">
+    </OBJECT>
+    <A HREF="file:CPr00049.htm">Weapons</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spheres of Influence">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spheres of Influence">
+    <param name="Local" value="CPr00050.htm">
+    </OBJECT>
+    <A HREF="file:CPr00050.htm">Spheres of Influence</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Granted Powers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Granted Powers">
+    <param name="Local" value="CPr00051.htm">
+    </OBJECT>
+    <A HREF="file:CPr00051.htm">Granted Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="High Powers">
+    <param name="Local" value="CPr00052.htm">
+    </OBJECT>
+    <A HREF="file:CPr00052.htm">High Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Medium Powers">
+    <param name="Local" value="CPr00053.htm">
+    </OBJECT>
+    <A HREF="file:CPr00053.htm">Medium Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Low Powers">
+    <param name="Local" value="CPr00054.htm">
+    </OBJECT>
+    <A HREF="file:CPr00054.htm">Low Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Other Powers">
+    <param name="Local" value="CPr00055.htm">
+    </OBJECT>
+    <A HREF="file:CPr00055.htm">Other Powers</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sample Priesthoods">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sample Priesthoods">
+    <param name="Local" value="CPr00077.htm">
+    </OBJECT>
+    <A HREF="file:CPr00077.htm">Sample Priesthoods</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priesthoods">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priesthoods">
+    <param name="Local" value="CPr00078.htm">
+    </OBJECT>
+    <A HREF="file:CPr00078.htm">Priesthoods</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Agriculture">
+    <param name="Local" value="CPr00079.htm">
+    </OBJECT>
+    <A HREF="file:CPr00079.htm">Agriculture</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ancestors">
+    <param name="Local" value="CPr00080.htm">
+    </OBJECT>
+    <A HREF="file:CPr00080.htm">Ancestors</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animals">
+    <param name="Local" value="CPr00081.htm">
+    </OBJECT>
+    <A HREF="file:CPr00081.htm">Animals</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arts">
+    <param name="Local" value="CPr00082.htm">
+    </OBJECT>
+    <A HREF="file:CPr00082.htm">Arts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Birth, Children">
+    <param name="Local" value="CPr00083.htm">
+    </OBJECT>
+    <A HREF="file:CPr00083.htm">Birth, Children</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Community">
+    <param name="Local" value="CPr00084.htm">
+    </OBJECT>
+    <A HREF="file:CPr00084.htm">Community</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Competition">
+    <param name="Local" value="CPr00085.htm">
+    </OBJECT>
+    <A HREF="file:CPr00085.htm">Competition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crafts">
+    <param name="Local" value="CPr00086.htm">
+    </OBJECT>
+    <A HREF="file:CPr00086.htm">Crafts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Culture (Bringing Of)">
+    <param name="Local" value="CPr00087.htm">
+    </OBJECT>
+    <A HREF="file:CPr00087.htm">Culture (Bringing Of)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Darkness, Night">
+    <param name="Local" value="CPr00088.htm">
+    </OBJECT>
+    <A HREF="file:CPr00088.htm">Darkness, Night</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dawn">
+    <param name="Local" value="CPr00089.htm">
+    </OBJECT>
+    <A HREF="file:CPr00089.htm">Dawn</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Death">
+    <param name="Local" value="CPr00090.htm">
+    </OBJECT>
+    <A HREF="file:CPr00090.htm">Death</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disease">
+    <param name="Local" value="CPr00091.htm">
+    </OBJECT>
+    <A HREF="file:CPr00091.htm">Disease</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divinity of Mankind (Philosophy)">
+    <param name="Local" value="CPr00092.htm">
+    </OBJECT>
+    <A HREF="file:CPr00092.htm">Divinity of Mankind (Philosophy)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Druid">
+    <param name="Local" value="CPr00093.htm">
+    </OBJECT>
+    <A HREF="file:CPr00093.htm">Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Earth">
+    <param name="Local" value="CPr00094.htm">
+    </OBJECT>
+    <A HREF="file:CPr00094.htm">Earth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Forces (Force)">
+    <param name="Local" value="CPr00095.htm">
+    </OBJECT>
+    <A HREF="file:CPr00095.htm">Elemental Forces (Force)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Everything">
+    <param name="Local" value="CPr00096.htm">
+    </OBJECT>
+    <A HREF="file:CPr00096.htm">Everything</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Evil (Philosophy)">
+    <param name="Local" value="CPr00097.htm">
+    </OBJECT>
+    <A HREF="file:CPr00097.htm">Evil (Philosophy)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fate, Destiny">
+    <param name="Local" value="CPr00098.htm">
+    </OBJECT>
+    <A HREF="file:CPr00098.htm">Fate, Destiny</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fertility">
+    <param name="Local" value="CPr00099.htm">
+    </OBJECT>
+    <A HREF="file:CPr00099.htm">Fertility</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fire">
+    <param name="Local" value="CPr00100.htm">
+    </OBJECT>
+    <A HREF="file:CPr00100.htm">Fire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fortune, Luck">
+    <param name="Local" value="CPr00101.htm">
+    </OBJECT>
+    <A HREF="file:CPr00101.htm">Fortune, Luck</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Good (Philosophy)">
+    <param name="Local" value="CPr00102.htm">
+    </OBJECT>
+    <A HREF="file:CPr00102.htm">Good (Philosophy)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guardianship">
+    <param name="Local" value="CPr00103.htm">
+    </OBJECT>
+    <A HREF="file:CPr00103.htm">Guardianship</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Healing">
+    <param name="Local" value="CPr00104.htm">
+    </OBJECT>
+    <A HREF="file:CPr00104.htm">Healing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hunting">
+    <param name="Local" value="CPr00105.htm">
+    </OBJECT>
+    <A HREF="file:CPr00105.htm">Hunting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Justice, Revenge">
+    <param name="Local" value="CPr00106.htm">
+    </OBJECT>
+    <A HREF="file:CPr00106.htm">Justice, Revenge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Life-Death-Rebirth Cycle (Force)">
+    <param name="Local" value="CPr00107.htm">
+    </OBJECT>
+    <A HREF="file:CPr00107.htm">Life-Death-Rebirth Cycle (Force)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Light">
+    <param name="Local" value="CPr00108.htm">
+    </OBJECT>
+    <A HREF="file:CPr00108.htm">Light</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lightning">
+    <param name="Local" value="CPr00109.htm">
+    </OBJECT>
+    <A HREF="file:CPr00109.htm">Lightning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Literature, Poetry">
+    <param name="Local" value="CPr00110.htm">
+    </OBJECT>
+    <A HREF="file:CPr00110.htm">Literature, Poetry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Love">
+    <param name="Local" value="CPr00111.htm">
+    </OBJECT>
+    <A HREF="file:CPr00111.htm">Love</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic">
+    <param name="Local" value="CPr00112.htm">
+    </OBJECT>
+    <A HREF="file:CPr00112.htm">Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Marriage">
+    <param name="Local" value="CPr00113.htm">
+    </OBJECT>
+    <A HREF="file:CPr00113.htm">Marriage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Messengers">
+    <param name="Local" value="CPr00114.htm">
+    </OBJECT>
+    <A HREF="file:CPr00114.htm">Messengers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Metalwork">
+    <param name="Local" value="CPr00115.htm">
+    </OBJECT>
+    <A HREF="file:CPr00115.htm">Metalwork</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mischief, Trickery">
+    <param name="Local" value="CPr00116.htm">
+    </OBJECT>
+    <A HREF="file:CPr00116.htm">Mischief, Trickery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Moon">
+    <param name="Local" value="CPr00117.htm">
+    </OBJECT>
+    <A HREF="file:CPr00117.htm">Moon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Music, Dance">
+    <param name="Local" value="CPr00118.htm">
+    </OBJECT>
+    <A HREF="file:CPr00118.htm">Music, Dance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nature">
+    <param name="Local" value="CPr00119.htm">
+    </OBJECT>
+    <A HREF="file:CPr00119.htm">Nature</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Oceans, Rivers">
+    <param name="Local" value="CPr00120.htm">
+    </OBJECT>
+    <A HREF="file:CPr00120.htm">Oceans, Rivers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Oracles, Prophecy">
+    <param name="Local" value="CPr00121.htm">
+    </OBJECT>
+    <A HREF="file:CPr00121.htm">Oracles, Prophecy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Peace">
+    <param name="Local" value="CPr00122.htm">
+    </OBJECT>
+    <A HREF="file:CPr00122.htm">Peace</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Prosperity">
+    <param name="Local" value="CPr00123.htm">
+    </OBJECT>
+    <A HREF="file:CPr00123.htm">Prosperity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Race">
+    <param name="Local" value="CPr00124.htm">
+    </OBJECT>
+    <A HREF="file:CPr00124.htm">Race</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Redemption">
+    <param name="Local" value="CPr00125.htm">
+    </OBJECT>
+    <A HREF="file:CPr00125.htm">Redemption</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rulership, Kingship">
+    <param name="Local" value="CPr00126.htm">
+    </OBJECT>
+    <A HREF="file:CPr00126.htm">Rulership, Kingship</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seasons">
+    <param name="Local" value="CPr00127.htm">
+    </OBJECT>
+    <A HREF="file:CPr00127.htm">Seasons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sites">
+    <param name="Local" value="CPr00128.htm">
+    </OBJECT>
+    <A HREF="file:CPr00128.htm">Sites</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sky, Weather">
+    <param name="Local" value="CPr00129.htm">
+    </OBJECT>
+    <A HREF="file:CPr00129.htm">Sky, Weather</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strength">
+    <param name="Local" value="CPr00130.htm">
+    </OBJECT>
+    <A HREF="file:CPr00130.htm">Strength</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sun">
+    <param name="Local" value="CPr00131.htm">
+    </OBJECT>
+    <A HREF="file:CPr00131.htm">Sun</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thunder">
+    <param name="Local" value="CPr00132.htm">
+    </OBJECT>
+    <A HREF="file:CPr00132.htm">Thunder</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Time">
+    <param name="Local" value="CPr00133.htm">
+    </OBJECT>
+    <A HREF="file:CPr00133.htm">Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trade">
+    <param name="Local" value="CPr00134.htm">
+    </OBJECT>
+    <A HREF="file:CPr00134.htm">Trade</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vegetation">
+    <param name="Local" value="CPr00135.htm">
+    </OBJECT>
+    <A HREF="file:CPr00135.htm">Vegetation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War">
+    <param name="Local" value="CPr00136.htm">
+    </OBJECT>
+    <A HREF="file:CPr00136.htm">War</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wind">
+    <param name="Local" value="CPr00137.htm">
+    </OBJECT>
+    <A HREF="file:CPr00137.htm">Wind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wisdom">
+    <param name="Local" value="CPr00138.htm">
+    </OBJECT>
+    <A HREF="file:CPr00138.htm">Wisdom</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combining Traits in One Priesthood">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combining Traits in One Priesthood">
+    <param name="Local" value="CPr00139.htm">
+    </OBJECT>
+    <A HREF="file:CPr00139.htm">Combining Traits in One Priesthood</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multiple Priest Classes">
+    <param name="Local" value="CPr00140.htm">
+    </OBJECT>
+    <A HREF="file:CPr00140.htm">Multiple Priest Classes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Revised Priest Classes">
+    <param name="Local" value="CPr00141.htm">
+    </OBJECT>
+    <A HREF="file:CPr00141.htm">Revised Priest Classes</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multi-class Characters">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multi-Class Characters">
+    <param name="Local" value="CPr00142.htm">
+    </OBJECT>
+    <A HREF="file:CPr00142.htm">Multi-Class Characters</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Kits">
+    <param name="Local" value="CPr00143.htm">
+    </OBJECT>
+    <A HREF="file:CPr00143.htm">Priest Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits and the Priest Classes">
+    <param name="Local" value="CPr00144.htm">
+    </OBJECT>
+    <A HREF="file:CPr00144.htm">Kits and the Priest Classes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits and Character Creation">
+    <param name="Local" value="CPr00145.htm">
+    </OBJECT>
+    <A HREF="file:CPr00145.htm">Kits and Character Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recording Kits on the Character Sheet">
+    <param name="Local" value="CPr00157.htm">
+    </OBJECT>
+    <A HREF="file:CPr00157.htm">Recording Kits on the Character Sheet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multi-Class and Dual-Class Characters">
+    <param name="Local" value="CPr00158.htm">
+    </OBJECT>
+    <A HREF="file:CPr00158.htm">Multi-Class and Dual-Class Characters</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abandoning Kits">
+    <param name="Local" value="CPr00159.htm">
+    </OBJECT>
+    <A HREF="file:CPr00159.htm">Abandoning Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Modifying and Creating Kits">
+    <param name="Local" value="CPr00160.htm">
+    </OBJECT>
+    <A HREF="file:CPr00160.htm">Modifying and Creating Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Priest Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Priest Kits">
+    <param name="Local" value="CPr00146.htm">
+    </OBJECT>
+    <A HREF="file:CPr00146.htm">The Priest Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amazon Priestess">
+    <param name="Local" value="CPr00147.htm">
+    </OBJECT>
+    <A HREF="file:CPr00147.htm">Amazon Priestess</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Barbarian/Berserker Priest">
+    <param name="Local" value="CPr00148.htm">
+    </OBJECT>
+    <A HREF="file:CPr00148.htm">Barbarian/Berserker Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting-Monk">
+    <param name="Local" value="CPr00149.htm">
+    </OBJECT>
+    <A HREF="file:CPr00149.htm">Fighting-Monk</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nobleman Priest">
+    <param name="Local" value="CPr00150.htm">
+    </OBJECT>
+    <A HREF="file:CPr00150.htm">Nobleman Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Outlaw Priest">
+    <param name="Local" value="CPr00151.htm">
+    </OBJECT>
+    <A HREF="file:CPr00151.htm">Outlaw Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pacifist Priest">
+    <param name="Local" value="CPr00152.htm">
+    </OBJECT>
+    <A HREF="file:CPr00152.htm">Pacifist Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Peasant Priest">
+    <param name="Local" value="CPr00153.htm">
+    </OBJECT>
+    <A HREF="file:CPr00153.htm">Peasant Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Prophet Priest">
+    <param name="Local" value="CPr00154.htm">
+    </OBJECT>
+    <A HREF="file:CPr00154.htm">Prophet Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Savage Priest">
+    <param name="Local" value="CPr00155.htm">
+    </OBJECT>
+    <A HREF="file:CPr00155.htm">Savage Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scholar Priest">
+    <param name="Local" value="CPr00156.htm">
+    </OBJECT>
+    <A HREF="file:CPr00156.htm">Scholar Priest</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role-Playing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role-Playing">
+    <param name="Local" value="CPr00161.htm">
+    </OBJECT>
+    <A HREF="file:CPr00161.htm">Role-Playing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Personalities">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Personalities">
+    <param name="Local" value="CPr00162.htm">
+    </OBJECT>
+    <A HREF="file:CPr00162.htm">Priest Personalities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Crusader">
+    <param name="Local" value="CPr00163.htm">
+    </OBJECT>
+    <A HREF="file:CPr00163.htm">The Crusader</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Earnest Novice">
+    <param name="Local" value="CPr00164.htm">
+    </OBJECT>
+    <A HREF="file:CPr00164.htm">The Earnest Novice</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Hypocrite">
+    <param name="Local" value="CPr00165.htm">
+    </OBJECT>
+    <A HREF="file:CPr00165.htm">The Hypocrite</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Motivator">
+    <param name="Local" value="CPr00166.htm">
+    </OBJECT>
+    <A HREF="file:CPr00166.htm">The Motivator</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Philosopher">
+    <param name="Local" value="CPr00167.htm">
+    </OBJECT>
+    <A HREF="file:CPr00167.htm">The Philosopher</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Politician">
+    <param name="Local" value="CPr00168.htm">
+    </OBJECT>
+    <A HREF="file:CPr00168.htm">The Politician</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Proselytizer">
+    <param name="Local" value="CPr00169.htm">
+    </OBJECT>
+    <A HREF="file:CPr00169.htm">The Proselytizer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Sage Counselor">
+    <param name="Local" value="CPr00170.htm">
+    </OBJECT>
+    <A HREF="file:CPr00170.htm">The Sage Counselor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Changing Personality Types">
+    <param name="Local" value="CPr00171.htm">
+    </OBJECT>
+    <A HREF="file:CPr00171.htm">Changing Personality Types</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="All Sense and No Brains">
+    <param name="Local" value="CPr00172.htm">
+    </OBJECT>
+    <A HREF="file:CPr00172.htm">All Sense and No Brains</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Adventures">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Adventures">
+    <param name="Local" value="CPr00173.htm">
+    </OBJECT>
+    <A HREF="file:CPr00173.htm">Priest Adventures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Advisor of the Faithful">
+    <param name="Local" value="CPr00174.htm">
+    </OBJECT>
+    <A HREF="file:CPr00174.htm">Advisor of the Faithful</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Agent of the Priesthood">
+    <param name="Local" value="CPr00175.htm">
+    </OBJECT>
+    <A HREF="file:CPr00175.htm">Agent of the Priesthood</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Defender of the Faith">
+    <param name="Local" value="CPr00176.htm">
+    </OBJECT>
+    <A HREF="file:CPr00176.htm">Defender of the Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Defender of the Faithful">
+    <param name="Local" value="CPr00177.htm">
+    </OBJECT>
+    <A HREF="file:CPr00177.htm">Defender of the Faithful</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martyr for a Cause">
+    <param name="Local" value="CPr00178.htm">
+    </OBJECT>
+    <A HREF="file:CPr00178.htm">Martyr for a Cause</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Servant of the God">
+    <param name="Local" value="CPr00179.htm">
+    </OBJECT>
+    <A HREF="file:CPr00179.htm">Servant of the God</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rites and Role-Playing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rites and Role-Playing">
+    <param name="Local" value="CPr00180.htm">
+    </OBJECT>
+    <A HREF="file:CPr00180.htm">Rites and Role-Playing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Atonement">
+    <param name="Local" value="CPr00181.htm">
+    </OBJECT>
+    <A HREF="file:CPr00181.htm">Atonement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Calendar Ceremonies">
+    <param name="Local" value="CPr00182.htm">
+    </OBJECT>
+    <A HREF="file:CPr00182.htm">Calendar Ceremonies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Communion">
+    <param name="Local" value="CPr00183.htm">
+    </OBJECT>
+    <A HREF="file:CPr00183.htm">Communion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Confirmation of Adulthood">
+    <param name="Local" value="CPr00184.htm">
+    </OBJECT>
+    <A HREF="file:CPr00184.htm">Confirmation of Adulthood</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Confirmation of Birth">
+    <param name="Local" value="CPr00185.htm">
+    </OBJECT>
+    <A HREF="file:CPr00185.htm">Confirmation of Birth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fast">
+    <param name="Local" value="CPr00186.htm">
+    </OBJECT>
+    <A HREF="file:CPr00186.htm">Fast</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Feast">
+    <param name="Local" value="CPr00187.htm">
+    </OBJECT>
+    <A HREF="file:CPr00187.htm">Feast</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Funeral">
+    <param name="Local" value="CPr00188.htm">
+    </OBJECT>
+    <A HREF="file:CPr00188.htm">Funeral</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Libation">
+    <param name="Local" value="CPr00189.htm">
+    </OBJECT>
+    <A HREF="file:CPr00189.htm">Libation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mysteries">
+    <param name="Local" value="CPr00191.htm">
+    </OBJECT>
+    <A HREF="file:CPr00191.htm">Mysteries</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Meditation">
+    <param name="Local" value="CPr00190.htm">
+    </OBJECT>
+    <A HREF="file:CPr00190.htm">Meditation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Naming">
+    <param name="Local" value="CPr00192.htm">
+    </OBJECT>
+    <A HREF="file:CPr00192.htm">Naming</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Prayer">
+    <param name="Local" value="CPr00193.htm">
+    </OBJECT>
+    <A HREF="file:CPr00193.htm">Prayer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Purification">
+    <param name="Local" value="CPr00194.htm">
+    </OBJECT>
+    <A HREF="file:CPr00194.htm">Purification</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sacrifice">
+    <param name="Local" value="CPr00195.htm">
+    </OBJECT>
+    <A HREF="file:CPr00195.htm">Sacrifice</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priests and Punishment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priests and Punishment">
+    <param name="Local" value="CPr00196.htm">
+    </OBJECT>
+    <A HREF="file:CPr00196.htm">Priests and Punishment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Minor Offenses">
+    <param name="Local" value="CPr00197.htm">
+    </OBJECT>
+    <A HREF="file:CPr00197.htm">Minor Offenses</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inappropriate Weapon and Armor Use">
+    <param name="Local" value="CPr00198.htm">
+    </OBJECT>
+    <A HREF="file:CPr00198.htm">Inappropriate Weapon and Armor Use</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Betrayal of Goals">
+    <param name="Local" value="CPr00199.htm">
+    </OBJECT>
+    <A HREF="file:CPr00199.htm">Betrayal of Goals</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divine Retributions">
+    <param name="Local" value="CPr00200.htm">
+    </OBJECT>
+    <A HREF="file:CPr00200.htm">Divine Retributions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Society's Punishments">
+    <param name="Local" value="CPr00201.htm">
+    </OBJECT>
+    <A HREF="file:CPr00201.htm">Society's Punishments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When Priests Renounce Their Faith">
+    <param name="Local" value="CPr00202.htm">
+    </OBJECT>
+    <A HREF="file:CPr00202.htm">When Priests Renounce Their Faith</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When Gods Bestow Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When Gods Bestow Spells">
+    <param name="Local" value="CPr00203.htm">
+    </OBJECT>
+    <A HREF="file:CPr00203.htm">When Gods Bestow Spells</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priestly Followers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priestly Followers">
+    <param name="Local" value="CPr00204.htm">
+    </OBJECT>
+    <A HREF="file:CPr00204.htm">Priestly Followers</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Toning Down the Cleric">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Toning Down the Cleric">
+    <param name="Local" value="CPr00205.htm">
+    </OBJECT>
+    <A HREF="file:CPr00205.htm">Toning Down the Cleric</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment and Combat">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment and Combat">
+    <param name="Local" value="CPr00206.htm">
+    </OBJECT>
+    <A HREF="file:CPr00206.htm">Equipment and Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priestly Items">
+    <param name="Local" value="CPr00207.htm">
+    </OBJECT>
+    <A HREF="file:CPr00207.htm">Priestly Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Canon">
+    <param name="Local" value="CPr00208.htm">
+    </OBJECT>
+    <A HREF="file:CPr00208.htm">The Canon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Holy Symbol">
+    <param name="Local" value="CPr00209.htm">
+    </OBJECT>
+    <A HREF="file:CPr00209.htm">Holy Symbol</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Holy Water">
+    <param name="Local" value="CPr00210.htm">
+    </OBJECT>
+    <A HREF="file:CPr00210.htm">Holy Water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priestly Vestments">
+    <param name="Local" value="CPr00211.htm">
+    </OBJECT>
+    <A HREF="file:CPr00211.htm">Priestly Vestments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Weapons">
+    <param name="Local" value="CPr00212.htm">
+    </OBJECT>
+    <A HREF="file:CPr00212.htm">New Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Weapons List">
+    <param name="Local" value="CPr00213.htm">
+    </OBJECT>
+    <A HREF="file:CPr00213.htm">New Weapons List</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Weapons Descriptions">
+    <param name="Local" value="CPr00214.htm">
+    </OBJECT>
+    <A HREF="file:CPr00214.htm">New Weapons Descriptions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unarmed Combat">
+    <param name="Local" value="CPr00215.htm">
+    </OBJECT>
+    <A HREF="file:CPr00215.htm">Unarmed Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attacking Without Killing">
+    <param name="Local" value="CPr00216.htm">
+    </OBJECT>
+    <A HREF="file:CPr00216.htm">Attacking Without Killing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Knowing Punching, Wrestling, Martial Arts">
+    <param name="Local" value="CPr00217.htm">
+    </OBJECT>
+    <A HREF="file:CPr00217.htm">Knowing Punching, Wrestling, Martial Arts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts Results">
+    <param name="Local" value="CPr00218.htm">
+    </OBJECT>
+    <A HREF="file:CPr00218.htm">Martial Arts Results</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specializing in Punching">
+    <param name="Local" value="CPr00219.htm">
+    </OBJECT>
+    <A HREF="file:CPr00219.htm">Specializing in Punching</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specializing in Wrestling">
+    <param name="Local" value="CPr00220.htm">
+    </OBJECT>
+    <A HREF="file:CPr00220.htm">Specializing in Wrestling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specializing in Martial Arts">
+    <param name="Local" value="CPr00221.htm">
+    </OBJECT>
+    <A HREF="file:CPr00221.htm">Specializing in Martial Arts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="More Than One Style">
+    <param name="Local" value="CPr00222.htm">
+    </OBJECT>
+    <A HREF="file:CPr00222.htm">More Than One Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Continuing Specialization">
+    <param name="Local" value="CPr00223.htm">
+    </OBJECT>
+    <A HREF="file:CPr00223.htm">Continuing Specialization</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bibliography">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bibliography">
+    <param name="Local" value="CPr00224.htm">
+    </OBJECT>
+    <A HREF="file:CPr00224.htm">Bibliography</A>
+</UL>
+</UL>
+</UL>
+</HTML>
