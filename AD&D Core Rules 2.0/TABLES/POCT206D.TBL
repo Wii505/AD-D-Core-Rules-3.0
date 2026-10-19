@@ -1,0 +1,52 @@
+Piercing vs. Humanoids (arms)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Hand struck, weapon dropped, minor /n1bleeding; no effect on shield arm/n2
+Item1
+Item2
+4 4 0 0 0 0
+Arm struck, shield damage/weapon /n1dropped, minor bleeding/n2
+Item1
+Item2
+5 5 0 0 0 0
+Hand injured, –2 penalty to /n1attacks/shield dropped/n2
+Item1
+Item2
+6 6 0 0 0 0
+Armor damage, arm struck, minor /n1bleeding; if no armor, arm injured, /n2minor bleeding/n3
+Item1
+Item2
+7 7 0 0 0 0
+Arm broken, victim stunned 1 round, /n1minor bleeding, shield or weapon dropped/n2
+Item1
+Item2
+8 8 0 0 0 0
+Armor damage, arm injured, –2 penalty /n1to attacks or shield dropped; if no armor, /n2arm broken, stunned 1d6 rounds, /n3major bleeding/n4
+Item1
+Item2
+9 9 0 0 0 0
+Shoulder injured, no attacks, /n1major bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Arm destroyed, major bleeding, 2/3 move/n1
+Item1
+Item2
+11 11 0 0 0 0
+Arm destroyed, no move/attack, /n1major bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Arm destroyed, no move/attack, /n1major bleeding with tripled damage dice/n2
+Item1
+Item2
+13 20 0 0 0 0
+
+
+
+

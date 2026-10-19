@@ -1,0 +1,56 @@
+Piercing vs. Monsters (legs/wings)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Leg grazed, minor bleeding
+Item1
+Item2
+4 4 0 0 0 0
+Knee struck, 2/3 move
+Item1
+Item2
+5 5 0 0 0 0
+Leg struck, minor bleeding, 2/3 move
+Item1
+Item2
+6 6 0 0 0 0
+Foot/claw injured, minor bleeding, /n1–2 penalty to attacks with that limb/n2
+Item1
+Item2
+7 7 0 0 0 0
+Hip injured, minor bleeding, /n11/3 movement; wing hit forces crash landing/n2
+Item1
+Item2
+8 8 0 0 0 0
+Leg/wing broken, 1/3 move, minor /n1bleeding; wing hit forces crash landing/n2
+Item1
+Item2
+9 9 0 0 0 0
+Knee destroyed, major bleeding, /n11/3 move, –2 penalty to attacks with	/n2affected limb/n3
+Item1
+Item2
+10 10 0 0 0 0
+Hip/shoulder destroyed, major bleeding, /n1no move, –4 penalty to attacks; /n2wing hit forces crash landing/n3
+Item1
+Item2
+11 11 0 0 0 0
+Leg/wing destroyed, no move or attack, /n1major bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Leg/wing destroyed, no move or attack, /n1major bleeding with tripled damage dice/n2
+Item1
+Item2
+13 20 0 0 0 0
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+DMGTable111 Potion Compatibility
+Item1
+Item2
+0 0 0 0 0 0
+Explosion. If two or more potions are /n1swallowed together, internal damage /n2is 6d10 hit points. Anyone within a /n35-foot radius takes 1d10 points of /n4damage. If the potions are mixed /n5externally (in a beaker, say), all /n6within a 10-foot radius suffer 4d6 /n7points of damage, no saving throw./n8
+Item1
+Item2
+1 1 0 0 0 0
+Lethal poison* results. Imbiber is dead. /n1If externally mixed, a poison gas cloud /n2of 10-foot diameter results. All within /n3the cloud must roll successful saving /n4throws vs. poison or die. /n5 *A treasure finding potion always creates /n6a lethal poison when combined with /n7another potion./n8
+Item1
+Item2
+2 3 0 0 0 0
+Mild poison causes nausea and the loss of 1 /n1point each of Strength and Dexterity, no /n2saving throw. One potion is cancelled and /n3the other is at half strength and duration /n4(Determine randomly which potion is /n5cancelled)./n6
+Item1
+Item2
+4 8 0 0 0 0
+Potions can't be mixed. Both potions are /n1totally destroyed -- one cancels the other./n2
+Item1
+Item2
+9 15 0 0 0 0
+Potions can't be mixed. One potion is /n1canceled, but the other remains normal /n2(random selection)./n3
+Item1
+Item2
+16 25 0 0 0 0
+Potions can't be mixed. Both potions /n1function at half normal efficacy./n2
+Item1
+Item2
+26 35 0 0 0 0
+Potions can be mixed** and work normally, /n1unless their effects are contradictory /n2(for example, diminution and growth, /n3which simply cancel each other)./n4 /n5**A delusion potion can be mixed with all /n6other potions./n7 
+Item1
+Item2
+36 90 0 0 0 0
+Compatible result. One potion (randomly /n1selected) has 150% it normal efficiacy. /n2The DM can rule that only the duration/n3of the augmented potion is extended./n4
+Item1
+Item2
+91 99 0 0 0 0
+Discovery. The mixing of the potions /n1creates a special effect -- only one of /n2the potions will function, but its /n3effects upon the imbiber are permanent. /n4(Note that some harmful side effects /n5could well result from this at the DM's /n6discretion)./n7
+Item1
+Item2
+100 100 0 0 0 0  

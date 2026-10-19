@@ -1,0 +1,49 @@
+Bludgeoning vs. Monster (Abdomen)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim stunned 1d4 rounds/n1
+Item1
+Item2
+4 4 0 0 0 0
+Abdomen struck, victim stunned 1 round /n1and reduced to 2/3 move/n2
+Item1
+Item2
+5 5 0 0 0 0
+Abdomen struck, victim stunned 1d6 rounds, /n1reduced to 2/3 move/n2
+Item1
+Item2
+6 6 0 0 0 0
+Abdomen injured, 1/2 move, –2 penalty to /n1attacks/n2
+Item1
+Item2
+7 7 0 0 0 0
+Spine broken, 1/3 move, –4 penalty to attacks/n1
+Item1
+Item2
+8 8 0 0 0 0
+Abdomen injured, victim stunned 1d3 rounds, /n1minor bleeding, 1/3 move and –2 penalty to attacks/n2
+Item1
+Item2
+9 9 0 0 0 0
+Abdomen injured, no move or attack, /n1minor internal bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Spine crushed, no move or attack, /n1major internal bleeding/n2
+Item1
+Item2
+11 11 0 0 0 0
+Abdomen crushed, victim reduced to 0 /n1hit points with severe internal bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Abdomen crushed, victim reduced to 0 /n1hit points with severe internal bleeding /n2with tripled damage dice/n3
+Item1
+Item2
+13 20 0 0 0 0
+

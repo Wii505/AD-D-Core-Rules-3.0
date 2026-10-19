@@ -1,0 +1,51 @@
+Bludgeoning vs. Humanoids (Torso)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Knockdown, stunned 1d4 rounds/n1
+Item1
+Item2
+4 4 0 0 0 0
+Torso stuck, victim stunned 1 round /n1and reduced to 1/2 move/n2
+Item1
+Item2
+5 5 0 0 0 0
+Shield damage, torso stuck, 1/2 move/n1
+Item1
+Item2
+6 6 0 0 0 0
+Armor damage, torso struck, 1/2 move, /n1-2 penalty to attacks/n2
+Item1
+Item2
+7 7 0 0 0 0
+Torso injured, minor internal bleeding, /n1no move or attack/n2
+Item1
+Item2
+8 8 0 0 0 0
+Ribs broken, minor internal bleeding, /n11/2 move, -2 penalty to attacks/n2
+Item1
+Item2
+9 9 0 0 0 0
+Ribs broken, major internal bleeding, /n1no move or attack/n2
+Item1
+Item2
+10 10 0 0 0 0
+Torso crushed, victim reduced to 0 hit /n1points with severe internal bleeding/n2
+Item1
+Item2
+11 11 0 0 0 0
+Torso crushed, vicim killed/n1
+Item1
+Item2
+12 12 0 0 0 0
+Torso crushed, vicim killed /n1with tripled damage dice/n2
+Item1
+Item2
+13 20 0 0 0 0
+
+
+

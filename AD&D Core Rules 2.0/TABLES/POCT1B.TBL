@@ -1,0 +1,36 @@
+Critical Strike Location-Animal
+Item1
+Item2
+0 0 0 0 0 0
+Right fore-leg/wing
+Item1
+Item2
+1 1 51000 0 0 0
+Left fore-leg/wing
+Item1
+Item2
+2 2 51000 0 0 0
+Right hind leg
+Item1
+Item2
+3 3 51000 0 0 0
+Left  hind leg
+Item1
+Item2
+4 4 51000 0 0 0
+Tail
+Item1
+Item2
+5 5 52000 0 0 0
+Abdomen
+Item1
+Item2
+6 7 53000 0 0 0
+Torso/chest
+Item1
+Item2
+8 9 54000 0 0 0
+Head
+Item1
+Item2
+10 10 55000 0 0 0

@@ -1,0 +1,48 @@
+Fire Spell-Critical Strike Effect on Legs
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim singed, -1 penalty to /n1attack rolls/n1
+Item1
+Item2
+4 4 0 0 0 0
+Legs scorched, 1/2 move, -1 /n1penalty to attack rolls/n1
+Item1
+Item2
+5 5 0 0 0 0
+Foot burned, 1/2 move, -1 penalty /n1to attack rolls/n2
+Item1
+Item2
+6 6 0 0 0 0
+Leg burned, 1/2 move, -2 penalty /n1to attack rolls; if victim is /n2wearing metal armor, hot steel /n3scorches him for an additional /n42d4 damage in the following /n5round, and 1d4 damage in the /n6round after that/n7
+Item1
+Item2
+7 7 0 0 0 0
+Hip/thigh burned, 1/4 move, -2 to /n1all attacks, victim must roll /n2saving throw vs. death magic or /n3be on fire(see page 122)/n4
+Item1
+Item2
+8 8 0 0 0 0
+Leg burned, 1/4 move and -4 /n1penalty to all attacks; if /n2victim wears metal armor, armor /n3is destroyed and hot steel /n4scorches him for an additional /n52d4 damage in the following /n6round, and 1d4 damage in the /n7round after that/n8
+Item1
+Item2
+9 9 0 0 0 0
+Foot incinerated; minor bleeding, /n1victim stunned 1d6 rounds, then /n2no movement and -4 penalty to /n3all attacks/n4
+Item1
+Item2
+10 10 0 0 0 0
+Leg incinerated at knee, major /n1bleeding, no move or attack/n2
+Item1
+Item2
+11 11 0 0 0 0
+Leg incinerated at hip, no move /n1or attack, major bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Leg incinerated at hip, no move /n1or attack, major bleeding with /n2additional abdomen hit/n3
+Item1
+Item2
+13 20 44046 0 0 0

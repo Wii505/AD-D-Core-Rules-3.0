@@ -1,0 +1,51 @@
+Bludgeoning vs. Monsters (legs/wing)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect/n1
+Item1
+Item2
+1 3 0 0 0 0
+Victim knocked down/n1
+Item1
+Item2
+4 4 0 0 0 0
+Knee struck, victim reduced to 2/3 move /n1, –2 penalty to attacks with that appendage 
+Item1
+Item2
+5 5 0 0 0 0
+Foot/wrist broken, 2/3 move, –4 penalty /n1to attacks with that appendage/n2
+Item1
+Item2
+6 6 0 0 0 0
+Limb injured, 2/3 move, –2 penalty /n1to all attacks/n2
+Item1
+Item2
+7 7 0 0 0 0
+Hip broken, minor bleeding, 1/3 move, no /n1attacks with limb; wing hit forces /n2crash landing/n3
+Item1
+Item2
+8 8 0 0 0 0
+Limb broken, 2/3 move, minor bleeding; /n1wing hit forces immediate landing/n2
+Item1
+Item2
+9 9 0 0 0 0
+Knee shattered, 1/3 move, –2 penalty /n1to all attacks/n2
+Item1
+Item2
+10 10 0 0 0 0
+Hip/shoulder shattered, minor bleeding, 1/3 /n1move, –4 penalty to all attacks; /n2wing hit forces crash/n3
+Item1
+Item2
+11 11 0 0 0 0
+Leg/wing shattered, no move, –4 penalty /n1to all attacks, major bleeding from /n2compound fractures/n3
+Item1
+Item2
+12 12 0 0 0 0
+Leg/wing shattered, no move, –4 penalty /n1to all attacks, major bleeding from /n2compound fractures /n3with tripled damage dice/n4
+Item1
+Item2
+13 20 0 0 0 0
+
+
+

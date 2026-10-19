@@ -1,0 +1,52 @@
+Piercing vs. Humanoids (head)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Head grazed, stunned 1d3 rounds, /n1minor bleeding/n2
+Item1
+Item2
+4 4 0 0 0 0
+Head struck, helm removed, victim /n1stunned 1 round; –2 penalty to attack /n2rolls, minor bleeding if victim /n3had no helm/n4
+Item1
+Item2
+5 5 0 0 0 0
+Eye injured, –4 penalty to all attacks; /n1if helmed, victim is only stunned /n21 round instead/n3
+Item1
+Item2
+6 6 0 0 0 0
+Helm damaged, face injured, /n1stunned 1d6 rounds, minor bleeding, /n22/3 move, –4 penalty to attacks/n3
+Item1
+Item2
+7 7 0 0 0 0
+Skull broken, helm damaged, victim /n1reduced to 0 hit points, major bleeding/n2
+Item1
+Item2
+8 8 0 0 0 0
+Throat injured, severe bleeding/n2
+Item1
+Item2
+9 9 0 0 0 0
+Skull broken, victim reduced to 0 hp, /n1major bleeding, Int, Wis, Cha all /n2drop by 1/2 permanently/n3
+Item1
+Item2
+10 10 0 0 0 0
+Throat destroyed, victim killed/n1
+Item1
+Item2
+11 11 0 0 0 0
+Head destroyed, immediate death/n1
+Item1
+Item2
+12 12 0 0 0 0
+Head destroyed, immediate death /n1with tripled damage dice/n2
+Item1
+Item2
+13 20 0 0 0 0
+
+
+
+
