@@ -1,0 +1,743 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Book of Elves">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="CBE00000.htm">
+    </OBJECT>
+    <A HREF="file:CBE00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="CBE00001.htm">
+    </OBJECT>
+    <A HREF="file:CBE00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="CBE00002.htm">
+    </OBJECT>
+    <A HREF="file:CBE00002.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: The Creation of Elves">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Creation of Elves">
+    <param name="Local" value="CBE00003.htm">
+    </OBJECT>
+    <A HREF="file:CBE00003.htm">The Creation of Elves</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Variations on a Theme">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Variation on a Theme">
+    <param name="Local" value="CBE00004.htm">
+    </OBJECT>
+    <A HREF="file:CBE00004.htm">Variation on a Theme</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aquatic Elves">
+    <param name="Local" value="CBE00005.htm">
+    </OBJECT>
+    <A HREF="file:CBE00005.htm">Aquatic Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dark Elves">
+    <param name="Local" value="CBE00006.htm">
+    </OBJECT>
+    <A HREF="file:CBE00006.htm">Dark Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grey Elves">
+    <param name="Local" value="CBE00007.htm">
+    </OBJECT>
+    <A HREF="file:CBE00007.htm">Grey Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="High Elves">
+    <param name="Local" value="CBE00008.htm">
+    </OBJECT>
+    <A HREF="file:CBE00008.htm">High Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sylvan Elves">
+    <param name="Local" value="CBE00009.htm">
+    </OBJECT>
+    <A HREF="file:CBE00009.htm">Sylvan Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Half-Elves">
+    <param name="Local" value="CBE00010.htm">
+    </OBJECT>
+    <A HREF="file:CBE00010.htm">Half-Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elves of the Worlds">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elves of the Worlds">
+    <param name="Local" value="CBE00011.htm">
+    </OBJECT>
+    <A HREF="file:CBE00011.htm">Elves of the Worlds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Al-QadimCampaign World">
+    <param name="Local" value="CBE00012.htm">
+    </OBJECT>
+    <A HREF="file:CBE00012.htm">Al-QadimCampaign World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dark Sun Campaign World">
+    <param name="Local" value="CBE00013.htm">
+    </OBJECT>
+    <A HREF="file:CBE00013.htm">Dark Sun Campaign World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dragonlance Campaign World">
+    <param name="Local" value="CBE00014.htm">
+    </OBJECT>
+    <A HREF="file:CBE00014.htm">Dragonlance Campaign World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forgotten Realms Campaign World">
+    <param name="Local" value="CBE00015.htm">
+    </OBJECT>
+    <A HREF="file:CBE00015.htm">Forgotten Realms Campaign World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Greyhawk Campaign World">
+    <param name="Local" value="CBE00016.htm">
+    </OBJECT>
+    <A HREF="file:CBE00016.htm">Greyhawk Campaign World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ravenloft Campaign World">
+    <param name="Local" value="CBE00017.htm">
+    </OBJECT>
+    <A HREF="file:CBE00017.htm">Ravenloft Campaign World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spelljammer Campaign World">
+    <param name="Local" value="CBE00018.htm">
+    </OBJECT>
+    <A HREF="file:CBE00018.htm">Spelljammer Campaign World</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Physical Attributes">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Physical Attributes">
+    <param name="Local" value="CBE00019.htm">
+    </OBJECT>
+    <A HREF="file:CBE00019.htm">Physical Attributes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Diet">
+    <param name="Local" value="CBE00034.htm">
+    </OBJECT>
+    <A HREF="file:CBE00034.htm">Diet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Interfertility">
+    <param name="Local" value="CBE00035.htm">
+    </OBJECT>
+    <A HREF="file:CBE00035.htm">Elven Interfertility</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Elven Bond">
+    <param name="Local" value="CBE00036.htm">
+    </OBJECT>
+    <A HREF="file:CBE00036.htm">The Elven Bond</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Music">
+    <param name="Local" value="CBE00037.htm">
+    </OBJECT>
+    <A HREF="file:CBE00037.htm">Elven Music</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Physiology">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Physiology">
+    <param name="Local" value="CBE00020.htm">
+    </OBJECT>
+    <A HREF="file:CBE00020.htm">Physiology</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Communion">
+    <param name="Local" value="CBE00021.htm">
+    </OBJECT>
+    <A HREF="file:CBE00021.htm">Communion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elvensight">
+    <param name="Local" value="CBE00022.htm">
+    </OBJECT>
+    <A HREF="file:CBE00022.htm">Elvensight</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Manifestation">
+    <param name="Local" value="CBE00023.htm">
+    </OBJECT>
+    <A HREF="file:CBE00023.htm">Manifestation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Reverie">
+    <param name="Local" value="CBE00024.htm">
+    </OBJECT>
+    <A HREF="file:CBE00024.htm">The Reverie</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Resistance to Heat and Cold">
+    <param name="Local" value="CBE00025.htm">
+    </OBJECT>
+    <A HREF="file:CBE00025.htm">Resistance to Heat and Cold</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Othe Elven Abilities">
+    <param name="Local" value="CBE00026.htm">
+    </OBJECT>
+    <A HREF="file:CBE00026.htm">Othe Elven Abilities</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stages of Life">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stages of Life">
+    <param name="Local" value="CBE00027.htm">
+    </OBJECT>
+    <A HREF="file:CBE00027.htm">Stages of Life</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Childhood">
+    <param name="Local" value="CBE00028.htm">
+    </OBJECT>
+    <A HREF="file:CBE00028.htm">Childhood</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adolescence">
+    <param name="Local" value="CBE00029.htm">
+    </OBJECT>
+    <A HREF="file:CBE00029.htm">Adolescence</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adulthood">
+    <param name="Local" value="CBE00030.htm">
+    </OBJECT>
+    <A HREF="file:CBE00030.htm">Adulthood</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Middle Age">
+    <param name="Local" value="CBE00031.htm">
+    </OBJECT>
+    <A HREF="file:CBE00031.htm">Middle Age</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Old Age">
+    <param name="Local" value="CBE00032.htm">
+    </OBJECT>
+    <A HREF="file:CBE00032.htm">Old Age</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Venerable Age">
+    <param name="Local" value="CBE00033.htm">
+    </OBJECT>
+    <A HREF="file:CBE00033.htm">Venerable Age</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Mental Attributes">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mental Attributes">
+    <param name="Local" value="CBE00038.htm">
+    </OBJECT>
+    <A HREF="file:CBE00038.htm">Mental Attributes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Outlook">
+    <param name="Local" value="CBE00039.htm">
+    </OBJECT>
+    <A HREF="file:CBE00039.htm">Outlook</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Individual Worth">
+    <param name="Local" value="CBE00040.htm">
+    </OBJECT>
+    <A HREF="file:CBE00040.htm">Individual Worth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Emotion and Logic">
+    <param name="Local" value="CBE00041.htm">
+    </OBJECT>
+    <A HREF="file:CBE00041.htm">Emotion and Logic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Generational Splits">
+    <param name="Local" value="CBE00042.htm">
+    </OBJECT>
+    <A HREF="file:CBE00042.htm">Generational Splits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attitudes Toward Other Races">
+    <param name="Local" value="CBE00043.htm">
+    </OBJECT>
+    <A HREF="file:CBE00043.htm">Attitudes Toward Other Races</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Elven Society">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Society">
+    <param name="Local" value="CBE00044.htm">
+    </OBJECT>
+    <A HREF="file:CBE00044.htm">Elven Society</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Elven Language">
+    <param name="Local" value="CBE00045.htm">
+    </OBJECT>
+    <A HREF="file:CBE00045.htm">The Elven Language</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Livelihood">
+    <param name="Local" value="CBE00046.htm">
+    </OBJECT>
+    <A HREF="file:CBE00046.htm">Livelihood</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rituals">
+    <param name="Local" value="CBE00047.htm">
+    </OBJECT>
+    <A HREF="file:CBE00047.htm">Rituals</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Holy Days">
+    <param name="Local" value="CBE00048.htm">
+    </OBJECT>
+    <A HREF="file:CBE00048.htm">Elven Holy Days</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 6: The Elven Myths">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Legend of Fiona Cassiltenirra">
+    <param name="Local" value="CBE00049.htm">
+    </OBJECT>
+    <A HREF="file:CBE00049.htm">The Legend of Fiona Cassiltenirra</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jarsali and the Treant">
+    <param name="Local" value="CBE00050.htm">
+    </OBJECT>
+    <A HREF="file:CBE00050.htm">Jarsali and the Treant</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halimath's Pride">
+    <param name="Local" value="CBE00051.htm">
+    </OBJECT>
+    <A HREF="file:CBE00051.htm">Halimath's Pride</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Haranavei Koehlanna">
+    <param name="Local" value="CBE00052.htm">
+    </OBJECT>
+    <A HREF="file:CBE00052.htm">Haranavei Koehlanna</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Caelestis">
+    <param name="Local" value="CBE00053.htm">
+    </OBJECT>
+    <A HREF="file:CBE00053.htm">Caelestis</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 7: The Death of Elves">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Death of Elves">
+    <param name="Local" value="CBE00054.htm">
+    </OBJECT>
+    <A HREF="file:CBE00054.htm">The Death of Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Accidental or Violent Death">
+    <param name="Local" value="CBE00055.htm">
+    </OBJECT>
+    <A HREF="file:CBE00055.htm">Accidental or Violent Death</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Funeral Ceremonies">
+    <param name="Local" value="CBE00056.htm">
+    </OBJECT>
+    <A HREF="file:CBE00056.htm">Funeral Ceremonies</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 8: Elven Dwellings">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Dwellilngs">
+    <param name="Local" value="CBE00057.htm">
+    </OBJECT>
+    <A HREF="file:CBE00057.htm">Elven Dwellilngs</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Grey Elves' City">
+    <param name="Local" value="CBE00058.htm">
+    </OBJECT>
+    <A HREF="file:CBE00058.htm">The Grey Elves' City</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The High Elves' Tree Town">
+    <param name="Local" value="CBE00059.htm">
+    </OBJECT>
+    <A HREF="file:CBE00059.htm">The High Elves' Tree Town</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Sylvan Elves' Encampment">
+    <param name="Local" value="CBE00060.htm">
+    </OBJECT>
+    <A HREF="file:CBE00060.htm">The Sylvan Elves' Encampment</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 9: Optional Rules">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Optional Rules">
+    <param name="Local" value="CBE00061.htm">
+    </OBJECT>
+    <A HREF="file:CBE00061.htm">Optional Rules</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Level Limit Expansion">
+    <param name="Local" value="CBE00062.htm">
+    </OBJECT>
+    <A HREF="file:CBE00062.htm">Level Limit Expansion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Extra Proficiencies">
+    <param name="Local" value="CBE00063.htm">
+    </OBJECT>
+    <A HREF="file:CBE00063.htm">Extra Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Modification">
+    <param name="Local" value="CBE00064.htm">
+    </OBJECT>
+    <A HREF="file:CBE00064.htm">Combat Modification</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bladesong Fighting Style">
+    <param name="Local" value="CBE00065.htm">
+    </OBJECT>
+    <A HREF="file:CBE00065.htm">Bladesong Fighting Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Archery Modifications">
+    <param name="Local" value="CBE00066.htm">
+    </OBJECT>
+    <A HREF="file:CBE00066.htm">Archery Modifications</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Using Bows as Weapons">
+    <param name="Local" value="CBE00067.htm">
+    </OBJECT>
+    <A HREF="file:CBE00067.htm">Using Bows as Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arrow Breakage and Loss">
+    <param name="Local" value="CBE00068.htm">
+    </OBJECT>
+    <A HREF="file:CBE00068.htm">Arrow Breakage and Loss</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 10: Character Creation and Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Creation and Kits">
+    <param name="Local" value="CBE00069.htm">
+    </OBJECT>
+    <A HREF="file:CBE00069.htm">Character Creation and Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Standard Elf Abilities">
+    <param name="Local" value="CBE00070.htm">
+    </OBJECT>
+    <A HREF="file:CBE00070.htm">Standard Elf Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Elf Subraces">
+    <param name="Local" value="CBE00071.htm">
+    </OBJECT>
+    <A HREF="file:CBE00071.htm">The Elf Subraces</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elf PC Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elf PC Kits">
+    <param name="Local" value="CBE00072.htm">
+    </OBJECT>
+    <A HREF="file:CBE00072.htm">Elf PC Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Kit">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Kit">
+    <param name="Local" value="CBE00073.htm">
+    </OBJECT>
+    <A HREF="file:CBE00073.htm">Priest Kit</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Herbalist">
+    <param name="Local" value="CBE00074.htm">
+    </OBJECT>
+    <A HREF="file:CBE00074.htm">Herbalist</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Kits">
+    <param name="Local" value="CBE00075.htm">
+    </OBJECT>
+    <A HREF="file:CBE00075.htm">Warrior Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Archer">
+    <param name="Local" value="CBE00076.htm">
+    </OBJECT>
+    <A HREF="file:CBE00076.htm">Archer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wilderness Runner">
+    <param name="Local" value="CBE00077.htm">
+    </OBJECT>
+    <A HREF="file:CBE00077.htm">Wilderness Runner</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Windrider">
+    <param name="Local" value="CBE00078.htm">
+    </OBJECT>
+    <A HREF="file:CBE00078.htm">Windrider</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mage/Thief Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mage/Thief Kits">
+    <param name="Local" value="CBE00079.htm">
+    </OBJECT>
+    <A HREF="file:CBE00079.htm">Mage/Thief Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Minstrel">
+    <param name="Local" value="CBE00080.htm">
+    </OBJECT>
+    <A HREF="file:CBE00080.htm">Elven Minstrel</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spellfilcher">
+    <param name="Local" value="CBE00081.htm">
+    </OBJECT>
+    <A HREF="file:CBE00081.htm">Spellfilcher</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter/Mage Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter/Mage Kits">
+    <param name="Local" value="CBE00082.htm">
+    </OBJECT>
+    <A HREF="file:CBE00082.htm">Fighter/Mage Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bladsinger">
+    <param name="Local" value="CBE00083.htm">
+    </OBJECT>
+    <A HREF="file:CBE00083.htm">Bladsinger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War Wizard">
+    <param name="Local" value="CBE00084.htm">
+    </OBJECT>
+    <A HREF="file:CBE00084.htm">War Wizard</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter/Thief Kit">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter/Thief Kit">
+    <param name="Local" value="CBE00085.htm">
+    </OBJECT>
+    <A HREF="file:CBE00085.htm">Fighter/Thief Kit</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Huntsman">
+    <param name="Local" value="CBE00086.htm">
+    </OBJECT>
+    <A HREF="file:CBE00086.htm">Huntsman</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter/Mage/Thief Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter/Mage/Thief Kits">
+    <param name="Local" value="CBE00087.htm">
+    </OBJECT>
+    <A HREF="file:CBE00087.htm">Fighter/Mage/Thief Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Collector">
+    <param name="Local" value="CBE00088.htm">
+    </OBJECT>
+    <A HREF="file:CBE00088.htm">Collector</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Infiltrator">
+    <param name="Local" value="CBE00089.htm">
+    </OBJECT>
+    <A HREF="file:CBE00089.htm">Infiltrator</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Kit for Any Class">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Kit for Any Class">
+    <param name="Local" value="CBE00090.htm">
+    </OBJECT>
+    <A HREF="file:CBE00090.htm">A Kit for Any Class</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Undead Slayer">
+    <param name="Local" value="CBE00091.htm">
+    </OBJECT>
+    <A HREF="file:CBE00091.htm">Undead Slayer</A>
+</UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 11: Elven Equipment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Equipment">
+    <param name="Local" value="CBE00092.htm">
+    </OBJECT>
+    <A HREF="file:CBE00092.htm">Elven Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Feywine">
+    <param name="Local" value="CBE00093.htm">
+    </OBJECT>
+    <A HREF="file:CBE00093.htm">Feywine</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Harp">
+    <param name="Local" value="CBE00094.htm">
+    </OBJECT>
+    <A HREF="file:CBE00094.htm">Elven Harp</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Honey Leather">
+    <param name="Local" value="CBE00095.htm">
+    </OBJECT>
+    <A HREF="file:CBE00095.htm">Honey Leather</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sashling">
+    <param name="Local" value="CBE00096.htm">
+    </OBJECT>
+    <A HREF="file:CBE00096.htm">Sashling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thistledown">
+    <param name="Local" value="CBE00097.htm">
+    </OBJECT>
+    <A HREF="file:CBE00097.htm">Thistledown</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Bow">
+    <param name="Local" value="CBE00098.htm">
+    </OBJECT>
+    <A HREF="file:CBE00098.htm">Elven Bow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arrows (useful)">
+    <param name="Local" value="CBE00099.htm">
+    </OBJECT>
+    <A HREF="file:CBE00099.htm">Arrows (useful)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Plate Armor">
+    <param name="Local" value="CBE00100.htm">
+    </OBJECT>
+    <A HREF="file:CBE00100.htm">Elven Plate Armor</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 12: The Magic of Elves">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Magic of Elves">
+    <param name="Local" value="CBE00101.htm">
+    </OBJECT>
+    <A HREF="file:CBE00101.htm">The Magic of Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Elf Spells">
+    <param name="Local" value="CBE00102.htm">
+    </OBJECT>
+    <A HREF="file:CBE00102.htm">New Elf Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arificial Limbs">
+    <param name="Local" value="CBE00108.htm">
+    </OBJECT>
+    <A HREF="file:CBE00108.htm">Arificial Limbs</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Items">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Items">
+    <param name="Local" value="CBE00103.htm">
+    </OBJECT>
+    <A HREF="file:CBE00103.htm">Magical Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swords and Armor">
+    <param name="Local" value="CBE00104.htm">
+    </OBJECT>
+    <A HREF="file:CBE00104.htm">Swords and Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Helms of Valor">
+    <param name="Local" value="CBE00105.htm">
+    </OBJECT>
+    <A HREF="file:CBE00105.htm">Helms of Valor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arrows (Enspelled)">
+    <param name="Local" value="CBE00106.htm">
+    </OBJECT>
+    <A HREF="file:CBE00106.htm">Arrows (Enspelled)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arrows (Magical)">
+    <param name="Local" value="CBE00107.htm">
+    </OBJECT>
+    <A HREF="file:CBE00107.htm">Arrows (Magical)</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 13: Elven Campaigns">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Campaigns">
+    <param name="Local" value="CBE00109.htm">
+    </OBJECT>
+    <A HREF="file:CBE00109.htm">Elven Campaigns</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Campaign Worlds">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Campaign Worlds">
+    <param name="Local" value="CBE00110.htm">
+    </OBJECT>
+    <A HREF="file:CBE00110.htm">Campaign Worlds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Elf Campaign">
+    <param name="Local" value="CBE00111.htm">
+    </OBJECT>
+    <A HREF="file:CBE00111.htm">The Elf Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Human Campaign">
+    <param name="Local" value="CBE00112.htm">
+    </OBJECT>
+    <A HREF="file:CBE00112.htm">The Human Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Dwarf Campaign">
+    <param name="Local" value="CBE00113.htm">
+    </OBJECT>
+    <A HREF="file:CBE00113.htm">The Dwarf Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Evil World Campaign">
+    <param name="Local" value="CBE00114.htm">
+    </OBJECT>
+    <A HREF="file:CBE00114.htm">The Evil World Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Aquatic World Campaign">
+    <param name="Local" value="CBE00115.htm">
+    </OBJECT>
+    <A HREF="file:CBE00115.htm">The Aquatic World Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Outcast Campaign">
+    <param name="Local" value="CBE00116.htm">
+    </OBJECT>
+    <A HREF="file:CBE00116.htm">The Outcast Campaign</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendices">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="MC: Avariel (Winged Elf)">
+    <param name="Local" value="CBE00117.htm">
+    </OBJECT>
+    <A HREF="file:CBE00117.htm">MC: Avariel (Winged Elf)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="MC: Cooshee">
+    <param name="Local" value="CBE00118.htm">
+    </OBJECT>
+    <A HREF="file:CBE00118.htm">MC: Cooshee</A>
+</UL>
+</UL>
+</UL>
+</HTML>
