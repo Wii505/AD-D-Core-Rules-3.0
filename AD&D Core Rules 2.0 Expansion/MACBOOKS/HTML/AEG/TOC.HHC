@@ -1,0 +1,1033 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arms & Equipment Guide">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="AEG00000.htm">
+    </OBJECT>
+    <A HREF="file:AEG00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="AEG00001.htm">
+    </OBJECT>
+    <A HREF="file:AEG00001.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="References">
+    <param name="Local" value="AEG00002.htm">
+    </OBJECT>
+    <A HREF="file:AEG00002.htm">References</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: Armor">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Padded Armor (AC 8) PG">
+    <param name="Local" value="AEG00003.htm">
+    </OBJECT>
+    <A HREF="file:AEG00003.htm">Padded Armor (AC 8) PG</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Leather Armor (AC 8)">
+    <param name="Local" value="AEG00004.htm">
+    </OBJECT>
+    <A HREF="file:AEG00004.htm">Leather Armor (AC 8)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Studded Leather Armor (AC 7)">
+    <param name="Local" value="AEG00005.htm">
+    </OBJECT>
+    <A HREF="file:AEG00005.htm">Studded Leather Armor (AC 7)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spiked Leather">
+    <param name="Local" value="AEG00006.htm">
+    </OBJECT>
+    <A HREF="file:AEG00006.htm">Spiked Leather</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hide Armor (AC 6)">
+    <param name="Local" value="AEG00007.htm">
+    </OBJECT>
+    <A HREF="file:AEG00007.htm">Hide Armor (AC 6)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scale Mail (AC 6)">
+    <param name="Local" value="AEG00008.htm">
+    </OBJECT>
+    <A HREF="file:AEG00008.htm">Scale Mail (AC 6)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sea Elf Scale Mail">
+    <param name="Local" value="AEG00009.htm">
+    </OBJECT>
+    <A HREF="file:AEG00009.htm">Sea Elf Scale Mail</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Coin Armor">
+    <param name="Local" value="AEG00010.htm">
+    </OBJECT>
+    <A HREF="file:AEG00010.htm">Coin Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Brigandine Armor (AC 6)">
+    <param name="Local" value="AEG00011.htm">
+    </OBJECT>
+    <A HREF="file:AEG00011.htm">Brigandine Armor (AC 6)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chain Mail (AC 5)">
+    <param name="Local" value="AEG00012.htm">
+    </OBJECT>
+    <A HREF="file:AEG00012.htm">Chain Mail (AC 5)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring Mail">
+    <param name="Local" value="AEG00013.htm">
+    </OBJECT>
+    <A HREF="file:AEG00013.htm">Ring Mail</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Banded Mail (AC 4)">
+    <param name="Local" value="AEG00014.htm">
+    </OBJECT>
+    <A HREF="file:AEG00014.htm">Banded Mail (AC 4)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Splint Mail">
+    <param name="Local" value="AEG00015.htm">
+    </OBJECT>
+    <A HREF="file:AEG00015.htm">Splint Mail</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bronze Plate Mail (AC 4)">
+    <param name="Local" value="AEG00016.htm">
+    </OBJECT>
+    <A HREF="file:AEG00016.htm">Bronze Plate Mail (AC 4)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Plate Mail (AC 3)">
+    <param name="Local" value="AEG00017.htm">
+    </OBJECT>
+    <A HREF="file:AEG00017.htm">Plate Mail (AC 3)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Field Plate Armor (AC 2)">
+    <param name="Local" value="AEG00018.htm">
+    </OBJECT>
+    <A HREF="file:AEG00018.htm">Field Plate Armor (AC 2)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Full Plate Armor (AC 1)">
+    <param name="Local" value="AEG00019.htm">
+    </OBJECT>
+    <A HREF="file:AEG00019.htm">Full Plate Armor (AC 1)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnomish Workman's Leather Armor (AC 7)">
+    <param name="Local" value="AEG00020.htm">
+    </OBJECT>
+    <A HREF="file:AEG00020.htm">Gnomish Workman's Leather Armor (AC 7)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Chain Mail (AC 5)">
+    <param name="Local" value="AEG00021.htm">
+    </OBJECT>
+    <A HREF="file:AEG00021.htm">Elven Chain Mail (AC 5)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Elven Chain Mail">
+    <param name="Local" value="AEG00022.htm">
+    </OBJECT>
+    <A HREF="file:AEG00022.htm">Magical Elven Chain Mail</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Drow Chain Mail (AC 4)">
+    <param name="Local" value="AEG00023.htm">
+    </OBJECT>
+    <A HREF="file:AEG00023.htm">Drow Chain Mail (AC 4)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarven Plate Mail (AC 2)">
+    <param name="Local" value="AEG00024.htm">
+    </OBJECT>
+    <A HREF="file:AEG00024.htm">Dwarven Plate Mail (AC 2)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Dwarven Plate Mail">
+    <param name="Local" value="AEG00025.htm">
+    </OBJECT>
+    <A HREF="file:AEG00025.htm">Magical Dwarven Plate Mail</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shields">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shields (+1 AC)">
+    <param name="Local" value="AEG00026.htm">
+    </OBJECT>
+    <A HREF="file:AEG00026.htm">Shields (+1 AC)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Buckler or Target Shield">
+    <param name="Local" value="AEG00027.htm">
+    </OBJECT>
+    <A HREF="file:AEG00027.htm">Buckler or Target Shield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Small Shield">
+    <param name="Local" value="AEG00028.htm">
+    </OBJECT>
+    <A HREF="file:AEG00028.htm">Small Shield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Medium Shield">
+    <param name="Local" value="AEG00029.htm">
+    </OBJECT>
+    <A HREF="file:AEG00029.htm">Medium Shield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Body Shield">
+    <param name="Local" value="AEG00030.htm">
+    </OBJECT>
+    <A HREF="file:AEG00030.htm">Body Shield</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Helms">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Helms">
+    <param name="Local" value="AEG00031.htm">
+    </OBJECT>
+    <A HREF="file:AEG00031.htm">Helms</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cap">
+    <param name="Local" value="AEG00032.htm">
+    </OBJECT>
+    <A HREF="file:AEG00032.htm">Cap</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Coif">
+    <param name="Local" value="AEG00033.htm">
+    </OBJECT>
+    <A HREF="file:AEG00033.htm">Coif</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Open-Face Helmet">
+    <param name="Local" value="AEG00034.htm">
+    </OBJECT>
+    <A HREF="file:AEG00034.htm">Open-Face Helmet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Closed-Face Helmet">
+    <param name="Local" value="AEG00035.htm">
+    </OBJECT>
+    <A HREF="file:AEG00035.htm">Closed-Face Helmet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Great Helm">
+    <param name="Local" value="AEG00036.htm">
+    </OBJECT>
+    <A HREF="file:AEG00036.htm">Great Helm</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Equipment for Mounts">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment for Mounts">
+    <param name="Local" value="AEG00037.htm">
+    </OBJECT>
+    <A HREF="file:AEG00037.htm">Equipment for Mounts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Barding">
+    <param name="Local" value="AEG00038.htm">
+    </OBJECT>
+    <A HREF="file:AEG00038.htm">Barding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Medieval Barding">
+    <param name="Local" value="AEG00039.htm">
+    </OBJECT>
+    <A HREF="file:AEG00039.htm">Medieval Barding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Barding in Campaigns">
+    <param name="Local" value="AEG00040.htm">
+    </OBJECT>
+    <A HREF="file:AEG00040.htm">Barding in Campaigns</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Types of Barding">
+    <param name="Local" value="AEG00041.htm">
+    </OBJECT>
+    <A HREF="file:AEG00041.htm">Types of Barding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pieces of Horse Armor">
+    <param name="Local" value="AEG00042.htm">
+    </OBJECT>
+    <A HREF="file:AEG00042.htm">Pieces of Horse Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Light Barding">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Padded Barding (AC6)">
+    <param name="Local" value="AEG00043.htm">
+    </OBJECT>
+    <A HREF="file:AEG00043.htm">Padded Barding (AC6)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Leather Barding (AC 6)">
+    <param name="Local" value="AEG00044.htm">
+    </OBJECT>
+    <A HREF="file:AEG00044.htm">Leather Barding (AC 6)</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Medium Barding">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Brigandine Barding (AC 5)">
+    <param name="Local" value="AEG00046.htm">
+    </OBJECT>
+    <A HREF="file:AEG00046.htm">Brigandine Barding (AC 5)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scale Barding (AC 5)">
+    <param name="Local" value="AEG00045.htm">
+    </OBJECT>
+    <A HREF="file:AEG00045.htm">Scale Barding (AC 5)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring Barding (AC 5)">
+    <param name="Local" value="AEG00047.htm">
+    </OBJECT>
+    <A HREF="file:AEG00047.htm">Ring Barding (AC 5)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Studded Leather Barding (AC 5)">
+    <param name="Local" value="AEG00048.htm">
+    </OBJECT>
+    <A HREF="file:AEG00048.htm">Studded Leather Barding (AC 5)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chain Barding (AC 4)">
+    <param name="Local" value="AEG00049.htm">
+    </OBJECT>
+    <A HREF="file:AEG00049.htm">Chain Barding (AC 4)</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Heavy Barding">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Banded Barding (AC 3)">
+    <param name="Local" value="AEG00050.htm">
+    </OBJECT>
+    <A HREF="file:AEG00050.htm">Banded Barding (AC 3)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Splint Barding (AC 3)">
+    <param name="Local" value="AEG00051.htm">
+    </OBJECT>
+    <A HREF="file:AEG00051.htm">Splint Barding (AC 3)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Plate Barding (AC 2)">
+    <param name="Local" value="AEG00052.htm">
+    </OBJECT>
+    <A HREF="file:AEG00052.htm">Plate Barding (AC 2)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Field Plate Barding (AC 1)">
+    <param name="Local" value="AEG00053.htm">
+    </OBJECT>
+    <A HREF="file:AEG00053.htm">Field Plate Barding (AC 1)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Full Plate Barding (AC 0)">
+    <param name="Local" value="AEG00054.htm">
+    </OBJECT>
+    <A HREF="file:AEG00054.htm">Full Plate Barding (AC 0)</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Horse Tack and Harness">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bit">
+    <param name="Local" value="AEG00055.htm">
+    </OBJECT>
+    <A HREF="file:AEG00055.htm">Bit</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bridle">
+    <param name="Local" value="AEG00056.htm">
+    </OBJECT>
+    <A HREF="file:AEG00056.htm">Bridle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Horsehoes">
+    <param name="Local" value="AEG00057.htm">
+    </OBJECT>
+    <A HREF="file:AEG00057.htm">Horsehoes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Saddle">
+    <param name="Local" value="AEG00058.htm">
+    </OBJECT>
+    <A HREF="file:AEG00058.htm">Saddle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Saddlebags">
+    <param name="Local" value="AEG00059.htm">
+    </OBJECT>
+    <A HREF="file:AEG00059.htm">Saddlebags</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Saddle Blanket">
+    <param name="Local" value="AEG00060.htm">
+    </OBJECT>
+    <A HREF="file:AEG00060.htm">Saddle Blanket</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spur">
+    <param name="Local" value="AEG00061.htm">
+    </OBJECT>
+    <A HREF="file:AEG00061.htm">Spur</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stirrup">
+    <param name="Local" value="AEG00062.htm">
+    </OBJECT>
+    <A HREF="file:AEG00062.htm">Stirrup</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bridle Cutter">
+    <param name="Local" value="AEG00063.htm">
+    </OBJECT>
+    <A HREF="file:AEG00063.htm">Bridle Cutter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 1: Bridle Cutter Wielded as Weapon">
+    <param name="Local" value="AEG00064.htm">
+    </OBJECT>
+    <A HREF="file:AEG00064.htm">Table 1: Bridle Cutter Wielded as Weapon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 2: Horse Barding">
+    <param name="Local" value="AEG00065.htm">
+    </OBJECT>
+    <A HREF="file:AEG00065.htm">Table 2: Horse Barding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 3: Optional Barding Armor Class">
+    <param name="Local" value="AEG00066.htm">
+    </OBJECT>
+    <A HREF="file:AEG00066.htm">Table 3: Optional Barding Armor Class</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 4: optional Partial Barding">
+    <param name="Local" value="AEG00067.htm">
+    </OBJECT>
+    <A HREF="file:AEG00067.htm">Table 4: optional Partial Barding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 5: Additional Barding Types (Combined Table )">
+    <param name="Local" value="AEG00068.htm">
+    </OBJECT>
+    <A HREF="file:AEG00068.htm">Table 5: Additional Barding Types (Combined Table )</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Weapons">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapons">
+    <param name="Local" value="AEG00069.htm">
+    </OBJECT>
+    <A HREF="file:AEG00069.htm">Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 6: Master Weapons Chart">
+    <param name="Local" value="AEG00159.htm">
+    </OBJECT>
+    <A HREF="file:AEG00159.htm">Table 6: Master Weapons Chart</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Miscellaneous Weapons">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arquebus">
+    <param name="Local" value="AEG00070.htm">
+    </OBJECT>
+    <A HREF="file:AEG00070.htm">Arquebus</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Battle Axe">
+    <param name="Local" value="AEG00071.htm">
+    </OBJECT>
+    <A HREF="file:AEG00071.htm">Battle Axe</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Belaying Pin">
+    <param name="Local" value="AEG00072.htm">
+    </OBJECT>
+    <A HREF="file:AEG00072.htm">Belaying Pin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blowgun">
+    <param name="Local" value="AEG00073.htm">
+    </OBJECT>
+    <A HREF="file:AEG00073.htm">Blowgun</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bola">
+    <param name="Local" value="AEG00074.htm">
+    </OBJECT>
+    <A HREF="file:AEG00074.htm">Bola</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Caltrop">
+    <param name="Local" value="AEG00084.htm">
+    </OBJECT>
+    <A HREF="file:AEG00084.htm">Caltrop</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cestus">
+    <param name="Local" value="AEG00085.htm">
+    </OBJECT>
+    <A HREF="file:AEG00085.htm">Cestus</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Club">
+    <param name="Local" value="AEG00086.htm">
+    </OBJECT>
+    <A HREF="file:AEG00086.htm">Club</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dagger">
+    <param name="Local" value="AEG00090.htm">
+    </OBJECT>
+    <A HREF="file:AEG00090.htm">Dagger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dagger, Dirk">
+    <param name="Local" value="AEG00091.htm">
+    </OBJECT>
+    <A HREF="file:AEG00091.htm">Dagger, Dirk</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dagger, Parrying">
+    <param name="Local" value="AEG00092.htm">
+    </OBJECT>
+    <A HREF="file:AEG00092.htm">Dagger, Parrying</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dart">
+    <param name="Local" value="AEG00093.htm">
+    </OBJECT>
+    <A HREF="file:AEG00093.htm">Dart</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gaff/Hook">
+    <param name="Local" value="AEG00097.htm">
+    </OBJECT>
+    <A HREF="file:AEG00097.htm">Gaff/Hook</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hand or Throwing Axe">
+    <param name="Local" value="AEG00098.htm">
+    </OBJECT>
+    <A HREF="file:AEG00098.htm">Hand or Throwing Axe</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Harpoon">
+    <param name="Local" value="AEG00099.htm">
+    </OBJECT>
+    <A HREF="file:AEG00099.htm">Harpoon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Javelin">
+    <param name="Local" value="AEG00100.htm">
+    </OBJECT>
+    <A HREF="file:AEG00100.htm">Javelin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Knife">
+    <param name="Local" value="AEG00101.htm">
+    </OBJECT>
+    <A HREF="file:AEG00101.htm">Knife</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lasso">
+    <param name="Local" value="AEG00104.htm">
+    </OBJECT>
+    <A HREF="file:AEG00104.htm">Lasso</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Main-Gauche">
+    <param name="Local" value="AEG00108.htm">
+    </OBJECT>
+    <A HREF="file:AEG00108.htm">Main-Gauche</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mancatcher">
+    <param name="Local" value="AEG00109.htm">
+    </OBJECT>
+    <A HREF="file:AEG00109.htm">Mancatcher</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Morning Star">
+    <param name="Local" value="AEG00110.htm">
+    </OBJECT>
+    <A HREF="file:AEG00110.htm">Morning Star</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Net">
+    <param name="Local" value="AEG00111.htm">
+    </OBJECT>
+    <A HREF="file:AEG00111.htm">Net</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quarterstaff">
+    <param name="Local" value="AEG00134.htm">
+    </OBJECT>
+    <A HREF="file:AEG00134.htm">Quarterstaff</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sap">
+    <param name="Local" value="AEG00135.htm">
+    </OBJECT>
+    <A HREF="file:AEG00135.htm">Sap</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scourge">
+    <param name="Local" value="AEG00136.htm">
+    </OBJECT>
+    <A HREF="file:AEG00136.htm">Scourge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sickle">
+    <param name="Local" value="AEG00137.htm">
+    </OBJECT>
+    <A HREF="file:AEG00137.htm">Sickle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sling">
+    <param name="Local" value="AEG00138.htm">
+    </OBJECT>
+    <A HREF="file:AEG00138.htm">Sling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Staff-Sling">
+    <param name="Local" value="AEG00141.htm">
+    </OBJECT>
+    <A HREF="file:AEG00141.htm">Staff-Sling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stiletto">
+    <param name="Local" value="AEG00142.htm">
+    </OBJECT>
+    <A HREF="file:AEG00142.htm">Stiletto</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trident">
+    <param name="Local" value="AEG00156.htm">
+    </OBJECT>
+    <A HREF="file:AEG00156.htm">Trident</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War Hammer">
+    <param name="Local" value="AEG00157.htm">
+    </OBJECT>
+    <A HREF="file:AEG00157.htm">War Hammer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Whip">
+    <param name="Local" value="AEG00158.htm">
+    </OBJECT>
+    <A HREF="file:AEG00158.htm">Whip</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bow">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bow">
+    <param name="Local" value="AEG00075.htm">
+    </OBJECT>
+    <A HREF="file:AEG00075.htm">Bow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Short Bow">
+    <param name="Local" value="AEG00076.htm">
+    </OBJECT>
+    <A HREF="file:AEG00076.htm">Short Bow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Long Bow">
+    <param name="Local" value="AEG00077.htm">
+    </OBJECT>
+    <A HREF="file:AEG00077.htm">Long Bow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Composite Bows">
+    <param name="Local" value="AEG00078.htm">
+    </OBJECT>
+    <A HREF="file:AEG00078.htm">Composite Bows</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arrows">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arrows">
+    <param name="Local" value="AEG00079.htm">
+    </OBJECT>
+    <A HREF="file:AEG00079.htm">Arrows</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flight Arrow">
+    <param name="Local" value="AEG00080.htm">
+    </OBJECT>
+    <A HREF="file:AEG00080.htm">Flight Arrow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Incendiary Arrow">
+    <param name="Local" value="AEG00081.htm">
+    </OBJECT>
+    <A HREF="file:AEG00081.htm">Incendiary Arrow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sheaf Arrow">
+    <param name="Local" value="AEG00082.htm">
+    </OBJECT>
+    <A HREF="file:AEG00082.htm">Sheaf Arrow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stone Arrow">
+    <param name="Local" value="AEG00083.htm">
+    </OBJECT>
+    <A HREF="file:AEG00083.htm">Stone Arrow</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crossbow">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crossbow, Light and Heavy">
+    <param name="Local" value="AEG00087.htm">
+    </OBJECT>
+    <A HREF="file:AEG00087.htm">Crossbow, Light and Heavy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crossbow, Hand">
+    <param name="Local" value="AEG00088.htm">
+    </OBJECT>
+    <A HREF="file:AEG00088.htm">Crossbow, Hand</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quarrels">
+    <param name="Local" value="AEG00089.htm">
+    </OBJECT>
+    <A HREF="file:AEG00089.htm">Quarrels</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flail">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flail">
+    <param name="Local" value="AEG00094.htm">
+    </OBJECT>
+    <A HREF="file:AEG00094.htm">Flail</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Footman'a Flail">
+    <param name="Local" value="AEG00095.htm">
+    </OBJECT>
+    <A HREF="file:AEG00095.htm">Footman'a Flail</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Horseman's Flail">
+    <param name="Local" value="AEG00096.htm">
+    </OBJECT>
+    <A HREF="file:AEG00096.htm">Horseman's Flail</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lance">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lance">
+    <param name="Local" value="AEG00102.htm">
+    </OBJECT>
+    <A HREF="file:AEG00102.htm">Lance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jousting Lance">
+    <param name="Local" value="AEG00103.htm">
+    </OBJECT>
+    <A HREF="file:AEG00103.htm">Jousting Lance</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mace">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mace">
+    <param name="Local" value="AEG00105.htm">
+    </OBJECT>
+    <A HREF="file:AEG00105.htm">Mace</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Footman's Mace">
+    <param name="Local" value="AEG00106.htm">
+    </OBJECT>
+    <A HREF="file:AEG00106.htm">Footman's Mace</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Horseman's Mace">
+    <param name="Local" value="AEG00107.htm">
+    </OBJECT>
+    <A HREF="file:AEG00107.htm">Horseman's Mace</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pick">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pick, Military">
+    <param name="Local" value="AEG00112.htm">
+    </OBJECT>
+    <A HREF="file:AEG00112.htm">Pick, Military</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Horseman's Pick">
+    <param name="Local" value="AEG00114.htm">
+    </OBJECT>
+    <A HREF="file:AEG00114.htm">Horseman's Pick</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Footman's Pick">
+    <param name="Local" value="AEG00113.htm">
+    </OBJECT>
+    <A HREF="file:AEG00113.htm">Footman's Pick</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Polearms">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Awl Pike">
+    <param name="Local" value="AEG00116.htm">
+    </OBJECT>
+    <A HREF="file:AEG00116.htm">Awl Pike</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bardiche">
+    <param name="Local" value="AEG00117.htm">
+    </OBJECT>
+    <A HREF="file:AEG00117.htm">Bardiche</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bec de Corbin">
+    <param name="Local" value="AEG00118.htm">
+    </OBJECT>
+    <A HREF="file:AEG00118.htm">Bec de Corbin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bill-Guisarme">
+    <param name="Local" value="AEG00119.htm">
+    </OBJECT>
+    <A HREF="file:AEG00119.htm">Bill-Guisarme</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fauchard">
+    <param name="Local" value="AEG00120.htm">
+    </OBJECT>
+    <A HREF="file:AEG00120.htm">Fauchard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fauchard-Fork">
+    <param name="Local" value="AEG00121.htm">
+    </OBJECT>
+    <A HREF="file:AEG00121.htm">Fauchard-Fork</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Glaive">
+    <param name="Local" value="AEG00122.htm">
+    </OBJECT>
+    <A HREF="file:AEG00122.htm">Glaive</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Glaive-Guisarme">
+    <param name="Local" value="AEG00123.htm">
+    </OBJECT>
+    <A HREF="file:AEG00123.htm">Glaive-Guisarme</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guisarme">
+    <param name="Local" value="AEG00124.htm">
+    </OBJECT>
+    <A HREF="file:AEG00124.htm">Guisarme</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guisarme-Voulge">
+    <param name="Local" value="AEG00125.htm">
+    </OBJECT>
+    <A HREF="file:AEG00125.htm">Guisarme-Voulge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halberd">
+    <param name="Local" value="AEG00126.htm">
+    </OBJECT>
+    <A HREF="file:AEG00126.htm">Halberd</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hook-Fauchard">
+    <param name="Local" value="AEG00127.htm">
+    </OBJECT>
+    <A HREF="file:AEG00127.htm">Hook-Fauchard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lucern Hammer">
+    <param name="Local" value="AEG00128.htm">
+    </OBJECT>
+    <A HREF="file:AEG00128.htm">Lucern Hammer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Military Fork">
+    <param name="Local" value="AEG00129.htm">
+    </OBJECT>
+    <A HREF="file:AEG00129.htm">Military Fork</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Partisan">
+    <param name="Local" value="AEG00130.htm">
+    </OBJECT>
+    <A HREF="file:AEG00130.htm">Partisan</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ranseur">
+    <param name="Local" value="AEG00131.htm">
+    </OBJECT>
+    <A HREF="file:AEG00131.htm">Ranseur</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spetum">
+    <param name="Local" value="AEG00132.htm">
+    </OBJECT>
+    <A HREF="file:AEG00132.htm">Spetum</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Voulge">
+    <param name="Local" value="AEG00133.htm">
+    </OBJECT>
+    <A HREF="file:AEG00133.htm">Voulge</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swords">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="General Information (Sword)">
+    <param name="Local" value="AEG00143.htm">
+    </OBJECT>
+    <A HREF="file:AEG00143.htm">General Information (Sword)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bastard Sword">
+    <param name="Local" value="AEG00144.htm">
+    </OBJECT>
+    <A HREF="file:AEG00144.htm">Bastard Sword</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Broad Sword">
+    <param name="Local" value="AEG00145.htm">
+    </OBJECT>
+    <A HREF="file:AEG00145.htm">Broad Sword</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Claymore">
+    <param name="Local" value="AEG00146.htm">
+    </OBJECT>
+    <A HREF="file:AEG00146.htm">Claymore</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cutlass">
+    <param name="Local" value="AEG00147.htm">
+    </OBJECT>
+    <A HREF="file:AEG00147.htm">Cutlass</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Falchion">
+    <param name="Local" value="AEG00148.htm">
+    </OBJECT>
+    <A HREF="file:AEG00148.htm">Falchion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gladius">
+    <param name="Local" value="AEG00149.htm">
+    </OBJECT>
+    <A HREF="file:AEG00149.htm">Gladius</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Khopesh">
+    <param name="Local" value="AEG00150.htm">
+    </OBJECT>
+    <A HREF="file:AEG00150.htm">Khopesh</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Long Sword">
+    <param name="Local" value="AEG00151.htm">
+    </OBJECT>
+    <A HREF="file:AEG00151.htm">Long Sword</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rapier">
+    <param name="Local" value="AEG00152.htm">
+    </OBJECT>
+    <A HREF="file:AEG00152.htm">Rapier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sabre/Scimitar">
+    <param name="Local" value="AEG00153.htm">
+    </OBJECT>
+    <A HREF="file:AEG00153.htm">Sabre/Scimitar</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Short Sword">
+    <param name="Local" value="AEG00154.htm">
+    </OBJECT>
+    <A HREF="file:AEG00154.htm">Short Sword</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Two-Handed Sword">
+    <param name="Local" value="AEG00155.htm">
+    </OBJECT>
+    <A HREF="file:AEG00155.htm">Two-Handed Sword</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spear">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spear">
+    <param name="Local" value="AEG00139.htm">
+    </OBJECT>
+    <A HREF="file:AEG00139.htm">Spear</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Long Spear">
+    <param name="Local" value="AEG00140.htm">
+    </OBJECT>
+    <A HREF="file:AEG00140.htm">Long Spear</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Equipment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adventurer's Equipment">
+    <param name="Local" value="AEG00160.htm">
+    </OBJECT>
+    <A HREF="file:AEG00160.htm">Adventurer's Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Backpacks">
+    <param name="Local" value="AEG00161.htm">
+    </OBJECT>
+    <A HREF="file:AEG00161.htm">Backpacks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Block & Tackle">
+    <param name="Local" value="AEG00162.htm">
+    </OBJECT>
+    <A HREF="file:AEG00162.htm">Block & Tackle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crampons">
+    <param name="Local" value="AEG00163.htm">
+    </OBJECT>
+    <A HREF="file:AEG00163.htm">Crampons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clawed Gloves and Shoes">
+    <param name="Local" value="AEG00164.htm">
+    </OBJECT>
+    <A HREF="file:AEG00164.htm">Clawed Gloves and Shoes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flint and Steel">
+    <param name="Local" value="AEG00165.htm">
+    </OBJECT>
+    <A HREF="file:AEG00165.htm">Flint and Steel</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grappling Hook">
+    <param name="Local" value="AEG00166.htm">
+    </OBJECT>
+    <A HREF="file:AEG00166.htm">Grappling Hook</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Healer's Bag">
+    <param name="Local" value="AEG00167.htm">
+    </OBJECT>
+    <A HREF="file:AEG00167.htm">Healer's Bag</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Housebreaker Harness or Spider">
+    <param name="Local" value="AEG00168.htm">
+    </OBJECT>
+    <A HREF="file:AEG00168.htm">Housebreaker Harness or Spider</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lantern">
+    <param name="Local" value="AEG00169.htm">
+    </OBJECT>
+    <A HREF="file:AEG00169.htm">Lantern</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Locks">
+    <param name="Local" value="AEG00170.htm">
+    </OBJECT>
+    <A HREF="file:AEG00170.htm">Locks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Provisions">
+    <param name="Local" value="AEG00171.htm">
+    </OBJECT>
+    <A HREF="file:AEG00171.htm">Provisions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rope">
+    <param name="Local" value="AEG00172.htm">
+    </OBJECT>
+    <A HREF="file:AEG00172.htm">Rope</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thieves' Pick and Tools">
+    <param name="Local" value="AEG00173.htm">
+    </OBJECT>
+    <A HREF="file:AEG00173.htm">Thieves' Pick and Tools</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Waterskin/Wineskin">
+    <param name="Local" value="AEG00174.htm">
+    </OBJECT>
+    <A HREF="file:AEG00174.htm">Waterskin/Wineskin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weaponblack">
+    <param name="Local" value="AEG00175.htm">
+    </OBJECT>
+    <A HREF="file:AEG00175.htm">Weaponblack</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Clothing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction (Clothing)">
+    <param name="Local" value="AEG00176.htm">
+    </OBJECT>
+    <A HREF="file:AEG00176.htm">Introduction (Clothing)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Academical Dress">
+    <param name="Local" value="AEG00178.htm">
+    </OBJECT>
+    <A HREF="file:AEG00178.htm">Academical Dress</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sumptuary Laws">
+    <param name="Local" value="AEG00179.htm">
+    </OBJECT>
+    <A HREF="file:AEG00179.htm">Sumptuary Laws</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Materials Used in Medieval Clothing">
+    <param name="Local" value="AEG00180.htm">
+    </OBJECT>
+    <A HREF="file:AEG00180.htm">Materials Used in Medieval Clothing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Articles of Clothing">
+    <param name="Local" value="AEG00181.htm">
+    </OBJECT>
+    <A HREF="file:AEG00181.htm">Articles of Clothing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Peasant Clothing">
+    <param name="Local" value="AEG00177.htm">
+    </OBJECT>
+    <A HREF="file:AEG00177.htm">Peasant Clothing</A>
+</UL>
+</UL>
+</UL>
+</HTML>
