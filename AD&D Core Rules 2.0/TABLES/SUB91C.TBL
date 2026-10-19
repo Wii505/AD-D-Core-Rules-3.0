@@ -1,0 +1,32 @@
+Level of protection
+Item1
+Item2
+0 0 0 0 0 0
++1
+Item1
+Item2
+1 70 0 0 0 0
++2
+Item1
+Item2
+71 82 0 0 0 0
++2, 5-foot radius protection
+Item1
+Item2
+83 83 0 0 0 0
++3
+Item1
+Item2
+84 90 0 0 0 0
++3, 5-foot radius protection
+Item1
+Item2
+91 91 0 0 0 0
++4 on AC, +2 to saving throws
+Item1
+Item2
+92 97 0 0 0 0
++6 on AC, +1 to saving throws
+Item1
+Item2
+98 100 0 0 0 0

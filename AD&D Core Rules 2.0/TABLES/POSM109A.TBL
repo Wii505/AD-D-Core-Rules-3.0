@@ -1,0 +1,48 @@
+Wounding Spell-Critical Strike Effect on Legs
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim grazed, -1 penalty to attack /n1rolls/n2
+Item1
+Item2
+4 4 0 0 0 0
+Leg struck, 1/2 move, -1 penalty to /n1attack rolls/n2
+Item1
+Item2
+5 5 0 0 0 0
+Foot injured, 1/2 move, -1 penalty /n1to attack rolls/n2
+Item1
+Item2
+6 6 0 0 0 0
+Leg injured, 1/2 move, -2 penalty /n1to attack rolls, minor bleeding/n2
+Item1
+Item2
+7 7 0 0 0 0
+Hip/thigh injured, 1/4 move, -2 /n1to all attacks, major bleeding/n2
+Item1
+Item2
+8 8 0 0 0 0
+Leg injured, 1/4 move and -4 /n1penalty to all attacks, major /n2bleeding/n3
+Item1
+Item2
+9 9 0 0 0 0
+Foot withered, victim stunned /n11d6 rounds, then no movement and /n2-4 penalty to all attacks/n3
+Item1
+Item2
+10 10 0 0 0 0
+Leg withered at knee, minor /n1bleeding, no move or attack/n2
+Item1
+Item2
+11 11 0 0 0 0
+Leg withered at hip, no move or /n1attack, minor bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Leg withered at hip, no move or /n1attack, minor bleeding, with an /n2additional abdomen hit/n3
+Item1
+Item2
+13 20 44046 0 0 0

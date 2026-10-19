@@ -1,0 +1,49 @@
+Cold Spell-Critical Strike Effect on Head
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Frost disorients victim for 2d4 /n1rounds, -2 penalty to all /n2attacks/n3
+Item1
+Item2
+4 4 0 0 0 0
+Head struck, helm damaged, victim /n1slowed 1d6 rounds; -2 to all /n2attack rolls if victim had no /n3helm/n4
+Item1
+Item2
+5 5 0 0 0 0
+Head struck, -2 to attacks, /n1slowed 1d6 hours/n2 
+Item1
+Item2
+6 6 0 0 0 0
+Helm shattered, face frostbitten, /n1slowed 1d6 hours, -2 to attacks; /n2if victim wears no helm, -4 to /n3all atttacks and 1/4 move/n4
+Item1
+Item2
+7 7 0 0 0 0
+Face frostbitten, victim /n1blinded 1d6 hours and sloweed 1d6 hours/n2
+Item1
+Item2
+8 8 0 0 0 0
+Scalp and side of head frozen, /n1victim slowed 1d6 hours, 1/4 /n2move and no attacks/n3
+Item1
+Item2
+9 9 0 0 0 0
+Face frozen, victim blinded, no /n1move or attack/n2
+Item1
+Item2
+10 10 0 0 0 0
+Throat/nose frozen, no move or /n1attack, asphyxiation in 1d4+1 /n2rounds/n3
+Item1
+Item2
+11 11 0 0 0 0
+Skull frozen through, immediate death
+Item1
+Item2
+12 12 0 0 0 0
+Skull frozen through, immediate /n1death with additional torso hit/n2
+Item1
+Item2
+13 20 48046 0 0 0
+

@@ -1,0 +1,48 @@
+Constriction Spell-Critical Strike Effect on Torso
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Knockdown, stunned 1d4 rounds
+Item1
+Item2
+4 4 0 0 0 0
+Torso struck, victim stunned 1 /n1round and reduced to 1/2 move/n2
+Item1
+Item2
+5 5 0 0 0 0
+Shield damaged, torso struck, 1/2 /n1move/n2
+Item1
+Item2
+6 6 0 0 0 0
+Armor damaged, torso struck, 1/2 /n1move, -2 to attacks; if no plate /n2armor, torso injured, 1/4 move, /n3-4 penalty to all attacks/n4
+Item1
+Item2
+7 7 0 0 0 0
+Torso injured, minor internal /n1bleeding, 1/4 move, -4 to attacks/n2
+Item1
+Item2
+8 8 0 0 0 0
+Ribs broken, minor internal /n1bleeding, 1/2 move, -2 to attacks/n2
+Item1
+Item2
+9 9 0 0 0 0
+Ribs broken, major internal /n1bleeding, no move or attacks/n2
+Item1
+Item2
+10 10 0 0 0 0
+Torso crushed, victim reduced /n1to 0 hit points with severe internal/n2 bleeding
+Item1
+Item2
+11 11 0 0 0 0
+Torso crushed, victim killed
+Item1
+Item2
+12 12 0 0 0 0
+Torso crushed, victim killed with /n1additional hit in the abdomen /n2(40%), left arm, right arm, or /n3head (20% each)/n4
+Item1
+Item2
+13 20 46046 0 0 0

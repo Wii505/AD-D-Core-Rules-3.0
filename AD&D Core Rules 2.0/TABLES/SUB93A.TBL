@@ -1,0 +1,28 @@
+Staff-spear powers
+Item1
+Item2
+0 0 0 0 0 0
++1
+1,000
+Item2
+1 6 0 0 0 0
++2
+1,500
+Item2
+7 10 0 0 0 0
++3
+2,000
+Item2
+11 13 0 0 0 0
++4
+2,500
+Item2
+14 16 0 0 0 0
++5
+3,000
+Item2
+17 19 0 0 0 0
++3* /n1/n2* Does damage as ranseur (2d4), but /n3still acts as a spear if used to thrust or /n4when set to receive a charge./n5
+3,500
+Item2
+20 20 0 0 0 0

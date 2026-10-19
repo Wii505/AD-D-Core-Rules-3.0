@@ -1,0 +1,48 @@
+Crushing Spell-Critical Strike Effect on Torso
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Knockdown, stunned 1d4 rounds
+Item1
+Item2
+4 4 0 0 0 0
+Torso struck, victim stunned 1 /n1round and reduced to 1/2 move/n2
+Item1
+Item2
+5 5 0 0 0 0
+Shield destroyed, torso struck, 1/4 /n1move, stunned 1d6 rounds/n2
+Item1
+Item2
+6 6 0 0 0 0
+Armor destroyed, torso injured, /n1stunned 1d6 rounds, 1/4 move, /n2-2 to attacks/n3
+Item1
+Item2
+7 7 0 0 0 0
+Ribs broken, stunned 1d6 rounds, /n11/4 move, -4 to all attacks/n2
+Item1
+Item2
+8 8 0 0 0 0
+Ribs broken, stunned 2d6 rounds, /n1minor bleeding, 1/4 move, -4 to /n2attacks/n3
+Item1
+Item2
+9 9 0 0 0 0
+Ribs crushed, major internal /n1bleeding, no move or attack/n2
+Item1
+Item2
+10 10 0 0 0 0
+Torso crushed, victim reduced to /n10 hit points with severe internal /n2bleeding/n3
+Item1
+Item2
+11 11 0 0 0 0
+Torso crushed, victim killed
+Item1
+Item2
+12 12 0 0 0 0
+Torso crushed, victim killed with /n1additional abdomen (40%), head /n2(20%), or arm (20% each) hit/n3
+Item1
+Item2
+13 20 46046 0 0 0
