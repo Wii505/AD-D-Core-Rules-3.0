@@ -1,0 +1,1268 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Wizard's Handbook">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="CWH00000.htm">
+    </OBJECT>
+    <A HREF="file:CWH00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="CWH00001.htm">
+    </OBJECT>
+    <A HREF="file:CWH00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="CWH00002.htm">
+    </OBJECT>
+    <A HREF="file:CWH00002.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: Schools of Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Schools of Magic">
+    <param name="Local" value="CWH00003.htm">
+    </OBJECT>
+    <A HREF="file:CWH00003.htm">Schools of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="To Specialize or Not to Specialize?">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="To Specialize or Not to Specialize">
+    <param name="Local" value="CWH00004.htm">
+    </OBJECT>
+    <A HREF="file:CWH00004.htm">To Specialize or Not to Specialize</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ability Scores">
+    <param name="Local" value="CWH00005.htm">
+    </OBJECT>
+    <A HREF="file:CWH00005.htm">Ability Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="1st-Level Bonus Spell">
+    <param name="Local" value="CWH00006.htm">
+    </OBJECT>
+    <A HREF="file:CWH00006.htm">1st-Level Bonus Spell</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Personality and Background of the Player Character">
+    <param name="Local" value="CWH00007.htm">
+    </OBJECT>
+    <A HREF="file:CWH00007.htm">Personality and Background of the Player Character</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Access to Mentors">
+    <param name="Local" value="CWH00008.htm">
+    </OBJECT>
+    <A HREF="file:CWH00008.htm">Access to Mentors</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Party Composition">
+    <param name="Local" value="CWH00009.htm">
+    </OBJECT>
+    <A HREF="file:CWH00009.htm">Party Composition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Player Preference">
+    <param name="Local" value="CWH00010.htm">
+    </OBJECT>
+    <A HREF="file:CWH00010.htm">Player Preference</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chance to Learn Spells">
+    <param name="Local" value="CWH00011.htm">
+    </OBJECT>
+    <A HREF="file:CWH00011.htm">Chance to Learn Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Short Adventure vs. Long Campaign">
+    <param name="Local" value="CWH00012.htm">
+    </OBJECT>
+    <A HREF="file:CWH00012.htm">Short Adventure vs. Long Campaign</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="About the Schools">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="About the Schools">
+    <param name="Local" value="CWH00013.htm">
+    </OBJECT>
+    <A HREF="file:CWH00013.htm">About the Schools</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abjuration">
+    <param name="Local" value="CWH00014.htm">
+    </OBJECT>
+    <A HREF="file:CWH00014.htm">Abjuration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alteration">
+    <param name="Local" value="CWH00015.htm">
+    </OBJECT>
+    <A HREF="file:CWH00015.htm">Alteration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conjuration/Summoning">
+    <param name="Local" value="CWH00016.htm">
+    </OBJECT>
+    <A HREF="file:CWH00016.htm">Conjuration/Summoning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Enchantment/Charm">
+    <param name="Local" value="CWH00017.htm">
+    </OBJECT>
+    <A HREF="file:CWH00017.htm">Enchantment/Charm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Greater Divination">
+    <param name="Local" value="CWH00018.htm">
+    </OBJECT>
+    <A HREF="file:CWH00018.htm">Greater Divination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Illusion">
+    <param name="Local" value="CWH00019.htm">
+    </OBJECT>
+    <A HREF="file:CWH00019.htm">Illusion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Invocation/Evocation">
+    <param name="Local" value="CWH00020.htm">
+    </OBJECT>
+    <A HREF="file:CWH00020.htm">Invocation/Evocation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Necromancy">
+    <param name="Local" value="CWH00021.htm">
+    </OBJECT>
+    <A HREF="file:CWH00021.htm">Necromancy</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abandoning a School">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abandoning a School">
+    <param name="Local" value="CWH00022.htm">
+    </OBJECT>
+    <A HREF="file:CWH00022.htm">Abandoning a School</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mages">
+    <param name="Local" value="CWH00023.htm">
+    </OBJECT>
+    <A HREF="file:CWH00023.htm">Mages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specialists">
+    <param name="Local" value="CWH00024.htm">
+    </OBJECT>
+    <A HREF="file:CWH00024.htm">Specialists</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Word About Minor Schools">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lesser Divination">
+    <param name="Local" value="CWH00025.htm">
+    </OBJECT>
+    <A HREF="file:CWH00025.htm">Lesser Divination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Minor Schools">
+    <param name="Local" value="CWH00026.htm">
+    </OBJECT>
+    <A HREF="file:CWH00026.htm">New Minor Schools</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Creating New Schools">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creating New Schools">
+    <param name="Local" value="CWH00027.htm">
+    </OBJECT>
+    <A HREF="file:CWH00027.htm">Creating New Schools</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Basics of Creating Schools">
+    <param name="Local" value="CWH00028.htm">
+    </OBJECT>
+    <A HREF="file:CWH00028.htm">The Basics of Creating Schools</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Allowed Races">
+    <param name="Local" value="CWH00045.htm">
+    </OBJECT>
+    <A HREF="file:CWH00045.htm">Allowed Races</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ability Requirements">
+    <param name="Local" value="CWH00046.htm">
+    </OBJECT>
+    <A HREF="file:CWH00046.htm">Ability Requirements</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clothing">
+    <param name="Local" value="CWH00047.htm">
+    </OBJECT>
+    <A HREF="file:CWH00047.htm">Clothing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Experience Levels and Spell Progression">
+    <param name="Local" value="CWH00048.htm">
+    </OBJECT>
+    <A HREF="file:CWH00048.htm">Experience Levels and Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hit Points">
+    <param name="Local" value="CWH00049.htm">
+    </OBJECT>
+    <A HREF="file:CWH00049.htm">Hit Points</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Languages">
+    <param name="Local" value="CWH00050.htm">
+    </OBJECT>
+    <A HREF="file:CWH00050.htm">Languages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Oppositional Schools">
+    <param name="Local" value="CWH00051.htm">
+    </OBJECT>
+    <A HREF="file:CWH00051.htm">Oppositional Schools</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ethos">
+    <param name="Local" value="CWH00052.htm">
+    </OBJECT>
+    <A HREF="file:CWH00052.htm">Ethos</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Types of Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Type of Magic">
+    <param name="Local" value="CWH00029.htm">
+    </OBJECT>
+    <A HREF="file:CWH00029.htm">Type of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priests vs. Wizards">
+    <param name="Local" value="CWH00030.htm">
+    </OBJECT>
+    <A HREF="file:CWH00030.htm">Priests vs. Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Categories of Effects">
+    <param name="Local" value="CWH00031.htm">
+    </OBJECT>
+    <A HREF="file:CWH00031.htm">Categories of Effects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Defining the Effects of a New School">
+    <param name="Local" value="CWH00032.htm">
+    </OBJECT>
+    <A HREF="file:CWH00032.htm">Defining the Effects of a New School</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How It All Works">
+    <param name="Local" value="CWH00033.htm">
+    </OBJECT>
+    <A HREF="file:CWH00033.htm">How It All Works</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Name of the School">
+    <param name="Local" value="CWH00034.htm">
+    </OBJECT>
+    <A HREF="file:CWH00034.htm">Name of the School</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Name of the Specialist">
+    <param name="Local" value="CWH00035.htm">
+    </OBJECT>
+    <A HREF="file:CWH00035.htm">Name of the Specialist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spells">
+    <param name="Local" value="CWH00036.htm">
+    </OBJECT>
+    <A HREF="file:CWH00036.htm">Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Basic Spells">
+    <param name="Local" value="CWH00037.htm">
+    </OBJECT>
+    <A HREF="file:CWH00037.htm">Basic Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adapting Existing Spells">
+    <param name="Local" value="CWH00038.htm">
+    </OBJECT>
+    <A HREF="file:CWH00038.htm">Adapting Existing Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ideas for New Spells">
+    <param name="Local" value="CWH00039.htm">
+    </OBJECT>
+    <A HREF="file:CWH00039.htm">Ideas for New Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Checking for Duplication">
+    <param name="Local" value="CWH00040.htm">
+    </OBJECT>
+    <A HREF="file:CWH00040.htm">Checking for Duplication</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Checking for Play Balance">
+    <param name="Local" value="CWH00041.htm">
+    </OBJECT>
+    <A HREF="file:CWH00041.htm">Checking for Play Balance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Determining Effects and Levels">
+    <param name="Local" value="CWH00042.htm">
+    </OBJECT>
+    <A HREF="file:CWH00042.htm">Determining Effects and Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Casting Times">
+    <param name="Local" value="CWH00043.htm">
+    </OBJECT>
+    <A HREF="file:CWH00043.htm">Casting Times</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Components">
+    <param name="Local" value="CWH00044.htm">
+    </OBJECT>
+    <A HREF="file:CWH00044.htm">Components</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Wizard Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Kits">
+    <param name="Local" value="CWH00053.htm">
+    </OBJECT>
+    <A HREF="file:CWH00053.htm">Wizard Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits and Character Creation">
+    <param name="Local" value="CWH00054.htm">
+    </OBJECT>
+    <A HREF="file:CWH00054.htm">Kits and Character Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits and Schools of Magic">
+    <param name="Local" value="CWH00055.htm">
+    </OBJECT>
+    <A HREF="file:CWH00055.htm">Kits and Schools of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="DM Choices">
+    <param name="Local" value="CWH00056.htm">
+    </OBJECT>
+    <A HREF="file:CWH00056.htm">DM Choices</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recording Kits on the Character Sheet">
+    <param name="Local" value="CWH00069.htm">
+    </OBJECT>
+    <A HREF="file:CWH00069.htm">Recording Kits on the Character Sheet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Modifying the Kits">
+    <param name="Local" value="CWH00070.htm">
+    </OBJECT>
+    <A HREF="file:CWH00070.htm">Modifying the Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creating New Kits">
+    <param name="Local" value="CWH00071.htm">
+    </OBJECT>
+    <A HREF="file:CWH00071.htm">Creating New Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Kit Creation Sheet">
+    <param name="Local" value="CWH00072.htm">
+    </OBJECT>
+    <A HREF="file:CWH00072.htm">Wizard Kit Creation Sheet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Suggestions for New Kits">
+    <param name="Local" value="CWH00073.htm">
+    </OBJECT>
+    <A HREF="file:CWH00073.htm">Suggestions for New Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Wizard Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Wizard Kits">
+    <param name="Local" value="CWH00057.htm">
+    </OBJECT>
+    <A HREF="file:CWH00057.htm">The Wizard Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Note About Reaction Adjustments">
+    <param name="Local" value="CWH00058.htm">
+    </OBJECT>
+    <A HREF="file:CWH00058.htm">A Note About Reaction Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Academician">
+    <param name="Local" value="CWH00059.htm">
+    </OBJECT>
+    <A HREF="file:CWH00059.htm">Academician</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amazon Sorceress">
+    <param name="Local" value="CWH00060.htm">
+    </OBJECT>
+    <A HREF="file:CWH00060.htm">Amazon Sorceress</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Anagakok">
+    <param name="Local" value="CWH00061.htm">
+    </OBJECT>
+    <A HREF="file:CWH00061.htm">Anagakok</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Militant Wizard">
+    <param name="Local" value="CWH00062.htm">
+    </OBJECT>
+    <A HREF="file:CWH00062.htm">Militant Wizard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mystic">
+    <param name="Local" value="CWH00063.htm">
+    </OBJECT>
+    <A HREF="file:CWH00063.htm">Mystic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Patrician">
+    <param name="Local" value="CWH00064.htm">
+    </OBJECT>
+    <A HREF="file:CWH00064.htm">Patrician</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Peasant Wizard">
+    <param name="Local" value="CWH00065.htm">
+    </OBJECT>
+    <A HREF="file:CWH00065.htm">Peasant Wizard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Savage Wizard">
+    <param name="Local" value="CWH00066.htm">
+    </OBJECT>
+    <A HREF="file:CWH00066.htm">Savage Wizard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Witch">
+    <param name="Local" value="CWH00067.htm">
+    </OBJECT>
+    <A HREF="file:CWH00067.htm">Witch</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wu Jen">
+    <param name="Local" value="CWH00068.htm">
+    </OBJECT>
+    <A HREF="file:CWH00068.htm">Wu Jen</A>
+</UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Role-Playing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role-Playing">
+    <param name="Local" value="CWH00074.htm">
+    </OBJECT>
+    <A HREF="file:CWH00074.htm">Role-Playing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Changing Personality Types">
+    <param name="Local" value="CWH00086.htm">
+    </OBJECT>
+    <A HREF="file:CWH00086.htm">Changing Personality Types</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ideas for New Personality Types">
+    <param name="Local" value="CWH00087.htm">
+    </OBJECT>
+    <A HREF="file:CWH00087.htm">Ideas for New Personality Types</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Background">
+    <param name="Local" value="CWH00088.htm">
+    </OBJECT>
+    <A HREF="file:CWH00088.htm">Character Background</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Personalities">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Personalities">
+    <param name="Local" value="CWH00075.htm">
+    </OBJECT>
+    <A HREF="file:CWH00075.htm">Wizard Personalities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Altruist">
+    <param name="Local" value="CWH00076.htm">
+    </OBJECT>
+    <A HREF="file:CWH00076.htm">The Altruist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Brooder">
+    <param name="Local" value="CWH00077.htm">
+    </OBJECT>
+    <A HREF="file:CWH00077.htm">The Brooder</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Commander">
+    <param name="Local" value="CWH00078.htm">
+    </OBJECT>
+    <A HREF="file:CWH00078.htm">The Commander</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Counselor">
+    <param name="Local" value="CWH00079.htm">
+    </OBJECT>
+    <A HREF="file:CWH00079.htm">The Counselor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Intimidator">
+    <param name="Local" value="CWH00080.htm">
+    </OBJECT>
+    <A HREF="file:CWH00080.htm">The Intimidator</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Mercenary">
+    <param name="Local" value="CWH00081.htm">
+    </OBJECT>
+    <A HREF="file:CWH00081.htm">The Mercenary</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Mystery Man">
+    <param name="Local" value="CWH00082.htm">
+    </OBJECT>
+    <A HREF="file:CWH00082.htm">The Mystery Man</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Neophyte">
+    <param name="Local" value="CWH00083.htm">
+    </OBJECT>
+    <A HREF="file:CWH00083.htm">The Neophyte</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Obsessive">
+    <param name="Local" value="CWH00084.htm">
+    </OBJECT>
+    <A HREF="file:CWH00084.htm">The Obsessive</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Showman">
+    <param name="Local" value="CWH00085.htm">
+    </OBJECT>
+    <A HREF="file:CWH00085.htm">The Showman</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizardly Careers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizardly Careers">
+    <param name="Local" value="CWH00089.htm">
+    </OBJECT>
+    <A HREF="file:CWH00089.htm">Wizardly Careers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Teacher">
+    <param name="Local" value="CWH00090.htm">
+    </OBJECT>
+    <A HREF="file:CWH00090.htm">Teacher</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Administrator">
+    <param name="Local" value="CWH00091.htm">
+    </OBJECT>
+    <A HREF="file:CWH00091.htm">Administrator</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Advisor">
+    <param name="Local" value="CWH00092.htm">
+    </OBJECT>
+    <A HREF="file:CWH00092.htm">Advisor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trader">
+    <param name="Local" value="CWH00093.htm">
+    </OBJECT>
+    <A HREF="file:CWH00093.htm">Trader</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Physician">
+    <param name="Local" value="CWH00094.htm">
+    </OBJECT>
+    <A HREF="file:CWH00094.htm">Physician</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Treasure Hunter">
+    <param name="Local" value="CWH00095.htm">
+    </OBJECT>
+    <A HREF="file:CWH00095.htm">Treasure Hunter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Entertainer">
+    <param name="Local" value="CWH00096.htm">
+    </OBJECT>
+    <A HREF="file:CWH00096.htm">Entertainer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lecturer">
+    <param name="Local" value="CWH00097.htm">
+    </OBJECT>
+    <A HREF="file:CWH00097.htm">Lecturer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Author">
+    <param name="Local" value="CWH00098.htm">
+    </OBJECT>
+    <A HREF="file:CWH00098.htm">Author</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fortune Teller">
+    <param name="Local" value="CWH00099.htm">
+    </OBJECT>
+    <A HREF="file:CWH00099.htm">Fortune Teller</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alchemist">
+    <param name="Local" value="CWH00100.htm">
+    </OBJECT>
+    <A HREF="file:CWH00100.htm">Alchemist</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Adventures">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Adventures">
+    <param name="Local" value="CWH00101.htm">
+    </OBJECT>
+    <A HREF="file:CWH00101.htm">Wizard Adventures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Novice Wizard">
+    <param name="Local" value="CWH00102.htm">
+    </OBJECT>
+    <A HREF="file:CWH00102.htm">The Novice Wizard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Outcast Wizard">
+    <param name="Local" value="CWH00103.htm">
+    </OBJECT>
+    <A HREF="file:CWH00103.htm">The Outcast Wizard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic's Good Name">
+    <param name="Local" value="CWH00104.htm">
+    </OBJECT>
+    <A HREF="file:CWH00104.htm">Magic's Good Name</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Assisting the Citizenry">
+    <param name="Local" value="CWH00105.htm">
+    </OBJECT>
+    <A HREF="file:CWH00105.htm">Assisting the Citizenry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Scholarly Quest">
+    <param name="Local" value="CWH00106.htm">
+    </OBJECT>
+    <A HREF="file:CWH00106.htm">The Scholarly Quest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Out of Retirement">
+    <param name="Local" value="CWH00107.htm">
+    </OBJECT>
+    <A HREF="file:CWH00107.htm">Out of Retirement</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic in the Campaign World">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic in the Campaign World">
+    <param name="Local" value="CWH00108.htm">
+    </OBJECT>
+    <A HREF="file:CWH00108.htm">Magic in the Campaign World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Worlds With Excessive Amounts of Magic">
+    <param name="Local" value="CWH00109.htm">
+    </OBJECT>
+    <A HREF="file:CWH00109.htm">Worlds With Excessive Amounts of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Worlds With Typical Amounts of Magic">
+    <param name="Local" value="CWH00110.htm">
+    </OBJECT>
+    <A HREF="file:CWH00110.htm">Worlds With Typical Amounts of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Worlds With Low Amounts of Magic">
+    <param name="Local" value="CWH00111.htm">
+    </OBJECT>
+    <A HREF="file:CWH00111.htm">Worlds With Low Amounts of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Worlds With No Magic">
+    <param name="Local" value="CWH00112.htm">
+    </OBJECT>
+    <A HREF="file:CWH00112.htm">Worlds With No Magic</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Campaign Variations">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Campaign Variations">
+    <param name="Local" value="CWH00113.htm">
+    </OBJECT>
+    <A HREF="file:CWH00113.htm">Campaign Variations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The All-Wizard Campaign">
+    <param name="Local" value="CWH00114.htm">
+    </OBJECT>
+    <A HREF="file:CWH00114.htm">The All-Wizard Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Single Wizard Kit Campaign">
+    <param name="Local" value="CWH00115.htm">
+    </OBJECT>
+    <A HREF="file:CWH00115.htm">The Single Wizard Kit Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Restricted School Campaign">
+    <param name="Local" value="CWH00116.htm">
+    </OBJECT>
+    <A HREF="file:CWH00116.htm">The Restricted School Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Restricted Level Campaign">
+    <param name="Local" value="CWH00117.htm">
+    </OBJECT>
+    <A HREF="file:CWH00117.htm">The Restricted Level Campaign</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Combat and the Wizard">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat and the Wizard">
+    <param name="Local" value="CWH00118.htm">
+    </OBJECT>
+    <A HREF="file:CWH00118.htm">Combat and the Wizard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Spell Arsenal">
+    <param name="Local" value="CWH00119.htm">
+    </OBJECT>
+    <A HREF="file:CWH00119.htm">The Spell Arsenal</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Wizard's Advantages">
+    <param name="Local" value="CWH00119.htm">
+    </OBJECT>
+    <A HREF="file:CWH00119.htm">The Wizard's Advantages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Categories">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Categories">
+    <param name="Local" value="CWH00120.htm">
+    </OBJECT>
+    <A HREF="file:CWH00120.htm">Spell Categories</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Defensive Spells">
+    <param name="Local" value="CWH00121.htm">
+    </OBJECT>
+    <A HREF="file:CWH00121.htm">Defensive Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Offensive Spells">
+    <param name="Local" value="CWH00122.htm">
+    </OBJECT>
+    <A HREF="file:CWH00122.htm">Offensive Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reconnaissance Spells">
+    <param name="Local" value="CWH00123.htm">
+    </OBJECT>
+    <A HREF="file:CWH00123.htm">Reconnaissance Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Special Spells">
+    <param name="Local" value="CWH00124.htm">
+    </OBJECT>
+    <A HREF="file:CWH00124.htm">Special Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Mix of Spells">
+    <param name="Local" value="CWH00125.htm">
+    </OBJECT>
+    <A HREF="file:CWH00125.htm">A Mix of Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Restriction">
+    <param name="Local" value="CWH00126.htm">
+    </OBJECT>
+    <A HREF="file:CWH00126.htm">Weapon Restriction</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 6: Casting Spells in Unusual Conditions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Casting Spells In Unusual Conditions">
+    <param name="Local" value="CWH00127.htm">
+    </OBJECT>
+    <A HREF="file:CWH00127.htm">Casting Spells In Unusual Conditions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Casting Spells Underwater">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Casting Spells Underwater">
+    <param name="Local" value="CWH00128.htm">
+    </OBJECT>
+    <A HREF="file:CWH00128.htm">Casting Spells Underwater</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spells That Are Ineffective Underwater">
+    <param name="Local" value="CWH00129.htm">
+    </OBJECT>
+    <A HREF="file:CWH00129.htm">Spells That Are Ineffective Underwater</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spells That Are Modified When Cast Underwater">
+    <param name="Local" value="CWH00130.htm">
+    </OBJECT>
+    <A HREF="file:CWH00130.htm">Spells That Are Modified When Cast Underwater</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Casting Spells in Other Planes">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Casting Spells in Other Planes">
+    <param name="Local" value="CWH00131.htm">
+    </OBJECT>
+    <A HREF="file:CWH00131.htm">Casting Spells in Other Planes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Ethereal Planes">
+    <param name="Local" value="CWH00132.htm">
+    </OBJECT>
+    <A HREF="file:CWH00132.htm">The Ethereal Planes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Inner Planes">
+    <param name="Local" value="CWH00133.htm">
+    </OBJECT>
+    <A HREF="file:CWH00133.htm">The Inner Planes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Astral Plane">
+    <param name="Local" value="CWH00134.htm">
+    </OBJECT>
+    <A HREF="file:CWH00134.htm">The Astral Plane</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Outer Planes">
+    <param name="Local" value="CWH00135.htm">
+    </OBJECT>
+    <A HREF="file:CWH00135.htm">The Outer Planes</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Casting Spells When the Caster is Impaired">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Impaired Vision">
+    <param name="Local" value="CWH00136.htm">
+    </OBJECT>
+    <A HREF="file:CWH00136.htm">Impaired Vision</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Impaired Hearing">
+    <param name="Local" value="CWH00137.htm">
+    </OBJECT>
+    <A HREF="file:CWH00137.htm">Impaired Hearing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Impaired Speech">
+    <param name="Local" value="CWH00138.htm">
+    </OBJECT>
+    <A HREF="file:CWH00138.htm">Impaired Speech</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Impaired Movement">
+    <param name="Local" value="CWH00139.htm">
+    </OBJECT>
+    <A HREF="file:CWH00139.htm">Impaired Movement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Impaired Concentration">
+    <param name="Local" value="CWH00140.htm">
+    </OBJECT>
+    <A HREF="file:CWH00140.htm">Impaired Concentration</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 7: Advanced Procedures">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Advanced Procedures">
+    <param name="Local" value="CWH00141.htm">
+    </OBJECT>
+    <A HREF="file:CWH00141.htm">Advanced Procedures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Levels Above 20th">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Levels Above 20th">
+    <param name="Local" value="CWH00142.htm">
+    </OBJECT>
+    <A HREF="file:CWH00142.htm">Levels Above 20th</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spells Above 9th-Level">
+    <param name="Local" value="CWH00143.htm">
+    </OBJECT>
+    <A HREF="file:CWH00143.htm">Spells Above 9th-Level</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Commentary">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Commentary">
+    <param name="Local" value="CWH00144.htm">
+    </OBJECT>
+    <A HREF="file:CWH00144.htm">Spell Commentary</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="1st Level">
+    <param name="Local" value="CWH00145.htm">
+    </OBJECT>
+    <A HREF="file:CWH00145.htm">1st Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="2nd Level">
+    <param name="Local" value="CWH00146.htm">
+    </OBJECT>
+    <A HREF="file:CWH00146.htm">2nd Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="3rd Level">
+    <param name="Local" value="CWH00147.htm">
+    </OBJECT>
+    <A HREF="file:CWH00147.htm">3rd Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="4th Level">
+    <param name="Local" value="CWH00148.htm">
+    </OBJECT>
+    <A HREF="file:CWH00148.htm">4th Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="5th Level">
+    <param name="Local" value="CWH00149.htm">
+    </OBJECT>
+    <A HREF="file:CWH00149.htm">5th Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="7th-Level">
+    <param name="Local" value="CWH00150.htm">
+    </OBJECT>
+    <A HREF="file:CWH00150.htm">7th-Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="8th Level">
+    <param name="Local" value="CWH00151.htm">
+    </OBJECT>
+    <A HREF="file:CWH00151.htm">8th Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="9th Level">
+    <param name="Local" value="CWH00152.htm">
+    </OBJECT>
+    <A HREF="file:CWH00152.htm">9th Level</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="More About Adjudicating Illusions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="More About Adjudicating Illusions">
+    <param name="Local" value="CWH00153.htm">
+    </OBJECT>
+    <A HREF="file:CWH00153.htm">More About Adjudicating Illusions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Complexity--Non-Living Objects">
+    <param name="Local" value="CWH00154.htm">
+    </OBJECT>
+    <A HREF="file:CWH00154.htm">Complexity--Non-Living Objects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Complexity--Living Objects">
+    <param name="Local" value="CWH00155.htm">
+    </OBJECT>
+    <A HREF="file:CWH00155.htm">Complexity--Living Objects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Effects and Special Attacks">
+    <param name="Local" value="CWH00156.htm">
+    </OBJECT>
+    <A HREF="file:CWH00156.htm">Magical Effects and Special Attacks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flaws">
+    <param name="Local" value="CWH00157.htm">
+    </OBJECT>
+    <A HREF="file:CWH00157.htm">Flaws</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Revealed Illusions">
+    <param name="Local" value="CWH00158.htm">
+    </OBJECT>
+    <A HREF="file:CWH00158.htm">Revealed Illusions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Intelligence">
+    <param name="Local" value="CWH00159.htm">
+    </OBJECT>
+    <A HREF="file:CWH00159.htm">Intelligence</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Illusion-Casting Subject">
+    <param name="Local" value="CWH00160.htm">
+    </OBJECT>
+    <A HREF="file:CWH00160.htm">The Illusion-Casting Subject</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Summary of Modifiers">
+    <param name="Local" value="CWH00161.htm">
+    </OBJECT>
+    <A HREF="file:CWH00161.htm">Summary of Modifiers</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Research">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Research">
+    <param name="Local" value="CWH00162.htm">
+    </OBJECT>
+    <A HREF="file:CWH00162.htm">Spell Research</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Defining a New Spell">
+    <param name="Local" value="CWH00163.htm">
+    </OBJECT>
+    <A HREF="file:CWH00163.htm">Defining a New Spell</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Components">
+    <param name="Local" value="CWH00164.htm">
+    </OBJECT>
+    <A HREF="file:CWH00164.htm">Spell Components</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cost of Research">
+    <param name="Local" value="CWH00165.htm">
+    </OBJECT>
+    <A HREF="file:CWH00165.htm">Cost of Research</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Wizard's Library">
+    <param name="Local" value="CWH00166.htm">
+    </OBJECT>
+    <A HREF="file:CWH00166.htm">The Wizard's Library</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Initial Preparation">
+    <param name="Local" value="CWH00167.htm">
+    </OBJECT>
+    <A HREF="file:CWH00167.htm">Initial Preparation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Research Time and Chance of Success">
+    <param name="Local" value="CWH00168.htm">
+    </OBJECT>
+    <A HREF="file:CWH00168.htm">Research Time and Chance of Success</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Example of Research">
+    <param name="Local" value="CWH00169.htm">
+    </OBJECT>
+    <A HREF="file:CWH00169.htm">Example of Research</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Researching Existing Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Researching Existing Spells">
+    <param name="Local" value="CWH00170.htm">
+    </OBJECT>
+    <A HREF="file:CWH00170.htm">Researching Existing Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Limiting the Success Chance">
+    <param name="Local" value="CWH00171.htm">
+    </OBJECT>
+    <A HREF="file:CWH00171.htm">Limiting the Success Chance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="More About Magical Item Research">
+    <param name="Local" value="CWH00172.htm">
+    </OBJECT>
+    <A HREF="file:CWH00172.htm">More About Magical Item Research</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 8: New Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Spells">
+    <param name="Local" value="CWH00173.htm">
+    </OBJECT>
+    <A HREF="file:CWH00173.htm">New Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Descriptions">
+    <param name="Local" value="CWH00174.htm">
+    </OBJECT>
+    <A HREF="file:CWH00174.htm">Spell Descriptions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Components">
+    <param name="Local" value="CWH00175.htm">
+    </OBJECT>
+    <A HREF="file:CWH00175.htm">Spell Components</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Verbal and Somatic Components">
+    <param name="Local" value="CWH00176.htm">
+    </OBJECT>
+    <A HREF="file:CWH00176.htm">Verbal and Somatic Components</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="First-Level Spells">
+    <param name="Local" value="CWH00177.htm">
+    </OBJECT>
+    <A HREF="file:CWH00177.htm">First-Level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Second-Level Spells">
+    <param name="Local" value="CWH00178.htm">
+    </OBJECT>
+    <A HREF="file:CWH00178.htm">Second-Level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Third-Level Spells">
+    <param name="Local" value="CWH00179.htm">
+    </OBJECT>
+    <A HREF="file:CWH00179.htm">Third-Level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fourth-Level Spells">
+    <param name="Local" value="CWH00180.htm">
+    </OBJECT>
+    <A HREF="file:CWH00180.htm">Fourth-Level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fifth-Level Spells">
+    <param name="Local" value="CWH00181.htm">
+    </OBJECT>
+    <A HREF="file:CWH00181.htm">Fifth-Level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sixth-Level Spells">
+    <param name="Local" value="CWH00182.htm">
+    </OBJECT>
+    <A HREF="file:CWH00182.htm">Sixth-Level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seventh-Level Spell">
+    <param name="Local" value="CWH00183.htm">
+    </OBJECT>
+    <A HREF="file:CWH00183.htm">Seventh-Level Spell</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Eighth-Level Spells">
+    <param name="Local" value="CWH00184.htm">
+    </OBJECT>
+    <A HREF="file:CWH00184.htm">Eighth-Level Spells</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 9: Wizardly Lists">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizardly Lists">
+    <param name="Local" value="CWH00185.htm">
+    </OBJECT>
+    <A HREF="file:CWH00185.htm">Wizardly Lists</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Twenty-five Helpful Familiars">
+    <param name="Local" value="CWH00186.htm">
+    </OBJECT>
+    <A HREF="file:CWH00186.htm">Twenty-five Helpful Familiars</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Five Unusual Sources For Spells">
+    <param name="Local" value="CWH00187.htm">
+    </OBJECT>
+    <A HREF="file:CWH00187.htm">Five Unusual Sources For Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nine Magical Items That Have Not Yet Been Invented">
+    <param name="Local" value="CWH00188.htm">
+    </OBJECT>
+    <A HREF="file:CWH00188.htm">Nine Magical Items That Have Not Yet Been Invented</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Five Debilitating Afflictions">
+    <param name="Local" value="CWH00189.htm">
+    </OBJECT>
+    <A HREF="file:CWH00189.htm">Five Debilitating Afflictions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nine Principles of Conduct For Academy Graduates">
+    <param name="Local" value="CWH00190.htm">
+    </OBJECT>
+    <A HREF="file:CWH00190.htm">Nine Principles of Conduct For Academy Graduates</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Six Common Alchemical Processes">
+    <param name="Local" value="CWH00191.htm">
+    </OBJECT>
+    <A HREF="file:CWH00191.htm">Six Common Alchemical Processes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Eleven Useful Additions to a Wizard's Laboratory">
+    <param name="Local" value="CWH00192.htm">
+    </OBJECT>
+    <A HREF="file:CWH00192.htm">Eleven Useful Additions to a Wizard's Laboratory</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Four Prerequisites For Admission to an Academy of Magic">
+    <param name="Local" value="CWH00193.htm">
+    </OBJECT>
+    <A HREF="file:CWH00193.htm">Four Prerequisites For Admission to an Academy of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nineteen Courses in a Typical Academy Curriculum">
+    <param name="Local" value="CWH00194.htm">
+    </OBJECT>
+    <A HREF="file:CWH00194.htm">Nineteen Courses in a Typical Academy Curriculum</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nine Organizations For Wizards">
+    <param name="Local" value="CWH00195.htm">
+    </OBJECT>
+    <A HREF="file:CWH00195.htm">Nine Organizations For Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="400 Fantastic Materials">
+    <param name="Local" value="CWH00196.htm">
+    </OBJECT>
+    <A HREF="file:CWH00196.htm">400 Fantastic Materials</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Five Incredible Locations">
+    <param name="Local" value="CWH00197.htm">
+    </OBJECT>
+    <A HREF="file:CWH00197.htm">Five Incredible Locations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Twelve New Magical Items">
+    <param name="Local" value="CWH00198.htm">
+    </OBJECT>
+    <A HREF="file:CWH00198.htm">Twelve New Magical Items</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 1: Minimum Spells for a New School">
+    <param name="Local" value="CWH00037.htm">
+    </OBJECT>
+    <A HREF="file:CWH00037.htm">Table 1: Minimum Spells for a New School</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 2: Suggested Maximum Damage of Spells By Level">
+    <param name="Local" value="CWH00042.htm">
+    </OBJECT>
+    <A HREF="file:CWH00042.htm">Table 2: Suggested Maximum Damage of Spells By Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 3: Random Determination of Spell Components">
+    <param name="Local" value="CWH00044.htm">
+    </OBJECT>
+    <A HREF="file:CWH00044.htm">Table 3: Random Determination of Spell Components</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 4: Magic Schools and Types of Effects">
+    <param name="Local" value="CWH00051.htm">
+    </OBJECT>
+    <A HREF="file:CWH00051.htm">Table 4: Magic Schools and Types of Effects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 5: Ability Check Bonuses for Academicians">
+    <param name="Local" value="CWH00059.htm">
+    </OBJECT>
+    <A HREF="file:CWH00059.htm">Table 5: Ability Check Bonuses for Academicians</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 6: Oppositional Schools for Militant Wizards">
+    <param name="Local" value="CWH00062.htm">
+    </OBJECT>
+    <A HREF="file:CWH00062.htm">Table 6: Oppositional Schools for Militant Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 7: Savage Wizard Omen Results">
+    <param name="Local" value="CWH00066.htm">
+    </OBJECT>
+    <A HREF="file:CWH00066.htm">Table 7: Savage Wizard Omen Results</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 8: Effects of Witch's Curse">
+    <param name="Local" value="CWH00067.htm">
+    </OBJECT>
+    <A HREF="file:CWH00067.htm">Table 8: Effects of Witch's Curse</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 9: Selected Oriental Weapons for the Wu Jen">
+    <param name="Local" value="CWH00068.htm">
+    </OBJECT>
+    <A HREF="file:CWH00068.htm">Table 9: Selected Oriental Weapons for the Wu Jen</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 10: Chance of Random Effects of Alteration Spells in Outer Planes">
+    <param name="Local" value="CWH00135.htm">
+    </OBJECT>
+    <A HREF="file:CWH00135.htm">Table 10: Chance of Random Effects of Alteration Spells in Outer Planes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 11: Random Effects of Altered Shapes in the Outer Planes">
+    <param name="Local" value="CWH00135.htm">
+    </OBJECT>
+    <A HREF="file:CWH00135.htm">Table 11: Random Effects of Altered Shapes in the Outer Planes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 12: Wizard Experience Levels Beyond 20th">
+    <param name="Local" value="CWH00142.htm">
+    </OBJECT>
+    <A HREF="file:CWH00142.htm">Table 12: Wizard Experience Levels Beyond 20th</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 13: Wizard Spell Progression Beyond 20th Level">
+    <param name="Local" value="CWH00142.htm">
+    </OBJECT>
+    <A HREF="file:CWH00142.htm">Table 13: Wizard Spell Progression Beyond 20th Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 14: Summary of Possible Modifiers for Saving Throws vs. Illusions">
+    <param name="Local" value="CWH00161.htm">
+    </OBJECT>
+    <A HREF="file:CWH00161.htm">Table 14: Summary of Possible Modifiers for Saving Throws vs. Illusions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 15: Library Values Necessary for Spell Research">
+    <param name="Local" value="CWH00166.htm">
+    </OBJECT>
+    <A HREF="file:CWH00166.htm">Table 15: Library Values Necessary for Spell Research</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 16: Chromatic Orb Effects">
+    <param name="Local" value="CWH00177.htm">
+    </OBJECT>
+    <A HREF="file:CWH00177.htm">Table 16: Chromatic Orb Effects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 17: Summoned Familiars">
+    <param name="Local" value="CWH00186.htm">
+    </OBJECT>
+    <A HREF="file:CWH00186.htm">Table 17: Summoned Familiars</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 18: Conjuritis Results">
+    <param name="Local" value="CWH00189.htm">
+    </OBJECT>
+    <A HREF="file:CWH00189.htm">Table 18: Conjuritis Results</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 19: Random Generation of Fantastic Materials">
+    <param name="Local" value="CWH00196.htm">
+    </OBJECT>
+    <A HREF="file:CWH00196.htm">Table 19: Random Generation of Fantastic Materials</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 20: Results from the Garden of Jertulth">
+    <param name="Local" value="CWH00197.htm">
+    </OBJECT>
+    <A HREF="file:CWH00197.htm">Table 20: Results from the Garden of Jertulth</A>
+</UL>
+</UL>
+</UL>
+</HTML>
