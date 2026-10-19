@@ -1,0 +1,678 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Book of Dwarves">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="Cbd00000.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="Cbd00001.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="Cbd00002.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00002.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: The Creation of Dwarves">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Creation of Dwarves">
+    <param name="Local" value="Cbd00003.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00003.htm">The Creation of Dwarves</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: The Dwarf Subrace">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Dwarf Subraces">
+    <param name="Local" value="Cbd00004.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00004.htm">The Dwarf Subraces</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hill Dwarves">
+    <param name="Local" value="Cbd00005.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00005.htm">Hill Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mountain Dwarves">
+    <param name="Local" value="Cbd00006.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00006.htm">Mountain Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Deep Dwarves">
+    <param name="Local" value="Cbd00007.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00007.htm">Deep Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sundered Dwarves">
+    <param name="Local" value="Cbd00008.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00008.htm">Sundered Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Duergar">
+    <param name="Local" value="Cbd00009.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00009.htm">Duergar</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gully Dwarves">
+    <param name="Local" value="Cbd00010.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00010.htm">Gully Dwarves</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Your Life as a Dwarf">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Your Life as a Dwarf">
+    <param name="Local" value="Cbd00011.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00011.htm">Your Life as a Dwarf</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarf Clans">
+    <param name="Local" value="Cbd00012.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00012.htm">Dwarf Clans</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Loyalty">
+    <param name="Local" value="Cbd00013.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00013.htm">Loyalty</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="World View">
+    <param name="Local" value="Cbd00014.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00014.htm">World View</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarven Crafts">
+    <param name="Local" value="Cbd00015.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00015.htm">Dwarven Crafts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarves and Humor">
+    <param name="Local" value="Cbd00016.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00016.htm">Dwarves and Humor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wealth">
+    <param name="Local" value="Cbd00017.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00017.htm">Wealth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crafts">
+    <param name="Local" value="Cbd00018.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00018.htm">Crafts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Individualism">
+    <param name="Local" value="Cbd00019.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00019.htm">Individualism</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Emotions">
+    <param name="Local" value="Cbd00020.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00020.htm">Emotions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attitudes Toward other Races">
+    <param name="Local" value="Cbd00021.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00021.htm">Attitudes Toward other Races</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War to the Death">
+    <param name="Local" value="Cbd00022.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00022.htm">War to the Death</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Isolationism">
+    <param name="Local" value="Cbd00023.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00023.htm">Isolationism</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarven Hearths">
+    <param name="Local" value="Cbd00024.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00024.htm">Dwarven Hearths</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarves' Diet">
+    <param name="Local" value="Cbd00025.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00025.htm">Dwarves' Diet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clothing">
+    <param name="Local" value="Cbd00026.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00026.htm">Clothing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Music and Singing">
+    <param name="Local" value="Cbd00027.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00027.htm">Music and Singing</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Character Creation">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Creation">
+    <param name="Local" value="Cbd00028.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00028.htm">Character Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hill Dwarves">
+    <param name="Local" value="Cbd00029.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00029.htm">Hill Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mountain Dwarves">
+    <param name="Local" value="Cbd00030.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00030.htm">Mountain Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Deep Dwarves">
+    <param name="Local" value="Cbd00031.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00031.htm">Deep Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Duergar">
+    <param name="Local" value="Cbd00032.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00032.htm">Duergar</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sundered Dwarves">
+    <param name="Local" value="Cbd00033.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00033.htm">Sundered Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gully Dwarves">
+    <param name="Local" value="Cbd00034.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00034.htm">Gully Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ability Score Modifiers">
+    <param name="Local" value="Cbd00035.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00035.htm">Ability Score Modifiers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Other Characteristics">
+    <param name="Local" value="Cbd00036.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00036.htm">Other Characteristics</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Proficiencies">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies">
+    <param name="Local" value="Cbd00037.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00037.htm">Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Proficiencies and Specialization">
+    <param name="Local" value="Cbd00038.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00038.htm">Weapon Proficiencies and Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nonweapon Proficiency Groups">
+    <param name="Local" value="Cbd00039.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00039.htm">Nonweapon Proficiency Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nonweapon Proficiencies">
+    <param name="Local" value="Cbd00040.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00040.htm">Nonweapon Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarven Detection proficiencies">
+    <param name="Local" value="Cbd00041.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00041.htm">Dwarven Detection proficiencies</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 6: Dwarf Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarf Kits">
+    <param name="Local" value="Cbd00042.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00042.htm">Dwarf Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Composition of the Kits">
+    <param name="Local" value="Cbd00043.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00043.htm">The Composition of the Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Kits">
+    <param name="Local" value="Cbd00044.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00044.htm">Warrior Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Master">
+    <param name="Local" value="Cbd00045.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00045.htm">Animal Master</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Axe For Hire">
+    <param name="Local" value="Cbd00046.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00046.htm">Axe For Hire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clansdwarf">
+    <param name="Local" value="Cbd00047.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00047.htm">Clansdwarf</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hearth Guard">
+    <param name="Local" value="Cbd00048.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00048.htm">Hearth Guard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Battlerager">
+    <param name="Local" value="Cbd00049.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00049.htm">Battlerager</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Highborn">
+    <param name="Local" value="Cbd00050.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00050.htm">Highborn</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Outcast">
+    <param name="Local" value="Cbd00051.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00051.htm">Outcast</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rapid Response Rider">
+    <param name="Local" value="Cbd00052.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00052.htm">Rapid Response Rider</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sharpshooter">
+    <param name="Local" value="Cbd00053.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00053.htm">Sharpshooter</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Kits">
+    <param name="Local" value="Cbd00054.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00054.htm">Priest Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ritual Priest">
+    <param name="Local" value="Cbd00058.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00058.htm">Ritual Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crafts Priest">
+    <param name="Local" value="Cbd00055.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00055.htm">Crafts Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pariah">
+    <param name="Local" value="Cbd00056.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00056.htm">Pariah</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Patrician">
+    <param name="Local" value="Cbd00057.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00057.htm">Patrician</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior/Priest Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior/Priest Kits">
+    <param name="Local" value="Cbd00059.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00059.htm">Warrior/Priest Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Champion">
+    <param name="Local" value="Cbd00060.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00060.htm">Champion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Temple Guard">
+    <param name="Local" value="Cbd00061.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00061.htm">Temple Guard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vindicator">
+    <param name="Local" value="Cbd00062.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00062.htm">Vindicator</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thief Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thief Kits">
+    <param name="Local" value="Cbd00063.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00063.htm">Thief Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Diplomat">
+    <param name="Local" value="Cbd00064.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00064.htm">Diplomat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Entertainer">
+    <param name="Local" value="Cbd00065.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00065.htm">Entertainer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Locksmith">
+    <param name="Local" value="Cbd00066.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00066.htm">Locksmith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pest Controller">
+    <param name="Local" value="Cbd00067.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00067.htm">Pest Controller</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior/Thief Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior/Thief Kits">
+    <param name="Local" value="Cbd00068.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00068.htm">Warrior/Thief Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ghetto Fighter">
+    <param name="Local" value="Cbd00069.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00069.htm">Ghetto Fighter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trader">
+    <param name="Local" value="Cbd00070.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00070.htm">Trader</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vermin Slayer">
+    <param name="Local" value="Cbd00071.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00071.htm">Vermin Slayer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wayfinder">
+    <param name="Local" value="Cbd00072.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00072.htm">Wayfinder</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 7: Role Playing and Personalities">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role Playing and Personalities">
+    <param name="Local" value="Cbd00073.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00073.htm">Role Playing and Personalities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Dwarven Personalities">
+    <param name="Local" value="Cbd00074.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00074.htm">The Dwarven Personalities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Decadent">
+    <param name="Local" value="Cbd00075.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00075.htm">The Decadent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Glory Seeker">
+    <param name="Local" value="Cbd00076.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00076.htm">The Glory Seeker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Grumbler">
+    <param name="Local" value="Cbd00077.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00077.htm">The Grumbler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Hoarder">
+    <param name="Local" value="Cbd00078.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00078.htm">The Hoarder</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Optimist">
+    <param name="Local" value="Cbd00079.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00079.htm">The Optimist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Paragon">
+    <param name="Local" value="Cbd00080.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00080.htm">The Paragon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Phobic">
+    <param name="Local" value="Cbd00081.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00081.htm">The Phobic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Pragmatist">
+    <param name="Local" value="Cbd00082.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00082.htm">The Pragmatist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Statesman">
+    <param name="Local" value="Cbd00083.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00083.htm">The Statesman</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 8: Mining">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mining">
+    <param name="Local" value="Cbd00084.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00084.htm">Mining</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conducting a Survey">
+    <param name="Local" value="Cbd00085.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00085.htm">Conducting a Survey</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mine Products">
+    <param name="Local" value="Cbd00086.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00086.htm">Mine Products</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quality of Mine">
+    <param name="Local" value="Cbd00087.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00087.htm">Quality of Mine</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Types of Mines">
+    <param name="Local" value="Cbd00088.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00088.htm">Types of Mines</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Excavating a Tunnel Mine">
+    <param name="Local" value="Cbd00089.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00089.htm">Excavating a Tunnel Mine</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Playing Out a Mine">
+    <param name="Local" value="Cbd00090.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00090.htm">Playing Out a Mine</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Overseeing Mining Operations">
+    <param name="Local" value="Cbd00091.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00091.htm">Overseeing Mining Operations</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 9: Equipment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment">
+    <param name="Local" value="Cbd00092.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00092.htm">Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Smelters">
+    <param name="Local" value="Cbd00093.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00093.htm">Smelters</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Weapons">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Weapons">
+    <param name="Local" value="Cbd00094.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00094.htm">New Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Two-Handed Battle Axe">
+    <param name="Local" value="Cbd00095.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00095.htm">Two-Handed Battle Axe</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Close Combat Weapons">
+    <param name="Local" value="Cbd00096.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00096.htm">Close Combat Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Head Spike">
+    <param name="Local" value="Cbd00097.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00097.htm">Head Spike</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Knee and Elbow Spikes">
+    <param name="Local" value="Cbd00098.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00098.htm">Knee and Elbow Spikes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Glove Nail">
+    <param name="Local" value="Cbd00099.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00099.htm">Glove Nail</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chain Flail">
+    <param name="Local" value="Cbd00100.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00100.htm">Chain Flail</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War Machines">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War Machines">
+    <param name="Local" value="Cbd00101.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00101.htm">War Machines</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grinder">
+    <param name="Local" value="Cbd00102.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00102.htm">Grinder</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ballista">
+    <param name="Local" value="Cbd00103.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00103.htm">Ballista</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Orc Masher">
+    <param name="Local" value="Cbd00104.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00104.htm">Orc Masher</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 10: Dwarf Strongholds">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarf Strongholds">
+    <param name="Local" value="Cbd00105.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00105.htm">Dwarf Strongholds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Designing Dwarf Strongholds">
+    <param name="Local" value="Cbd00106.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00106.htm">Designing Dwarf Strongholds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Stronghold of Bazzakrak">
+    <param name="Local" value="Cbd00107.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00107.htm">The Stronghold of Bazzakrak</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 11: Designing Dwarf Campaigns">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creating a History">
+    <param name="Local" value="Cbd00108.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00108.htm">Creating a History</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Importance of Myth">
+    <param name="Local" value="Cbd00109.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00109.htm">The Importance of Myth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Importance of the Gods">
+    <param name="Local" value="Cbd00110.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00110.htm">The Importance of the Gods</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Races of the World">
+    <param name="Local" value="Cbd00111.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00111.htm">The Races of the World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War and Conflicts">
+    <param name="Local" value="Cbd00112.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00112.htm">War and Conflicts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Campaign Environments">
+    <param name="Local" value="Cbd00113.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00113.htm">Campaign Environments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creating New Kits">
+    <param name="Local" value="Cbd00114.htm">
+    </OBJECT>
+    <A HREF="file:Cbd00114.htm">Creating New Kits</A>
+</UL>
+</UL>
+</UL>
+</HTML>
