@@ -1,0 +1,1588 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Fighter's Handbook">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="CFH00000.htm">
+    </OBJECT>
+    <A HREF="file:CFH00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="CFH00001.htm">
+    </OBJECT>
+    <A HREF="file:CFH00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="CFH00002.htm">
+    </OBJECT>
+    <A HREF="file:CFH00002.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Creation">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Creation">
+    <param name="Local" value="CFH00003.htm">
+    </OBJECT>
+    <A HREF="file:CFH00003.htm">Character Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ability Scores">
+    <param name="Local" value="CFH00004.htm">
+    </OBJECT>
+    <A HREF="file:CFH00004.htm">Ability Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Races">
+    <param name="Local" value="CFH00005.htm">
+    </OBJECT>
+    <A HREF="file:CFH00005.htm">Races</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Classes">
+    <param name="Local" value="CFH00006.htm">
+    </OBJECT>
+    <A HREF="file:CFH00006.htm">Classes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alignment">
+    <param name="Local" value="CFH00007.htm">
+    </OBJECT>
+    <A HREF="file:CFH00007.htm">Alignment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Kits">
+    <param name="Local" value="CFH00008.htm">
+    </OBJECT>
+    <A HREF="file:CFH00008.htm">Warrior Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies">
+    <param name="Local" value="CFH00009.htm">
+    </OBJECT>
+    <A HREF="file:CFH00009.htm">Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bower/Fletcher">
+    <param name="Local" value="CFH00020.htm">
+    </OBJECT>
+    <A HREF="file:CFH00020.htm">Bower/Fletcher</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Money and Equipment">
+    <param name="Local" value="CFH00025.htm">
+    </OBJECT>
+    <A HREF="file:CFH00025.htm">Money and Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic">
+    <param name="Local" value="CFH00026.htm">
+    </OBJECT>
+    <A HREF="file:CFH00026.htm">Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Experience">
+    <param name="Local" value="CFH00027.htm">
+    </OBJECT>
+    <A HREF="file:CFH00027.htm">Experience</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armorer">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armorer">
+    <param name="Local" value="CFH00010.htm">
+    </OBJECT>
+    <A HREF="file:CFH00010.htm">Armorer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Workshop">
+    <param name="Local" value="CFH00011.htm">
+    </OBJECT>
+    <A HREF="file:CFH00011.htm">The Workshop</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Apprentices and Overseers">
+    <param name="Local" value="CFH00012.htm">
+    </OBJECT>
+    <A HREF="file:CFH00012.htm">Apprentices and Overseers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Time to Craft Armor">
+    <param name="Local" value="CFH00013.htm">
+    </OBJECT>
+    <A HREF="file:CFH00013.htm">Time to Craft Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cost to Craft Armor">
+    <param name="Local" value="CFH00014.htm">
+    </OBJECT>
+    <A HREF="file:CFH00014.htm">Cost to Craft Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chance of Failure">
+    <param name="Local" value="CFH00015.htm">
+    </OBJECT>
+    <A HREF="file:CFH00015.htm">Chance of Failure</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Added Expenses">
+    <param name="Local" value="CFH00016.htm">
+    </OBJECT>
+    <A HREF="file:CFH00016.htm">Added Expenses</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Player-Character Workshops">
+    <param name="Local" value="CFH00017.htm">
+    </OBJECT>
+    <A HREF="file:CFH00017.htm">Player-Character Workshops</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Repairing Armor">
+    <param name="Local" value="CFH00018.htm">
+    </OBJECT>
+    <A HREF="file:CFH00018.htm">Repairing Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Repairing Magical Armor">
+    <param name="Local" value="CFH00019.htm">
+    </OBJECT>
+    <A HREF="file:CFH00019.htm">Repairing Magical Armor</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weaponsmithing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weaponsmithing">
+    <param name="Local" value="CFH00021.htm">
+    </OBJECT>
+    <A HREF="file:CFH00021.htm">Weaponsmithing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weaponsmithing Failure">
+    <param name="Local" value="CFH00022.htm">
+    </OBJECT>
+    <A HREF="file:CFH00022.htm">Weaponsmithing Failure</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Quality">
+    <param name="Local" value="CFH00023.htm">
+    </OBJECT>
+    <A HREF="file:CFH00023.htm">Weapon Quality</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapons Not Shown">
+    <param name="Local" value="CFH00024.htm">
+    </OBJECT>
+    <A HREF="file:CFH00024.htm">Weapons Not Shown</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Kits">
+    <param name="Local" value="CFH00028.htm">
+    </OBJECT>
+    <A HREF="file:CFH00028.htm">Warrior Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits and Warriors">
+    <param name="Local" value="CFH00029.htm">
+    </OBJECT>
+    <A HREF="file:CFH00029.htm">Kits and Warriors</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits and the Warrior Classes">
+    <param name="Local" value="CFH00030.htm">
+    </OBJECT>
+    <A HREF="file:CFH00030.htm">Kits and the Warrior Classes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits and Character Creation">
+    <param name="Local" value="CFH00031.htm">
+    </OBJECT>
+    <A HREF="file:CFH00031.htm">Kits and Character Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recording Kits on the Character Sheet">
+    <param name="Local" value="CFH00047.htm">
+    </OBJECT>
+    <A HREF="file:CFH00047.htm">Recording Kits on the Character Sheet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Kits and Multi-Class Characters">
+    <param name="Local" value="CFH00048.htm">
+    </OBJECT>
+    <A HREF="file:CFH00048.htm">Warrior Kits and Multi-Class Characters</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Kits and Dual-Classed Characters">
+    <param name="Local" value="CFH00049.htm">
+    </OBJECT>
+    <A HREF="file:CFH00049.htm">Warrior Kits and Dual-Classed Characters</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abandoning a Kit">
+    <param name="Local" value="CFH00050.htm">
+    </OBJECT>
+    <A HREF="file:CFH00050.htm">Abandoning a Kit</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Modifying the Kits">
+    <param name="Local" value="CFH00051.htm">
+    </OBJECT>
+    <A HREF="file:CFH00051.htm">Modifying the Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creating New Kits">
+    <param name="Local" value="CFH00052.htm">
+    </OBJECT>
+    <A HREF="file:CFH00052.htm">Creating New Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Warrior Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Warrior Kits">
+    <param name="Local" value="CFH00032.htm">
+    </OBJECT>
+    <A HREF="file:CFH00032.htm">The Warrior Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amazon">
+    <param name="Local" value="CFH00033.htm">
+    </OBJECT>
+    <A HREF="file:CFH00033.htm">Amazon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Barbarian">
+    <param name="Local" value="CFH00034.htm">
+    </OBJECT>
+    <A HREF="file:CFH00034.htm">Barbarian</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Beast Rider">
+    <param name="Local" value="CFH00035.htm">
+    </OBJECT>
+    <A HREF="file:CFH00035.htm">Beast Rider</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Berserker">
+    <param name="Local" value="CFH00036.htm">
+    </OBJECT>
+    <A HREF="file:CFH00036.htm">Berserker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cavalier">
+    <param name="Local" value="CFH00037.htm">
+    </OBJECT>
+    <A HREF="file:CFH00037.htm">Cavalier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gladiator">
+    <param name="Local" value="CFH00038.htm">
+    </OBJECT>
+    <A HREF="file:CFH00038.htm">Gladiator</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Myrmidon">
+    <param name="Local" value="CFH00039.htm">
+    </OBJECT>
+    <A HREF="file:CFH00039.htm">Myrmidon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Noble Warrior">
+    <param name="Local" value="CFH00040.htm">
+    </OBJECT>
+    <A HREF="file:CFH00040.htm">Noble Warrior</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Peasant Hero">
+    <param name="Local" value="CFH00041.htm">
+    </OBJECT>
+    <A HREF="file:CFH00041.htm">Peasant Hero</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pirate/Outlaw">
+    <param name="Local" value="CFH00042.htm">
+    </OBJECT>
+    <A HREF="file:CFH00042.htm">Pirate/Outlaw</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Samurai">
+    <param name="Local" value="CFH00043.htm">
+    </OBJECT>
+    <A HREF="file:CFH00043.htm">Samurai</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Savage">
+    <param name="Local" value="CFH00044.htm">
+    </OBJECT>
+    <A HREF="file:CFH00044.htm">Savage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swashbuckler">
+    <param name="Local" value="CFH00045.htm">
+    </OBJECT>
+    <A HREF="file:CFH00045.htm">Swashbuckler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wilderness Warrior">
+    <param name="Local" value="CFH00046.htm">
+    </OBJECT>
+    <A HREF="file:CFH00046.htm">Wilderness Warrior</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role-Playing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role Playing">
+    <param name="Local" value="CFH00053.htm">
+    </OBJECT>
+    <A HREF="file:CFH00053.htm">Role Playing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Changing Personality Types">
+    <param name="Local" value="CFH00063.htm">
+    </OBJECT>
+    <A HREF="file:CFH00063.htm">Changing Personality Types</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Military Campaign">
+    <param name="Local" value="CFH00086.htm">
+    </OBJECT>
+    <A HREF="file:CFH00086.htm">The Military Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Campaign vs. Mini-Series">
+    <param name="Local" value="CFH00087.htm">
+    </OBJECT>
+    <A HREF="file:CFH00087.htm">Campaign vs. Mini-Series</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Personalities">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warrior Personalities">
+    <param name="Local" value="CFH00054.htm">
+    </OBJECT>
+    <A HREF="file:CFH00054.htm">Warrior Personalities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Brash Youth">
+    <param name="Local" value="CFH00055.htm">
+    </OBJECT>
+    <A HREF="file:CFH00055.htm">The Brash Youth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Crude Crusher">
+    <param name="Local" value="CFH00056.htm">
+    </OBJECT>
+    <A HREF="file:CFH00056.htm">The Crude Crusher</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Dangerous Antagonist">
+    <param name="Local" value="CFH00057.htm">
+    </OBJECT>
+    <A HREF="file:CFH00057.htm">The Dangerous Antagonist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Doomed Champion">
+    <param name="Local" value="CFH00058.htm">
+    </OBJECT>
+    <A HREF="file:CFH00058.htm">The Doomed Champion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Fated Philosopher">
+    <param name="Local" value="CFH00059.htm">
+    </OBJECT>
+    <A HREF="file:CFH00059.htm">The Fated Philosopher</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Merry Showoff">
+    <param name="Local" value="CFH00060.htm">
+    </OBJECT>
+    <A HREF="file:CFH00060.htm">The Merry Showoff</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Natural Leader">
+    <param name="Local" value="CFH00061.htm">
+    </OBJECT>
+    <A HREF="file:CFH00061.htm">The Natural Leader</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Sneaky Thinker">
+    <param name="Local" value="CFH00062.htm">
+    </OBJECT>
+    <A HREF="file:CFH00062.htm">The Sneaky Thinker</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Warrior Campaign">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Warrior Campaign">
+    <param name="Local" value="CFH00064.htm">
+    </OBJECT>
+    <A HREF="file:CFH00064.htm">The Warrior Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical World vs. Non-Magical World">
+    <param name="Local" value="CFH00065.htm">
+    </OBJECT>
+    <A HREF="file:CFH00065.htm">Magical World vs. Non-Magical World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical World">
+    <param name="Local" value="CFH00066.htm">
+    </OBJECT>
+    <A HREF="file:CFH00066.htm">Magical World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mostly Non-Magical World">
+    <param name="Local" value="CFH00067.htm">
+    </OBJECT>
+    <A HREF="file:CFH00067.htm">Mostly Non-Magical World</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strictly Non-Magical World">
+    <param name="Local" value="CFH00068.htm">
+    </OBJECT>
+    <A HREF="file:CFH00068.htm">Strictly Non-Magical World</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Mixed-Warrior-Type Campaign">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Mixed-Warrior-Type Campaign">
+    <param name="Local" value="CFH00069.htm">
+    </OBJECT>
+    <A HREF="file:CFH00069.htm">The Mixed-Warrior-Type Campaign</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The One-Warrior-Type Campaign">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The One-Warrior-Type Campaign">
+    <param name="Local" value="CFH00070.htm">
+    </OBJECT>
+    <A HREF="file:CFH00070.htm">The One-Warrior-Type Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amazons">
+    <param name="Local" value="CFH00071.htm">
+    </OBJECT>
+    <A HREF="file:CFH00071.htm">Amazons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Barbarians and Berserkers">
+    <param name="Local" value="CFH00072.htm">
+    </OBJECT>
+    <A HREF="file:CFH00072.htm">Barbarians and Berserkers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Beast-Riders">
+    <param name="Local" value="CFH00073.htm">
+    </OBJECT>
+    <A HREF="file:CFH00073.htm">Beast-Riders</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cavaliers">
+    <param name="Local" value="CFH00074.htm">
+    </OBJECT>
+    <A HREF="file:CFH00074.htm">Cavaliers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gladiators">
+    <param name="Local" value="CFH00075.htm">
+    </OBJECT>
+    <A HREF="file:CFH00075.htm">Gladiators</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Myrmidons">
+    <param name="Local" value="CFH00076.htm">
+    </OBJECT>
+    <A HREF="file:CFH00076.htm">Myrmidons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Noble Warriors">
+    <param name="Local" value="CFH00077.htm">
+    </OBJECT>
+    <A HREF="file:CFH00077.htm">Noble Warriors</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Peasant Heroes">
+    <param name="Local" value="CFH00078.htm">
+    </OBJECT>
+    <A HREF="file:CFH00078.htm">Peasant Heroes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pirates and Outlaws">
+    <param name="Local" value="CFH00079.htm">
+    </OBJECT>
+    <A HREF="file:CFH00079.htm">Pirates and Outlaws</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Good-Guy Outlaws and Pirates">
+    <param name="Local" value="CFH00080.htm">
+    </OBJECT>
+    <A HREF="file:CFH00080.htm">Good-Guy Outlaws and Pirates</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bad-Guy Outlaws and Pirates">
+    <param name="Local" value="CFH00081.htm">
+    </OBJECT>
+    <A HREF="file:CFH00081.htm">Bad-Guy Outlaws and Pirates</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Samurai">
+    <param name="Local" value="CFH00082.htm">
+    </OBJECT>
+    <A HREF="file:CFH00082.htm">Samurai</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Savages">
+    <param name="Local" value="CFH00083.htm">
+    </OBJECT>
+    <A HREF="file:CFH00083.htm">Savages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swashbucklers">
+    <param name="Local" value="CFH00084.htm">
+    </OBJECT>
+    <A HREF="file:CFH00084.htm">Swashbucklers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wilderness Warriors">
+    <param name="Local" value="CFH00085.htm">
+    </OBJECT>
+    <A HREF="file:CFH00085.htm">Wilderness Warriors</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Rules">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Rules">
+    <param name="Local" value="CFH00088.htm">
+    </OBJECT>
+    <A HREF="file:CFH00088.htm">Combat Rules</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Combat Rules">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Off-Hand Weapons Use">
+    <param name="Local" value="CFH00089.htm">
+    </OBJECT>
+    <A HREF="file:CFH00089.htm">Off-Hand Weapons Use</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kneeling and Sitting">
+    <param name="Local" value="CFH00090.htm">
+    </OBJECT>
+    <A HREF="file:CFH00090.htm">Kneeling and Sitting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Range and Initiative">
+    <param name="Local" value="CFH00091.htm">
+    </OBJECT>
+    <A HREF="file:CFH00091.htm">Range and Initiative</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Proficiency Slots">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Proficiency Slots">
+    <param name="Local" value="CFH00092.htm">
+    </OBJECT>
+    <A HREF="file:CFH00092.htm">Weapon Proficiency Slots</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Intelligence and Proficiencies">
+    <param name="Local" value="CFH00093.htm">
+    </OBJECT>
+    <A HREF="file:CFH00093.htm">Intelligence and Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Single-Weapon Proficiency, Weapon Specialization">
+    <param name="Local" value="CFH00094.htm">
+    </OBJECT>
+    <A HREF="file:CFH00094.htm">Single-Weapon Proficiency, Weapon Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon-Group Proficiency">
+    <param name="Local" value="CFH00095.htm">
+    </OBJECT>
+    <A HREF="file:CFH00095.htm">Weapon-Group Proficiency</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tight Groups">
+    <param name="Local" value="CFH00096.htm">
+    </OBJECT>
+    <A HREF="file:CFH00096.htm">Tight Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Broad Groups">
+    <param name="Local" value="CFH00097.htm">
+    </OBJECT>
+    <A HREF="file:CFH00097.htm">Broad Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Non-Groups">
+    <param name="Local" value="CFH00098.htm">
+    </OBJECT>
+    <A HREF="file:CFH00098.htm">Non-Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Specialization and Weapon Groups">
+    <param name="Local" value="CFH00099.htm">
+    </OBJECT>
+    <A HREF="file:CFH00099.htm">Weapon Specialization and Weapon Groups</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ambidexterity">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ambidexterity">
+    <param name="Local" value="CFH00100.htm">
+    </OBJECT>
+    <A HREF="file:CFH00100.htm">Ambidexterity</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Style Specialization">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Style Specialization">
+    <param name="Local" value="CFH00101.htm">
+    </OBJECT>
+    <A HREF="file:CFH00101.htm">Style Specialization</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Punching and Wrestling Specialization">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Punching and Wrestling Specialization">
+    <param name="Local" value="CFH00102.htm">
+    </OBJECT>
+    <A HREF="file:CFH00102.htm">Punching and Wrestling Specialization</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts">
+    <param name="Local" value="CFH00103.htm">
+    </OBJECT>
+    <A HREF="file:CFH00103.htm">Martial Arts</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Styles">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Styles">
+    <param name="Local" value="CFH00104.htm">
+    </OBJECT>
+    <A HREF="file:CFH00104.htm">Fighting Styles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Four Fighting Styles">
+    <param name="Local" value="CFH00105.htm">
+    </OBJECT>
+    <A HREF="file:CFH00105.htm">The Four Fighting Styles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specializing In the Styles">
+    <param name="Local" value="CFH00106.htm">
+    </OBJECT>
+    <A HREF="file:CFH00106.htm">Specializing In the Styles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guidelines">
+    <param name="Local" value="CFH00107.htm">
+    </OBJECT>
+    <A HREF="file:CFH00107.htm">Guidelines</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multiple Style Specializations">
+    <param name="Local" value="CFH00108.htm">
+    </OBJECT>
+    <A HREF="file:CFH00108.htm">Multiple Style Specializations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Limitations on Style Specialization">
+    <param name="Local" value="CFH00109.htm">
+    </OBJECT>
+    <A HREF="file:CFH00109.htm">Limitations on Style Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Single-Weapon Style">
+    <param name="Local" value="CFH00110.htm">
+    </OBJECT>
+    <A HREF="file:CFH00110.htm">Single-Weapon Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Two-Hander Style">
+    <param name="Local" value="CFH00111.htm">
+    </OBJECT>
+    <A HREF="file:CFH00111.htm">Two-Hander Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon and Shield Style">
+    <param name="Local" value="CFH00112.htm">
+    </OBJECT>
+    <A HREF="file:CFH00112.htm">Weapon and Shield Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Two-Weapon Style">
+    <param name="Local" value="CFH00113.htm">
+    </OBJECT>
+    <A HREF="file:CFH00113.htm">Two-Weapon Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sample Style Specialization">
+    <param name="Local" value="CFH00114.htm">
+    </OBJECT>
+    <A HREF="file:CFH00114.htm">Sample Style Specialization</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Melee Maneuvers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Melee Maneuvers">
+    <param name="Local" value="CFH00115.htm">
+    </OBJECT>
+    <A HREF="file:CFH00115.htm">Melee Maneuvers</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Called Shots">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Called Shots">
+    <param name="Local" value="CFH00116.htm">
+    </OBJECT>
+    <A HREF="file:CFH00116.htm">Called Shots</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Striking A Specific Body Part">
+    <param name="Local" value="CFH00117.htm">
+    </OBJECT>
+    <A HREF="file:CFH00117.htm">Striking A Specific Body Part</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Smashing Something Being Held">
+    <param name="Local" value="CFH00118.htm">
+    </OBJECT>
+    <A HREF="file:CFH00118.htm">Smashing Something Being Held</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bypassing Armor">
+    <param name="Local" value="CFH00119.htm">
+    </OBJECT>
+    <A HREF="file:CFH00119.htm">Bypassing Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Special Results">
+    <param name="Local" value="CFH00120.htm">
+    </OBJECT>
+    <A HREF="file:CFH00120.htm">Special Results</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disarm">
+    <param name="Local" value="CFH00121.htm">
+    </OBJECT>
+    <A HREF="file:CFH00121.htm">Disarm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thrown-Weapon and Missile Disarms">
+    <param name="Local" value="CFH00122.htm">
+    </OBJECT>
+    <A HREF="file:CFH00122.htm">Thrown-Weapon and Missile Disarms</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Expert Disarms">
+    <param name="Local" value="CFH00123.htm">
+    </OBJECT>
+    <A HREF="file:CFH00123.htm">Expert Disarms</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grab">
+    <param name="Local" value="CFH00124.htm">
+    </OBJECT>
+    <A HREF="file:CFH00124.htm">Grab</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grabbing A Person">
+    <param name="Local" value="CFH00125.htm">
+    </OBJECT>
+    <A HREF="file:CFH00125.htm">Grabbing A Person</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grabbing a Monster">
+    <param name="Local" value="CFH00126.htm">
+    </OBJECT>
+    <A HREF="file:CFH00126.htm">Grabbing a Monster</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hold Attack">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hold Attack">
+    <param name="Local" value="CFH00127.htm">
+    </OBJECT>
+    <A HREF="file:CFH00127.htm">Hold Attack</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Characters With Multiple Attacks">
+    <param name="Local" value="CFH00128.htm">
+    </OBJECT>
+    <A HREF="file:CFH00128.htm">Characters With Multiple Attacks</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Parry">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Parry">
+    <param name="Local" value="CFH00129.htm">
+    </OBJECT>
+    <A HREF="file:CFH00129.htm">Parry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Choice of Parries">
+    <param name="Local" value="CFH00130.htm">
+    </OBJECT>
+    <A HREF="file:CFH00130.htm">Choice of Parries</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Polearm Parries">
+    <param name="Local" value="CFH00131.htm">
+    </OBJECT>
+    <A HREF="file:CFH00131.htm">Polearm Parries</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Missile Weapon Parries">
+    <param name="Local" value="CFH00132.htm">
+    </OBJECT>
+    <A HREF="file:CFH00132.htm">Missile Weapon Parries</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Parrying from the DMG">
+    <param name="Local" value="CFH00133.htm">
+    </OBJECT>
+    <A HREF="file:CFH00133.htm">Parrying from the DMG</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="PIn">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pin">
+    <param name="Local" value="CFH00134.htm">
+    </OBJECT>
+    <A HREF="file:CFH00134.htm">Pin</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pull/Trip">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pull/Trip">
+    <param name="Local" value="CFH00135.htm">
+    </OBJECT>
+    <A HREF="file:CFH00135.htm">Pull/Trip</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Use of Polearms">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Use of Polearms">
+    <param name="Local" value="CFH00136.htm">
+    </OBJECT>
+    <A HREF="file:CFH00136.htm">Use of Polearms</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sap">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sap">
+    <param name="Local" value="CFH00137.htm">
+    </OBJECT>
+    <A HREF="file:CFH00137.htm">Sap</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield-Punch">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield-Punch">
+    <param name="Local" value="CFH00138.htm">
+    </OBJECT>
+    <A HREF="file:CFH00138.htm">Shield-Punch</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield-Rush">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield-Rush">
+    <param name="Local" value="CFH00139.htm">
+    </OBJECT>
+    <A HREF="file:CFH00139.htm">Shield-Rush</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield/Thrust">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strike/Thrust">
+    <param name="Local" value="CFH00140.htm">
+    </OBJECT>
+    <A HREF="file:CFH00140.htm">Strike/Thrust</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Surprise and Flash Maneuvers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Surprise and Flash Maneuvers">
+    <param name="Local" value="CFH00141.htm">
+    </OBJECT>
+    <A HREF="file:CFH00141.htm">Surprise and Flash Maneuvers</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Don't Say No-Determine Difficulty">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Don't Say No">
+    </OBJECT>
+<UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Maneuvers in the Campaign">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Maneuvers In the Campaign">
+    <param name="Local" value="CFH00143.htm">
+    </OBJECT>
+    <A HREF="file:CFH00143.htm">Maneuvers In the Campaign</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Punching, Wrestling and Martial Arts">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Punching, Wrestling, and Martial Arts">
+    <param name="Local" value="CFH00144.htm">
+    </OBJECT>
+    <A HREF="file:CFH00144.htm">Punching, Wrestling, and Martial Arts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specializing With Punching and Wrestling">
+    <param name="Local" value="CFH00145.htm">
+    </OBJECT>
+    <A HREF="file:CFH00145.htm">Specializing With Punching and Wrestling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Normal Punching Attacks">
+    <param name="Local" value="CFH00146.htm">
+    </OBJECT>
+    <A HREF="file:CFH00146.htm">Normal Punching Attacks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Punching Specialization">
+    <param name="Local" value="CFH00147.htm">
+    </OBJECT>
+    <A HREF="file:CFH00147.htm">Punching Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Normal Wrestling Attacks">
+    <param name="Local" value="CFH00148.htm">
+    </OBJECT>
+    <A HREF="file:CFH00148.htm">Normal Wrestling Attacks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wrestling Specialization">
+    <param name="Local" value="CFH00149.htm">
+    </OBJECT>
+    <A HREF="file:CFH00149.htm">Wrestling Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts">
+    <param name="Local" value="CFH00150.htm">
+    </OBJECT>
+    <A HREF="file:CFH00150.htm">Martial Arts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts Results">
+    <param name="Local" value="CFH00151.htm">
+    </OBJECT>
+    <A HREF="file:CFH00151.htm">Martial Arts Results</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Descriptions of the Maneuvers">
+    <param name="Local" value="CFH00152.htm">
+    </OBJECT>
+    <A HREF="file:CFH00152.htm">Descriptions of the Maneuvers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specializing in Martial Arts">
+    <param name="Local" value="CFH00153.htm">
+    </OBJECT>
+    <A HREF="file:CFH00153.htm">Specializing in Martial Arts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="More Than One Style">
+    <param name="Local" value="CFH00154.htm">
+    </OBJECT>
+    <A HREF="file:CFH00154.htm">More Than One Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Continuing Specialization">
+    <param name="Local" value="CFH00155.htm">
+    </OBJECT>
+    <A HREF="file:CFH00155.htm">Continuing Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Martial Artist">
+    <param name="Local" value="CFH00156.htm">
+    </OBJECT>
+    <A HREF="file:CFH00156.htm">The Complete Martial Artist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="In Oriental Campaigns">
+    <param name="Local" value="CFH00157.htm">
+    </OBJECT>
+    <A HREF="file:CFH00157.htm">In Oriental Campaigns</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Barehanded Maneuvers">
+    <param name="Local" value="CFH00158.htm">
+    </OBJECT>
+    <A HREF="file:CFH00158.htm">Barehanded Maneuvers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Called Shots: Punching and Martial Arts">
+    <param name="Local" value="CFH00159.htm">
+    </OBJECT>
+    <A HREF="file:CFH00159.htm">Called Shots: Punching and Martial Arts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Called Shots: Wrestling">
+    <param name="Local" value="CFH00160.htm">
+    </OBJECT>
+    <A HREF="file:CFH00160.htm">Called Shots: Wrestling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disarm">
+    <param name="Local" value="CFH00161.htm">
+    </OBJECT>
+    <A HREF="file:CFH00161.htm">Disarm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grab">
+    <param name="Local" value="CFH00162.htm">
+    </OBJECT>
+    <A HREF="file:CFH00162.htm">Grab</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hold Attack">
+    <param name="Local" value="CFH00163.htm">
+    </OBJECT>
+    <A HREF="file:CFH00163.htm">Hold Attack</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Parry">
+    <param name="Local" value="CFH00164.htm">
+    </OBJECT>
+    <A HREF="file:CFH00164.htm">Parry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pin">
+    <param name="Local" value="CFH00165.htm">
+    </OBJECT>
+    <A HREF="file:CFH00165.htm">Pin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pull/Trip">
+    <param name="Local" value="CFH00166.htm">
+    </OBJECT>
+    <A HREF="file:CFH00166.htm">Pull/Trip</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sap">
+    <param name="Local" value="CFH00167.htm">
+    </OBJECT>
+    <A HREF="file:CFH00167.htm">Sap</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield-Punch">
+    <param name="Local" value="CFH00168.htm">
+    </OBJECT>
+    <A HREF="file:CFH00168.htm">Shield-Punch</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield-Rush">
+    <param name="Local" value="CFH00169.htm">
+    </OBJECT>
+    <A HREF="file:CFH00169.htm">Shield-Rush</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strike/Thrust">
+    <param name="Local" value="CFH00170.htm">
+    </OBJECT>
+    <A HREF="file:CFH00170.htm">Strike/Thrust</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hit Locations">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hit Locations">
+    <param name="Local" value="CFH00171.htm">
+    </OBJECT>
+    <A HREF="file:CFH00171.htm">Hit Locations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The "Numbed" and "Useless" Numbers">
+    <param name="Local" value="CFH00172.htm">
+    </OBJECT>
+    <A HREF="file:CFH00172.htm">The "Numbed" and "Useless" Numbers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Body Locations">
+    <param name="Local" value="CFH00173.htm">
+    </OBJECT>
+    <A HREF="file:CFH00173.htm">Body Locations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Locations">
+    <param name="Local" value="CFH00174.htm">
+    </OBJECT>
+    <A HREF="file:CFH00174.htm">The Locations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="General Effects of Called Shots">
+    <param name="Local" value="CFH00175.htm">
+    </OBJECT>
+    <A HREF="file:CFH00175.htm">General Effects of Called Shots</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specific Effects of Called Shots">
+    <param name="Local" value="CFH00176.htm">
+    </OBJECT>
+    <A HREF="file:CFH00176.htm">Specific Effects of Called Shots</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recording These Injuries">
+    <param name="Local" value="CFH00177.htm">
+    </OBJECT>
+    <A HREF="file:CFH00177.htm">Recording These Injuries</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Individual Injuries and Healing Magic">
+    <param name="Local" value="CFH00178.htm">
+    </OBJECT>
+    <A HREF="file:CFH00178.htm">Individual Injuries and Healing Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Permanent and Crippling Effects">
+    <param name="Local" value="CFH00179.htm">
+    </OBJECT>
+    <A HREF="file:CFH00179.htm">Permanent and Crippling Effects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Monsters and Hit Locations">
+    <param name="Local" value="CFH00180.htm">
+    </OBJECT>
+    <A HREF="file:CFH00180.htm">Monsters and Hit Locations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="This System and Low-Level Characters">
+    <param name="Local" value="CFH00181.htm">
+    </OBJECT>
+    <A HREF="file:CFH00181.htm">This System and Low-Level Characters</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recovery">
+    <param name="Local" value="CFH00182.htm">
+    </OBJECT>
+    <A HREF="file:CFH00182.htm">Recovery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recovery Of Temporary Damage">
+    <param name="Local" value="CFH00183.htm">
+    </OBJECT>
+    <A HREF="file:CFH00183.htm">Recovery Of Temporary Damage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recording Temporary Damage">
+    <param name="Local" value="CFH00184.htm">
+    </OBJECT>
+    <A HREF="file:CFH00184.htm">Recording Temporary Damage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recovering From Temporary Damage">
+    <param name="Local" value="CFH00185.htm">
+    </OBJECT>
+    <A HREF="file:CFH00185.htm">Recovering From Temporary Damage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Healing and Temporary Damage">
+    <param name="Local" value="CFH00186.htm">
+    </OBJECT>
+    <A HREF="file:CFH00186.htm">Magical Healing and Temporary Damage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recovery From Knockout">
+    <param name="Local" value="CFH00187.htm">
+    </OBJECT>
+    <A HREF="file:CFH00187.htm">Recovery From Knockout</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Temporary Damage and Knockout">
+    <param name="Local" value="CFH00188.htm">
+    </OBJECT>
+    <A HREF="file:CFH00188.htm">Temporary Damage and Knockout</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Healing and Knockout">
+    <param name="Local" value="CFH00189.htm">
+    </OBJECT>
+    <A HREF="file:CFH00189.htm">Magical Healing and Knockout</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Conditions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Conditions">
+    <param name="Local" value="CFH00190.htm">
+    </OBJECT>
+    <A HREF="file:CFH00190.htm">Combat Conditions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Darkness and Blindness">
+    <param name="Local" value="CFH00191.htm">
+    </OBJECT>
+    <A HREF="file:CFH00191.htm">Darkness and Blindness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unstable Ground">
+    <param name="Local" value="CFH00192.htm">
+    </OBJECT>
+    <A HREF="file:CFH00192.htm">Unstable Ground</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mounted Combat">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mounted Combat">
+    <param name="Local" value="CFH00193.htm">
+    </OBJECT>
+    <A HREF="file:CFH00193.htm">Mounted Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jousting">
+    <param name="Local" value="CFH00194.htm">
+    </OBJECT>
+    <A HREF="file:CFH00194.htm">Jousting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lance Specialization">
+    <param name="Local" value="CFH00195.htm">
+    </OBJECT>
+    <A HREF="file:CFH00195.htm">Lance Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Horseback Archery">
+    <param name="Local" value="CFH00196.htm">
+    </OBJECT>
+    <A HREF="file:CFH00196.htm">Horseback Archery</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tournaments">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tournaments">
+    <param name="Local" value="CFH00197.htm">
+    </OBJECT>
+    <A HREF="file:CFH00197.htm">Tournaments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Basic Tournament">
+    <param name="Local" value="CFH00198.htm">
+    </OBJECT>
+    <A HREF="file:CFH00198.htm">The Basic Tournament</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Joust List">
+    <param name="Local" value="CFH00199.htm">
+    </OBJECT>
+    <A HREF="file:CFH00199.htm">The Joust List</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Jousting Competition">
+    <param name="Local" value="CFH00200.htm">
+    </OBJECT>
+    <A HREF="file:CFH00200.htm">The Jousting Competition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blunted Lances">
+    <param name="Local" value="CFH00201.htm">
+    </OBJECT>
+    <A HREF="file:CFH00201.htm">Blunted Lances</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Queen of Love and Beauty">
+    <param name="Local" value="CFH00202.htm">
+    </OBJECT>
+    <A HREF="file:CFH00202.htm">Queen of Love and Beauty</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Other Events">
+    <param name="Local" value="CFH00204.htm">
+    </OBJECT>
+    <A HREF="file:CFH00204.htm">Other Events</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Archery Competitions">
+    <param name="Local" value="CFH00205.htm">
+    </OBJECT>
+    <A HREF="file:CFH00205.htm">Archery Competitions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Prizes">
+    <param name="Local" value="CFH00203.htm">
+    </OBJECT>
+    <A HREF="file:CFH00203.htm">Prizes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Foot-Lists">
+    <param name="Local" value="CFH00206.htm">
+    </OBJECT>
+    <A HREF="file:CFH00206.htm">Foot-Lists</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Merchants' Stalls">
+    <param name="Local" value="CFH00207.htm">
+    </OBJECT>
+    <A HREF="file:CFH00207.htm">Merchants' Stalls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dancing, Socializing">
+    <param name="Local" value="CFH00208.htm">
+    </OBJECT>
+    <A HREF="file:CFH00208.htm">Dancing, Socializing</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When to End Combat">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When to End Combat">
+    <param name="Local" value="CFH00209.htm">
+    </OBJECT>
+    <A HREF="file:CFH00209.htm">When to End Combat</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When Characters Don't Accept Surrender">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When Characters Don't Accept Surrender">
+    <param name="Local" value="CFH00210.htm">
+    </OBJECT>
+    <A HREF="file:CFH00210.htm">When Characters Don't Accept Surrender</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When Characters Always Chase Escapees">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When Characters Always Chase Escapees">
+    <param name="Local" value="CFH00211.htm">
+    </OBJECT>
+    <A HREF="file:CFH00211.htm">When Characters Always Chase Escapees</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When Characters Never Negotiate">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="When Characters Never Negotiate">
+    <param name="Local" value="CFH00212.htm">
+    </OBJECT>
+    <A HREF="file:CFH00212.htm">When Characters Never Negotiate</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Notes on Combat Sequence">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Notes On the Combat Sequence">
+    <param name="Local" value="CFH00213.htm">
+    </OBJECT>
+    <A HREF="file:CFH00213.htm">Notes On the Combat Sequence</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tactics">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tactics">
+    <param name="Local" value="CFH00214.htm">
+    </OBJECT>
+    <A HREF="file:CFH00214.htm">Tactics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield-Walls and Polearms">
+    <param name="Local" value="CFH00215.htm">
+    </OBJECT>
+    <A HREF="file:CFH00215.htm">Shield-Walls and Polearms</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wolf-Pack Tactics">
+    <param name="Local" value="CFH00216.htm">
+    </OBJECT>
+    <A HREF="file:CFH00216.htm">Wolf-Pack Tactics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tactical Mix">
+    <param name="Local" value="CFH00217.htm">
+    </OBJECT>
+    <A HREF="file:CFH00217.htm">Tactical Mix</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rotation">
+    <param name="Local" value="CFH00218.htm">
+    </OBJECT>
+    <A HREF="file:CFH00218.htm">Rotation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spear-Carriers">
+    <param name="Local" value="CFH00219.htm">
+    </OBJECT>
+    <A HREF="file:CFH00219.htm">Spear-Carriers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Directing Traffic">
+    <param name="Local" value="CFH00220.htm">
+    </OBJECT>
+    <A HREF="file:CFH00220.htm">Directing Traffic</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Campaign Tactics">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Campaign Tactics">
+    <param name="Local" value="CFH00221.htm">
+    </OBJECT>
+    <A HREF="file:CFH00221.htm">Campaign Tactics</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Just Arriving in Town">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Just Arriving In Town">
+    <param name="Local" value="CFH00222.htm">
+    </OBJECT>
+    <A HREF="file:CFH00222.htm">Just Arriving In Town</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Combat Sheet">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Combat Sheet">
+    <param name="Local" value="CFH00223.htm">
+    </OBJECT>
+    <A HREF="file:CFH00223.htm">The Combat Sheet</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment">
+    <param name="Local" value="CFH00224.htm">
+    </OBJECT>
+    <A HREF="file:CFH00224.htm">Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Old Weapons">
+    <param name="Local" value="CFH00225.htm">
+    </OBJECT>
+    <A HREF="file:CFH00225.htm">Old Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="One-Hand, Two-Hand">
+    <param name="Local" value="CFH00225.htm">
+    </OBJECT>
+    <A HREF="file:CFH00225.htm">One-Hand, Two-Hand</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Weapons">
+    <param name="Local" value="CFH00226.htm">
+    </OBJECT>
+    <A HREF="file:CFH00226.htm">New Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gladiator Weapons">
+    <param name="Local" value="CFH00227.htm">
+    </OBJECT>
+    <A HREF="file:CFH00227.htm">Gladiator Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pirate Weapons">
+    <param name="Local" value="CFH00228.htm">
+    </OBJECT>
+    <A HREF="file:CFH00228.htm">Pirate Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Samurai Weapons">
+    <param name="Local" value="CFH00229.htm">
+    </OBJECT>
+    <A HREF="file:CFH00229.htm">Samurai Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Savage Weapons">
+    <param name="Local" value="CFH00230.htm">
+    </OBJECT>
+    <A HREF="file:CFH00230.htm">Savage Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swashbuckler Weapons">
+    <param name="Local" value="CFH00231.htm">
+    </OBJECT>
+    <A HREF="file:CFH00231.htm">Swashbuckler Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Armor">
+    <param name="Local" value="CFH00232.htm">
+    </OBJECT>
+    <A HREF="file:CFH00232.htm">New Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gladiator Armor">
+    <param name="Local" value="CFH00233.htm">
+    </OBJECT>
+    <A HREF="file:CFH00233.htm">Gladiator Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Samurai Armor">
+    <param name="Local" value="CFH00234.htm">
+    </OBJECT>
+    <A HREF="file:CFH00234.htm">Samurai Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Damage to Armor">
+    <param name="Local" value="CFH00251.htm">
+    </OBJECT>
+    <A HREF="file:CFH00251.htm">Damage to Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Piecemeal Armor">
+    <param name="Local" value="CFH00252.htm">
+    </OBJECT>
+    <A HREF="file:CFH00252.htm">Piecemeal Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Repairing Armor">
+    <param name="Local" value="CFH00254.htm">
+    </OBJECT>
+    <A HREF="file:CFH00254.htm">Repairing Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects on the Campaign">
+    <param name="Local" value="CFH00255.htm">
+    </OBJECT>
+    <A HREF="file:CFH00255.htm">Effects on the Campaign</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Items">
+    <param name="Local" value="CFH00256.htm">
+    </OBJECT>
+    <A HREF="file:CFH00256.htm">Magical Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Miscellaneous Equipment">
+    <param name="Local" value="CFH00257.htm">
+    </OBJECT>
+    <A HREF="file:CFH00257.htm">Miscellaneous Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects of Armor">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects of Armor">
+    <param name="Local" value="CFH00235.htm">
+    </OBJECT>
+    <A HREF="file:CFH00235.htm">Effects of Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects On AC">
+    <param name="Local" value="CFH00236.htm">
+    </OBJECT>
+    <A HREF="file:CFH00236.htm">Effects On AC</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects On Speed">
+    <param name="Local" value="CFH00237.htm">
+    </OBJECT>
+    <A HREF="file:CFH00237.htm">Effects On Speed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects On Dexterity Checks">
+    <param name="Local" value="CFH00238.htm">
+    </OBJECT>
+    <A HREF="file:CFH00238.htm">Effects On Dexterity Checks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects On Vision and Hearing">
+    <param name="Local" value="CFH00239.htm">
+    </OBJECT>
+    <A HREF="file:CFH00239.htm">Effects On Vision and Hearing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Other Helms and Helmets">
+    <param name="Local" value="CFH00240.htm">
+    </OBJECT>
+    <A HREF="file:CFH00240.htm">Other Helms and Helmets</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="What Head Protection Doesn't Do">
+    <param name="Local" value="CFH00241.htm">
+    </OBJECT>
+    <A HREF="file:CFH00241.htm">What Head Protection Doesn't Do</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vision and Hearing Checks">
+    <param name="Local" value="CFH00242.htm">
+    </OBJECT>
+    <A HREF="file:CFH00242.htm">Vision and Hearing Checks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="No Head Protection">
+    <param name="Local" value="CFH00243.htm">
+    </OBJECT>
+    <A HREF="file:CFH00243.htm">No Head Protection</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Varriant Armor">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Variant Armor">
+    <param name="Local" value="CFH00244.htm">
+    </OBJECT>
+    <A HREF="file:CFH00244.htm">Variant Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Racial Armor">
+    <param name="Local" value="CFH00245.htm">
+    </OBJECT>
+    <A HREF="file:CFH00245.htm">Racial Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor Fitting">
+    <param name="Local" value="CFH00246.htm">
+    </OBJECT>
+    <A HREF="file:CFH00246.htm">Armor Fitting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="High-Quality Racial Armor">
+    <param name="Local" value="CFH00247.htm">
+    </OBJECT>
+    <A HREF="file:CFH00247.htm">High-Quality Racial Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Piecemeal Armor">
+    <param name="Local" value="CFH00248.htm">
+    </OBJECT>
+    <A HREF="file:CFH00248.htm">Piecemeal Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weight of Piecemeal Suits">
+    <param name="Local" value="CFH00249.htm">
+    </OBJECT>
+    <A HREF="file:CFH00249.htm">Weight of Piecemeal Suits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Armor">
+    <param name="Local" value="CFH00253.htm">
+    </OBJECT>
+    <A HREF="file:CFH00253.htm">Magical Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gladiator Armor">
+    <param name="Local" value="CFH00250.htm">
+    </OBJECT>
+    <A HREF="file:CFH00250.htm">Gladiator Armor</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts Results Table">
+    <param name="Local" value="CFH00258.htm">
+    </OBJECT>
+    <A HREF="file:CFH00258.htm">Martial Arts Results Table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Modifiers for Darkness and Blindness">
+    <param name="Local" value="CFH00259.htm">
+    </OBJECT>
+    <A HREF="file:CFH00259.htm">Combat Modifiers for Darkness and Blindness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="One-Handed or Two-Handed Weapons">
+    <param name="Local" value="CFH00260.htm">
+    </OBJECT>
+    <A HREF="file:CFH00260.htm">One-Handed or Two-Handed Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor Fitting">
+    <param name="Local" value="CFH00261.htm">
+    </OBJECT>
+    <A HREF="file:CFH00261.htm">Armor Fitting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Piecemeal Armor">
+    <param name="Local" value="CFH00262.htm">
+    </OBJECT>
+    <A HREF="file:CFH00262.htm">Piecemeal Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Weapons List">
+    <param name="Local" value="CFH00263.htm">
+    </OBJECT>
+    <A HREF="file:CFH00263.htm">New Weapons List</A>
+</UL>
+</UL>
+</UL>
+</HTML>
