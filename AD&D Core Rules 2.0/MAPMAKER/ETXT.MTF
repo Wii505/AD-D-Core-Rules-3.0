@@ -1,0 +1,353 @@
+;Map Maker - English Text File
+;Created 06-01-98
+;Created by : K.B.O.
+
+;ETxt.txt is divided into the major portions of the Map Maker 2.0 app.
+
+; DIALOGS	- Includes text for all dialog boxes and their controls
+; MENUS		- Includes text for all Menu and Sub-menu items
+; HELP TEXT	- Includes help text for all Menu and Sub-Menu items
+; TOOLBARS	- Includes text for all Toolbars
+
+;**************************************************************************
+
+;			DIALOGS
+
+;**************************************************************************
+
+[About_Box_Dialog]
+; DESCRIPTION:
+; This dialog appears by selecting menu option 'Help', then 'About MapMaker'
+
+;-----------------------
+;Buttons
+;-----------------------
+OK_Button=OK
+
+;-----------------------
+;Combo Box
+;-----------------------
+
+;-----------------------
+;Check Box
+;-----------------------
+
+;-----------------------
+;Group Box
+;-----------------------
+
+;-----------------------
+;Static
+;-----------------------
+Version_Static=Map Maker Version 2.0
+Copyright_Static=Copyright © 1998
+Memory_Static=Physical Memory
+Space_Static=Free Disk Space :
+
+;-----------------------
+;Window Title
+;-----------------------
+Title=About Map Maker 2.0
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[Map_Link_Dialog]
+; DESCRIPTION:
+; This dialog appears by selecting menu option 'Army', then 'Add'
+
+;-----------------------
+;Buttons
+;-----------------------
+OK_Button=OK
+Cancel_Button=Cancel
+
+;-----------------------
+;Combo Box
+;-----------------------
+
+;-----------------------
+;Check Box
+;-----------------------
+
+;-----------------------
+;Group Box
+;-----------------------
+Maps_Group_Box=Maps
+Summary_Group_Box=Summary
+
+;-----------------------
+;Radio Buttons
+;-----------------------
+
+;-----------------------
+;Static
+;-----------------------
+
+;-----------------------
+;Window Title
+;-----------------------
+Title=Available Maps
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[Map_Name_Dialog]
+; DESCRIPTION:
+; This dialog appears by pressing the 'Add Hero' button in the 'Add Army' dialog box
+;-----------------------
+;Buttons
+;-----------------------
+Close_Button=Close
+
+;-----------------------
+;Combo Box
+;-----------------------
+
+;-----------------------
+;Check Box
+;-----------------------
+
+;-----------------------
+;Group Box
+;-----------------------
+
+;-----------------------
+;Radio Buttons
+;-----------------------
+
+;-----------------------
+;Static
+;-----------------------
+Name_Static=Please enter a name for your map :
+
+;-----------------------
+;Window Title
+;-----------------------
+Title=Map Name
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[Map_Text_Dialog]
+;-----------------------
+;Buttons
+;-----------------------
+OK_Button=Ok
+Cancel_Button=Cancel
+Browse_Button=&Browse
+
+;-----------------------
+;Combo Box
+;-----------------------
+
+;-----------------------
+;Check Box
+;-----------------------
+Map_Link_Check_Box=Map Link
+
+;-----------------------
+;Group Box
+;-----------------------
+
+;-----------------------
+;Radio Buttons
+;-----------------------
+
+;-----------------------
+;Static
+;-----------------------
+Text_Static=Text : 
+Map_File_Name_Static=Map File Name :
+
+;-----------------------
+;Window Title
+;-----------------------
+Title=Map Text
+
+;**************************************************************************
+
+;			MENUS
+
+;**************************************************************************
+
+[Right_Click_Menu]
+; DESCRIPTION:
+; This menu appears by right-clicking in the view.
+
+;-----------------------
+;Menu items
+;-----------------------
+Rotate_Menu_Item=&Rotate
+Delete_Menu_Item=&Delete
+
+[Main_Menu]
+; DESCRIPTION:
+; This menu is the 'main menu'
+;-----------------------
+;Menu items
+;-----------------------
+File_Menu_Item=&File
+Edit_Menu_Item=&Edit
+View_Menu_Item=&View
+Format_Menu_Item=F&ormat
+Grid_Menu_Item=&Grid
+Encounter_Menu_Item=&Encounter
+Text_Menu_Item=&Text
+Options_Menu_Item=&Options
+Help_Menu_Item=&Help
+
+;-----------------------
+;'File' Sub-Menu Items
+;-----------------------
+File_New_Sub_Menu_Item=&New                        Ctrl + N
+File_Open_Sub_Menu_Item=&Open                       Ctrl + O
+File_Save_Sub_Menu_Item=&Save                       Ctrl + S
+File_Save_As_Sub_Menu_Item=Save &As
+File_Print_Sub_Menu_Item=&Print
+File_Print_Preview_Sub_Menu_Item=Print Pre&view
+File_Print_Large_Sub_Menu_Item=Print &Large
+File_Print_Legend_Sub_Menu_Item=Print Le&gend
+File_Print_Encounter_Index_Sub_Menu_Item=Print &Encounter Index
+File_Print_Encounter_Info_Sub_Menu_Item=Print Encounter &Info
+File_Exit_Sub_Menu_Item=E&xit
+
+;-----------------------
+;'Edit' Sub-Menu Items
+;-----------------------
+Edit_Undo_Sub_Menu_Item=&Can't Undo     Ctrl + Z
+Edit_Undo_Unavailable_Sub_Menu_Item=&Can't Undo     Ctrl + Z
+Edit_Undo_Place_Text_Sub_Menu_Item=&Undo place text     Ctrl + Z
+Edit_Undo_Remove_Text_Sub_Menu_Item=&Undo remove text     Ctrl + Z
+Edit_Undo_Drag_Text_Sub_Menu_Item=&Undo drag text     Ctrl + Z
+Edit_Undo_Change_Text_Sub_Menu_Item=&Undo change text     Ctrl + Z
+Edit_Undo_Text_Font_Sub_Menu_Item=&Undo text font     Ctrl + Z
+Edit_Undo_Text_Color_Sub_Menu_Item=&Undo text color     Ctrl + Z
+Edit_Undo_Place_Encounter_Sub_Menu_Item=&Undo place encounter     Ctrl + Z
+Edit_Undo_Remove_Encounter_Sub_Menu_Item=&Undo remove encounter     Ctrl + Z
+Edit_Undo_Drag_Encounter_Sub_Menu_Item=&Undo drag encounter     Ctrl + Z
+Edit_Undo_Encounter_Font_Sub_Menu_Item=&Undo encounter font     Ctrl + Z
+Edit_Undo_Encounter_Color_Sub_Menu_Item=&Undo encounter color     Ctrl + Z
+Edit_Undo_Place_Overlay_Sub_Menu_Item=&Undo place overlay     Ctrl + Z
+Edit_Undo_Remove_Overlay_Sub_Menu_Item=&Undo remove overlay     Ctrl + Z
+Edit_Undo_Drag_Overlay_Sub_Menu_Item=&Undo drag overlay     Ctrl + Z
+Edit_Undo_Rotate_Overlay_Sub_Menu_Item=&Undo rotate overlay     Ctrl + Z
+Edit_Undo_Place_Terrain_Sub_Menu_Item=&Undo place terrain     Ctrl + Z
+
+;-----------------------
+;'View' Sub-Menu Items
+;-----------------------
+View_Encounter_Info_Sub_Menu_Item=&Encounter Info
+View_Legend_Sub_Menu_Item=&Legend
+View_Mini_Map_Sub_Menu_Item=&Mini Map
+View_Status_Bar_Sub_Menu_Item=&Status Bar
+
+;-----------------------
+;'Format' Sub-Menu Items
+;-----------------------
+Format_Full_Color_Sub_Menu_Item=Full &Color
+Format_Flat_Color_Sub_Menu_Item=&Flat Color
+Format_Gray_Color_Sub_Menu_Item=&Gray Scale
+Format_BW_Color_Sub_Menu_Item=&Black and White
+
+;-----------------------
+;'Grid' Sub-Menu Items
+;-----------------------
+Grid_Off_Sub_Menu_Item=&Off
+Grid_Black_Sub_Menu_Item=&Black
+Grid_White_Sub_Menu_Item=&White
+
+;-----------------------
+;'Encounter' Sub-Menu Items
+;-----------------------
+Encounter_Add_Sub_Menu_Item=&Add    Ctrl + E
+Encounter_Remove_Sub_Menu_Item=&Remove
+
+;-----------------------
+;'Text' Sub-Menu Items
+;-----------------------
+Text_Add_Sub_Menu_Item=&Add     Ctrl + T
+Text_Remove_Sub_Menu_Item=&Remove
+Text_Options_Sub_Menu_Item=&Options
+
+;-----------------------
+;'Options' Sub-Menu Items
+;-----------------------
+Options_Autoscroll_Sub_Menu_Item=&Autoscroll
+Options_Map_Links_Sub_Menu_Item=&Map Links
+Options_Show_Hide_Sub_Menu_Item=&Show/Hide
+
+;-----------------------
+;'Help' Sub-Menu Items
+;-----------------------
+Help_Contents_Sub_Menu_Item=&Contents
+Help_About_Sub_Menu_Item=&About
+
+
+;**************************************************************************
+
+;			HELP TEXT
+
+;**************************************************************************
+
+
+[Help_Text]
+;------------------------------
+;No Menu Item selected Help Text
+;------------------------------
+Generic_Menu_Item_Help_Text=Ready
+
+;------------------------------
+;'File' Sub-Menu Item Help Text
+;------------------------------
+File_New_Menu_Item_Help_Text=Create a new map
+File_Open_Menu_Item_Help_Text=Open an existing map
+File_Save_Menu_Item_Help_Text=Save the active map
+File_Save_As_Menu_Item_Help_Text=Save the active map with a new name
+File_Print_Menu_Item_Help_Text=Print the active map
+File_Print_Preview_Menu_Item_Help_Text=Display full pages
+File_Print_Large_Menu_Item_Help_Text=Print section in one inch squares.
+File_Print_Legend_Menu_Item_Help_Text=Print legend of map symbols
+File_Print_Encounter_Index_Menu_Item_Help_Text=Print index of encounters on the map
+File_Print_Encounter_Info_Menu_Item_Help_Text=Print encounter information
+File_Exit_Menu_Item_Help_Text=Quit the application; prompts to save documents
+
+;------------------------------
+;'Edit' Sub-Menu Item Help Text
+;------------------------------
+Edit_Unavailable_Menu_Item_Help_Text=Can't &Undo     Ctrl + Z
+Edit_Text_Place_Menu_Item_Help_Text=&Undo Text     Ctrl + Z
+Edit_Text_Remove_Menu_Item_Help_Text=&Undo Delete Text     Ctrl + Z
+Edit_Text_Drag_Menu_Item_Help_Text=&Undo Drag Text     Ctrl + Z
+Edit_Text_Change_Menu_Item_Help_Text=&Undo Change Text     Ctrl + Z
+Edit_Text_Change_Font_Menu_Item_Help_Text=&Undo Text Font     Ctrl + Z
+Edit_Text_Change_Color_Menu_Item_Help_Text=&Undo Text Color     Ctrl + Z
+Edit_Encounter_Place_Menu_Item_Help_Text=&Undo Encounter     Ctrl + Z
+Edit_Encounter_Remove_Menu_Item_Help_Text=&Undo Delete Encounter     Ctrl + Z
+Edit_Encounter_Drag_Menu_Item_Help_Text=&Undo Drag Encounter     Ctrl + Z
+Edit_Encounter_Change_Font_Menu_Item_Help_Text=&Undo Encounter Font     Ctrl + Z
+Edit_Encounter_Change_Color_Menu_Item_Help_Text=&Undo Encounter Color     Ctrl + Z
+Edit_Overlay_Place_Menu_Item_Help_Text=&Undo Overlay     Ctrl + Z
+Edit_Overlay_Remove_Menu_Item_Help_Text=&Undo Delete Overlay     Ctrl + Z
+Edit_Overlay_Rotate_Menu_Item_Help_Text=&Undo Rotate Overlay     Ctrl + Z
+Edit_Terrain_Menu_Item_Help_Text=Undo Terrain     Ctrl + Z
+Edit_Change_Size_Menu_Item_Help_Text=Undo Change Map Size     Ctrl + Z
+
+;------------------------------
+;'Help' Sub-Menu Item Help Text
+;------------------------------
+Help_About_Menu_Item_Help_Text=About Map Maker 2.0
+
+
+;**************************************************************************
+
+;		TOOLBARS
+
+;**************************************************************************
+
+[Main_Toolbar]
+Main_Toolbar_New=New
+Main_Toolbar_Open=Open
+Main_Toolbar_Save=Save
+Main_Toolbar_Font_Name=Font
+Main_Toolbar_Font_Size=Font Size
+Main_Toolbar_Bold=Bold
+Main_Toolbar_Italic=Italic
+Main_Toolbar_Underline=Underline
