@@ -1,0 +1,723 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Bard's Handbook">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="CBH00000.htm">
+    </OBJECT>
+    <A HREF="file:CBH00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="CBH00001.htm">
+    </OBJECT>
+    <A HREF="file:CBH00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="CBH00002.htm">
+    </OBJECT>
+    <A HREF="file:CBH00002.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Optional Rules">
+    <param name="Local" value="CBH00003.htm">
+    </OBJECT>
+    <A HREF="file:CBH00003.htm">Optional Rules</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Other Complete Books">
+    <param name="Local" value="CBH00004.htm">
+    </OBJECT>
+    <A HREF="file:CBH00004.htm">The Other Complete Books</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How to Use This Handbook">
+    <param name="Local" value="CBH00005.htm">
+    </OBJECT>
+    <A HREF="file:CBH00005.htm">How to Use This Handbook</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: Character Creation">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Creation">
+    <param name="Local" value="CBH00006.htm">
+    </OBJECT>
+    <A HREF="file:CBH00006.htm">Character Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Qualifications">
+    <param name="Local" value="CBH00007.htm">
+    </OBJECT>
+    <A HREF="file:CBH00007.htm">Qualifications</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Core Abilities">
+    <param name="Local" value="CBH00008.htm">
+    </OBJECT>
+    <A HREF="file:CBH00008.htm">Core Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Generating Ability Scores">
+    <param name="Local" value="CBH00009.htm">
+    </OBJECT>
+    <A HREF="file:CBH00009.htm">Generating Ability Scores</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Bard Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bard Kits">
+    <param name="Local" value="CBH00010.htm">
+    </OBJECT>
+    <A HREF="file:CBH00010.htm">Bard Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kit Subsections">
+    <param name="Local" value="CBH00011.htm">
+    </OBJECT>
+    <A HREF="file:CBH00011.htm">Kit Subsections</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creating New Kits">
+    <param name="Local" value="CBH00026.htm">
+    </OBJECT>
+    <A HREF="file:CBH00026.htm">Creating New Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Acquiring, Dropping, and Changing Kits">
+    <param name="Local" value="CBH00027.htm">
+    </OBJECT>
+    <A HREF="file:CBH00027.htm">Acquiring, Dropping, and Changing Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="List of Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="List of Kits">
+    <param name="Local" value="CBH00012.htm">
+    </OBJECT>
+    <A HREF="file:CBH00012.htm">List of Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="True Bard">
+    <param name="Local" value="CBH00013.htm">
+    </OBJECT>
+    <A HREF="file:CBH00013.htm">True Bard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blade">
+    <param name="Local" value="CBH00014.htm">
+    </OBJECT>
+    <A HREF="file:CBH00014.htm">Blade</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Charlatan">
+    <param name="Local" value="CBH00015.htm">
+    </OBJECT>
+    <A HREF="file:CBH00015.htm">Charlatan</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gallant">
+    <param name="Local" value="CBH00016.htm">
+    </OBJECT>
+    <A HREF="file:CBH00016.htm">Gallant</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gypsy-bard">
+    <param name="Local" value="CBH00017.htm">
+    </OBJECT>
+    <A HREF="file:CBH00017.htm">Gypsy-bard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Herald">
+    <param name="Local" value="CBH00018.htm">
+    </OBJECT>
+    <A HREF="file:CBH00018.htm">Herald</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jester">
+    <param name="Local" value="CBH00019.htm">
+    </OBJECT>
+    <A HREF="file:CBH00019.htm">Jester</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jongleur">
+    <param name="Local" value="CBH00020.htm">
+    </OBJECT>
+    <A HREF="file:CBH00020.htm">Jongleur</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Loremaster">
+    <param name="Local" value="CBH00021.htm">
+    </OBJECT>
+    <A HREF="file:CBH00021.htm">Loremaster</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Meistersinger">
+    <param name="Local" value="CBH00022.htm">
+    </OBJECT>
+    <A HREF="file:CBH00022.htm">Meistersinger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Riddlemaster">
+    <param name="Local" value="CBH00023.htm">
+    </OBJECT>
+    <A HREF="file:CBH00023.htm">Riddlemaster</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Skald">
+    <param name="Local" value="CBH00024.htm">
+    </OBJECT>
+    <A HREF="file:CBH00024.htm">Skald</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thespian">
+    <param name="Local" value="CBH00025.htm">
+    </OBJECT>
+    <A HREF="file:CBH00025.htm">Thespian</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Demi-, Multi- and Dual-Classed Bards">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Demihumans as Bards">
+    <param name="Local" value="CBH00028.htm">
+    </OBJECT>
+    <A HREF="file:CBH00028.htm">Demihumans as Bards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Demihuman Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Demihuman Kits">
+    <param name="Local" value="CBH00029.htm">
+    </OBJECT>
+    <A HREF="file:CBH00029.htm">Demihuman Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarven Chanter">
+    <param name="Local" value="CBH00030.htm">
+    </OBJECT>
+    <A HREF="file:CBH00030.htm">Dwarven Chanter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elven Minstrel">
+    <param name="Local" value="CBH00031.htm">
+    </OBJECT>
+    <A HREF="file:CBH00031.htm">Elven Minstrel</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnome Professor">
+    <param name="Local" value="CBH00032.htm">
+    </OBJECT>
+    <A HREF="file:CBH00032.htm">Gnome Professor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halfling Whistler">
+    <param name="Local" value="CBH00033.htm">
+    </OBJECT>
+    <A HREF="file:CBH00033.htm">Halfling Whistler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multi-Classed Bards">
+    <param name="Local" value="CBH00034.htm">
+    </OBJECT>
+    <A HREF="file:CBH00034.htm">Multi-Classed Bards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dual-Classed Bards">
+    <param name="Local" value="CBH00035.htm">
+    </OBJECT>
+    <A HREF="file:CBH00035.htm">Dual-Classed Bards</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Proficiencies">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies">
+    <param name="Local" value="CBH00036.htm">
+    </OBJECT>
+    <A HREF="file:CBH00036.htm">Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Compiled Proficiencies">
+    <param name="Local" value="CBH00037.htm">
+    </OBJECT>
+    <A HREF="file:CBH00037.htm">Compiled Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Proficiencies">
+    <param name="Local" value="CBH00038.htm">
+    </OBJECT>
+    <A HREF="file:CBH00038.htm">New Proficiencies</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Bard Abilities">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bard Abilites">
+    <param name="Local" value="CBH00039.htm">
+    </OBJECT>
+    <A HREF="file:CBH00039.htm">Bard Abilites</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pick Pockets">
+    <param name="Local" value="CBH00040.htm">
+    </OBJECT>
+    <A HREF="file:CBH00040.htm">Pick Pockets</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Detect Noise">
+    <param name="Local" value="CBH00041.htm">
+    </OBJECT>
+    <A HREF="file:CBH00041.htm">Detect Noise</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Climb Walls">
+    <param name="Local" value="CBH00042.htm">
+    </OBJECT>
+    <A HREF="file:CBH00042.htm">Climb Walls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reading, Writing and Speaking">
+    <param name="Local" value="CBH00043.htm">
+    </OBJECT>
+    <A HREF="file:CBH00043.htm">Reading, Writing and Speaking</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 6: Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Books">
+    <param name="Local" value="CBH00044.htm">
+    </OBJECT>
+    <A HREF="file:CBH00044.htm">Spell Books</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Musical Components">
+    <param name="Local" value="CBH00045.htm">
+    </OBJECT>
+    <A HREF="file:CBH00045.htm">Musical Components</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alter Instrument">
+    <param name="Local" value="CBH00046.htm">
+    </OBJECT>
+    <A HREF="file:CBH00046.htm">Alter Instrument</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sound Bubble">
+    <param name="Local" value="CBH00047.htm">
+    </OBJECT>
+    <A HREF="file:CBH00047.htm">Sound Bubble</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Silence 15' Radius">
+    <param name="Local" value="CBH00048.htm">
+    </OBJECT>
+    <A HREF="file:CBH00048.htm">Silence 15' Radius</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Improved Magic Mouth">
+    <param name="Local" value="CBH00049.htm">
+    </OBJECT>
+    <A HREF="file:CBH00049.htm">Improved Magic Mouth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Instant Audience">
+    <param name="Local" value="CBH00050.htm">
+    </OBJECT>
+    <A HREF="file:CBH00050.htm">Instant Audience</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wall of Sound">
+    <param name="Local" value="CBH00051.htm">
+    </OBJECT>
+    <A HREF="file:CBH00051.htm">Wall of Sound</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conjure Cabinet">
+    <param name="Local" value="CBH00052.htm">
+    </OBJECT>
+    <A HREF="file:CBH00052.htm">Conjure Cabinet</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Items">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic Items">
+    <param name="Local" value="CBH00053.htm">
+    </OBJECT>
+    <A HREF="file:CBH00053.htm">Magic Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Magic Items">
+    <param name="Local" value="CBH00054.htm">
+    </OBJECT>
+    <A HREF="file:CBH00054.htm">New Magic Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Old Magic Items">
+    <param name="Local" value="CBH00055.htm">
+    </OBJECT>
+    <A HREF="file:CBH00055.htm">Old Magic Items</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 7: Music">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Throughout History">
+    <param name="Local" value="CBH00057.htm">
+    </OBJECT>
+    <A HREF="file:CBH00057.htm">Throughout History</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Instruments">
+    <param name="Local" value="CBH00058.htm">
+    </OBJECT>
+    <A HREF="file:CBH00058.htm">Instruments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Musical Proficiency">
+    <param name="Local" value="CBH00059.htm">
+    </OBJECT>
+    <A HREF="file:CBH00059.htm">Musical Proficiency</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cost and Weight">
+    <param name="Local" value="CBH00060.htm">
+    </OBJECT>
+    <A HREF="file:CBH00060.htm">Cost and Weight</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 20: Musical Instruments">
+    <param name="Local" value="CBH00061.htm">
+    </OBJECT>
+    <A HREF="file:CBH00061.htm">Table 20: Musical Instruments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Glossary of Musical Instruments">
+    <param name="Local" value="CBH00063.htm">
+    </OBJECT>
+    <A HREF="file:CBH00063.htm">Glossary of Musical Instruments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Glossary of Sound">
+    <param name="Local" value="CBH00064.htm">
+    </OBJECT>
+    <A HREF="file:CBH00064.htm">Glossary of Sound</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fundamentals of Music">
+    <param name="Local" value="CBH00065.htm">
+    </OBJECT>
+    <A HREF="file:CBH00065.htm">Fundamentals of Music</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Common Musical Terms">
+    <param name="Local" value="CBH00066.htm">
+    </OBJECT>
+    <A HREF="file:CBH00066.htm">Common Musical Terms</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Musical Items">
+    <param name="Local" value="CBH00067.htm">
+    </OBJECT>
+    <A HREF="file:CBH00067.htm">Musical Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Types of Songs">
+    <param name="Local" value="CBH00068.htm">
+    </OBJECT>
+    <A HREF="file:CBH00068.htm">Types of Songs</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sample Songs">
+    <param name="Local" value="CBH00069.htm">
+    </OBJECT>
+    <A HREF="file:CBH00069.htm">Sample Songs</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 8: Role-Playing Bards">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Bard's Mind Isn't Barred">
+    <param name="Local" value="CBH00070.htm">
+    </OBJECT>
+    <A HREF="file:CBH00070.htm">A Bard's Mind Isn't Barred</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Experience">
+    <param name="Local" value="CBH00071.htm">
+    </OBJECT>
+    <A HREF="file:CBH00071.htm">Experience</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reputation">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reputation">
+    <param name="Local" value="CBH00072.htm">
+    </OBJECT>
+    <A HREF="file:CBH00072.htm">Reputation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Following a Performer">
+    <param name="Local" value="CBH00073.htm">
+    </OBJECT>
+    <A HREF="file:CBH00073.htm">Following a Performer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Local Reputation">
+    <param name="Local" value="CBH00074.htm">
+    </OBJECT>
+    <A HREF="file:CBH00074.htm">Local Reputation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Benefits of a Good Reputation">
+    <param name="Local" value="CBH00075.htm">
+    </OBJECT>
+    <A HREF="file:CBH00075.htm">Benefits of a Good Reputation</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Performances">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Performer">
+    <param name="Local" value="CBH00076.htm">
+    </OBJECT>
+    <A HREF="file:CBH00076.htm">The Performer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Effect on Role-Playing">
+    <param name="Local" value="CBH00077.htm">
+    </OBJECT>
+    <A HREF="file:CBH00077.htm">The Effect on Role-Playing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Defining Your Bard's Personality">
+    <param name="Local" value="CBH00078.htm">
+    </OBJECT>
+    <A HREF="file:CBH00078.htm">Defining Your Bard's Personality</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Performances">
+    <param name="Local" value="CBH00079.htm">
+    </OBJECT>
+    <A HREF="file:CBH00079.htm">Performances</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 9: Comrades">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Comrades">
+    <param name="Local" value="CBH00080.htm">
+    </OBJECT>
+    <A HREF="file:CBH00080.htm">Comrades</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bard Colleges">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bard Colleges">
+    <param name="Local" value="CBH00081.htm">
+    </OBJECT>
+    <A HREF="file:CBH00081.htm">Bard Colleges</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Common Events">
+    <param name="Local" value="CBH00082.htm">
+    </OBJECT>
+    <A HREF="file:CBH00082.htm">Common Events</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Patrons">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Patrons">
+    <param name="Local" value="CBH00083.htm">
+    </OBJECT>
+    <A HREF="file:CBH00083.htm">Patrons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Initial Patrons">
+    <param name="Local" value="CBH00084.htm">
+    </OBJECT>
+    <A HREF="file:CBH00084.htm">Initial Patrons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gaining and Losing Patrons">
+    <param name="Local" value="CBH00085.htm">
+    </OBJECT>
+    <A HREF="file:CBH00085.htm">Gaining and Losing Patrons</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Followers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Followers">
+    <param name="Local" value="CBH00086.htm">
+    </OBJECT>
+    <A HREF="file:CBH00086.htm">Followers</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 1: THE COMPLETE PHBR LINE">
+    <param name="Local" value="CBH00004.htm">
+    </OBJECT>
+    <A HREF="file:CBH00004.htm">Table 1: THE COMPLETE PHBR LINE</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 2: CLASS QUALIFICATIONS">
+    <param name="Local" value="CBH00007.htm">
+    </OBJECT>
+    <A HREF="file:CBH00007.htm">Table 2: CLASS QUALIFICATIONS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 3: ARMOR ALLOWED">
+    <param name="Local" value="CBH00008.htm">
+    </OBJECT>
+    <A HREF="file:CBH00008.htm">Table 3: ARMOR ALLOWED</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 4: EXPERIENCE LEVELS">
+    <param name="Local" value="CBH00008.htm">
+    </OBJECT>
+    <A HREF="file:CBH00008.htm">Table 4: EXPERIENCE LEVELS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 5: LEVEL IMPROVEMENTS">
+    <param name="Local" value="CBH00008.htm">
+    </OBJECT>
+    <A HREF="file:CBH00008.htm">Table 5: LEVEL IMPROVEMENTS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 6: SPELL PROGRESSION">
+    <param name="Local" value="CBH00008.htm">
+    </OBJECT>
+    <A HREF="file:CBH00008.htm">Table 6: SPELL PROGRESSION</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 7: BASE THIEF ABILITIES">
+    <param name="Local" value="CBH00008.htm">
+    </OBJECT>
+    <A HREF="file:CBH00008.htm">Table 7: BASE THIEF ABILITIES</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 8: BARD AVERAGE THIEF SKILLS">
+    <param name="Local" value="CBH00008.htm">
+    </OBJECT>
+    <A HREF="file:CBH00008.htm">Table 8: BARD AVERAGE THIEF SKILLS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 9: THIEF SKILL ADJUSTMENTS">
+    <param name="Local" value="CBH00008.htm">
+    </OBJECT>
+    <A HREF="file:CBH00008.htm">Table 9: THIEF SKILL ADJUSTMENTS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 10: ILLEGAL ARMOR ADJUSTMENT">
+    <param name="Local" value="CBH00008.htm">
+    </OBJECT>
+    <A HREF="file:CBH00008.htm">Table 10: ILLEGAL ARMOR ADJUSTMENT</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 11: PREGENERATED ABILITY SCORES">
+    <param name="Local" value="CBH00009.htm">
+    </OBJECT>
+    <A HREF="file:CBH00009.htm">Table 11: PREGENERATED ABILITY SCORES</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 12: LEGEND LORE RESULTS">
+    <param name="Local" value="CBH00013.htm">
+    </OBJECT>
+    <A HREF="file:CBH00013.htm">Table 12: LEGEND LORE RESULTS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 13: DEMI-BARDS">
+    <param name="Local" value="CBH00028.htm">
+    </OBJECT>
+    <A HREF="file:CBH00028.htm">Table 13: DEMI-BARDS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 14: NONWEAPON PROFICIENCIES">
+    <param name="Local" value="CBH00037.htm">
+    </OBJECT>
+    <A HREF="file:CBH00037.htm">Table 14: NONWEAPON PROFICIENCIES</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 15: DETECT NOISE MODIFIERS">
+    <param name="Local" value="CBH00041.htm">
+    </OBJECT>
+    <A HREF="file:CBH00041.htm">Table 15: DETECT NOISE MODIFIERS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 16: CLIMBING MODIFIERS">
+    <param name="Local" value="CBH00042.htm">
+    </OBJECT>
+    <A HREF="file:CBH00042.htm">Table 16: CLIMBING MODIFIERS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 17: BARD CLIMBING RATES">
+    <param name="Local" value="CBH00042.htm">
+    </OBJECT>
+    <A HREF="file:CBH00042.htm">Table 17: BARD CLIMBING RATES</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 18: VERBAL COMPONENT SUBSTITUTES">
+    <param name="Local" value="CBH00045.htm">
+    </OBJECT>
+    <A HREF="file:CBH00045.htm">Table 18: VERBAL COMPONENT SUBSTITUTES</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 19: ERAS">
+    <param name="Local" value="CBH00058.htm">
+    </OBJECT>
+    <A HREF="file:CBH00058.htm">Table 19: ERAS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 20: MUSICAL INSTRUMENTS">
+    <param name="Local" value="CBH00061.htm">
+    </OBJECT>
+    <A HREF="file:CBH00061.htm">Table 20: MUSICAL INSTRUMENTS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 21: BARD EXPERIENCE">
+    <param name="Local" value="CBH00071.htm">
+    </OBJECT>
+    <A HREF="file:CBH00071.htm">Table 21: BARD EXPERIENCE</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 22: COMPLETE BARD EXPERIENCE">
+    <param name="Local" value="CBH00071.htm">
+    </OBJECT>
+    <A HREF="file:CBH00071.htm">Table 22: COMPLETE BARD EXPERIENCE</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 23: INITIAL REPUTATION">
+    <param name="Local" value="CBH00073.htm">
+    </OBJECT>
+    <A HREF="file:CBH00073.htm">Table 23: INITIAL REPUTATION</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 24: REPUTATION LADDER">
+    <param name="Local" value="CBH00073.htm">
+    </OBJECT>
+    <A HREF="file:CBH00073.htm">Table 24: REPUTATION LADDER</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 25: REPUTATION MODIFIERS">
+    <param name="Local" value="CBH00073.htm">
+    </OBJECT>
+    <A HREF="file:CBH00073.htm">Table 25: REPUTATION MODIFIERS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 26: FAME AND INFAMY">
+    <param name="Local" value="CBH00073.htm">
+    </OBJECT>
+    <A HREF="file:CBH00073.htm">Table 26: FAME AND INFAMY</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 27: PRECEDING REPUTATION">
+    <param name="Local" value="CBH00073.htm">
+    </OBJECT>
+    <A HREF="file:CBH00073.htm">Table 27: PRECEDING REPUTATION</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 28: BARD TRAITS">
+    <param name="Local" value="CBH00078.htm">
+    </OBJECT>
+    <A HREF="file:CBH00078.htm">Table 28: BARD TRAITS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 29: HOURLY STREET-SIDE INCOME">
+    <param name="Local" value="CBH00079.htm">
+    </OBJECT>
+    <A HREF="file:CBH00079.htm">Table 29: HOURLY STREET-SIDE INCOME</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 30: BOOKED INCOME">
+    <param name="Local" value="CBH00079.htm">
+    </OBJECT>
+    <A HREF="file:CBH00079.htm">Table 30: BOOKED INCOME</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 31: CARNIVAL SHARES">
+    <param name="Local" value="CBH00079.htm">
+    </OBJECT>
+    <A HREF="file:CBH00079.htm">Table 31: CARNIVAL SHARES</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 32: NIGHTLY ATTENDANCE PER PERFORMER">
+    <param name="Local" value="CBH00079.htm">
+    </OBJECT>
+    <A HREF="file:CBH00079.htm">Table 32: NIGHTLY ATTENDANCE PER PERFORMER</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 33: NUMBER OF PATRONS">
+    <param name="Local" value="CBH00085.htm">
+    </OBJECT>
+    <A HREF="file:CBH00085.htm">Table 33: NUMBER OF PATRONS</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 34: TYPE OF PATRON">
+    <param name="Local" value="CBH00085.htm">
+    </OBJECT>
+    <A HREF="file:CBH00085.htm">Table 34: TYPE OF PATRON</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 35: FOLLOWERS BY KIT">
+    <param name="Local" value="CBH00086.htm">
+    </OBJECT>
+    <A HREF="file:CBH00086.htm">Table 35: FOLLOWERS BY KIT</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Original Bards Table">
+    <param name="Local" value="CBH00087.htm">
+    </OBJECT>
+    <A HREF="file:CBH00087.htm">Original Bards Table</A>
+</UL>
+</UL>
+</UL>
+</HTML>
