@@ -1,0 +1,3078 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Player's Option: Combat & Tactics">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="CT00000.htm">
+    </OBJECT>
+    <A HREF="file:CT00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Foreword">
+    <param name="Local" value="CT00001.htm">
+    </OBJECT>
+    <A HREF="file:CT00001.htm">Foreword</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="CT00002.htm">
+    </OBJECT>
+    <A HREF="file:CT00002.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter One: Player's Option Combat System">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Player's Option Combat System">
+    <param name="Local" value="CT00003.htm">
+    </OBJECT>
+    <A HREF="file:CT00003.htm">Player's Option Combat System</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign?">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign? Ch 01">
+    <param name="Local" value="CT00004.htm">
+    </OBJECT>
+    <A HREF="file:CT00004.htm">Does This Belong in My Campaign? Ch 01</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Battle Map">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Battle Map">
+    <param name="Local" value="CT00005.htm">
+    </OBJECT>
+    <A HREF="file:CT00005.htm">The Battle Map</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Figures and Facing">
+    <param name="Local" value="CT00006.htm">
+    </OBJECT>
+    <A HREF="file:CT00006.htm">Figures and Facing</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scale">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scale">
+    <param name="Local" value="CT00007.htm">
+    </OBJECT>
+    <A HREF="file:CT00007.htm">Scale</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Melee Scale">
+    <param name="Local" value="CT00008.htm">
+    </OBJECT>
+    <A HREF="file:CT00008.htm">Melee Scale</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Range">
+    <param name="Local" value="CT00009.htm">
+    </OBJECT>
+    <A HREF="file:CT00009.htm">Range</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapons">
+    <param name="Local" value="CT00010.htm">
+    </OBJECT>
+    <A HREF="file:CT00010.htm">Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Monsters">
+    <param name="Local" value="CT00011.htm">
+    </OBJECT>
+    <A HREF="file:CT00011.htm">Monsters</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Missile Scale">
+    <param name="Local" value="CT00012.htm">
+    </OBJECT>
+    <A HREF="file:CT00012.htm">Missile Scale</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Switching Scale">
+    <param name="Local" value="CT00013.htm">
+    </OBJECT>
+    <A HREF="file:CT00013.htm">Switching Scale</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combined Scale">
+    <param name="Local" value="CT00014.htm">
+    </OBJECT>
+    <A HREF="file:CT00014.htm">Combined Scale</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Combat Round">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Combat Round">
+    <param name="Local" value="CT00015.htm">
+    </OBJECT>
+    <A HREF="file:CT00015.htm">The Combat Round</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Rounds and Game Time">
+    <param name="Local" value="CT00016.htm">
+    </OBJECT>
+    <A HREF="file:CT00016.htm">Combat Rounds and Game Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Durations">
+    <param name="Local" value="CT00017.htm">
+    </OBJECT>
+    <A HREF="file:CT00017.htm">Spell Durations</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Status">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Status">
+    <param name="Local" value="CT00018.htm">
+    </OBJECT>
+    <A HREF="file:CT00018.htm">Combat Status</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Local" value="CT00019.htm">
+    </OBJECT>
+    <A HREF="file:CT00019.htm">Clear</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Threatened">
+    <param name="Local" value="CT00020.htm">
+    </OBJECT>
+    <A HREF="file:CT00020.htm">Threatened</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unusual Monsters and Threatening">
+    <param name="Local" value="CT00021.htm">
+    </OBJECT>
+    <A HREF="file:CT00021.htm">Unusual Monsters and Threatening</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grappled">
+    <param name="Local" value="CT00022.htm">
+    </OBJECT>
+    <A HREF="file:CT00022.htm">Grappled</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attacks of Opportunity">
+    <param name="Local" value="CT00023.htm">
+    </OBJECT>
+    <A HREF="file:CT00023.htm">Attacks of Opportunity</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Movement">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Movement">
+    <param name="Local" value="CT00024.htm">
+    </OBJECT>
+    <A HREF="file:CT00024.htm">Movement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Base Movement">
+    <param name="Local" value="CT00025.htm">
+    </OBJECT>
+    <A HREF="file:CT00025.htm">Base Movement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Exceptional Abilities and Movement">
+    <param name="Local" value="CT00026.htm">
+    </OBJECT>
+    <A HREF="file:CT00026.htm">Exceptional Abilities and Movement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strength, movement">
+    <param name="Local" value="CT00027.htm">
+    </OBJECT>
+    <A HREF="file:CT00027.htm">Strength, movement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dexterity, movement">
+    <param name="Local" value="CT00028.htm">
+    </OBJECT>
+    <A HREF="file:CT00028.htm">Dexterity, movement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Encumbrance">
+    <param name="Local" value="CT00029.htm">
+    </OBJECT>
+    <A HREF="file:CT00029.htm">Encumbrance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Simplified Encumbrance">
+    <param name="Local" value="CT00030.htm">
+    </OBJECT>
+    <A HREF="file:CT00030.htm">Simplified Encumbrance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Diagram 5: Movement">
+    <param name="Local" value="CT00024.htm">
+    </OBJECT>
+    <A HREF="file:CT00024.htm">Diagram 5: Movement</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Opening the Battle">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Opening the Battle">
+    <param name="Local" value="CT00031.htm">
+    </OBJECT>
+    <A HREF="file:CT00031.htm">Opening the Battle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Surprise">
+    <param name="Local" value="CT00032.htm">
+    </OBJECT>
+    <A HREF="file:CT00032.htm">Surprise</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Encounter Distance">
+    <param name="Local" value="CT00033.htm">
+    </OBJECT>
+    <A HREF="file:CT00033.htm">Encounter Distance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Set-up">
+    <param name="Local" value="CT00034.htm">
+    </OBJECT>
+    <A HREF="file:CT00034.htm">Set-up</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Five Basic Steps of Every Combat Round">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Five Basic Steps of Every Combat Round">
+    <param name="Local" value="CT00035.htm">
+    </OBJECT>
+    <A HREF="file:CT00035.htm">The Five Basic Steps of Every Combat Round</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step One: Monster Action Determination">
+    <param name="Local" value="CT00036.htm">
+    </OBJECT>
+    <A HREF="file:CT00036.htm">Step One: Monster Action Determination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Two: Player Action Declaration">
+    <param name="Local" value="CT00037.htm">
+    </OBJECT>
+    <A HREF="file:CT00037.htm">Step Two: Player Action Declaration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Three: Initiative">
+    <param name="Local" value="CT00038.htm">
+    </OBJECT>
+    <A HREF="file:CT00038.htm">Step Three: Initiative</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Four Resolution of Actions">
+    <param name="Local" value="CT00039.htm">
+    </OBJECT>
+    <A HREF="file:CT00039.htm">Step Four Resolution of Actions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Five: End-of-Round Resolution">
+    <param name="Local" value="CT00040.htm">
+    </OBJECT>
+    <A HREF="file:CT00040.htm">Step Five: End-of-Round Resolution</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Initiative">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Initiative">
+    <param name="Local" value="CT00041.htm">
+    </OBJECT>
+    <A HREF="file:CT00041.htm">Initiative</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Initiative Roll">
+    <param name="Local" value="CT00042.htm">
+    </OBJECT>
+    <A HREF="file:CT00042.htm">The Initiative Roll</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Base Initiative">
+    <param name="Local" value="CT00043.htm">
+    </OBJECT>
+    <A HREF="file:CT00043.htm">Base Initiative</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Speeds">
+    <param name="Local" value="CT00044.htm">
+    </OBJECT>
+    <A HREF="file:CT00044.htm">Weapon Speeds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Events">
+    <param name="Local" value="CT00045.htm">
+    </OBJECT>
+    <A HREF="file:CT00045.htm">Critical Events</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Actions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Actions">
+    <param name="Local" value="CT00046.htm">
+    </OBJECT>
+    <A HREF="file:CT00046.htm">Combat Actions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Actions and Movement">
+    <param name="Local" value="CT00047.htm">
+    </OBJECT>
+    <A HREF="file:CT00047.htm">Combat Actions and Movement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="No-Move Actions">
+    <param name="Local" value="CT00048.htm">
+    </OBJECT>
+    <A HREF="file:CT00048.htm">No-Move Actions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Half-Move Actions">
+    <param name="Local" value="CT00049.htm">
+    </OBJECT>
+    <A HREF="file:CT00049.htm">Half-Move Actions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Full-move Actions">
+    <param name="Local" value="CT00050.htm">
+    </OBJECT>
+    <A HREF="file:CT00050.htm">Full-move Actions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Movement and Initiative">
+    <param name="Local" value="CT00051.htm">
+    </OBJECT>
+    <A HREF="file:CT00051.htm">Movement and Initiative</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Movement on the Battle Map">
+    <param name="Local" value="CT00052.htm">
+    </OBJECT>
+    <A HREF="file:CT00052.htm">Combat Movement on the Battle Map</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Moving Through Other Figures in Combat">
+    <param name="Local" value="CT00053.htm">
+    </OBJECT>
+    <A HREF="file:CT00053.htm">Moving Through Other Figures in Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Overruns">
+    <param name="Local" value="CT00054.htm">
+    </OBJECT>
+    <A HREF="file:CT00054.htm">Overruns</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Choosing an Action">
+    <param name="Local" value="CT00055.htm">
+    </OBJECT>
+    <A HREF="file:CT00055.htm">Choosing an Action</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Actions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Actions">
+    <param name="Local" value="CT00056.htm">
+    </OBJECT>
+    <A HREF="file:CT00056.htm">The Actions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attack">
+    <param name="Local" value="CT00057.htm">
+    </OBJECT>
+    <A HREF="file:CT00057.htm">Attack</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cast a Spell">
+    <param name="Local" value="CT00058.htm">
+    </OBJECT>
+    <A HREF="file:CT00058.htm">Cast a Spell</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Charge">
+    <param name="Local" value="CT00059.htm">
+    </OBJECT>
+    <A HREF="file:CT00059.htm">Charge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cover">
+    <param name="Local" value="CT00060.htm">
+    </OBJECT>
+    <A HREF="file:CT00060.htm">Cover</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fire/Throw Missiles">
+    <param name="Local" value="CT00061.htm">
+    </OBJECT>
+    <A HREF="file:CT00061.htm">Fire/Throw Missiles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guard">
+    <param name="Local" value="CT00062.htm">
+    </OBJECT>
+    <A HREF="file:CT00062.htm">Guard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Move">
+    <param name="Local" value="CT00063.htm">
+    </OBJECT>
+    <A HREF="file:CT00063.htm">Move</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Parry">
+    <param name="Local" value="CT00064.htm">
+    </OBJECT>
+    <A HREF="file:CT00064.htm">Parry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Run">
+    <param name="Local" value="CT00065.htm">
+    </OBJECT>
+    <A HREF="file:CT00065.htm">Run</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sprint">
+    <param name="Local" value="CT00066.htm">
+    </OBJECT>
+    <A HREF="file:CT00066.htm">Sprint</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unarmed Combat">
+    <param name="Local" value="CT00067.htm">
+    </OBJECT>
+    <A HREF="file:CT00067.htm">Unarmed Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Use a Magical Item">
+    <param name="Local" value="CT00068.htm">
+    </OBJECT>
+    <A HREF="file:CT00068.htm">Use a Magical Item</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Withdraw">
+    <param name="Local" value="CT00069.htm">
+    </OBJECT>
+    <A HREF="file:CT00069.htm">Withdraw</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ending the Combat Round">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ending the Combat Round">
+    <param name="Local" value="CT00070.htm">
+    </OBJECT>
+    <A HREF="file:CT00070.htm">Ending the Combat Round</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Retreats">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Retreats">
+    <param name="Local" value="CT00071.htm">
+    </OBJECT>
+    <A HREF="file:CT00071.htm">Retreats</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fatigue">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fatigue">
+    <param name="Local" value="CT00072.htm">
+    </OBJECT>
+    <A HREF="file:CT00072.htm">Fatigue</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Keeping Track of Fatigue">
+    <param name="Local" value="CT00073.htm">
+    </OBJECT>
+    <A HREF="file:CT00073.htm">Keeping Track of Fatigue</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects of Fatigue">
+    <param name="Local" value="CT00074.htm">
+    </OBJECT>
+    <A HREF="file:CT00074.htm">Effects of Fatigue</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Recovering from Fatigue">
+    <param name="Local" value="CT00075.htm">
+    </OBJECT>
+    <A HREF="file:CT00075.htm">Recovering from Fatigue</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects of Force Marching on Fatigue">
+    <param name="Local" value="CT00076.htm">
+    </OBJECT>
+    <A HREF="file:CT00076.htm">Effects of Force Marching on Fatigue</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Morale">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Morale">
+    <param name="Local" value="CT00077.htm">
+    </OBJECT>
+    <A HREF="file:CT00077.htm">Morale</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Informal Morale Checks">
+    <param name="Local" value="CT00078.htm">
+    </OBJECT>
+    <A HREF="file:CT00078.htm">Informal Morale Checks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Formal Morale Checks">
+    <param name="Local" value="CT00079.htm">
+    </OBJECT>
+    <A HREF="file:CT00079.htm">Formal Morale Checks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Failing a Morale Check">
+    <param name="Local" value="CT00080.htm">
+    </OBJECT>
+    <A HREF="file:CT00080.htm">Failing a Morale Check</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Status">
+    <param name="Local" value="CT00081.htm">
+    </OBJECT>
+    <A HREF="file:CT00081.htm">Status</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Special Combat Conditions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Special Combat Conditions">
+    <param name="Local" value="CT00082.htm">
+    </OBJECT>
+    <A HREF="file:CT00082.htm">Special Combat Conditions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Standard and Optional AD&D Rules">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Standard and Optional AD&D Rules">
+    <param name="Local" value="CT00083.htm">
+    </OBJECT>
+    <A HREF="file:CT00083.htm">Standard and Optional AD&D Rules</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Movement and Footing">
+    <param name="Local" value="CT00084.htm">
+    </OBJECT>
+    <A HREF="file:CT00084.htm">Movement and Footing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cover and Concealment">
+    <param name="Local" value="CT00085.htm">
+    </OBJECT>
+    <A HREF="file:CT00085.htm">Cover and Concealment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mounts">
+    <param name="Local" value="CT00086.htm">
+    </OBJECT>
+    <A HREF="file:CT00086.htm">Mounts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rear or Flank Attacks">
+    <param name="Local" value="CT00087.htm">
+    </OBJECT>
+    <A HREF="file:CT00087.htm">Rear or Flank Attacks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sitting, Kneeling, and Lying Prone">
+    <param name="Local" value="CT00088.htm">
+    </OBJECT>
+    <A HREF="file:CT00088.htm">Sitting, Kneeling, and Lying Prone</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Damage and Dying">
+    <param name="Local" value="CT00089.htm">
+    </OBJECT>
+    <A HREF="file:CT00089.htm">Damage and Dying</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Type vs. Armor Type">
+    <param name="Local" value="CT00090.htm">
+    </OBJECT>
+    <A HREF="file:CT00090.htm">Weapon Type vs. Armor Type</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Firing Into a Melee">
+    <param name="Local" value="CT00091.htm">
+    </OBJECT>
+    <A HREF="file:CT00091.htm">Firing Into a Melee</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Additional Rules">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Additional Rules">
+    <param name="Local" value="CT00092.htm">
+    </OBJECT>
+    <A HREF="file:CT00092.htm">Additional Rules</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Higher Ground">
+    <param name="Local" value="CT00093.htm">
+    </OBJECT>
+    <A HREF="file:CT00093.htm">Higher Ground</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Knockdowns">
+    <param name="Local" value="CT00094.htm">
+    </OBJECT>
+    <A HREF="file:CT00094.htm">Knockdowns</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hits">
+    <param name="Local" value="CT00095.htm">
+    </OBJECT>
+    <A HREF="file:CT00095.htm">Critical Hits</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Gray Areas">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Gray Areas">
+    <param name="Local" value="CT00096.htm">
+    </OBJECT>
+    <A HREF="file:CT00096.htm">The Gray Areas</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Example of Combat">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Example of Combat">
+    <param name="Local" value="CT00097.htm">
+    </OBJECT>
+    <A HREF="file:CT00097.htm">Example of Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Round One">
+    <param name="Local" value="CT00098.htm">
+    </OBJECT>
+    <A HREF="file:CT00098.htm">Round One</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Round Two">
+    <param name="Local" value="CT00099.htm">
+    </OBJECT>
+    <A HREF="file:CT00099.htm">Round Two</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Round Three">
+    <param name="Local" value="CT00100.htm">
+    </OBJECT>
+    <A HREF="file:CT00100.htm">Round Three</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Round Four">
+    <param name="Local" value="CT00101.htm">
+    </OBJECT>
+    <A HREF="file:CT00101.htm">Round Four</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter Two: Combat Options">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Options">
+    <param name="Local" value="CT00102.htm">
+    </OBJECT>
+    <A HREF="file:CT00102.htm">Combat Options</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign?">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign? Ch 02">
+    <param name="Local" value="CT00103.htm">
+    </OBJECT>
+    <A HREF="file:CT00103.htm">Does This Belong in My Campaign? Ch 02</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Battle Tactics">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Battle Tactics">
+    <param name="Local" value="CT00104.htm">
+    </OBJECT>
+    <A HREF="file:CT00104.htm">Battle Tactics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield Wall">
+    <param name="Local" value="CT00105.htm">
+    </OBJECT>
+    <A HREF="file:CT00105.htm">Shield Wall</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Versus Missiles">
+    <param name="Local" value="CT00106.htm">
+    </OBJECT>
+    <A HREF="file:CT00106.htm">Versus Missiles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Versus Melee">
+    <param name="Local" value="CT00107.htm">
+    </OBJECT>
+    <A HREF="file:CT00107.htm">Versus Melee</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spear Hedges">
+    <param name="Local" value="CT00108.htm">
+    </OBJECT>
+    <A HREF="file:CT00108.htm">Spear Hedges</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mounted Charge">
+    <param name="Local" value="CT00109.htm">
+    </OBJECT>
+    <A HREF="file:CT00109.htm">Mounted Charge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Archery from Horseback">
+    <param name="Local" value="CT00110.htm">
+    </OBJECT>
+    <A HREF="file:CT00110.htm">Archery from Horseback</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attack Options">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attack Options">
+    <param name="Local" value="CT00111.htm">
+    </OBJECT>
+    <A HREF="file:CT00111.htm">Attack Options</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Opposed Roll">
+    <param name="Local" value="CT00112.htm">
+    </OBJECT>
+    <A HREF="file:CT00112.htm">The Opposed Roll</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Block">
+    <param name="Local" value="CT00113.htm">
+    </OBJECT>
+    <A HREF="file:CT00113.htm">Block</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Called Shot">
+    <param name="Local" value="CT00114.htm">
+    </OBJECT>
+    <A HREF="file:CT00114.htm">Called Shot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disarm">
+    <param name="Local" value="CT00115.htm">
+    </OBJECT>
+    <A HREF="file:CT00115.htm">Disarm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grab">
+    <param name="Local" value="CT00116.htm">
+    </OBJECT>
+    <A HREF="file:CT00116.htm">Grab</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Overbear">
+    <param name="Local" value="CT00117.htm">
+    </OBJECT>
+    <A HREF="file:CT00117.htm">Overbear</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pull/Trip">
+    <param name="Local" value="CT00118.htm">
+    </OBJECT>
+    <A HREF="file:CT00118.htm">Pull/Trip</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sap">
+    <param name="Local" value="CT00119.htm">
+    </OBJECT>
+    <A HREF="file:CT00119.htm">Sap</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield-Punch">
+    <param name="Local" value="CT00120.htm">
+    </OBJECT>
+    <A HREF="file:CT00120.htm">Shield-Punch</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield-Rush">
+    <param name="Local" value="CT00121.htm">
+    </OBJECT>
+    <A HREF="file:CT00121.htm">Shield-Rush</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Special Weapon Manuever">
+    <param name="Local" value="CT00122.htm">
+    </OBJECT>
+    <A HREF="file:CT00122.htm">Special Weapon Manuever</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trap">
+    <param name="Local" value="CT00123.htm">
+    </OBJECT>
+    <A HREF="file:CT00123.htm">Trap</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trap and Break">
+    <param name="Local" value="CT00124.htm">
+    </OBJECT>
+    <A HREF="file:CT00124.htm">Trap and Break</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unarmed Attack">
+    <param name="Local" value="CT00125.htm">
+    </OBJECT>
+    <A HREF="file:CT00125.htm">Unarmed Attack</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unhorse">
+    <param name="Local" value="CT00126.htm">
+    </OBJECT>
+    <A HREF="file:CT00126.htm">Unhorse</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Styles">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Styles">
+    <param name="Local" value="CT00127.htm">
+    </OBJECT>
+    <A HREF="file:CT00127.htm">Fighting Styles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Single Weapon">
+    <param name="Local" value="CT00128.htm">
+    </OBJECT>
+    <A HREF="file:CT00128.htm">Single Weapon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Two-handed Weapon">
+    <param name="Local" value="CT00129.htm">
+    </OBJECT>
+    <A HREF="file:CT00129.htm">Two-handed Weapon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Size and Two-handed Weapons">
+    <param name="Local" value="CT00130.htm">
+    </OBJECT>
+    <A HREF="file:CT00130.htm">Size and Two-handed Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="One- or Two-handed Weapons">
+    <param name="Local" value="CT00131.htm">
+    </OBJECT>
+    <A HREF="file:CT00131.htm">One- or Two-handed Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="One-handed Weapons used Two-handed">
+    <param name="Local" value="CT00132.htm">
+    </OBJECT>
+    <A HREF="file:CT00132.htm">One-handed Weapons used Two-handed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon and Shield">
+    <param name="Local" value="CT00133.htm">
+    </OBJECT>
+    <A HREF="file:CT00133.htm">Weapon and Shield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Two Weapon">
+    <param name="Local" value="CT00134.htm">
+    </OBJECT>
+    <A HREF="file:CT00134.htm">Two Weapon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unarmed">
+    <param name="Local" value="CT00135.htm">
+    </OBJECT>
+    <A HREF="file:CT00135.htm">Unarmed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Missile or Thrown Weapon">
+    <param name="Local" value="CT00136.htm">
+    </OBJECT>
+    <A HREF="file:CT00136.htm">Missile or Thrown Weapon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multiple Loaded Weapons">
+    <param name="Local" value="CT00137.htm">
+    </OBJECT>
+    <A HREF="file:CT00137.htm">Multiple Loaded Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thrown Weapons">
+    <param name="Local" value="CT00138.htm">
+    </OBJECT>
+    <A HREF="file:CT00138.htm">Thrown Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon-Specific Styles">
+    <param name="Local" value="CT00139.htm">
+    </OBJECT>
+    <A HREF="file:CT00139.htm">Weapon-Specific Styles</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dueling">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dueling">
+    <param name="Local" value="CT00140.htm">
+    </OBJECT>
+    <A HREF="file:CT00140.htm">Dueling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="What's a Duel?">
+    <param name="Local" value="CT00141.htm">
+    </OBJECT>
+    <A HREF="file:CT00141.htm">What's a Duel?</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Initiative">
+    <param name="Local" value="CT00142.htm">
+    </OBJECT>
+    <A HREF="file:CT00142.htm">Initiative</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Dueling Plot">
+    <param name="Local" value="CT00143.htm">
+    </OBJECT>
+    <A HREF="file:CT00143.htm">The Dueling Plot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attacking in the Right Spot">
+    <param name="Local" value="CT00144.htm">
+    </OBJECT>
+    <A HREF="file:CT00144.htm">Attacking in the Right Spot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reading an Opponent's Move">
+    <param name="Local" value="CT00145.htm">
+    </OBJECT>
+    <A HREF="file:CT00145.htm">Reading an Opponent's Move</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Moving the Figures">
+    <param name="Local" value="CT00146.htm">
+    </OBJECT>
+    <A HREF="file:CT00146.htm">Moving the Figures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Choice of Defense">
+    <param name="Local" value="CT00147.htm">
+    </OBJECT>
+    <A HREF="file:CT00147.htm">Choice of Defense</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Choice of Attack">
+    <param name="Local" value="CT00148.htm">
+    </OBJECT>
+    <A HREF="file:CT00148.htm">Choice of Attack</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ending a Duel">
+    <param name="Local" value="CT00149.htm">
+    </OBJECT>
+    <A HREF="file:CT00149.htm">Ending a Duel</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Heroic Frays">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Heroic Frays">
+    <param name="Local" value="CT00150.htm">
+    </OBJECT>
+    <A HREF="file:CT00150.htm">Heroic Frays</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter Three: The Battlefield">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Battlefield">
+    <param name="Local" value="CT00151.htm">
+    </OBJECT>
+    <A HREF="file:CT00151.htm">The Battlefield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign?">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign Ch 03">
+    <param name="Local" value="CT00152.htm">
+    </OBJECT>
+    <A HREF="file:CT00152.htm">Does This Belong in My Campaign Ch 03</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Battlefields">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Battlefields">
+    <param name="Local" value="CT00153.htm">
+    </OBJECT>
+    <A HREF="file:CT00153.htm">Battlefields</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Four Basic Battlefields">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Four Basic Battlefields">
+    <param name="Local" value="CT00154.htm">
+    </OBJECT>
+    <A HREF="file:CT00154.htm">The Four Basic Battlefields</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dungeons or Caves">
+    <param name="Local" value="CT00155.htm">
+    </OBJECT>
+    <A HREF="file:CT00155.htm">Dungeons or Caves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Town or Building">
+    <param name="Local" value="CT00156.htm">
+    </OBJECT>
+    <A HREF="file:CT00156.htm">Town or Building</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Outside">
+    <param name="Local" value="CT00157.htm">
+    </OBJECT>
+    <A HREF="file:CT00157.htm">Outside</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Castles or Fortifications">
+    <param name="Local" value="CT00158.htm">
+    </OBJECT>
+    <A HREF="file:CT00158.htm">Castles or Fortifications</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Battlefield Characteristics">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Battlefield Characteristics">
+    <param name="Local" value="CT00159.htm">
+    </OBJECT>
+    <A HREF="file:CT00159.htm">Battlefield Characteristics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Encounter Range">
+    <param name="Local" value="CT00160.htm">
+    </OBJECT>
+    <A HREF="file:CT00160.htm">Encounter Range</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lines of Fire">
+    <param name="Local" value="CT00161.htm">
+    </OBJECT>
+    <A HREF="file:CT00161.htm">Lines of Fire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cover and Concealment">
+    <param name="Local" value="CT00162.htm">
+    </OBJECT>
+    <A HREF="file:CT00162.htm">Cover and Concealment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Footing">
+    <param name="Local" value="CT00163.htm">
+    </OBJECT>
+    <A HREF="file:CT00163.htm">Footing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Obstacles">
+    <param name="Local" value="CT00164.htm">
+    </OBJECT>
+    <A HREF="file:CT00164.htm">Obstacles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unsusal Material or Hazards">
+    <param name="Local" value="CT00165.htm">
+    </OBJECT>
+    <A HREF="file:CT00165.htm">Unsusal Material or Hazards</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Terrain Types">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Terrain Types">
+    <param name="Local" value="CT00166.htm">
+    </OBJECT>
+    <A HREF="file:CT00166.htm">Terrain Types</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Badlands">
+    <param name="Local" value="CT00167.htm">
+    </OBJECT>
+    <A HREF="file:CT00167.htm">Badlands</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Caves">
+    <param name="Local" value="CT00168.htm">
+    </OBJECT>
+    <A HREF="file:CT00168.htm">Caves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Desert">
+    <param name="Local" value="CT00169.htm">
+    </OBJECT>
+    <A HREF="file:CT00169.htm">Desert</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fields or Farmland">
+    <param name="Local" value="CT00170.htm">
+    </OBJECT>
+    <A HREF="file:CT00170.htm">Fields or Farmland</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forest, Heavy or Jungle">
+    <param name="Local" value="CT00171.htm">
+    </OBJECT>
+    <A HREF="file:CT00171.htm">Forest, Heavy or Jungle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forest, Light">
+    <param name="Local" value="CT00172.htm">
+    </OBJECT>
+    <A HREF="file:CT00172.htm">Forest, Light</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hills">
+    <param name="Local" value="CT00173.htm">
+    </OBJECT>
+    <A HREF="file:CT00173.htm">Hills</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="marsh">
+    <param name="Local" value="CT00174.htm">
+    </OBJECT>
+    <A HREF="file:CT00174.htm">marsh</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="mountains">
+    <param name="Local" value="CT00175.htm">
+    </OBJECT>
+    <A HREF="file:CT00175.htm">mountains</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Plains">
+    <param name="Local" value="CT00176.htm">
+    </OBJECT>
+    <A HREF="file:CT00176.htm">Plains</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ships">
+    <param name="Local" value="CT00177.htm">
+    </OBJECT>
+    <A HREF="file:CT00177.htm">Ships</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swamp">
+    <param name="Local" value="CT00178.htm">
+    </OBJECT>
+    <A HREF="file:CT00178.htm">Swamp</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Taverns">
+    <param name="Local" value="CT00179.htm">
+    </OBJECT>
+    <A HREF="file:CT00179.htm">Taverns</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Town Streets">
+    <param name="Local" value="CT00180.htm">
+    </OBJECT>
+    <A HREF="file:CT00180.htm">Town Streets</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Generating a Battlefield">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Generating a Battlefield">
+    <param name="Local" value="CT00181.htm">
+    </OBJECT>
+    <A HREF="file:CT00181.htm">Generating a Battlefield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step One: Scale">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step One: Scale">
+    <param name="Local" value="CT00182.htm">
+    </OBJECT>
+    <A HREF="file:CT00182.htm">Step One: Scale</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Two: Topography">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Two: Topography">
+    <param name="Local" value="CT00183.htm">
+    </OBJECT>
+    <A HREF="file:CT00183.htm">Step Two: Topography</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flat">
+    <param name="Local" value="CT00184.htm">
+    </OBJECT>
+    <A HREF="file:CT00184.htm">Flat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hilly">
+    <param name="Local" value="CT00185.htm">
+    </OBJECT>
+    <A HREF="file:CT00185.htm">Hilly</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Broken">
+    <param name="Local" value="CT00186.htm">
+    </OBJECT>
+    <A HREF="file:CT00186.htm">Broken</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Slopes and Escarpments">
+    <param name="Local" value="CT00187.htm">
+    </OBJECT>
+    <A HREF="file:CT00187.htm">Slopes and Escarpments</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Three: Ground Cover and Water">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Three: Ground cover and Water">
+    <param name="Local" value="CT00188.htm">
+    </OBJECT>
+    <A HREF="file:CT00188.htm">Step Three: Ground cover and Water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clear">
+    <param name="Local" value="CT00189.htm">
+    </OBJECT>
+    <A HREF="file:CT00189.htm">Clear</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thickets">
+    <param name="Local" value="CT00190.htm">
+    </OBJECT>
+    <A HREF="file:CT00190.htm">Thickets</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Light Woods">
+    <param name="Local" value="CT00191.htm">
+    </OBJECT>
+    <A HREF="file:CT00191.htm">Light Woods</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Heavy Woods">
+    <param name="Local" value="CT00192.htm">
+    </OBJECT>
+    <A HREF="file:CT00192.htm">Heavy Woods</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clear, bog">
+    <param name="Local" value="CT00193.htm">
+    </OBJECT>
+    <A HREF="file:CT00193.htm">Clear, bog</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bog">
+    <param name="Local" value="CT00194.htm">
+    </OBJECT>
+    <A HREF="file:CT00194.htm">Bog</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stream, bog">
+    <param name="Local" value="CT00195.htm">
+    </OBJECT>
+    <A HREF="file:CT00195.htm">Stream, bog</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pond, bog">
+    <param name="Local" value="CT00196.htm">
+    </OBJECT>
+    <A HREF="file:CT00196.htm">Pond, bog</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Four: Obstacles">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Four: Obstacles">
+    <param name="Local" value="CT00197.htm">
+    </OBJECT>
+    <A HREF="file:CT00197.htm">Step Four: Obstacles</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Five: Putting It All Together">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Step Five: Putting It All Together">
+    <param name="Local" value="CT00198.htm">
+    </OBJECT>
+    <A HREF="file:CT00198.htm">Step Five: Putting It All Together</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting in Unusual Conditions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting in Unusual Conditions">
+    <param name="Local" value="CT00199.htm">
+    </OBJECT>
+    <A HREF="file:CT00199.htm">Fighting in Unusual Conditions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Limited Visibility">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Limited Visibility">
+    <param name="Local" value="CT00200.htm">
+    </OBJECT>
+    <A HREF="file:CT00200.htm">Limited Visibility</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Moonlight or Moderate Fog or Rain">
+    <param name="Local" value="CT00201.htm">
+    </OBJECT>
+    <A HREF="file:CT00201.htm">Moonlight or Moderate Fog or Rain</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Starlight or Dense Fog or Heavy Rain">
+    <param name="Local" value="CT00202.htm">
+    </OBJECT>
+    <A HREF="file:CT00202.htm">Starlight or Dense Fog or Heavy Rain</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Total Darkness">
+    <param name="Local" value="CT00203.htm">
+    </OBJECT>
+    <A HREF="file:CT00203.htm">Total Darkness</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Water">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Water">
+    <param name="Local" value="CT00204.htm">
+    </OBJECT>
+    <A HREF="file:CT00204.htm">Water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Restrictions, water">
+    <param name="Local" value="CT00205.htm">
+    </OBJECT>
+    <A HREF="file:CT00205.htm">Weapon Restrictions, water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vision, water">
+    <param name="Local" value="CT00206.htm">
+    </OBJECT>
+    <A HREF="file:CT00206.htm">Vision, water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Movement, water">
+    <param name="Local" value="CT00207.htm">
+    </OBJECT>
+    <A HREF="file:CT00207.htm">Movement, water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Underwater Monsters From the Surface">
+    <param name="Local" value="CT00208.htm">
+    </OBJECT>
+    <A HREF="file:CT00208.htm">Fighting Underwater Monsters From the Surface</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Climbing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Climbing">
+    <param name="Local" value="CT00209.htm">
+    </OBJECT>
+    <A HREF="file:CT00209.htm">Climbing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Movement, climbing">
+    <param name="Local" value="CT00210.htm">
+    </OBJECT>
+    <A HREF="file:CT00210.htm">Movement, climbing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting, climbing">
+    <param name="Local" value="CT00211.htm">
+    </OBJECT>
+    <A HREF="file:CT00211.htm">Fighting, climbing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Flying Creatures, climbing">
+    <param name="Local" value="CT00212.htm">
+    </OBJECT>
+    <A HREF="file:CT00212.htm">Fighting Flying Creatures, climbing</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aerial Combat">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aerial Combat">
+    <param name="Local" value="CT00213.htm">
+    </OBJECT>
+    <A HREF="file:CT00213.htm">Aerial Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Initiative, Aerial combat">
+    <param name="Local" value="CT00214.htm">
+    </OBJECT>
+    <A HREF="file:CT00214.htm">Initiative, Aerial combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Threatening, Aerial Combat">
+    <param name="Local" value="CT00215.htm">
+    </OBJECT>
+    <A HREF="file:CT00215.htm">Threatening, Aerial Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Movement, Aerial combat">
+    <param name="Local" value="CT00216.htm">
+    </OBJECT>
+    <A HREF="file:CT00216.htm">Movement, Aerial combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attacks from Below">
+    <param name="Local" value="CT00217.htm">
+    </OBJECT>
+    <A HREF="file:CT00217.htm">Attacks from Below</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attacks from Above">
+    <param name="Local" value="CT00218.htm">
+    </OBJECT>
+    <A HREF="file:CT00218.htm">Attacks from Above</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unseating a Rider">
+    <param name="Local" value="CT00219.htm">
+    </OBJECT>
+    <A HREF="file:CT00219.htm">Unseating a Rider</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat on Other Planes">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat on Other Planes">
+    <param name="Local" value="CT00220.htm">
+    </OBJECT>
+    <A HREF="file:CT00220.htm">Combat on Other Planes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Astral Combat">
+    <param name="Local" value="CT00221.htm">
+    </OBJECT>
+    <A HREF="file:CT00221.htm">Astral Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ethereal Combat">
+    <param name="Local" value="CT00222.htm">
+    </OBJECT>
+    <A HREF="file:CT00222.htm">Ethereal Combat</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Effects of Magic on the Battlefield">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Effects of Magic on the Battlefield">
+    <param name="Local" value="CT00223.htm">
+    </OBJECT>
+    <A HREF="file:CT00223.htm">The Effects of Magic on the Battlefield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Spells">
+    <param name="Local" value="CT00224.htm">
+    </OBJECT>
+    <A HREF="file:CT00224.htm">Wizard Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blink">
+    <param name="Local" value="CT00092.htm">
+    </OBJECT>
+    <A HREF="file:CT00092.htm">Blink</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Darkness 15' Radius">
+    <param name="Local" value="CT00226.htm">
+    </OBJECT>
+    <A HREF="file:CT00226.htm">Darkness 15' Radius</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Enlarge">
+    <param name="Local" value="CT00227.htm">
+    </OBJECT>
+    <A HREF="file:CT00227.htm">Enlarge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fog Cloud">
+    <param name="Local" value="CT00228.htm">
+    </OBJECT>
+    <A HREF="file:CT00228.htm">Fog Cloud</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hallucinatory Terrain">
+    <param name="Local" value="CT00229.htm">
+    </OBJECT>
+    <A HREF="file:CT00229.htm">Hallucinatory Terrain</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Haste">
+    <param name="Local" value="CT00230.htm">
+    </OBJECT>
+    <A HREF="file:CT00230.htm">Haste</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Invisibility">
+    <param name="Local" value="CT00231.htm">
+    </OBJECT>
+    <A HREF="file:CT00231.htm">Invisibility</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jump">
+    <param name="Local" value="CT00232.htm">
+    </OBJECT>
+    <A HREF="file:CT00232.htm">Jump</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pyrotechnics">
+    <param name="Local" value="CT00233.htm">
+    </OBJECT>
+    <A HREF="file:CT00233.htm">Pyrotechnics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shocking Grasp">
+    <param name="Local" value="CT00234.htm">
+    </OBJECT>
+    <A HREF="file:CT00234.htm">Shocking Grasp</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Slow">
+    <param name="Local" value="CT00235.htm">
+    </OBJECT>
+    <A HREF="file:CT00235.htm">Slow</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Spells">
+    <param name="Local" value="CT00236.htm">
+    </OBJECT>
+    <A HREF="file:CT00236.htm">Priest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Air Walk">
+    <param name="Local" value="CT00237.htm">
+    </OBJECT>
+    <A HREF="file:CT00237.htm">Air Walk</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Obscurement">
+    <param name="Local" value="CT00238.htm">
+    </OBJECT>
+    <A HREF="file:CT00238.htm">Obscurement</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Items">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Items">
+    <param name="Local" value="CT00239.htm">
+    </OBJECT>
+    <A HREF="file:CT00239.htm">Magical Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Potion of Growth">
+    <param name="Local" value="CT00240.htm">
+    </OBJECT>
+    <A HREF="file:CT00240.htm">Potion of Growth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Potion of Invulnerability">
+    <param name="Local" value="CT00241.htm">
+    </OBJECT>
+    <A HREF="file:CT00241.htm">Potion of Invulnerability</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Apparatus of Kwalish">
+    <param name="Local" value="CT00242.htm">
+    </OBJECT>
+    <A HREF="file:CT00242.htm">Apparatus of Kwalish</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Boots of Speed">
+    <param name="Local" value="CT00243.htm">
+    </OBJECT>
+    <A HREF="file:CT00243.htm">Boots of Speed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Boots of Striding and Springing">
+    <param name="Local" value="CT00244.htm">
+    </OBJECT>
+    <A HREF="file:CT00244.htm">Boots of Striding and Springing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crossbow of Accuracy">
+    <param name="Local" value="CT00245.htm">
+    </OBJECT>
+    <A HREF="file:CT00245.htm">Crossbow of Accuracy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scimitar of Speed">
+    <param name="Local" value="CT00246.htm">
+    </OBJECT>
+    <A HREF="file:CT00246.htm">Scimitar of Speed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Short Sword of Quickness">
+    <param name="Local" value="CT00247.htm">
+    </OBJECT>
+    <A HREF="file:CT00247.htm">Short Sword of Quickness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sword of Sharpness">
+    <param name="Local" value="CT00248.htm">
+    </OBJECT>
+    <A HREF="file:CT00248.htm">Sword of Sharpness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vorpal Sword">
+    <param name="Local" value="CT00249.htm">
+    </OBJECT>
+    <A HREF="file:CT00249.htm">Vorpal Sword</A>
+</UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter Four: Weapon Specialization & Mastery">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Specialization & Mastery">
+    <param name="Local" value="CT00250.htm">
+    </OBJECT>
+    <A HREF="file:CT00250.htm">Weapon Specialization & Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Proficiencies">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Proficiencies">
+    <param name="Local" value="CT00251.htm">
+    </OBJECT>
+    <A HREF="file:CT00251.htm">Weapon Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Intelligence and Proficiencies">
+    <param name="Local" value="CT00252.htm">
+    </OBJECT>
+    <A HREF="file:CT00252.htm">Intelligence and Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies and the Skills and Powers Book">
+    <param name="Local" value="CT00253.htm">
+    </OBJECT>
+    <A HREF="file:CT00253.htm">Proficiencies and the Skills and Powers Book</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Groups">
+    <param name="Local" value="CT00254.htm">
+    </OBJECT>
+    <A HREF="file:CT00254.htm">Weapon Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specialization and Weapon Groups">
+    <param name="Local" value="CT00255.htm">
+    </OBJECT>
+    <A HREF="file:CT00255.htm">Specialization and Weapon Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Class and Weapon Proficiencies">
+    <param name="Local" value="CT00256.htm">
+    </OBJECT>
+    <A HREF="file:CT00256.htm">Character Class and Weapon Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits and Barred Weapons">
+    <param name="Local" value="CT00257.htm">
+    </OBJECT>
+    <A HREF="file:CT00257.htm">Kits and Barred Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Weapons">
+    <param name="Local" value="CT00258.htm">
+    </OBJECT>
+    <A HREF="file:CT00258.htm">New Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield Proficiency">
+    <param name="Local" value="CT00259.htm">
+    </OBJECT>
+    <A HREF="file:CT00259.htm">Shield Proficiency</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor Proficiency">
+    <param name="Local" value="CT00260.htm">
+    </OBJECT>
+    <A HREF="file:CT00260.htm">Armor Proficiency</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Mastery">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Mastery">
+    <param name="Local" value="CT00261.htm">
+    </OBJECT>
+    <A HREF="file:CT00261.htm">Weapon Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nonproficiency">
+    <param name="Local" value="CT00262.htm">
+    </OBJECT>
+    <A HREF="file:CT00262.htm">Nonproficiency</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Familiarity">
+    <param name="Local" value="CT00263.htm">
+    </OBJECT>
+    <A HREF="file:CT00263.htm">Familiarity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiency">
+    <param name="Local" value="CT00264.htm">
+    </OBJECT>
+    <A HREF="file:CT00264.htm">Proficiency</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Expertise">
+    <param name="Local" value="CT00265.htm">
+    </OBJECT>
+    <A HREF="file:CT00265.htm">Expertise</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specialization">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specialization">
+    <param name="Local" value="CT00266.htm">
+    </OBJECT>
+    <A HREF="file:CT00266.htm">Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Melee Weapons">
+    <param name="Local" value="CT00267.htm">
+    </OBJECT>
+    <A HREF="file:CT00267.htm">Melee Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Missile Weapons">
+    <param name="Local" value="CT00268.htm">
+    </OBJECT>
+    <A HREF="file:CT00268.htm">Missile Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bows">
+    <param name="Local" value="CT00269.htm">
+    </OBJECT>
+    <A HREF="file:CT00269.htm">Bows</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crossbows">
+    <param name="Local" value="CT00270.htm">
+    </OBJECT>
+    <A HREF="file:CT00270.htm">Crossbows</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Firearms">
+    <param name="Local" value="CT00271.htm">
+    </OBJECT>
+    <A HREF="file:CT00271.htm">Firearms</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Mastery">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Mastery">
+    <param name="Local" value="CT00272.htm">
+    </OBJECT>
+    <A HREF="file:CT00272.htm">Weapon Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects of Mastery">
+    <param name="Local" value="CT00273.htm">
+    </OBJECT>
+    <A HREF="file:CT00273.htm">Effects of Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="High Mastery">
+    <param name="Local" value="CT00274.htm">
+    </OBJECT>
+    <A HREF="file:CT00274.htm">High Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grand Mastery">
+    <param name="Local" value="CT00275.htm">
+    </OBJECT>
+    <A HREF="file:CT00275.htm">Grand Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Special DM Note">
+    <param name="Local" value="CT00276.htm">
+    </OBJECT>
+    <A HREF="file:CT00276.htm">Special DM Note</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Style Specializations">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Style Specialization">
+    <param name="Local" value="CT00277.htm">
+    </OBJECT>
+    <A HREF="file:CT00277.htm">Fighting Style Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon and Shield Style">
+    <param name="Local" value="CT00278.htm">
+    </OBJECT>
+    <A HREF="file:CT00278.htm">Weapon and Shield Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="One-handed Weapon Style">
+    <param name="Local" value="CT00279.htm">
+    </OBJECT>
+    <A HREF="file:CT00279.htm">One-handed Weapon Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Two-handed Weapon Style">
+    <param name="Local" value="CT00280.htm">
+    </OBJECT>
+    <A HREF="file:CT00280.htm">Two-handed Weapon Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Two-Weapon Style">
+    <param name="Local" value="CT00281.htm">
+    </OBJECT>
+    <A HREF="file:CT00281.htm">Two-Weapon Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Missile or Thrown Weapon Style">
+    <param name="Local" value="CT00282.htm">
+    </OBJECT>
+    <A HREF="file:CT00282.htm">Missile or Thrown Weapon Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Horse Archers">
+    <param name="Local" value="CT00283.htm">
+    </OBJECT>
+    <A HREF="file:CT00283.htm">Horse Archers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Local Fighting Styles">
+    <param name="Local" value="CT00284.htm">
+    </OBJECT>
+    <A HREF="file:CT00284.htm">Local Fighting Styles</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Special Talents">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Special Talents">
+    <param name="Local" value="CT00285.htm">
+    </OBJECT>
+    <A HREF="file:CT00285.htm">Special Talents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alertness, Special Talent">
+    <param name="Local" value="CT00286.htm">
+    </OBJECT>
+    <A HREF="file:CT00286.htm">Alertness, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ambidexterity, Special Talent">
+    <param name="Local" value="CT00287.htm">
+    </OBJECT>
+    <A HREF="file:CT00287.htm">Ambidexterity, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ambush, Special Talent">
+    <param name="Local" value="CT00288.htm">
+    </OBJECT>
+    <A HREF="file:CT00288.htm">Ambush, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Camoflage, Special Talent">
+    <param name="Local" value="CT00289.htm">
+    </OBJECT>
+    <A HREF="file:CT00289.htm">Camoflage, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dirty Fighting, Special Talent">
+    <param name="Local" value="CT00290.htm">
+    </OBJECT>
+    <A HREF="file:CT00290.htm">Dirty Fighting, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Endurance, Special Talent">
+    <param name="Local" value="CT00291.htm">
+    </OBJECT>
+    <A HREF="file:CT00291.htm">Endurance, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fine Balance, Special Talent">
+    <param name="Local" value="CT00292.htm">
+    </OBJECT>
+    <A HREF="file:CT00292.htm">Fine Balance, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Iron Will, Special Talent">
+    <param name="Local" value="CT00293.htm">
+    </OBJECT>
+    <A HREF="file:CT00293.htm">Iron Will, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Leadership, Special Talent">
+    <param name="Local" value="CT00294.htm">
+    </OBJECT>
+    <A HREF="file:CT00294.htm">Leadership, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quickness, Special Talent">
+    <param name="Local" value="CT00295.htm">
+    </OBJECT>
+    <A HREF="file:CT00295.htm">Quickness, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Steady Hand, Special Talent">
+    <param name="Local" value="CT00296.htm">
+    </OBJECT>
+    <A HREF="file:CT00296.htm">Steady Hand, Special Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trouble Sense">
+    <param name="Local" value="CT00297.htm">
+    </OBJECT>
+    <A HREF="file:CT00297.htm">Trouble Sense</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter Five: Unarmed Combat">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unarmed Combat">
+    <param name="Local" value="CT00298.htm">
+    </OBJECT>
+    <A HREF="file:CT00298.htm">Unarmed Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign?">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign? Ch 05">
+    <param name="Local" value="CT00299.htm">
+    </OBJECT>
+    <A HREF="file:CT00299.htm">Does This Belong in My Campaign? Ch 05</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Brawling">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Brawling">
+    <param name="Local" value="CT00300.htm">
+    </OBJECT>
+    <A HREF="file:CT00300.htm">Brawling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Brawling Attacks Against Armed Opponents">
+    <param name="Local" value="CT00301.htm">
+    </OBJECT>
+    <A HREF="file:CT00301.htm">Brawling Attacks Against Armed Opponents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Temporary Damage">
+    <param name="Local" value="CT00302.htm">
+    </OBJECT>
+    <A HREF="file:CT00302.htm">Temporary Damage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Opposed Rolls">
+    <param name="Local" value="CT00303.htm">
+    </OBJECT>
+    <A HREF="file:CT00303.htm">Opposed Rolls</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pummeling">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pummeling">
+    <param name="Local" value="CT00304.htm">
+    </OBJECT>
+    <A HREF="file:CT00304.htm">Pummeling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pummeling Procedures">
+    <param name="Local" value="CT00305.htm">
+    </OBJECT>
+    <A HREF="file:CT00305.htm">Pummeling Procedures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pummeling Skill Levels">
+    <param name="Local" value="CT00306.htm">
+    </OBJECT>
+    <A HREF="file:CT00306.htm">Pummeling Skill Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Pummeling">
+    <param name="Local" value="CT00307.htm">
+    </OBJECT>
+    <A HREF="file:CT00307.htm">An Example of Pummeling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Special Pummeling Maneuvers">
+    <param name="Local" value="CT00308.htm">
+    </OBJECT>
+    <A HREF="file:CT00308.htm">Special Pummeling Maneuvers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sapping">
+    <param name="Local" value="CT00309.htm">
+    </OBJECT>
+    <A HREF="file:CT00309.htm">Sapping</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kicking">
+    <param name="Local" value="CT00310.htm">
+    </OBJECT>
+    <A HREF="file:CT00310.htm">Kicking</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wrestling">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wrestling">
+    <param name="Local" value="CT00311.htm">
+    </OBJECT>
+    <A HREF="file:CT00311.htm">Wrestling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wrestling Skill Levels">
+    <param name="Local" value="CT00319.htm">
+    </OBJECT>
+    <A HREF="file:CT00319.htm">Wrestling Skill Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Wrestling">
+    <param name="Local" value="CT00320.htm">
+    </OBJECT>
+    <A HREF="file:CT00320.htm">An Example of Wrestling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wrestling Procedures">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wrestling Procedures">
+    <param name="Local" value="CT00312.htm">
+    </OBJECT>
+    <A HREF="file:CT00312.htm">Wrestling Procedures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Holds">
+    <param name="Local" value="CT00313.htm">
+    </OBJECT>
+    <A HREF="file:CT00313.htm">Holds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Previously Established Holds and Locks">
+    <param name="Local" value="CT00314.htm">
+    </OBJECT>
+    <A HREF="file:CT00314.htm">Previously Established Holds and Locks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Breaking Free">
+    <param name="Local" value="CT00315.htm">
+    </OBJECT>
+    <A HREF="file:CT00315.htm">Breaking Free</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Assistance">
+    <param name="Local" value="CT00316.htm">
+    </OBJECT>
+    <A HREF="file:CT00316.htm">Assistance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Locks">
+    <param name="Local" value="CT00317.htm">
+    </OBJECT>
+    <A HREF="file:CT00317.htm">Locks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wrestler Versus Wrestler">
+    <param name="Local" value="CT00318.htm">
+    </OBJECT>
+    <A HREF="file:CT00318.htm">Wrestler Versus Wrestler</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Overbearing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Overbearing">
+    <param name="Local" value="CT00321.htm">
+    </OBJECT>
+    <A HREF="file:CT00321.htm">Overbearing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Overbearing Procedures">
+    <param name="Local" value="CT00322.htm">
+    </OBJECT>
+    <A HREF="file:CT00322.htm">Overbearing Procedures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Overbearing Skill Levels">
+    <param name="Local" value="CT00327.htm">
+    </OBJECT>
+    <A HREF="file:CT00327.htm">Overbearing Skill Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Overbearing">
+    <param name="Local" value="CT00328.htm">
+    </OBJECT>
+    <A HREF="file:CT00328.htm">An Example of Overbearing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pins">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pins">
+    <param name="Local" value="CT00323.htm">
+    </OBJECT>
+    <A HREF="file:CT00323.htm">Pins</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Effects of Pins">
+    <param name="Local" value="CT00324.htm">
+    </OBJECT>
+    <A HREF="file:CT00324.htm">Effects of Pins</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Maintaining and Breaking Pins">
+    <param name="Local" value="CT00325.htm">
+    </OBJECT>
+    <A HREF="file:CT00325.htm">Maintaining and Breaking Pins</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Assistance">
+    <param name="Local" value="CT00326.htm">
+    </OBJECT>
+    <A HREF="file:CT00326.htm">Assistance</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attack Options and Unarmed Attacks">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attack Options and Unarmed Attacks">
+    <param name="Local" value="CT00329.htm">
+    </OBJECT>
+    <A HREF="file:CT00329.htm">Attack Options and Unarmed Attacks</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Subdual Attacks">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Subual Attacks">
+    <param name="Local" value="CT00330.htm">
+    </OBJECT>
+    <A HREF="file:CT00330.htm">Subual Attacks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Subduing">
+    <param name="Local" value="CT00331.htm">
+    </OBJECT>
+    <A HREF="file:CT00331.htm">An Example of Subduing</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts">
+    <param name="Local" value="CT00332.htm">
+    </OBJECT>
+    <A HREF="file:CT00332.htm">Martial Arts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts Procedures">
+    <param name="Local" value="CT00333.htm">
+    </OBJECT>
+    <A HREF="file:CT00333.htm">Martial Arts Procedures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts Skill Levels">
+    <param name="Local" value="CT00334.htm">
+    </OBJECT>
+    <A HREF="file:CT00334.htm">Martial Arts Skill Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts Weapons">
+    <param name="Local" value="CT00335.htm">
+    </OBJECT>
+    <A HREF="file:CT00335.htm">Martial Arts Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Martial Arts Combat">
+    <param name="Local" value="CT00336.htm">
+    </OBJECT>
+    <A HREF="file:CT00336.htm">An Example of Martial Arts Combat</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts Talents">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Arts Talents">
+    <param name="Local" value="CT00337.htm">
+    </OBJECT>
+    <A HREF="file:CT00337.htm">Martial Arts Talents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flying Kick">
+    <param name="Local" value="CT00337.htm">
+    </OBJECT>
+    <A HREF="file:CT00337.htm">Flying Kick</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Backward Kick, Martial Art Talent">
+    <param name="Local" value="CT00337.htm">
+    </OBJECT>
+    <A HREF="file:CT00337.htm">Backward Kick, Martial Art Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spring, Martial Art Talent">
+    <param name="Local" value="CT00337.htm">
+    </OBJECT>
+    <A HREF="file:CT00337.htm">Spring, Martial Art Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crushing Blow, Martial Art Talent">
+    <param name="Local" value="CT00337.htm">
+    </OBJECT>
+    <A HREF="file:CT00337.htm">Crushing Blow, Martial Art Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Instant Stand, Martial Art Talent">
+    <param name="Local" value="CT00337.htm">
+    </OBJECT>
+    <A HREF="file:CT00337.htm">Instant Stand, Martial Art Talent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Missile Deflection, Martial Art Talent">
+    <param name="Local" value="CT00337.htm">
+    </OBJECT>
+    <A HREF="file:CT00337.htm">Missile Deflection, Martial Art Talent</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter Six: Critical Hits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hits">
+    <param name="Local" value="CT00338.htm">
+    </OBJECT>
+    <A HREF="file:CT00338.htm">Critical Hits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign?">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campiagn? Ch 06">
+    <param name="Local" value="CT00339.htm">
+    </OBJECT>
+    <A HREF="file:CT00339.htm">Does This Belong in My Campiagn? Ch 06</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hits: System I">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hits: System I">
+    <param name="Local" value="CT00340.htm">
+    </OBJECT>
+    <A HREF="file:CT00340.htm">Critical Hits: System I</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hits: System II">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hits: System II">
+    <param name="Local" value="CT00341.htm">
+    </OBJECT>
+    <A HREF="file:CT00341.htm">Critical Hits: System II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hits Charts">
+    <param name="Local" value="CT00342.htm">
+    </OBJECT>
+    <A HREF="file:CT00342.htm">Critical Hits Charts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Location">
+    <param name="Local" value="CT00343.htm">
+    </OBJECT>
+    <A HREF="file:CT00343.htm">Location</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Severity">
+    <param name="Local" value="CT00344.htm">
+    </OBJECT>
+    <A HREF="file:CT00344.htm">Severity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Resistance">
+    <param name="Local" value="CT00345.htm">
+    </OBJECT>
+    <A HREF="file:CT00345.htm">Resistance</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reading the Critical Hits Table">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reading the Critical Hit Tables">
+    <param name="Local" value="CT00346.htm">
+    </OBJECT>
+    <A HREF="file:CT00346.htm">Reading the Critical Hit Tables</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specific Injuries">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specific Injuries">
+    <param name="Local" value="CT00347.htm">
+    </OBJECT>
+    <A HREF="file:CT00347.htm">Specific Injuries</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hit Effects">
+    <param name="Local" value="CT00348.htm">
+    </OBJECT>
+    <A HREF="file:CT00348.htm">Critical Hit Effects</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hits Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hit Tables">
+    <param name="Local" value="CT00349.htm">
+    </OBJECT>
+    <A HREF="file:CT00349.htm">Critical Hit Tables</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bludgeoning vs. Humanoids, critical hit table">
+    <param name="Local" value="CT00349.htm">
+    </OBJECT>
+    <A HREF="file:CT00349.htm">Bludgeoning vs. Humanoids, critical hit table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bludgeoning vs. Animals, critical hit table">
+    <param name="Local" value="CT00350.htm">
+    </OBJECT>
+    <A HREF="file:CT00350.htm">Bludgeoning vs. Animals, critical hit table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bludgeoning vs. Monsters, critical hit table">
+    <param name="Local" value="CT00351.htm">
+    </OBJECT>
+    <A HREF="file:CT00351.htm">Bludgeoning vs. Monsters, critical hit table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Slashing vs. Humanoids, critical hit table">
+    <param name="Local" value="CT00352.htm">
+    </OBJECT>
+    <A HREF="file:CT00352.htm">Slashing vs. Humanoids, critical hit table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Slashing vs. Animals, critical hit table">
+    <param name="Local" value="CT00353.htm">
+    </OBJECT>
+    <A HREF="file:CT00353.htm">Slashing vs. Animals, critical hit table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Slashing vs. Monsters, critical hit table">
+    <param name="Local" value="CT00354.htm">
+    </OBJECT>
+    <A HREF="file:CT00354.htm">Slashing vs. Monsters, critical hit table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Piercing vs. Humanoids, critical hit table">
+    <param name="Local" value="CT00355.htm">
+    </OBJECT>
+    <A HREF="file:CT00355.htm">Piercing vs. Humanoids, critical hit table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Piercing vs. Animals, critical hit table">
+    <param name="Local" value="CT00356.htm">
+    </OBJECT>
+    <A HREF="file:CT00356.htm">Piercing vs. Animals, critical hit table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Piercing vs. Monsters, critical hit table">
+    <param name="Local" value="CT00357.htm">
+    </OBJECT>
+    <A HREF="file:CT00357.htm">Piercing vs. Monsters, critical hit table</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter Seven: Weapons & Armor">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapons & Armor">
+    <param name="Local" value="CT00358.htm">
+    </OBJECT>
+    <A HREF="file:CT00358.htm">Weapons & Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment Groups">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment Groups">
+    <param name="Local" value="CT00359.htm">
+    </OBJECT>
+    <A HREF="file:CT00359.htm">Equipment Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reading the Equipment Lists">
+    <param name="Local" value="CT00360.htm">
+    </OBJECT>
+    <A HREF="file:CT00360.htm">Reading the Equipment Lists</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stone Age or Savage Cultures">
+    <param name="Local" value="CT00361.htm">
+    </OBJECT>
+    <A HREF="file:CT00361.htm">Stone Age or Savage Cultures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tools/Common">
+    <param name="Local" value="CT00362.htm">
+    </OBJECT>
+    <A HREF="file:CT00362.htm">Tools/Common</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Bronze Age and Ancient Cultures">
+    <param name="Local" value="CT00363.htm">
+    </OBJECT>
+    <A HREF="file:CT00363.htm">The Bronze Age and Ancient Cultures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Roman">
+    <param name="Local" value="CT00364.htm">
+    </OBJECT>
+    <A HREF="file:CT00364.htm">Roman</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dark Ages">
+    <param name="Local" value="CT00365.htm">
+    </OBJECT>
+    <A HREF="file:CT00365.htm">Dark Ages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Crusades">
+    <param name="Local" value="CT00366.htm">
+    </OBJECT>
+    <A HREF="file:CT00366.htm">The Crusades</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hundred Years' War">
+    <param name="Local" value="CT00367.htm">
+    </OBJECT>
+    <A HREF="file:CT00367.htm">Hundred Years' War</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Renaissance">
+    <param name="Local" value="CT00368.htm">
+    </OBJECT>
+    <A HREF="file:CT00368.htm">The Renaissance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Middle Eastern">
+    <param name="Local" value="CT00369.htm">
+    </OBJECT>
+    <A HREF="file:CT00369.htm">Middle Eastern</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Oriental">
+    <param name="Local" value="CT00370.htm">
+    </OBJECT>
+    <A HREF="file:CT00370.htm">Oriental</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Firearms">
+    <param name="Local" value="CT00371.htm">
+    </OBJECT>
+    <A HREF="file:CT00371.htm">Firearms</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor">
+    <param name="Local" value="CT00372.htm">
+    </OBJECT>
+    <A HREF="file:CT00372.htm">Armor</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Master Weapon List">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Master Weapon List">
+    <param name="Local" value="CT00373.htm">
+    </OBJECT>
+    <A HREF="file:CT00373.htm">Master Weapon List</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Descriptions">
+    <param name="Local" value="CT00375.htm">
+    </OBJECT>
+    <A HREF="file:CT00375.htm">Weapon Descriptions</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapons Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Master Weapons Table">
+    <param name="Local" value="CT00374.htm">
+    </OBJECT>
+    <A HREF="file:CT00374.htm">Master Weapons Table</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Groups">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Groups">
+    <param name="Local" value="CT00376.htm">
+    </OBJECT>
+    <A HREF="file:CT00376.htm">Weapon Groups</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon and Ability Bonuses">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapons and Ability Bonuses">
+    <param name="Local" value="CT00377.htm">
+    </OBJECT>
+    <A HREF="file:CT00377.htm">Weapons and Ability Bonuses</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor Description">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor Descriptions">
+    <param name="Local" value="CT00378.htm">
+    </OBJECT>
+    <A HREF="file:CT00378.htm">Armor Descriptions</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter Eight: Siege Warfare">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Siege Warfare">
+    <param name="Local" value="CT00379.htm">
+    </OBJECT>
+    <A HREF="file:CT00379.htm">Siege Warfare</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign?">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign?">
+    <param name="Local" value="CT00380.htm">
+    </OBJECT>
+    <A HREF="file:CT00380.htm">Does This Belong in My Campaign?</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War Machines">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War Machines">
+    <param name="Local" value="CT00381.htm">
+    </OBJECT>
+    <A HREF="file:CT00381.htm">War Machines</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bombardment Engines">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bombardment Engines">
+    <param name="Local" value="CT00382.htm">
+    </OBJECT>
+    <A HREF="file:CT00382.htm">Bombardment Engines</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ballista">
+    <param name="Local" value="CT00383.htm">
+    </OBJECT>
+    <A HREF="file:CT00383.htm">Ballista</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bombard">
+    <param name="Local" value="CT00384.htm">
+    </OBJECT>
+    <A HREF="file:CT00384.htm">Bombard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cannon">
+    <param name="Local" value="CT00385.htm">
+    </OBJECT>
+    <A HREF="file:CT00385.htm">Cannon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Catapult">
+    <param name="Local" value="CT00386.htm">
+    </OBJECT>
+    <A HREF="file:CT00386.htm">Catapult</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trebuchet">
+    <param name="Local" value="CT00387.htm">
+    </OBJECT>
+    <A HREF="file:CT00387.htm">Trebuchet</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bombardment Engine Procedures">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bombardment Engine Procedures">
+    <param name="Local" value="CT00388.htm">
+    </OBJECT>
+    <A HREF="file:CT00388.htm">Bombardment Engine Procedures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Indirect Fire Engines">
+    <param name="Local" value="CT00389.htm">
+    </OBJECT>
+    <A HREF="file:CT00389.htm">Indirect Fire Engines</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Indirect Bombardment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Indirect Bombardment">
+    <param name="Local" value="CT00390.htm">
+    </OBJECT>
+    <A HREF="file:CT00390.htm">An Example of Indirect Bombardment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Direct Fire Engines">
+    <param name="Local" value="CT00391.htm">
+    </OBJECT>
+    <A HREF="file:CT00391.htm">Direct Fire Engines</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Direct Bombardment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Direct Bombardment">
+    <param name="Local" value="CT00392.htm">
+    </OBJECT>
+    <A HREF="file:CT00392.htm">An Example of Direct Bombardment</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vehicles">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vehicles">
+    <param name="Local" value="CT00393.htm">
+    </OBJECT>
+    <A HREF="file:CT00393.htm">Vehicles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chariot">
+    <param name="Local" value="CT00394.htm">
+    </OBJECT>
+    <A HREF="file:CT00394.htm">Chariot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Howdah">
+    <param name="Local" value="CT00395.htm">
+    </OBJECT>
+    <A HREF="file:CT00395.htm">Howdah</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Carrying Capacities For Beasts">
+    <param name="Local" value="CT00396.htm">
+    </OBJECT>
+    <A HREF="file:CT00396.htm">Carrying Capacities For Beasts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wagon">
+    <param name="Local" value="CT00397.htm">
+    </OBJECT>
+    <A HREF="file:CT00397.htm">Wagon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Driving Checks and Fliping Over">
+    <param name="Local" value="CT00398.htm">
+    </OBJECT>
+    <A HREF="file:CT00398.htm">Driving Checks and Fliping Over</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ramming">
+    <param name="Local" value="CT00399.htm">
+    </OBJECT>
+    <A HREF="file:CT00399.htm">Ramming</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Miscellaneous War Machines">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Miscellaneous War Machines">
+    <param name="Local" value="CT00400.htm">
+    </OBJECT>
+    <A HREF="file:CT00400.htm">Miscellaneous War Machines</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Battering Ram">
+    <param name="Local" value="CT00401.htm">
+    </OBJECT>
+    <A HREF="file:CT00401.htm">Battering Ram</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bore">
+    <param name="Local" value="CT00402.htm">
+    </OBJECT>
+    <A HREF="file:CT00402.htm">Bore</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cauldron">
+    <param name="Local" value="CT00403.htm">
+    </OBJECT>
+    <A HREF="file:CT00403.htm">Cauldron</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gallery Shed">
+    <param name="Local" value="CT00404.htm">
+    </OBJECT>
+    <A HREF="file:CT00404.htm">Gallery Shed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Greek Fire Projector">
+    <param name="Local" value="CT00405.htm">
+    </OBJECT>
+    <A HREF="file:CT00405.htm">Greek Fire Projector</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mantlet/Abatis">
+    <param name="Local" value="CT00406.htm">
+    </OBJECT>
+    <A HREF="file:CT00406.htm">Mantlet/Abatis</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ram Catcher">
+    <param name="Local" value="CT00407.htm">
+    </OBJECT>
+    <A HREF="file:CT00407.htm">Ram Catcher</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rocks">
+    <param name="Local" value="CT00408.htm">
+    </OBJECT>
+    <A HREF="file:CT00408.htm">Rocks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Critical Hits and Knockdown Dice, Siege">
+    <param name="Local" value="CT00409.htm">
+    </OBJECT>
+    <A HREF="file:CT00409.htm">Critical Hits and Knockdown Dice, Siege</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multiple Targets">
+    <param name="Local" value="CT00410.htm">
+    </OBJECT>
+    <A HREF="file:CT00410.htm">Multiple Targets</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Siege Tower">
+    <param name="Local" value="CT00411.htm">
+    </OBJECT>
+    <A HREF="file:CT00411.htm">Siege Tower</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Miscellaneous War Machine Costs and Weights">
+    <param name="Local" value="CT00412.htm">
+    </OBJECT>
+    <A HREF="file:CT00412.htm">Miscellaneous War Machine Costs and Weights</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Escalades">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Escalades">
+    <param name="Local" value="CT00413.htm">
+    </OBJECT>
+    <A HREF="file:CT00413.htm">Escalades</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Approach of a Castle">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Approach of a Castle">
+    <param name="Local" value="CT00414.htm">
+    </OBJECT>
+    <A HREF="file:CT00414.htm">The Approach of a Castle</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Walls">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Walls">
+    <param name="Local" value="CT00415.htm">
+    </OBJECT>
+    <A HREF="file:CT00415.htm">Walls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wall Defenses">
+    <param name="Local" value="CT00416.htm">
+    </OBJECT>
+    <A HREF="file:CT00416.htm">Wall Defenses</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scaling Walls">
+    <param name="Local" value="CT00417.htm">
+    </OBJECT>
+    <A HREF="file:CT00417.htm">Scaling Walls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ladders">
+    <param name="Local" value="CT00418.htm">
+    </OBJECT>
+    <A HREF="file:CT00418.htm">Ladders</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grappling Hooks">
+    <param name="Local" value="CT00419.htm">
+    </OBJECT>
+    <A HREF="file:CT00419.htm">Grappling Hooks</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War Machine vs. War Machine">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War Machine vs. War Machine">
+    <param name="Local" value="CT00420.htm">
+    </OBJECT>
+    <A HREF="file:CT00420.htm">War Machine vs. War Machine</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fires">
+    <param name="Local" value="CT00421.htm">
+    </OBJECT>
+    <A HREF="file:CT00421.htm">Fires</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War Engine Attack and Defense Values">
+    <param name="Local" value="CT00422.htm">
+    </OBJECT>
+    <A HREF="file:CT00422.htm">War Engine Attack and Defense Values</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sapping">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sapping">
+    <param name="Local" value="CT00423.htm">
+    </OBJECT>
+    <A HREF="file:CT00423.htm">Sapping</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Petards">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Petards">
+    <param name="Local" value="CT00424.htm">
+    </OBJECT>
+    <A HREF="file:CT00424.htm">Petards</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creatures Inside Destroyed Targets">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creatures Inside Destroyed Targets">
+    <param name="Local" value="CT00425.htm">
+    </OBJECT>
+    <A HREF="file:CT00425.htm">Creatures Inside Destroyed Targets</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Attacks">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Attacks">
+    <param name="Local" value="CT00426.htm">
+    </OBJECT>
+    <A HREF="file:CT00426.htm">Magical Attacks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bigby's Clenched Fist">
+    <param name="Local" value="CT00427.htm">
+    </OBJECT>
+    <A HREF="file:CT00427.htm">Bigby's Clenched Fist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dig">
+    <param name="Local" value="CT00428.htm">
+    </OBJECT>
+    <A HREF="file:CT00428.htm">Dig</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disintegrate">
+    <param name="Local" value="CT00429.htm">
+    </OBJECT>
+    <A HREF="file:CT00429.htm">Disintegrate</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Earthquake">
+    <param name="Local" value="CT00430.htm">
+    </OBJECT>
+    <A HREF="file:CT00430.htm">Earthquake</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fireball">
+    <param name="Local" value="CT00431.htm">
+    </OBJECT>
+    <A HREF="file:CT00431.htm">Fireball</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Horn of Blasting">
+    <param name="Local" value="CT00432.htm">
+    </OBJECT>
+    <A HREF="file:CT00432.htm">Horn of Blasting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Incendiary Cloud">
+    <param name="Local" value="CT00433.htm">
+    </OBJECT>
+    <A HREF="file:CT00433.htm">Incendiary Cloud</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lightning Bolt">
+    <param name="Local" value="CT00434.htm">
+    </OBJECT>
+    <A HREF="file:CT00434.htm">Lightning Bolt</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Potion of Fire Breath">
+    <param name="Local" value="CT00435.htm">
+    </OBJECT>
+    <A HREF="file:CT00435.htm">Potion of Fire Breath</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mattock of the Titans">
+    <param name="Local" value="CT00436.htm">
+    </OBJECT>
+    <A HREF="file:CT00436.htm">Mattock of the Titans</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Maul of the Titans">
+    <param name="Local" value="CT00437.htm">
+    </OBJECT>
+    <A HREF="file:CT00437.htm">Maul of the Titans</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Move Earth">
+    <param name="Local" value="CT00438.htm">
+    </OBJECT>
+    <A HREF="file:CT00438.htm">Move Earth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of the Ram">
+    <param name="Local" value="CT00439.htm">
+    </OBJECT>
+    <A HREF="file:CT00439.htm">Ring of the Ram</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of shooting Stars">
+    <param name="Local" value="CT00440.htm">
+    </OBJECT>
+    <A HREF="file:CT00440.htm">Ring of shooting Stars</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Transmute Rock to Mud">
+    <param name="Local" value="CT00441.htm">
+    </OBJECT>
+    <A HREF="file:CT00441.htm">Transmute Rock to Mud</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wall of Fire">
+    <param name="Local" value="CT00442.htm">
+    </OBJECT>
+    <A HREF="file:CT00442.htm">Wall of Fire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wall of Iron">
+    <param name="Local" value="CT00443.htm">
+    </OBJECT>
+    <A HREF="file:CT00443.htm">Wall of Iron</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wall of Stone">
+    <param name="Local" value="CT00444.htm">
+    </OBJECT>
+    <A HREF="file:CT00444.htm">Wall of Stone</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warp Wood">
+    <param name="Local" value="CT00445.htm">
+    </OBJECT>
+    <A HREF="file:CT00445.htm">Warp Wood</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sieges">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sieges">
+    <param name="Local" value="CT00446.htm">
+    </OBJECT>
+    <A HREF="file:CT00446.htm">Sieges</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reduction">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reduction">
+    <param name="Local" value="CT00447.htm">
+    </OBJECT>
+    <A HREF="file:CT00447.htm">Reduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reduction Procedures">
+    <param name="Local" value="CT00448.htm">
+    </OBJECT>
+    <A HREF="file:CT00448.htm">Reduction Procedures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Saving Throw Failure">
+    <param name="Local" value="CT00449.htm">
+    </OBJECT>
+    <A HREF="file:CT00449.htm">Saving Throw Failure</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mines">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mines">
+    <param name="Local" value="CT00450.htm">
+    </OBJECT>
+    <A HREF="file:CT00450.htm">Mines</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Counter Mining">
+    <param name="Local" value="CT00451.htm">
+    </OBJECT>
+    <A HREF="file:CT00451.htm">Counter Mining</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Investment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Investment">
+    <param name="Local" value="CT00452.htm">
+    </OBJECT>
+    <A HREF="file:CT00452.htm">Investment</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mass Combat">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mass Combat">
+    <param name="Local" value="CT00453.htm">
+    </OBJECT>
+    <A HREF="file:CT00453.htm">Mass Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mass Combat Procedures">
+    <param name="Local" value="CT00454.htm">
+    </OBJECT>
+    <A HREF="file:CT00454.htm">Mass Combat Procedures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="An Example of Mass Combat">
+    <param name="Local" value="CT00455.htm">
+    </OBJECT>
+    <A HREF="file:CT00455.htm">An Example of Mass Combat</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies">
+    <param name="Local" value="CT00456.htm">
+    </OBJECT>
+    <A HREF="file:CT00456.htm">Proficiencies</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter Nine: Monsters">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Monsters">
+    <param name="Local" value="CT00457.htm">
+    </OBJECT>
+    <A HREF="file:CT00457.htm">Monsters</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign?">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Does This Belong in My Campaign?">
+    <param name="Local" value="CT00458.htm">
+    </OBJECT>
+    <A HREF="file:CT00458.htm">Does This Belong in My Campaign?</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creatures in Battle">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creatures in Battle">
+    <param name="Local" value="CT00459.htm">
+    </OBJECT>
+    <A HREF="file:CT00459.htm">Creatures in Battle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Intelligence">
+    <param name="Local" value="CT00460.htm">
+    </OBJECT>
+    <A HREF="file:CT00460.htm">Intelligence</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alignment">
+    <param name="Local" value="CT00461.htm">
+    </OBJECT>
+    <A HREF="file:CT00461.htm">Alignment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Morale">
+    <param name="Local" value="CT00461.htm">
+    </OBJECT>
+    <A HREF="file:CT00461.htm">Morale</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creature Types">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creature Types">
+    <param name="Local" value="CT00462.htm">
+    </OBJECT>
+    <A HREF="file:CT00462.htm">Creature Types</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Humanoid">
+    <param name="Local" value="CT00463.htm">
+    </OBJECT>
+    <A HREF="file:CT00463.htm">Humanoid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal">
+    <param name="Local" value="CT00464.htm">
+    </OBJECT>
+    <A HREF="file:CT00464.htm">Animal</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Monster">
+    <param name="Local" value="CT00465.htm">
+    </OBJECT>
+    <A HREF="file:CT00465.htm">Monster</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attack and Armor Types">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attack and Armor Types">
+    <param name="Local" value="CT00466.htm">
+    </OBJECT>
+    <A HREF="file:CT00466.htm">Attack and Armor Types</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attacks">
+    <param name="Local" value="CT00467.htm">
+    </OBJECT>
+    <A HREF="file:CT00467.htm">Attacks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor">
+    <param name="Local" value="CT00468.htm">
+    </OBJECT>
+    <A HREF="file:CT00468.htm">Armor</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Index">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A">
+    <param name="Local" value="CT00469.htm">
+    </OBJECT>
+    <A HREF="file:CT00469.htm">A</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="B">
+    <param name="Local" value="CT00470.htm">
+    </OBJECT>
+    <A HREF="file:CT00470.htm">B</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="C">
+    <param name="Local" value="CT00471.htm">
+    </OBJECT>
+    <A HREF="file:CT00471.htm">C</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="D">
+    <param name="Local" value="CT00472.htm">
+    </OBJECT>
+    <A HREF="file:CT00472.htm">D</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="E">
+    <param name="Local" value="CT00473.htm">
+    </OBJECT>
+    <A HREF="file:CT00473.htm">E</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="F">
+    <param name="Local" value="CT00474.htm">
+    </OBJECT>
+    <A HREF="file:CT00474.htm">F</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="G">
+    <param name="Local" value="CT00475.htm">
+    </OBJECT>
+    <A HREF="file:CT00475.htm">G</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="H">
+    <param name="Local" value="CT00476.htm">
+    </OBJECT>
+    <A HREF="file:CT00476.htm">H</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="I">
+    <param name="Local" value="CT00477.htm">
+    </OBJECT>
+    <A HREF="file:CT00477.htm">I</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="J">
+    <param name="Local" value="CT00478.htm">
+    </OBJECT>
+    <A HREF="file:CT00478.htm">J</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="K">
+    <param name="Local" value="CT00479.htm">
+    </OBJECT>
+    <A HREF="file:CT00479.htm">K</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="L">
+    <param name="Local" value="CT00480.htm">
+    </OBJECT>
+    <A HREF="file:CT00480.htm">L</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="M">
+    <param name="Local" value="CT00481.htm">
+    </OBJECT>
+    <A HREF="file:CT00481.htm">M</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="N">
+    <param name="Local" value="CT00482.htm">
+    </OBJECT>
+    <A HREF="file:CT00482.htm">N</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="O">
+    <param name="Local" value="CT00483.htm">
+    </OBJECT>
+    <A HREF="file:CT00483.htm">O</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="P">
+    <param name="Local" value="CT00484.htm">
+    </OBJECT>
+    <A HREF="file:CT00484.htm">P</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Q">
+    <param name="Local" value="CT00485.htm">
+    </OBJECT>
+    <A HREF="file:CT00485.htm">Q</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="R">
+    <param name="Local" value="CT00486.htm">
+    </OBJECT>
+    <A HREF="file:CT00486.htm">R</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="S">
+    <param name="Local" value="CT00487.htm">
+    </OBJECT>
+    <A HREF="file:CT00487.htm">S</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="T">
+    <param name="Local" value="CT00488.htm">
+    </OBJECT>
+    <A HREF="file:CT00488.htm">T</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="U">
+    <param name="Local" value="CT00489.htm">
+    </OBJECT>
+    <A HREF="file:CT00489.htm">U</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="V">
+    <param name="Local" value="CT00490.htm">
+    </OBJECT>
+    <A HREF="file:CT00490.htm">V</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="W-Z">
+    <param name="Local" value="CT00491.htm">
+    </OBJECT>
+    <A HREF="file:CT00491.htm">W-Z</A>
+</UL>
+</UL>
+</UL>
+</HTML>
