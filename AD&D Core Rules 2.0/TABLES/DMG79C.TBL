@@ -1,0 +1,34 @@
+Table 79 DMG Weather Conditions
+Item1
+Item2
+0 0 0 0 0 0
+Becalmed
+Item1
+Item2
+2 2 0 0 0 0
+Light breeze
+Item1
+Item2
+3 4 0 0 0 0
+Favorable
+Item1
+Item2
+5 5 0 0 0 0
+Strong winds
+Item1
+Item2
+6 7 0 0 0 0
+Storm
+Item1
+Item2
+8 9 0 0 0 0
+Gale
+Item1
+Item2
+10 11 0 0 0 0
+Hurricane*/n1 /n2*Hurricanes occur only if the previous/n3day's weather was gale. If not, treat/n4the result as a gale./n5
+Item1
+Item2
+12 12 0 0 0 0
+
+

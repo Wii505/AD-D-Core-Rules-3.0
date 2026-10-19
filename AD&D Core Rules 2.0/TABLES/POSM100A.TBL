@@ -1,0 +1,48 @@
+Acid Spell-Critical Strike Effect on Legs
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Acid splash grazes victim; pain distracts /n1character for 1d4 rounds causing a -2 /n2penalty to attack rolls/n3
+Item1
+Item2
+4 4 0 0 0 0
+Leg struck, 1/2 move; pain distracts /n1character for 1d6 rounds causing a -2 /n2penalty to attack rolls, and causes /n3knockdown/n4
+Item1
+Item2
+5 5 0 0 0 0
+Foot burned, 1/2 move, pain distracts /n1character for 1d6 rounds, 1/3 move/n2
+Item1
+Item2
+6 6 0 0 0 0
+Armor destroyed, Acid splash grazes /n1victim; pain distracts character for /n21d4 rounds causing a -2 penalty to /n3attack rolls; if target has no leg /n4armor, leg burned, 1/4 move, victim /n5knocked down and stunned 1d6 /n6rounds/n7
+Item1
+Item2
+7 7 0 0 0 0
+Hip/thigh burned, minor bleeding, /n1stunned 1d6 rounds, 1/4 move/n2
+Item1
+Item2
+8 8 0 0 0 0
+Armor destroyed, leg struck, 1/2 move; /n1pain distracts character for 1d6 /n2rounds; if target has no leg armor, /n3acid burns to bone causing major /n4bleeding, no move or attack/n5
+Item1
+Item2
+9 9 0 0 0 0
+Foot dissolved; minor bleeding, victim /n1stunned 1d6 rounds, then no movement /n2and -2 penalty to attacks/n3
+Item1
+Item2
+10 10 0 0 0 0
+Leg dissolved at knee, major bleeding, /n1no move or attack/n2
+Item1
+Item2
+11 11 0 0 0 0
+Leg dissolved at hip, no move or attack, /n1major bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Leg dissolved at hip, no move or attack, /n1major bleeding. Additional abdomen /n2hit/n3
+Item1
+Item2
+13 20 44046 0 0 0

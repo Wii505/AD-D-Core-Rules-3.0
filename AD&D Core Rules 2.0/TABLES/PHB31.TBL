@@ -1,0 +1,68 @@
+Table 31: Thief's Followers
+Item1
+Item2
+0 0 0 0 0 0
+Dwarf fighter/thief
+Level Range 1-4
+Item2
+1 3 1 4 0 0
+Dwarf thief
+Level Range 1-6
+Item2
+4 8 1 6 0 0
+Elf thief
+Level Range 1-6
+Item2
+9 13 1 6 0 0
+Elf thief/fighter/mage
+Level Range 1-3
+Item2
+14 15 1 3 0 0
+Elf thief/mage
+Level Range 1-4
+Item2
+16 18 1 4 0 0
+Gnome thief
+Level Range 1-6
+Item2
+19 24 1 6 0 0
+Gnome thief/fighter
+Level Range 1-4
+Item2
+25 27 1 4 0 0
+Gnome thief/illusionist
+Level Range 1-4
+Item2
+28 30 1 4 0 0
+Half-elf thief
+Level Range 1-6
+Item2
+31 35 1 6 0 0
+Half-elf thief/fighter
+Level Range 1-4
+Item2
+36 38 1 4 0 0
+Half-elf thief/fighter/mage
+Level Range 1-3
+Item2
+39 41 1 3 0 0
+Halfling thief
+Level Range 1-8
+Item2
+42 46 1 8 0 0
+Halfling thief/fighter
+Level Range 1-6
+Item2
+47 50 1 6 0 0
+Human thief
+Level Range 1-8
+Item2
+51 98 1 8 0 0
+Human dual-class thief/?
+Level Range 1-8/1-4
+Item2
+99 99 1 8 1 4
+Other (DM selection)
+-
+Item2
+100 100 0 0 0 0

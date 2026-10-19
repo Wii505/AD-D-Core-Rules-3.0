@@ -1,0 +1,28 @@
+PHB table 106 AC Adjustment
+Value 0 = XP Value
+Value 1 = AC Adj.
+0 0 0 0 0 0
+Item0
+Item1
+Item2
+1 2 0 -1 0 0
+Item0
+Item1
+Item2
+3 10 500 1 0 0
+Item0
+Item1
+Item2
+11 14 1000 2 0 0
+Item0
+Item1
+Item2
+15 17 1500 3 0 0
+Item0
+Item1
+Item2
+18 19 2000 4 0 0
+Item0
+Item1
+Item2
+20 20 3000 5 0 0

@@ -1,0 +1,52 @@
+DMGTable115 Weapon Primary Abilities
+Item1
+Item2
+0 0 0 0 0 0
+Detect "elevator"/shifting rooms/walls /n1in a 10-foot radius/n2
+Item1
+Item2
+1 11 0 0 0 0
+Detect sloping passages /n1in a 10-foot radius/n2
+Item1
+Item2
+12 22 0 0 0 0
+Detect traps of large size /n1in a 10-foot radius/n2
+Item1
+Item2
+23 33 0 0 0 0
+Detect evil/good /n1in a 10-foot radius/n2
+Item1
+Item2
+34 44 0 0 0 0
+Detect precious metals, kind, and amount /n1in a 20-foot radius/n2
+Item1
+Item2
+45 55 0 0 0 0
+Detect gems, kind, and number /n1in a 5-foot radius/n2
+Item1
+Item2
+56 66 0 0 0 0
+Detect magic /n1in a 10-foot radius/n2
+Item1
+Item2
+67 77 0 0 0 0
+Detect secret doors /n1in a 5-foot radius/n2
+Item1
+Item2
+78 82 0 0 0 0
+Detect invisible objects /n1in a 10-foot radius/n2
+Item1
+Item2
+83 87 0 0 0 0
+Locate object /n1in a 120-foot radius/n2
+Item1
+Item2
+88 92 0 0 0 0
+Roll twice on this table ignoring /n1scores of 93 to 00/n2
+Item1
+Item2
+93 98 20115 0 0 0
+Roll on table 116 instead/n1
+Item1
+Item2
+99 100 20116 0 0 0
