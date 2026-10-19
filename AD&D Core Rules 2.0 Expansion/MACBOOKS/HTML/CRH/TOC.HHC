@@ -1,0 +1,843 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Ranger's Handbook">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="CRH00000.htm">
+    </OBJECT>
+    <A HREF="file:CRH00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="CRH00001.htm">
+    </OBJECT>
+    <A HREF="file:CRH00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="CRH00002.htm">
+    </OBJECT>
+    <A HREF="file:CRH00002.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Overview">
+    <param name="Local" value="CRH00003.htm">
+    </OBJECT>
+    <A HREF="file:CRH00003.htm">Overview</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How to Use This Handbook">
+    <param name="Local" value="CRH00004.htm">
+    </OBJECT>
+    <A HREF="file:CRH00004.htm">How to Use This Handbook</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Before We Get Started">
+    <param name="Local" value="CRH00005.htm">
+    </OBJECT>
+    <A HREF="file:CRH00005.htm">Before We Get Started</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: Character Creation">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Creation">
+    <param name="Local" value="CRH00006.htm">
+    </OBJECT>
+    <A HREF="file:CRH00006.htm">Character Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ranger Requirements">
+    <param name="Local" value="CRH00007.htm">
+    </OBJECT>
+    <A HREF="file:CRH00007.htm">Ranger Requirements</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Level Advancement">
+    <param name="Local" value="CRH00008.htm">
+    </OBJECT>
+    <A HREF="file:CRH00008.htm">Level Advancement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Use">
+    <param name="Local" value="CRH00009.htm">
+    </OBJECT>
+    <A HREF="file:CRH00009.htm">Spell Use</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor and Weapons">
+    <param name="Local" value="CRH00010.htm">
+    </OBJECT>
+    <A HREF="file:CRH00010.htm">Armor and Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thief Abilities">
+    <param name="Local" value="CRH00011.htm">
+    </OBJECT>
+    <A HREF="file:CRH00011.htm">Thief Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Primary Terrain">
+    <param name="Local" value="CRH00012.htm">
+    </OBJECT>
+    <A HREF="file:CRH00012.htm">Primary Terrain</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Ranger Abilities">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ranger Abilities">
+    <param name="Local" value="CRH00013.htm">
+    </OBJECT>
+    <A HREF="file:CRH00013.htm">Ranger Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tracking">
+    <param name="Local" value="CRH00014.htm">
+    </OBJECT>
+    <A HREF="file:CRH00014.htm">Tracking</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hide in Shadows">
+    <param name="Local" value="CRH00015.htm">
+    </OBJECT>
+    <A HREF="file:CRH00015.htm">Hide in Shadows</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Move Silently">
+    <param name="Local" value="CRH00016.htm">
+    </OBJECT>
+    <A HREF="file:CRH00016.htm">Move Silently</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Empathy">
+    <param name="Local" value="CRH00018.htm">
+    </OBJECT>
+    <A HREF="file:CRH00018.htm">Animal Empathy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nature Lore">
+    <param name="Local" value="CRH00019.htm">
+    </OBJECT>
+    <A HREF="file:CRH00019.htm">Nature Lore</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Survival">
+    <param name="Local" value="CRH00020.htm">
+    </OBJECT>
+    <A HREF="file:CRH00020.htm">Survival</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strongholds">
+    <param name="Local" value="CRH00021.htm">
+    </OBJECT>
+    <A HREF="file:CRH00021.htm">Strongholds</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Followers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Followers">
+    <param name="Local" value="CRH00022.htm">
+    </OBJECT>
+    <A HREF="file:CRH00022.htm">Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gaining Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Gaining Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="General Behavior of Followers">
+    <param name="Local" value="CRH00024.htm">
+    </OBJECT>
+    <A HREF="file:CRH00024.htm">General Behavior of Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Training Animal Followers">
+    <param name="Local" value="CRH00025.htm">
+    </OBJECT>
+    <A HREF="file:CRH00025.htm">Training Animal Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Parting Company">
+    <param name="Local" value="CRH00026.htm">
+    </OBJECT>
+    <A HREF="file:CRH00026.htm">Parting Company</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Humans and Demihumans">
+    <param name="Local" value="CRH00027.htm">
+    </OBJECT>
+    <A HREF="file:CRH00027.htm">Humans and Demihumans</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Notes on Falconry">
+    <param name="Local" value="CRH00028.htm">
+    </OBJECT>
+    <A HREF="file:CRH00028.htm">Notes on Falconry</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Ranger Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ranger Kits">
+    <param name="Local" value="CRH00029.htm">
+    </OBJECT>
+    <A HREF="file:CRH00029.htm">Ranger Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Acquiring Kits">
+    <param name="Local" value="CRH00030.htm">
+    </OBJECT>
+    <A HREF="file:CRH00030.htm">Acquiring Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="DM Decisions">
+    <param name="Local" value="CRH00031.htm">
+    </OBJECT>
+    <A HREF="file:CRH00031.htm">DM Decisions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kit Subsections">
+    <param name="Local" value="CRH00032.htm">
+    </OBJECT>
+    <A HREF="file:CRH00032.htm">Kit Subsections</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abandoning Kits">
+    <param name="Local" value="CRH00048.htm">
+    </OBJECT>
+    <A HREF="file:CRH00048.htm">Abandoning Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creating New Kits">
+    <param name="Local" value="CRH00049.htm">
+    </OBJECT>
+    <A HREF="file:CRH00049.htm">Creating New Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Demi-Rangers">
+    <param name="Local" value="CRH00050.htm">
+    </OBJECT>
+    <A HREF="file:CRH00050.htm">Demi-Rangers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dual-Classed Rangers">
+    <param name="Local" value="CRH00051.htm">
+    </OBJECT>
+    <A HREF="file:CRH00051.htm">Dual-Classed Rangers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multi-Class Rangers">
+    <param name="Local" value="CRH00052.htm">
+    </OBJECT>
+    <A HREF="file:CRH00052.htm">Multi-Class Rangers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="List of Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Beastmaster">
+    <param name="Local" value="CRH00033.htm">
+    </OBJECT>
+    <A HREF="file:CRH00033.htm">Beastmaster</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Explorer">
+    <param name="Local" value="CRH00034.htm">
+    </OBJECT>
+    <A HREF="file:CRH00034.htm">Explorer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Falconer">
+    <param name="Local" value="CRH00035.htm">
+    </OBJECT>
+    <A HREF="file:CRH00035.htm">Falconer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Feralan">
+    <param name="Local" value="CRH00036.htm">
+    </OBJECT>
+    <A HREF="file:CRH00036.htm">Feralan</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forest Runner">
+    <param name="Local" value="CRH00037.htm">
+    </OBJECT>
+    <A HREF="file:CRH00037.htm">Forest Runner</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Giant Killer">
+    <param name="Local" value="CRH00038.htm">
+    </OBJECT>
+    <A HREF="file:CRH00038.htm">Giant Killer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Greenwood Ranger">
+    <param name="Local" value="CRH00039.htm">
+    </OBJECT>
+    <A HREF="file:CRH00039.htm">Greenwood Ranger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guardian">
+    <param name="Local" value="CRH00040.htm">
+    </OBJECT>
+    <A HREF="file:CRH00040.htm">Guardian</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Justifier">
+    <param name="Local" value="CRH00041.htm">
+    </OBJECT>
+    <A HREF="file:CRH00041.htm">Justifier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mountain Man">
+    <param name="Local" value="CRH00042.htm">
+    </OBJECT>
+    <A HREF="file:CRH00042.htm">Mountain Man</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pathfinder">
+    <param name="Local" value="CRH00043.htm">
+    </OBJECT>
+    <A HREF="file:CRH00043.htm">Pathfinder</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sea Ranger">
+    <param name="Local" value="CRH00044.htm">
+    </OBJECT>
+    <A HREF="file:CRH00044.htm">Sea Ranger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seeker">
+    <param name="Local" value="CRH00045.htm">
+    </OBJECT>
+    <A HREF="file:CRH00045.htm">Seeker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stalker">
+    <param name="Local" value="CRH00046.htm">
+    </OBJECT>
+    <A HREF="file:CRH00046.htm">Stalker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warden">
+    <param name="Local" value="CRH00047.htm">
+    </OBJECT>
+    <A HREF="file:CRH00047.htm">Warden</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Proficiencies">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies">
+    <param name="Local" value="CRH00053.htm">
+    </OBJECT>
+    <A HREF="file:CRH00053.htm">Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Compiled Proficiencies">
+    <param name="Local" value="CRH00054.htm">
+    </OBJECT>
+    <A HREF="file:CRH00054.htm">Compiled Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clarifications and Modifications">
+    <param name="Local" value="CRH00055.htm">
+    </OBJECT>
+    <A HREF="file:CRH00055.htm">Clarifications and Modifications</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Proficiencies">
+    <param name="Local" value="CRH00056.htm">
+    </OBJECT>
+    <A HREF="file:CRH00056.htm">New Proficiencies</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 6: Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic">
+    <param name="Local" value="CRH00057.htm">
+    </OBJECT>
+    <A HREF="file:CRH00057.htm">Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Spells">
+    <param name="Local" value="CRH00058.htm">
+    </OBJECT>
+    <A HREF="file:CRH00058.htm">New Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Magical Items">
+    <param name="Local" value="CRH00060.htm">
+    </OBJECT>
+    <A HREF="file:CRH00060.htm">New Magical Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 56: Ranger Spells">
+    <param name="Local" value="CRH00059.htm">
+    </OBJECT>
+    <A HREF="file:CRH00059.htm">Table 56: Ranger Spells</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 7: Equipment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment">
+    <param name="Local" value="CRH00061.htm">
+    </OBJECT>
+    <A HREF="file:CRH00061.htm">Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clothing">
+    <param name="Local" value="CRH00062.htm">
+    </OBJECT>
+    <A HREF="file:CRH00062.htm">Clothing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Transport">
+    <param name="Local" value="CRH00063.htm">
+    </OBJECT>
+    <A HREF="file:CRH00063.htm">Transport</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Miscellaneous Equipment">
+    <param name="Local" value="CRH00064.htm">
+    </OBJECT>
+    <A HREF="file:CRH00064.htm">Miscellaneous Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 57: Clothing, Transport, and Misc. Equipment">
+    <param name="Local" value="CRH00066.htm">
+    </OBJECT>
+    <A HREF="file:CRH00066.htm">Table 57: Clothing, Transport, and Misc. Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapons">
+    <param name="Local" value="CRH00065.htm">
+    </OBJECT>
+    <A HREF="file:CRH00065.htm">Weapons</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 8: Role-Playing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role-Playing">
+    <param name="Local" value="CRH00067.htm">
+    </OBJECT>
+    <A HREF="file:CRH00067.htm">Role-Playing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Demographics">
+    <param name="Local" value="CRH00068.htm">
+    </OBJECT>
+    <A HREF="file:CRH00068.htm">Demographics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Becoming a Ranger">
+    <param name="Local" value="CRH00069.htm">
+    </OBJECT>
+    <A HREF="file:CRH00069.htm">Becoming a Ranger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Common Traits: the Classic Ranger">
+    <param name="Local" value="CRH00070.htm">
+    </OBJECT>
+    <A HREF="file:CRH00070.htm">Common Traits: the Classic Ranger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Daily Life">
+    <param name="Local" value="CRH00071.htm">
+    </OBJECT>
+    <A HREF="file:CRH00071.htm">Daily Life</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Ranger's Personality">
+    <param name="Local" value="CRH00072.htm">
+    </OBJECT>
+    <A HREF="file:CRH00072.htm">The Ranger's Personality</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Experience">
+    <param name="Local" value="CRH00073.htm">
+    </OBJECT>
+    <A HREF="file:CRH00073.htm">Experience</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 9: Rangers and Religion">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 9: Rangers and Religion">
+    <param name="Local" value="CRH00074.htm">
+    </OBJECT>
+    <A HREF="file:CRH00074.htm">Chapter 9: Rangers and Religion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aspects of Faith">
+    <param name="Local" value="CRH00075.htm">
+    </OBJECT>
+    <A HREF="file:CRH00075.htm">Aspects of Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Types of Faith">
+    <param name="Local" value="CRH00076.htm">
+    </OBJECT>
+    <A HREF="file:CRH00076.htm">Types of Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Expressions of Faith">
+    <param name="Local" value="CRH00077.htm">
+    </OBJECT>
+    <A HREF="file:CRH00077.htm">Expressions of Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rangers and Druids">
+    <param name="Local" value="CRH00078.htm">
+    </OBJECT>
+    <A HREF="file:CRH00078.htm">Rangers and Druids</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rangers and Clerics">
+    <param name="Local" value="CRH00079.htm">
+    </OBJECT>
+    <A HREF="file:CRH00079.htm">Rangers and Clerics</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 10: Forgatherings">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forgatherings">
+    <param name="Local" value="CRH00080.htm">
+    </OBJECT>
+    <A HREF="file:CRH00080.htm">Forgatherings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Attending a Forgathering">
+    <param name="Local" value="CRH00081.htm">
+    </OBJECT>
+    <A HREF="file:CRH00081.htm">Attending a Forgathering</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Types, Sites, and Dates">
+    <param name="Local" value="CRH00082.htm">
+    </OBJECT>
+    <A HREF="file:CRH00082.htm">Types, Sites, and Dates</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Physical Layout">
+    <param name="Local" value="CRH00083.htm">
+    </OBJECT>
+    <A HREF="file:CRH00083.htm">Physical Layout</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Activities and Events">
+    <param name="Local" value="CRH00084.htm">
+    </OBJECT>
+    <A HREF="file:CRH00084.htm">Activities and Events</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix: AD&D 1st Edition Ranger">
+    <param name="Local" value="CRH00085.htm">
+    </OBJECT>
+    <A HREF="file:CRH00085.htm">Appendix: AD&D 1st Edition Ranger</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 1: Class Qualifications">
+    <param name="Local" value="CRH00007.htm">
+    </OBJECT>
+    <A HREF="file:CRH00007.htm">Table 1: Class Qualifications</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 2: Pregenerated Ability Scores">
+    <param name="Local" value="CRH00007.htm">
+    </OBJECT>
+    <A HREF="file:CRH00007.htm">Table 2: Pregenerated Ability Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 3: Experience Levels">
+    <param name="Local" value="CRH00008.htm">
+    </OBJECT>
+    <A HREF="file:CRH00008.htm">Table 3: Experience Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 4: Level Improvements">
+    <param name="Local" value="CRH00008.htm">
+    </OBJECT>
+    <A HREF="file:CRH00008.htm">Table 4: Level Improvements</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 5: Spell Progression">
+    <param name="Local" value="CRH00009.htm">
+    </OBJECT>
+    <A HREF="file:CRH00009.htm">Table 5: Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 6: The Ranger's Armor">
+    <param name="Local" value="CRH00010.htm">
+    </OBJECT>
+    <A HREF="file:CRH00010.htm">Table 6: The Ranger's Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 7: Ranger Attacks Per Round">
+    <param name="Local" value="CRH00010.htm">
+    </OBJECT>
+    <A HREF="file:CRH00010.htm">Table 7: Ranger Attacks Per Round</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 8: Base Thief Abilities">
+    <param name="Local" value="CRH00011.htm">
+    </OBJECT>
+    <A HREF="file:CRH00011.htm">Table 8: Base Thief Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 9: Racial Adjustments">
+    <param name="Local" value="CRH00011.htm">
+    </OBJECT>
+    <A HREF="file:CRH00011.htm">Table 9: Racial Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 10: Dexterity Adjustments">
+    <param name="Local" value="CRH00011.htm">
+    </OBJECT>
+    <A HREF="file:CRH00011.htm">Table 10: Dexterity Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 11: Armor Adjustments">
+    <param name="Local" value="CRH00011.htm">
+    </OBJECT>
+    <A HREF="file:CRH00011.htm">Table 11: Armor Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 12: Kit Adjustments">
+    <param name="Local" value="CRH00011.htm">
+    </OBJECT>
+    <A HREF="file:CRH00011.htm">Table 12: Kit Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 13: Optional Armor Adjustments">
+    <param name="Local" value="CRH00011.htm">
+    </OBJECT>
+    <A HREF="file:CRH00011.htm">Table 13: Optional Armor Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 14: Random Primary Terrain">
+    <param name="Local" value="CRH00012.htm">
+    </OBJECT>
+    <A HREF="file:CRH00012.htm">Table 14: Random Primary Terrain</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 15: Terrain Tracking Modifiers">
+    <param name="Local" value="CRH00014.htm">
+    </OBJECT>
+    <A HREF="file:CRH00014.htm">Table 15: Terrain Tracking Modifiers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 16: Illumination Modifiers">
+    <param name="Local" value="CRH00014.htm">
+    </OBJECT>
+    <A HREF="file:CRH00014.htm">Table 16: Illumination Modifiers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 17: Special Tracking Modifiers">
+    <param name="Local" value="CRH00014.htm">
+    </OBJECT>
+    <A HREF="file:CRH00014.htm">Table 17: Special Tracking Modifiers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 18: Movement While Tracking">
+    <param name="Local" value="CRH00014.htm">
+    </OBJECT>
+    <A HREF="file:CRH00014.htm">Table 18: Movement While Tracking</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 19: Identification Check Results">
+    <param name="Local" value="CRH00014.htm">
+    </OBJECT>
+    <A HREF="file:CRH00014.htm">Table 19: Identification Check Results</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 20: Arctic Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 20: Arctic Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 21: Arctic Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 21: Arctic Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 22: Desert Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 22: Desert Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 23: Forest Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 23: Forest Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 24: Jungle Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 24: Jungle Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 25: Hill Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 25: Hill Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 26: Mountain Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 26: Mountain Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 27: Plains Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 27: Plains Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 28: Swamp Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 28: Swamp Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 29: Underdark Species Enemy">
+    <param name="Local" value="CRH00017.htm">
+    </OBJECT>
+    <A HREF="file:CRH00017.htm">Table 29: Underdark Species Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 30: Animal Attitudes">
+    <param name="Local" value="CRH00018.htm">
+    </OBJECT>
+    <A HREF="file:CRH00018.htm">Table 30: Animal Attitudes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 31: Animal Empathy Modifier">
+    <param name="Local" value="CRH00018.htm">
+    </OBJECT>
+    <A HREF="file:CRH00018.htm">Table 31: Animal Empathy Modifier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 32: Nature Lore">
+    <param name="Local" value="CRH00019.htm">
+    </OBJECT>
+    <A HREF="file:CRH00019.htm">Table 32: Nature Lore</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 33: Arctic Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 33: Arctic Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 34: Aquatic Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 34: Aquatic Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 35: Desert Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 35: Desert Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 36: Forest Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 36: Forest Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 37: Hill Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 37: Hill Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 38: Jungle Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 38: Jungle Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 39: Mountain Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 39: Mountain Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 40: Plains Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 40: Plains Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 41: Swamp Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 41: Swamp Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 42: Underdark Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 42: Underdark Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 43: Human/Demihuman Followers">
+    <param name="Local" value="CRH00023.htm">
+    </OBJECT>
+    <A HREF="file:CRH00023.htm">Table 43: Human/Demihuman Followers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 44: Follower Training Ratings">
+    <param name="Local" value="CRH00025.htm">
+    </OBJECT>
+    <A HREF="file:CRH00025.htm">Table 44: Follower Training Ratings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 45: Feralan Spell Progression">
+    <param name="Local" value="CRH00036.htm">
+    </OBJECT>
+    <A HREF="file:CRH00036.htm">Table 45: Feralan Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 46: Justifier Spell Progression">
+    <param name="Local" value="CRH00041.htm">
+    </OBJECT>
+    <A HREF="file:CRH00041.htm">Table 46: Justifier Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 47: Crude Weaponsmithing (Mountain Man)">
+    <param name="Local" value="CRH00042.htm">
+    </OBJECT>
+    <A HREF="file:CRH00042.htm">Table 47: Crude Weaponsmithing (Mountain Man)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 48: Mountain Man Spell Progression">
+    <param name="Local" value="CRH00042.htm">
+    </OBJECT>
+    <A HREF="file:CRH00042.htm">Table 48: Mountain Man Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 49: Terrain Costs for Pathfinders">
+    <param name="Local" value="CRH00043.htm">
+    </OBJECT>
+    <A HREF="file:CRH00043.htm">Table 49: Terrain Costs for Pathfinders</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 50: Parliament of Fishes Results">
+    <param name="Local" value="CRH00044.htm">
+    </OBJECT>
+    <A HREF="file:CRH00044.htm">Table 50: Parliament of Fishes Results</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 51: Seeker Spell Progression">
+    <param name="Local" value="CRH00045.htm">
+    </OBJECT>
+    <A HREF="file:CRH00045.htm">Table 51: Seeker Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 52: Sacred Animals">
+    <param name="Local" value="CRH00045.htm">
+    </OBJECT>
+    <A HREF="file:CRH00045.htm">Table 52: Sacred Animals</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 53: Demi-Rangers">
+    <param name="Local" value="CRH00050.htm">
+    </OBJECT>
+    <A HREF="file:CRH00050.htm">Table 53: Demi-Rangers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 54: Demi-Ranger Spell Progression and Dexterity Modifiers">
+    <param name="Local" value="CRH00050.htm">
+    </OBJECT>
+    <A HREF="file:CRH00050.htm">Table 54: Demi-Ranger Spell Progression and Dexterity Modifiers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 55: Nonweapon Proficiencies">
+    <param name="Local" value="CRH00054.htm">
+    </OBJECT>
+    <A HREF="file:CRH00054.htm">Table 55: Nonweapon Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 56: Ranger Spells">
+    <param name="Local" value="CRH00059.htm">
+    </OBJECT>
+    <A HREF="file:CRH00059.htm">Table 56: Ranger Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 57: Clothing, Transport, and Misc. Equipment">
+    <param name="Local" value="CRH00066.htm">
+    </OBJECT>
+    <A HREF="file:CRH00066.htm">Table 57: Clothing, Transport, and Misc. Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 58: Weapons">
+    <param name="Local" value="CRH00065.htm">
+    </OBJECT>
+    <A HREF="file:CRH00065.htm">Table 58: Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 59: Ranger Experience">
+    <param name="Local" value="CRH00073.htm">
+    </OBJECT>
+    <A HREF="file:CRH00073.htm">Table 59: Ranger Experience</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 60: Optional Individual Experience Awards">
+    <param name="Local" value="CRH00073.htm">
+    </OBJECT>
+    <A HREF="file:CRH00073.htm">Table 60: Optional Individual Experience Awards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 61: Experience Levels (1st Edition)">
+    <param name="Local" value="CRH00085.htm">
+    </OBJECT>
+    <A HREF="file:CRH00085.htm">Table 61: Experience Levels (1st Edition)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 62: Attacks Per Round (1st Edition)">
+    <param name="Local" value="CRH00085.htm">
+    </OBJECT>
+    <A HREF="file:CRH00085.htm">Table 62: Attacks Per Round (1st Edition)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 63: Underground Tracking Chances">
+    <param name="Local" value="CRH00085.htm">
+    </OBJECT>
+    <A HREF="file:CRH00085.htm">Table 63: Underground Tracking Chances</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 64: Outdoor Tracking Modifiers">
+    <param name="Local" value="CRH00085.htm">
+    </OBJECT>
+    <A HREF="file:CRH00085.htm">Table 64: Outdoor Tracking Modifiers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 65: Spell Progression (1st Edition)">
+    <param name="Local" value="CRH00085.htm">
+    </OBJECT>
+    <A HREF="file:CRH00085.htm">Table 65: Spell Progression (1st Edition)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 66: Giant Class Creatures">
+    <param name="Local" value="CRH00085.htm">
+    </OBJECT>
+    <A HREF="file:CRH00085.htm">Table 66: Giant Class Creatures</A>
+</UL>
+</UL>
+</UL>
+</HTML>
