@@ -1,0 +1,49 @@
+Constriction Spell-Critical Strike Effect on Legs
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim knocked down
+Item1
+Item2
+4 4 0 0 0 0
+Knee twisted (struck), knockdown, /n11/2 move/n2
+Item1
+Item2
+5 5 0 0 0 0
+Foot dislocated (broken), /n1knockdown, 1/2 move/n2  
+Item1
+Item2
+6 6 0 0 0 0
+Armor damaged, leg twisted, 1/2 /n1move; leg injured if target had /n2no plate armor to cover legs, /n31/4 move/n4
+Item1
+Item2
+7 7 0 0 0 0
+Knee dislocated (broken), no move, /n1-2 to all attacks/n2
+Item1
+Item2
+8 8 0 0 0 0
+Armor damaged, leg injured, 1/2 /n1move, -2 to all attacks; leg /n2broken if target has no plate /n3armor to cover legs, no move, -4 /n4to attacks/n5
+Item1
+Item2
+9 9 0 0 0 0
+Knee crushed, no move, -4 to /n1attacks, minor bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Hip broken and dislocated, minor /n1bleeding, no move or attack/n2
+Item1
+Item2
+11 11 0 0 0 0
+Leg crushed, no move or attack, /n1major bleeding from compound /n2fractures/n3
+Item1
+Item2
+12 12 0 0 0 0
+Leg crushed, no move or attack, /n1major bleeding from compound /n2fractures with additional /n3abdomen hit/n4
+Item1
+Item2
+13 20 44046 0 0 0
+

@@ -1,0 +1,48 @@
+Electricity Spell-Critical Strike Effect on Abdomen
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim shocked and knocked down, /n1-2 to attack rolls for 1d6 rounds/n2
+Item1
+Item2
+4 4 0 0 0 0
+Abdomen struck, -2 to attack rolls, /n11/2 move, victim knocked down/n2
+Item1
+Item2
+5 5 0 0 0 0
+Armor destroyed, abdomen burned, /n11/2 move, -2 to attack rolls, /n2victim stunned 1d6 rounds/n3
+Item1
+Item2
+6 6 0 0 0 0
+Abdomen burned, 1/2 move, -2 to /n1attack rolls, victim stunned 2d8 /n2rounds/n3
+Item1
+Item2
+7 7 0 0 0 0
+Abdomen burned, 1/4 move, -4 to /n1attack rolls, stunned 2d8 rounds/n2
+Item1
+Item2
+8 8 0 0 0 0
+Armor destroyed, abdomen burned, /n1victim stunned 2d8 rounds, 1/4 /n2move, -4 to attack rolls/n3
+Item1
+Item2
+9 9 0 0 0 0
+Severe internal burns, no move or /n1attack/n2
+Item1
+Item2
+10 10 0 0 0 0
+Abdomen partially incinerated, no /n1move or attack, death follows in /n21d4 hours if victim is not /n3treated with a cure critical /n4wounds or more powerful healing /n5magic/n6
+Item1
+Item2
+11 11 0 0 0 0
+Abdomen incinerated, immediate death
+Item1
+Item2
+12 12 0 0 0 0
+Abdomen incinerated, immediate /n1death with additional torso or /n2leg hit (50% chance of each)/n3
+Item1
+Item2
+13 20 45046 0 0 0

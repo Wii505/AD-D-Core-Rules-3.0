@@ -1,0 +1,32 @@
+Fire Spell-Critical Strike Effect on Tail
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 5 0 0 0 0
+Tip of tail singed; if prehensile, /n1any items carried are dropped, /n2-2 penalty to all tail attacks/n3
+Item1
+Item2
+6 6 0 0 0 0
+Tail burned, lose any tail /n1attacks; normal animals /n2immediately retreat/n3
+Item1
+Item2
+7 8 0 0 0 0
+Tail burned, lose any tail /n1attacks; 1/2 move if animal /n2uses tail for movement; roll /n3saving throw vs. death magic or /n4catch fire (see page 122)/n5
+Item1
+Item2
+9 10 0 0 0 0
+Tail incinerated at mid-length, /n1victim stunned 1d3 rounds, /n2minor bleeding, lose any tail /n3attacks, no movement or attacks /n4if creature uses tail for /n5movement/n6
+Item1
+Item2
+11 11 0 0 0 0
+Tail incinerated, victim stunned /n11d6 rounds, pain reduces /n2creature to 1/2 move and -2 /n3penalty on any attack tolls, /n4minor bleeding; no move or /n5attack and major bleeding if /n6creature uses tail for movement/n7
+Item1
+Item2
+12 12 0 0 0 0
+Tail incinerated, victim stunned /n11d6 rounds, pain reduces /n2creature to 1/2 move and -2 /n3penalty on any attack tolls, /n4minor bleeding; no move or /n5attack and major bleeding if /n6creature uses tail for movement /n7with abdomen or torso hit (50% /n8chance of either)/n9
+Item1
+Item2
+13 20 48046 0 0 0

@@ -1,0 +1,48 @@
+Impact Spell-Critical Strike Effect on Head
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim stunned 1d6 rounds
+Item1
+Item2
+4 4 0 0 0 0
+Head struck, helm removed, victim /n1stunned 1 round, -2 to attack /n2rolls; if victim has no helm, /n3stunned 1d6 rounds, -2 to /n4attacks/n5
+Item1
+Item2
+5 5 0 0 0 0
+Head injured, victim stunned /n11d6 rounds, -2 to attacks, minor/n2 bleeding
+Item1
+Item2
+6 6 0 0 0 0
+Helm damaged, face injured, stunned /n11d6 rounds, 1/2 move, -4 to /n2attack rolls; if victim has no /n3helm, unconscious 2d4 hours, /n4minor bleeding, 1/4 move, no /n5attacks/n6
+Item1
+Item2
+7 7 0 0 0 0
+Skull broken, helm destroyed, /n1victim reduced to 0 hit points, /n2unconscious 1d4 hours, minor /n3bleeding; no movement or attacks/n4
+Item1
+Item2
+8 8 0 0 0 0
+Jaw/face broken, major bleeding, /n1no movement or attack; victim /n2loses 1d3 points of /n3Charisma/Appearence permanently/n4
+Item1
+Item2
+9 9 0 0 0 0
+Head injured, major bleeding, /n1unconscious 1d6 days; victim /n2must roll saving throw vs. death /n3magic or lose 1d3 points of /n4intelligence, Wisdom, and /n5Charisma permanently/n6
+Item1
+Item2
+10 10 0 0 0 0
+Throat destroyed, no move or /n1attack, stunned 2d6 rounds, /n2severe bleeding/n3
+Item1
+Item2
+11 11 0 0 0 0
+Skull destroyed, immediate death
+Item1
+Item2
+12 12 0 0 0 0
+Skull destroyed, immediate death /n1with additional torso hit/n2
+Item1
+Item2
+13 20 47046 0 0 0

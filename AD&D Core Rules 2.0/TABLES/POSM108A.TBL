@@ -1,0 +1,48 @@
+Vibration Spell-Critical Strike Effect on Legs
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim grazed and knocked down
+Item1
+Item2
+4 4 0 0 0 0
+Leg struck, 1/2 move; victim /n1knowcked down, stunned 1d4 /n2rounds/n3
+Item1
+Item2
+5 5 0 0 0 0
+Foot injured, 1/2 move, victim /n1knocked down, stunned 1d4 rounds/n2
+Item1
+Item2
+6 6 0 0 0 0
+Armor destroyed, leg injured, 1/2 /n1move, victim stunned 1d4 rounds/n2
+Item1
+Item2
+7 7 0 0 0 0
+Hip/thigh injured, knocked down, /n1stunned 2d4 rounds, 1/4 move/n2
+Item1
+Item2
+8 8 0 0 0 0
+Armor destroyed, leg broken, /n1stunned 2d4 rounds, 1/4 move and /n2-4 penalty to all attacks/n3
+Item1
+Item2
+9 9 0 0 0 0
+Foot disintegrated; minor bleeding, /n1victim stunned 2d4 rounds, then /n2no movement and -4 penalty to /n3all attacks/n4
+Item1
+Item2
+10 10 0 0 0 0
+Leg disintegrated at knee, major /n1bleeding, no move or attack/n2
+Item1
+Item2
+11 11 0 0 0 0
+Leg disintegrated at hip, no move /n1or attack, major bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Leg disintegrated at hip, no move /n1or attack, major bleeding, with /n2additional abdomen hit/n3
+Item1
+Item2
+13 20 44046 0 0 0

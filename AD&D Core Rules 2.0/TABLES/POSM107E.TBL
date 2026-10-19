@@ -1,0 +1,48 @@
+Slashing Spell-Critical Strike Effect on Head
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Head grazed, minor bleeding, /n1victim stunned 1d6 rounds/n2
+Item1
+Item2
+4 4 0 0 0 0
+Head struck, helm removed, /n1victim stunned 1 round, -2 to /n2attack rolls; if victim has no /n3helm, head injured, stunned 1d6 /n4rounds, 1/2 move, -2 penalty to /n5all attack rolls/n6
+Item1
+Item2
+5 5 0 0 0 0
+Eye destroyed, stunned 2d6 rounds, /n1-2 to all attacks/n2
+Item1
+Item2
+6 6 0 0 0 0
+Helm damaged, face injured, /n1stunned 1d6 rounds, 1/2 move, -4 /n2to all attacks, minor bleeding/n3
+Item1
+Item2
+7 7 0 0 0 0
+Skull broken, helm damaged, major /n1bleeding, unconscious 1d6 hours/n2
+Item1
+Item2
+8 8 0 0 0 0
+Face injured, victim blinded, /n1major bleeding, no move or /n2attack/n3
+Item1
+Item2
+9 9 0 0 0 0
+Skull broken, unconscious 1d6 days, /n1major bleeding, 1/4 move, -4 /n2penalty to all attacks/n3
+Item1
+Item2
+10 10 0 0 0 0
+Throat destroyed, severe bleeding
+Item1
+Item2
+11 11 0 0 0 0
+Skull destroyed, immediate death
+Item1
+Item2
+12 12 0 0 0 0
+Skull destroyed, immediate death, /n1with additional torso hit/n2
+Item1
+Item2
+13 20 47046 0 0 0
