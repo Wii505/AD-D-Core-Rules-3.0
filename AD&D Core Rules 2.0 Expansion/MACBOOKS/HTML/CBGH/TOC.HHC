@@ -1,0 +1,698 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Book of Gnomes & Halflings">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="Cbg00000.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="Cbg00001.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction: The Small Folks">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Small Folk">
+    <param name="Local" value="Cbg00002.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00002.htm">The Small Folk</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cooperation">
+    <param name="Local" value="Cbg00003.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00003.htm">Cooperation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Invisibility Factor">
+    <param name="Local" value="Cbg00004.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00004.htm">The Invisibility Factor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Small">
+    <param name="Local" value="Cbg00005.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00005.htm">Fighting Small</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnomes">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction: Gnomes">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnomes">
+    <param name="Local" value="Cbg00006.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00006.htm">Gnomes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnomes in AD&D® 2nd Edition">
+    <param name="Local" value="Cbg00007.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00007.htm">Gnomes in AD&D® 2nd Edition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Stuff About Gnomes">
+    <param name="Local" value="Cbg00008.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00008.htm">New Stuff About Gnomes</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: Myths of the Gnomes">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Myths of the Gnomes">
+    <param name="Local" value="Cbg00009.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00009.htm">Myths of the Gnomes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gods of Gnomedom">
+    <param name="Local" value="Cbg00010.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00010.htm">Gods of Gnomedom</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Garl Glittergold">
+    <param name="Local" value="Cbg00011.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00011.htm">Garl Glittergold</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Baervan Wildwander">
+    <param name="Local" value="Cbg00012.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00012.htm">Baervan Wildwander</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Callarduran Smoothhands">
+    <param name="Local" value="Cbg00013.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00013.htm">Callarduran Smoothhands</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flandal Stellskin">
+    <param name="Local" value="Cbg00014.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00014.htm">Flandal Stellskin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Segojan Earthcaller">
+    <param name="Local" value="Cbg00015.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00015.htm">Segojan Earthcaller</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Urdlen, The Crawler Below">
+    <param name="Local" value="Cbg00016.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00016.htm">Urdlen, The Crawler Below</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Gnome Subraces">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnome Subraces">
+    <param name="Local" value="Cbg00017.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00017.htm">Gnome Subraces</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rock Gnomes">
+    <param name="Local" value="Cbg00018.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00018.htm">Rock Gnomes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Svirfneblin (Deep Gnomes)">
+    <param name="Local" value="Cbg00019.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00019.htm">Svirfneblin (Deep Gnomes)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tinker Gnomes (Minoi)">
+    <param name="Local" value="Cbg00020.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00020.htm">Tinker Gnomes (Minoi)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forest Gnomes">
+    <param name="Local" value="Cbg00021.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00021.htm">Forest Gnomes</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Gnomish Culture">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnomish Culture">
+    <param name="Local" value="Cbg00022.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00022.htm">Gnomish Culture</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Festivals">
+    <param name="Local" value="Cbg00023.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00023.htm">Festivals</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fires">
+    <param name="Local" value="Cbg00024.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00024.htm">Fires</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Marriage and Family">
+    <param name="Local" value="Cbg00025.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00025.htm">Marriage and Family</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Nose Knows">
+    <param name="Local" value="Cbg00026.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00026.htm">The Nose Knows</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Food and Drink">
+    <param name="Local" value="Cbg00027.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00027.htm">Food and Drink</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gems">
+    <param name="Local" value="Cbg00028.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00028.htm">Gems</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Craftsmanship">
+    <param name="Local" value="Cbg00029.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00029.htm">Craftsmanship</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trade">
+    <param name="Local" value="Cbg00030.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00030.htm">Trade</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Taboos">
+    <param name="Local" value="Cbg00031.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00031.htm">Taboos</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Emotions">
+    <param name="Local" value="Cbg00032.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00032.htm">Emotions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Humor">
+    <param name="Local" value="Cbg00033.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00033.htm">Humor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Friends">
+    <param name="Local" value="Cbg00034.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00034.htm">Animal Friends</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warfare">
+    <param name="Local" value="Cbg00035.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00035.htm">Warfare</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic">
+    <param name="Local" value="Cbg00036.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00036.htm">Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wandering">
+    <param name="Local" value="Cbg00037.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00037.htm">Wandering</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Gnome Character Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnome Character Kits">
+    <param name="Local" value="Cbg00038.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00038.htm">Gnome Character Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Structure of the Kits">
+    <param name="Local" value="Cbg00039.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00039.htm">Structure of the Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Breachgnome">
+    <param name="Local" value="Cbg00040.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00040.htm">Breachgnome</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Goblinsticker">
+    <param name="Local" value="Cbg00041.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00041.htm">Goblinsticker</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thief Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mouseburglar">
+    <param name="Local" value="Cbg00042.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00042.htm">Mouseburglar</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tumbler">
+    <param name="Local" value="Cbg00043.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00043.htm">Tumbler</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Illusionist Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Imagemaker">
+    <param name="Local" value="Cbg00044.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00044.htm">Imagemaker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vanisher">
+    <param name="Local" value="Cbg00045.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00045.htm">Vanisher</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multiclass Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Buffoon (Thief/Illusionist)">
+    <param name="Local" value="Cbg00046.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00046.htm">Buffoon (Thief/Illusionist)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stalker (Fighter/Thief)">
+    <param name="Local" value="Cbg00047.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00047.htm">Stalker (Fighter/Thief)</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rocktender">
+    <param name="Local" value="Cbg00048.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00048.htm">Rocktender</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Treetender">
+    <param name="Local" value="Cbg00049.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00049.htm">Treetender</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Granitehome-A Typical Gnomish Village">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Granitehome-A Typical Gnomish Village">
+    <param name="Local" value="Cbg00050.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00050.htm">Granitehome-A Typical Gnomish Village</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halflings">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction: Halflings">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halflings">
+    <param name="Local" value="Cbg00051.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00051.htm">Halflings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halflings in AD&D® 2nd Edition">
+    <param name="Local" value="Cbg00052.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00052.htm">Halflings in AD&D® 2nd Edition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Stuff About Halflings">
+    <param name="Local" value="Cbg00053.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00053.htm">New Stuff About Halflings</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: Myths of the Halflings">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Myths of the Halflings">
+    <param name="Local" value="Cbg00054.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00054.htm">Myths of the Halflings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Story of Littleman">
+    <param name="Local" value="Cbg00055.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00055.htm">The Story of Littleman</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A General History of the Halfling Race">
+    <param name="Local" value="Cbg00056.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00056.htm">A General History of the Halfling Race</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Gods of the Halflings">
+    <param name="Local" value="Cbg00057.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00057.htm">The Gods of the Halflings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Yondalla the Provider">
+    <param name="Local" value="Cbg00058.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00058.htm">Yondalla the Provider</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sheela Peryroyl">
+    <param name="Local" value="Cbg00059.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00059.htm">Sheela Peryroyl</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cyrrollalee">
+    <param name="Local" value="Cbg00060.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00060.htm">Cyrrollalee</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arvoreen the Defender">
+    <param name="Local" value="Cbg00061.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00061.htm">Arvoreen the Defender</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Brandobaris">
+    <param name="Local" value="Cbg00062.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00062.htm">Brandobaris</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Halfling Subraces">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halfling Subraces">
+    <param name="Local" value="Cbg00063.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00063.htm">Halfling Subraces</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Wanderings of Littleman">
+    <param name="Local" value="Cbg00064.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00064.htm">The Wanderings of Littleman</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hairfoot">
+    <param name="Local" value="Cbg00065.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00065.htm">Hairfoot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stout">
+    <param name="Local" value="Cbg00066.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00066.htm">Stout</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tallfellow">
+    <param name="Local" value="Cbg00067.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00067.htm">Tallfellow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kender">
+    <param name="Local" value="Cbg00068.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00068.htm">Kender</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Athasian Halfling">
+    <param name="Local" value="Cbg00069.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00069.htm">Athasian Halfling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Furchin (Polar Halfling)">
+    <param name="Local" value="Cbg00070.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00070.htm">Furchin (Polar Halfling)</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Halfling Culture">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halfling Culture">
+    <param name="Local" value="Cbg00071.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00071.htm">Halfling Culture</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Name "Halflings"">
+    <param name="Local" value="Cbg00072.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00072.htm">The Name "Halflings"</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Hearth and the Burrow">
+    <param name="Local" value="Cbg00073.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00073.htm">The Hearth and the Burrow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Family">
+    <param name="Local" value="Cbg00074.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00074.htm">The Family</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Growing Up">
+    <param name="Local" value="Cbg00075.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00075.htm">Growing Up</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sustenance, and More">
+    <param name="Local" value="Cbg00076.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00076.htm">Sustenance, and More</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Village">
+    <param name="Local" value="Cbg00077.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00077.htm">The Village</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crafts, Labor, and Products">
+    <param name="Local" value="Cbg00078.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00078.htm">Crafts, Labor, and Products</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trade">
+    <param name="Local" value="Cbg00079.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00079.htm">Trade</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Society Norms and Taboos">
+    <param name="Local" value="Cbg00080.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00080.htm">Society Norms and Taboos</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Joy and Humor">
+    <param name="Local" value="Cbg00081.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00081.htm">Joy and Humor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sorrow and Anger">
+    <param name="Local" value="Cbg00082.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00082.htm">Sorrow and Anger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Riddles">
+    <param name="Local" value="Cbg00083.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00083.htm">Riddles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Villages and Shires">
+    <param name="Local" value="Cbg00084.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00084.htm">Villages and Shires</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warfare">
+    <param name="Local" value="Cbg00085.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00085.htm">Warfare</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tactics">
+    <param name="Local" value="Cbg00086.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00086.htm">Tactics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic">
+    <param name="Local" value="Cbg00087.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00087.htm">Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Why Most Halflings Are Homebodies">
+    <param name="Local" value="Cbg00088.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00088.htm">Why Most Halflings Are Homebodies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Why Some Halflings Pursue Adventure">
+    <param name="Local" value="Cbg00089.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00089.htm">Why Some Halflings Pursue Adventure</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Structure of the Kits">
+    <param name="Local" value="Cbg00091.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00091.htm">The Structure of the Kits</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Halfling Character Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halfling Character Kits">
+    <param name="Local" value="Cbg00090.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00090.htm">Halfling Character Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Archer">
+    <param name="Local" value="Cbg00092.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00092.htm">The Archer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forestwalker">
+    <param name="Local" value="Cbg00093.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00093.htm">Forestwalker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Homesteader">
+    <param name="Local" value="Cbg00094.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00094.htm">Homesteader</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mercenary">
+    <param name="Local" value="Cbg00095.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00095.htm">Mercenary</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sheriff">
+    <param name="Local" value="Cbg00096.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00096.htm">Sheriff</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Squire">
+    <param name="Local" value="Cbg00097.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00097.htm">Squire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tunnelrat">
+    <param name="Local" value="Cbg00098.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00098.htm">Tunnelrat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter Kits">
+    </OBJECT>
+<UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thief Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bandit">
+    <param name="Local" value="Cbg00099.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00099.htm">Bandit</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bilker">
+    <param name="Local" value="Cbg00100.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00100.htm">Bilker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Burglar">
+    <param name="Local" value="Cbg00101.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00101.htm">Burglar</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Smuggler">
+    <param name="Local" value="Cbg00102.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00102.htm">Smuggler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Urchin">
+    <param name="Local" value="Cbg00103.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00103.htm">Urchin</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter/Thief Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cartographer">
+    <param name="Local" value="Cbg00104.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00104.htm">Cartographer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trader">
+    <param name="Local" value="Cbg00105.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00105.htm">Trader</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Traveler">
+    <param name="Local" value="Cbg00106.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00106.htm">Traveler</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cleric Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Healer">
+    <param name="Local" value="Cbg00107.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00107.htm">Healer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Leaftender">
+    <param name="Local" value="Cbg00108.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00108.htm">Leaftender</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Oracle">
+    <param name="Local" value="Cbg00109.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00109.htm">Oracle</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Lindendale-A Typical Halfling Village">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lindendale-A Typical Halfling Village">
+    <param name="Local" value="Cbg00110.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00110.htm">Lindendale-A Typical Halfling Village</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adventure Suggestions for Gnome & Halfling Campaigns">
+    <param name="Local" value="Cbg00111.htm">
+    </OBJECT>
+    <A HREF="file:Cbg00111.htm">Adventure Suggestions for Gnome & Halfling Campaigns</A>
+</UL>
+</UL>
+</UL>
+</UL>
+</HTML>
