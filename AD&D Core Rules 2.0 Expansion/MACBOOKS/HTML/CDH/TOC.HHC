@@ -1,0 +1,528 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Druid's Handbook">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="CDH00000.htm">
+    </OBJECT>
+    <A HREF="file:CDH00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="CDH00001.htm">
+    </OBJECT>
+    <A HREF="file:CDH00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="CDH00002.htm">
+    </OBJECT>
+    <A HREF="file:CDH00002.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: Druid Characters">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Druid Character">
+    <param name="Local" value="CDH00003.htm">
+    </OBJECT>
+    <A HREF="file:CDH00003.htm">Druid Character</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Druidic Organizations">
+    <param name="Local" value="CDH00004.htm">
+    </OBJECT>
+    <A HREF="file:CDH00004.htm">Druidic Organizations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Essential Druid">
+    <param name="Local" value="CDH00005.htm">
+    </OBJECT>
+    <A HREF="file:CDH00005.htm">The Essential Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Druidic Branches">
+    <param name="Local" value="CDH00006.htm">
+    </OBJECT>
+    <A HREF="file:CDH00006.htm">Druidic Branches</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Branch Portraits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Branch Portraits">
+    <param name="Local" value="CDH00007.htm">
+    </OBJECT>
+    <A HREF="file:CDH00007.htm">Branch Portraits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Arctic Druid">
+    <param name="Local" value="CDH00008.htm">
+    </OBJECT>
+    <A HREF="file:CDH00008.htm">Arctic Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Desert Druid">
+    <param name="Local" value="CDH00009.htm">
+    </OBJECT>
+    <A HREF="file:CDH00009.htm">Desert Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gray Druid">
+    <param name="Local" value="CDH00010.htm">
+    </OBJECT>
+    <A HREF="file:CDH00010.htm">Gray Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forest Druid">
+    <param name="Local" value="CDH00011.htm">
+    </OBJECT>
+    <A HREF="file:CDH00011.htm">Forest Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jungle Druid">
+    <param name="Local" value="CDH00012.htm">
+    </OBJECT>
+    <A HREF="file:CDH00012.htm">Jungle Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mountain Druid">
+    <param name="Local" value="CDH00013.htm">
+    </OBJECT>
+    <A HREF="file:CDH00013.htm">Mountain Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Plains Druid">
+    <param name="Local" value="CDH00014.htm">
+    </OBJECT>
+    <A HREF="file:CDH00014.htm">Plains Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swamp Druid">
+    <param name="Local" value="CDH00015.htm">
+    </OBJECT>
+    <A HREF="file:CDH00015.htm">Swamp Druid</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multi- and Dual-Classed Druids">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multi- and Dual-Classed Druids">
+    <param name="Local" value="CDH00016.htm">
+    </OBJECT>
+    <A HREF="file:CDH00016.htm">Multi- and Dual-Classed Druids</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Agriculture: Expanded Rules">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Agriculture: Expanded Rules">
+    <param name="Local" value="CDH00017.htm">
+    </OBJECT>
+    <A HREF="file:CDH00017.htm">Agriculture: Expanded Rules</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Druid Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Druid Kits">
+    <param name="Local" value="CDH00018.htm">
+    </OBJECT>
+    <A HREF="file:CDH00018.htm">Druid Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Using Kits">
+    <param name="Local" value="CDH00019.htm">
+    </OBJECT>
+    <A HREF="file:CDH00019.htm">Using Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abandoning Kits">
+    <param name="Local" value="CDH00035.htm">
+    </OBJECT>
+    <A HREF="file:CDH00035.htm">Abandoning Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Modifying and Creating Kits">
+    <param name="Local" value="CDH00036.htm">
+    </OBJECT>
+    <A HREF="file:CDH00036.htm">Modifying and Creating Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Look at Druid Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Look at Druid Kits">
+    <param name="Local" value="CDH00020.htm">
+    </OBJECT>
+    <A HREF="file:CDH00020.htm">A Look at Druid Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adviser">
+    <param name="Local" value="CDH00021.htm">
+    </OBJECT>
+    <A HREF="file:CDH00021.htm">Adviser</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Avenger">
+    <param name="Local" value="CDH00022.htm">
+    </OBJECT>
+    <A HREF="file:CDH00022.htm">Avenger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Beastfriend">
+    <param name="Local" value="CDH00023.htm">
+    </OBJECT>
+    <A HREF="file:CDH00023.htm">Beastfriend</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guardian">
+    <param name="Local" value="CDH00024.htm">
+    </OBJECT>
+    <A HREF="file:CDH00024.htm">Guardian</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hivemaster">
+    <param name="Local" value="CDH00025.htm">
+    </OBJECT>
+    <A HREF="file:CDH00025.htm">Hivemaster</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lost Druid">
+    <param name="Local" value="CDH00026.htm">
+    </OBJECT>
+    <A HREF="file:CDH00026.htm">Lost Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Natural Philosopher">
+    <param name="Local" value="CDH00027.htm">
+    </OBJECT>
+    <A HREF="file:CDH00027.htm">Natural Philosopher</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Outlaw">
+    <param name="Local" value="CDH00028.htm">
+    </OBJECT>
+    <A HREF="file:CDH00028.htm">Outlaw</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pacifist">
+    <param name="Local" value="CDH00029.htm">
+    </OBJECT>
+    <A HREF="file:CDH00029.htm">Pacifist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Savage">
+    <param name="Local" value="CDH00030.htm">
+    </OBJECT>
+    <A HREF="file:CDH00030.htm">Savage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shapeshifter">
+    <param name="Local" value="CDH00031.htm">
+    </OBJECT>
+    <A HREF="file:CDH00031.htm">Shapeshifter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Totemic Druid">
+    <param name="Local" value="CDH00032.htm">
+    </OBJECT>
+    <A HREF="file:CDH00032.htm">Totemic Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Village Druid">
+    <param name="Local" value="CDH00033.htm">
+    </OBJECT>
+    <A HREF="file:CDH00033.htm">Village Druid</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wanderer">
+    <param name="Local" value="CDH00034.htm">
+    </OBJECT>
+    <A HREF="file:CDH00034.htm">Wanderer</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: The Druidic Order">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Druidic Order">
+    <param name="Local" value="CDH00037.htm">
+    </OBJECT>
+    <A HREF="file:CDH00037.htm">The Druidic Order</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Circles">
+    <param name="Local" value="CDH00038.htm">
+    </OBJECT>
+    <A HREF="file:CDH00038.htm">The Circles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="High-level Druids">
+    <param name="Local" value="CDH00039.htm">
+    </OBJECT>
+    <A HREF="file:CDH00039.htm">High-level Druids</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Shadow Circle">
+    <param name="Local" value="CDH00040.htm">
+    </OBJECT>
+    <A HREF="file:CDH00040.htm">The Shadow Circle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creating a Druidic History">
+    <param name="Local" value="CDH00041.htm">
+    </OBJECT>
+    <A HREF="file:CDH00041.htm">Creating a Druidic History</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Role-playing Druids">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role-playing Druids">
+    <param name="Local" value="CDH00042.htm">
+    </OBJECT>
+    <A HREF="file:CDH00042.htm">Role-playing Druids</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Druidic Faith">
+    <param name="Local" value="CDH00043.htm">
+    </OBJECT>
+    <A HREF="file:CDH00043.htm">Druidic Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Neutral Alignment">
+    <param name="Local" value="CDH00044.htm">
+    </OBJECT>
+    <A HREF="file:CDH00044.htm">The Neutral Alignment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Druid's Responsibilities">
+    <param name="Local" value="CDH00045.htm">
+    </OBJECT>
+    <A HREF="file:CDH00045.htm">A Druid's Responsibilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Strategy">
+    <param name="Local" value="CDH00046.htm">
+    </OBJECT>
+    <A HREF="file:CDH00046.htm">Character Strategy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Relations with Others">
+    <param name="Local" value="CDH00047.htm">
+    </OBJECT>
+    <A HREF="file:CDH00047.htm">Relations with Others</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Druid Campaigns">
+    <param name="Local" value="CDH00058.htm">
+    </OBJECT>
+    <A HREF="file:CDH00058.htm">Druid Campaigns</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Personality Types">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Personality Types">
+    <param name="Local" value="CDH00048.htm">
+    </OBJECT>
+    <A HREF="file:CDH00048.htm">Personality Types</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Diplomat">
+    <param name="Local" value="CDH00049.htm">
+    </OBJECT>
+    <A HREF="file:CDH00049.htm">Diplomat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gardner">
+    <param name="Local" value="CDH00050.htm">
+    </OBJECT>
+    <A HREF="file:CDH00050.htm">Gardner</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Idealist">
+    <param name="Local" value="CDH00051.htm">
+    </OBJECT>
+    <A HREF="file:CDH00051.htm">Idealist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mysterious Figure">
+    <param name="Local" value="CDH00052.htm">
+    </OBJECT>
+    <A HREF="file:CDH00052.htm">Mysterious Figure</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nurturer">
+    <param name="Local" value="CDH00053.htm">
+    </OBJECT>
+    <A HREF="file:CDH00053.htm">Nurturer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rustic">
+    <param name="Local" value="CDH00054.htm">
+    </OBJECT>
+    <A HREF="file:CDH00054.htm">Rustic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Traditionalist">
+    <param name="Local" value="CDH00055.htm">
+    </OBJECT>
+    <A HREF="file:CDH00055.htm">Traditionalist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fanatic">
+    <param name="Local" value="CDH00056.htm">
+    </OBJECT>
+    <A HREF="file:CDH00056.htm">Fanatic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Misanthrope">
+    <param name="Local" value="CDH00057.htm">
+    </OBJECT>
+    <A HREF="file:CDH00057.htm">Misanthrope</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Druidic Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Druidic Magic">
+    <param name="Local" value="CDH00059.htm">
+    </OBJECT>
+    <A HREF="file:CDH00059.htm">Druidic Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Magical Items">
+    <param name="Local" value="CDH00068.htm">
+    </OBJECT>
+    <A HREF="file:CDH00068.htm">New Magical Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Herbal Magic">
+    <param name="Local" value="CDH00069.htm">
+    </OBJECT>
+    <A HREF="file:CDH00069.htm">Herbal Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Spells">
+    <param name="Local" value="CDH00060.htm">
+    </OBJECT>
+    <A HREF="file:CDH00060.htm">New Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="First-level Spells">
+    <param name="Local" value="CDH00061.htm">
+    </OBJECT>
+    <A HREF="file:CDH00061.htm">First-level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Second-level Spells">
+    <param name="Local" value="CDH00062.htm">
+    </OBJECT>
+    <A HREF="file:CDH00062.htm">Second-level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Third-level Spells">
+    <param name="Local" value="CDH00063.htm">
+    </OBJECT>
+    <A HREF="file:CDH00063.htm">Third-level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fourth-level Spells">
+    <param name="Local" value="CDH00064.htm">
+    </OBJECT>
+    <A HREF="file:CDH00064.htm">Fourth-level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fifth-level Spells">
+    <param name="Local" value="CDH00065.htm">
+    </OBJECT>
+    <A HREF="file:CDH00065.htm">Fifth-level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sixth-level Spells">
+    <param name="Local" value="CDH00066.htm">
+    </OBJECT>
+    <A HREF="file:CDH00066.htm">Sixth-level Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seventh-level Spells">
+    <param name="Local" value="CDH00067.htm">
+    </OBJECT>
+    <A HREF="file:CDH00067.htm">Seventh-level Spells</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 6: Sacred Groves">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sacred Groves">
+    <param name="Local" value="CDH00070.htm">
+    </OBJECT>
+    <A HREF="file:CDH00070.htm">Sacred Groves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Features of a Sacred Grove">
+    <param name="Local" value="CDH00071.htm">
+    </OBJECT>
+    <A HREF="file:CDH00071.htm">Features of a Sacred Grove</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stewardship">
+    <param name="Local" value="CDH00072.htm">
+    </OBJECT>
+    <A HREF="file:CDH00072.htm">Stewardship</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sanctifying and Awakening a Grove">
+    <param name="Local" value="CDH00073.htm">
+    </OBJECT>
+    <A HREF="file:CDH00073.htm">Sanctifying and Awakening a Grove</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Sacred Groves">
+    <param name="Local" value="CDH00074.htm">
+    </OBJECT>
+    <A HREF="file:CDH00074.htm">Magical Sacred Groves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Defiled and Cursed Groves">
+    <param name="Local" value="CDH00075.htm">
+    </OBJECT>
+    <A HREF="file:CDH00075.htm">Defiled and Cursed Groves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Standing Stones">
+    <param name="Local" value="CDH00076.htm">
+    </OBJECT>
+    <A HREF="file:CDH00076.htm">Standing Stones</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendixes">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix A: AD&D® Original Edition Druids">
+    <param name="Local" value="CDH00077.htm">
+    </OBJECT>
+    <A HREF="file:CDH00077.htm">Appendix A: AD&D® Original Edition Druids</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix B: Bibliography">
+    <param name="Local" value="CDH00078.htm">
+    </OBJECT>
+    <A HREF="file:CDH00078.htm">Appendix B: Bibliography</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="1: Farm Rating">
+    <param name="Local" value="CDH00017.htm">
+    </OBJECT>
+    <A HREF="file:CDH00017.htm">1: Farm Rating</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="2: Farm Random Events">
+    <param name="Local" value="CDH00017.htm">
+    </OBJECT>
+    <A HREF="file:CDH00017.htm">2: Farm Random Events</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="3: Lesser Grove Powers">
+    <param name="Local" value="CDH00074.htm">
+    </OBJECT>
+    <A HREF="file:CDH00074.htm">3: Lesser Grove Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="4: Greater Grove Powers">
+    <param name="Local" value="CDH00074.htm">
+    </OBJECT>
+    <A HREF="file:CDH00074.htm">4: Greater Grove Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="5: Properties of Cursed Groves">
+    <param name="Local" value="CDH00075.htm">
+    </OBJECT>
+    <A HREF="file:CDH00075.htm">5: Properties of Cursed Groves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="6: Powers of Standing Stones">
+    <param name="Local" value="CDH00076.htm">
+    </OBJECT>
+    <A HREF="file:CDH00076.htm">6: Powers of Standing Stones</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="7: Original Druid Experience Points">
+    <param name="Local" value="CDH00077.htm">
+    </OBJECT>
+    <A HREF="file:CDH00077.htm">7: Original Druid Experience Points</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="8: Original Hierophant Experience Points">
+    <param name="Local" value="CDH00077.htm">
+    </OBJECT>
+    <A HREF="file:CDH00077.htm">8: Original Hierophant Experience Points</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="9: Elemental Conjurings">
+    <param name="Local" value="CDH00077.htm">
+    </OBJECT>
+    <A HREF="file:CDH00077.htm">9: Elemental Conjurings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="10: Druidic Spells by Class and Level">
+    <param name="Local" value="CDH00077.htm">
+    </OBJECT>
+    <A HREF="file:CDH00077.htm">10: Druidic Spells by Class and Level</A>
+</UL>
+</UL>
+</UL>
+</HTML>
