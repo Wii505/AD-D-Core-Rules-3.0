@@ -1,0 +1,648 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Complete Paladin's Handbook">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="CPa00000.htm">
+    </OBJECT>
+    <A HREF="file:CPa00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="CPa00001.htm">
+    </OBJECT>
+    <A HREF="file:CPa00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="CPa00002.htm">
+    </OBJECT>
+    <A HREF="file:CPa00002.htm">Introduction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: Character Creation">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Paladin Abilities">
+    <param name="Local" value="CPa00003.htm">
+    </OBJECT>
+    <A HREF="file:CPa00003.htm">Paladin Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Paladin Requirements">
+    <param name="Local" value="CPa00004.htm">
+    </OBJECT>
+    <A HREF="file:CPa00004.htm">Paladin Requirements</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Level Advancement">
+    <param name="Local" value="CPa00005.htm">
+    </OBJECT>
+    <A HREF="file:CPa00005.htm">Level Advancement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor and Weapons">
+    <param name="Local" value="CPa00006.htm">
+    </OBJECT>
+    <A HREF="file:CPa00006.htm">Armor and Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clerical Magic">
+    <param name="Local" value="CPa00007.htm">
+    </OBJECT>
+    <A HREF="file:CPa00007.htm">Clerical Magic</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Paladin Abilities">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Paladin Abilities">
+    <param name="Local" value="CPa00008.htm">
+    </OBJECT>
+    <A HREF="file:CPa00008.htm">Paladin Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Detect Evil Intent">
+    <param name="Local" value="CPa00009.htm">
+    </OBJECT>
+    <A HREF="file:CPa00009.htm">Detect Evil Intent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Saving-Throw Bonus">
+    <param name="Local" value="CPa00010.htm">
+    </OBJECT>
+    <A HREF="file:CPa00010.htm">Saving-Throw Bonus</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Immunity to Disease">
+    <param name="Local" value="CPa00011.htm">
+    </OBJECT>
+    <A HREF="file:CPa00011.htm">Immunity to Disease</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cure Diseases">
+    <param name="Local" value="CPa00012.htm">
+    </OBJECT>
+    <A HREF="file:CPa00012.htm">Cure Diseases</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Laying On Hands">
+    <param name="Local" value="CPa00013.htm">
+    </OBJECT>
+    <A HREF="file:CPa00013.htm">Laying On Hands</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aura of Protection">
+    <param name="Local" value="CPa00014.htm">
+    </OBJECT>
+    <A HREF="file:CPa00014.htm">Aura of Protection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Holy Sword">
+    <param name="Local" value="CPa00015.htm">
+    </OBJECT>
+    <A HREF="file:CPa00015.htm">Holy Sword</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Turning Undead">
+    <param name="Local" value="CPa00016.htm">
+    </OBJECT>
+    <A HREF="file:CPa00016.htm">Turning Undead</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bonded Mount">
+    <param name="Local" value="CPa00017.htm">
+    </OBJECT>
+    <A HREF="file:CPa00017.htm">Bonded Mount</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clerical Spells">
+    <param name="Local" value="CPa00018.htm">
+    </OBJECT>
+    <A HREF="file:CPa00018.htm">Clerical Spells</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Ethos">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ethos">
+    <param name="Local" value="CPa00019.htm">
+    </OBJECT>
+    <A HREF="file:CPa00019.htm">Ethos</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strictures">
+    <param name="Local" value="CPa00020.htm">
+    </OBJECT>
+    <A HREF="file:CPa00020.htm">Strictures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Edicts">
+    <param name="Local" value="CPa00021.htm">
+    </OBJECT>
+    <A HREF="file:CPa00021.htm">Edicts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Virtues">
+    <param name="Local" value="CPa00022.htm">
+    </OBJECT>
+    <A HREF="file:CPa00022.htm">Virtues</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Code of Ennoblement">
+    <param name="Local" value="CPa00023.htm">
+    </OBJECT>
+    <A HREF="file:CPa00023.htm">Code of Ennoblement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Violations and Penalties">
+    <param name="Local" value="CPa00024.htm">
+    </OBJECT>
+    <A HREF="file:CPa00024.htm">Violations and Penalties</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4 Paladin Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Paladin Kits">
+    <param name="Local" value="CPa00025.htm">
+    </OBJECT>
+    <A HREF="file:CPa00025.htm">Paladin Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Acquiring Kits">
+    <param name="Local" value="CPa00026.htm">
+    </OBJECT>
+    <A HREF="file:CPa00026.htm">Acquiring Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="DM Decisions">
+    <param name="Local" value="CPa00027.htm">
+    </OBJECT>
+    <A HREF="file:CPa00027.htm">DM Decisions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abandoning Kits">
+    <param name="Local" value="CPa00044.htm">
+    </OBJECT>
+    <A HREF="file:CPa00044.htm">Abandoning Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creating New Kits">
+    <param name="Local" value="CPa00045.htm">
+    </OBJECT>
+    <A HREF="file:CPa00045.htm">Creating New Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Demihumans as Demipaladins">
+    <param name="Local" value="CPa00046.htm">
+    </OBJECT>
+    <A HREF="file:CPa00046.htm">Demihumans as Demipaladins</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dual-Classed Paladins">
+    <param name="Local" value="CPa00047.htm">
+    </OBJECT>
+    <A HREF="file:CPa00047.htm">Dual-Classed Paladins</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kit Subsections">
+    <param name="Local" value="CPa00028.htm">
+    </OBJECT>
+    <A HREF="file:CPa00028.htm">Kit Subsections</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="True Paladin">
+    <param name="Local" value="CPa00029.htm">
+    </OBJECT>
+    <A HREF="file:CPa00029.htm">True Paladin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chevalier">
+    <param name="Local" value="CPa00030.htm">
+    </OBJECT>
+    <A HREF="file:CPa00030.htm">Chevalier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divinate">
+    <param name="Local" value="CPa00031.htm">
+    </OBJECT>
+    <A HREF="file:CPa00031.htm">Divinate</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Envoy">
+    <param name="Local" value="CPa00032.htm">
+    </OBJECT>
+    <A HREF="file:CPa00032.htm">Envoy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equerry">
+    <param name="Local" value="CPa00033.htm">
+    </OBJECT>
+    <A HREF="file:CPa00033.htm">Equerry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Errant">
+    <param name="Local" value="CPa00034.htm">
+    </OBJECT>
+    <A HREF="file:CPa00034.htm">Errant</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Expatriate">
+    <param name="Local" value="CPa00035.htm">
+    </OBJECT>
+    <A HREF="file:CPa00035.htm">Expatriate</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ghosthunter">
+    <param name="Local" value="CPa00036.htm">
+    </OBJECT>
+    <A HREF="file:CPa00036.htm">Ghosthunter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inquisitor">
+    <param name="Local" value="CPa00037.htm">
+    </OBJECT>
+    <A HREF="file:CPa00037.htm">Inquisitor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Medician">
+    <param name="Local" value="CPa00038.htm">
+    </OBJECT>
+    <A HREF="file:CPa00038.htm">Medician</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Militarist">
+    <param name="Local" value="CPa00039.htm">
+    </OBJECT>
+    <A HREF="file:CPa00039.htm">Militarist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Squire">
+    <param name="Local" value="CPa00041.htm">
+    </OBJECT>
+    <A HREF="file:CPa00041.htm">Squire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Votary">
+    <param name="Local" value="CPa00042.htm">
+    </OBJECT>
+    <A HREF="file:CPa00042.htm">Votary</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wyrmslayer">
+    <param name="Local" value="CPa00043.htm">
+    </OBJECT>
+    <A HREF="file:CPa00043.htm">Wyrmslayer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Skyrider">
+    <param name="Local" value="CPa00040.htm">
+    </OBJECT>
+    <A HREF="file:CPa00040.htm">Skyrider</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Proficiencies">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies">
+    <param name="Local" value="CPa00048.htm">
+    </OBJECT>
+    <A HREF="file:CPa00048.htm">Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Compiled Proficiencies">
+    <param name="Local" value="CPa00049.htm">
+    </OBJECT>
+    <A HREF="file:CPa00049.htm">Compiled Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clarifications and Modifications">
+    <param name="Local" value="CPa00050.htm">
+    </OBJECT>
+    <A HREF="file:CPa00050.htm">Clarifications and Modifications</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Proficiencies">
+    <param name="Local" value="CPa00051.htm">
+    </OBJECT>
+    <A HREF="file:CPa00051.htm">New Proficiencies</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 6: Equipment">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment">
+    <param name="Local" value="CPa00052.htm">
+    </OBJECT>
+    <A HREF="file:CPa00052.htm">Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Standard Equipment">
+    <param name="Local" value="CPa00053.htm">
+    </OBJECT>
+    <A HREF="file:CPa00053.htm">Standard Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Badges, Standards, and Crests">
+    <param name="Local" value="CPa00054.htm">
+    </OBJECT>
+    <A HREF="file:CPa00054.htm">Badges, Standards, and Crests</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Additional Equipment">
+    <param name="Local" value="CPa00055.htm">
+    </OBJECT>
+    <A HREF="file:CPa00055.htm">Additional Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Magical Equipment">
+    <param name="Local" value="CPa00056.htm">
+    </OBJECT>
+    <A HREF="file:CPa00056.htm">New Magical Equipment</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 7: Role-Playing">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Role-Playing">
+    <param name="Local" value="CPa00057.htm">
+    </OBJECT>
+    <A HREF="file:CPa00057.htm">Role-Playing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Demographics">
+    <param name="Local" value="CPa00058.htm">
+    </OBJECT>
+    <A HREF="file:CPa00058.htm">Demographics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Becoming a Paladin">
+    <param name="Local" value="CPa00059.htm">
+    </OBJECT>
+    <A HREF="file:CPa00059.htm">Becoming a Paladin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Routine Activities">
+    <param name="Local" value="CPa00060.htm">
+    </OBJECT>
+    <A HREF="file:CPa00060.htm">Routine Activities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A Day in the Life">
+    <param name="Local" value="CPa00061.htm">
+    </OBJECT>
+    <A HREF="file:CPa00061.htm">A Day in the Life</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Courtly Love">
+    <param name="Local" value="CPa00062.htm">
+    </OBJECT>
+    <A HREF="file:CPa00062.htm">Courtly Love</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Economics">
+    <param name="Local" value="CPa00063.htm">
+    </OBJECT>
+    <A HREF="file:CPa00063.htm">Economics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Paladin's Personality">
+    <param name="Local" value="CPa00064.htm">
+    </OBJECT>
+    <A HREF="file:CPa00064.htm">The Paladin's Personality</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strongholds">
+    <param name="Local" value="CPa00065.htm">
+    </OBJECT>
+    <A HREF="file:CPa00065.htm">Strongholds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Privileged Relationships">
+    <param name="Local" value="CPa00066.htm">
+    </OBJECT>
+    <A HREF="file:CPa00066.htm">Privileged Relationships</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Experience">
+    <param name="Local" value="CPa00067.htm">
+    </OBJECT>
+    <A HREF="file:CPa00067.htm">Experience</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 8: Faith">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Faith">
+    <param name="Local" value="CPa00068.htm">
+    </OBJECT>
+    <A HREF="file:CPa00068.htm">Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Campaign Models">
+    <param name="Local" value="CPa00069.htm">
+    </OBJECT>
+    <A HREF="file:CPa00069.htm">Campaign Models</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alternatives to Churches">
+    <param name="Local" value="CPa00070.htm">
+    </OBJECT>
+    <A HREF="file:CPa00070.htm">Alternatives to Churches</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guidelines for Religious Edicts">
+    <param name="Local" value="CPa00071.htm">
+    </OBJECT>
+    <A HREF="file:CPa00071.htm">Guidelines for Religious Edicts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Types of Edicts">
+    <param name="Local" value="CPa00072.htm">
+    </OBJECT>
+    <A HREF="file:CPa00072.htm">Types of Edicts</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 9: Orders">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Orders">
+    <param name="Local" value="CPa00073.htm">
+    </OBJECT>
+    <A HREF="file:CPa00073.htm">Orders</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Standard Information">
+    <param name="Local" value="CPa00074.htm">
+    </OBJECT>
+    <A HREF="file:CPa00074.htm">Standard Information</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Most Noble Order of the Radiant Heart">
+    <param name="Local" value="CPa00075.htm">
+    </OBJECT>
+    <A HREF="file:CPa00075.htm">Most Noble Order of the Radiant Heart</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Radiant Heart Auxiliary">
+    <param name="Local" value="CPa00076.htm">
+    </OBJECT>
+    <A HREF="file:CPa00076.htm">Radiant Heart Auxiliary</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ancient and Revered Order of the Thorn">
+    <param name="Local" value="CPa00077.htm">
+    </OBJECT>
+    <A HREF="file:CPa00077.htm">Ancient and Revered Order of the Thorn</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Distinguished Order of the Crystal Dawn">
+    <param name="Local" value="CPa00078.htm">
+    </OBJECT>
+    <A HREF="file:CPa00078.htm">Distinguished Order of the Crystal Dawn</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Righteous Order of the Iron Dragon">
+    <param name="Local" value="CPa00079.htm">
+    </OBJECT>
+    <A HREF="file:CPa00079.htm">Righteous Order of the Iron Dragon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Order of the Divine Hand">
+    <param name="Local" value="CPa00080.htm">
+    </OBJECT>
+    <A HREF="file:CPa00080.htm">Order of the Divine Hand</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bibliography">
+    <param name="Local" value="CPa00081.htm">
+    </OBJECT>
+    <A HREF="file:CPa00081.htm">Bibliography</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Original AD&D Game Paladin">
+    <param name="Local" value="CPa00082.htm">
+    </OBJECT>
+    <A HREF="file:CPa00082.htm">Original AD&D Game Paladin</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 1: Class Qualifications">
+    <param name="Local" value="CPa00004.htm">
+    </OBJECT>
+    <A HREF="file:CPa00004.htm">Table 1: Class Qualifications</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 2: Pregenerated Ability Scores">
+    <param name="Local" value="CPa00004.htm">
+    </OBJECT>
+    <A HREF="file:CPa00004.htm">Table 2: Pregenerated Ability Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 3: Experience Levels">
+    <param name="Local" value="CPa00005.htm">
+    </OBJECT>
+    <A HREF="file:CPa00005.htm">Table 3: Experience Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 4: Total Proficiency Slots">
+    <param name="Local" value="CPa00005.htm">
+    </OBJECT>
+    <A HREF="file:CPa00005.htm">Table 4: Total Proficiency Slots</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 5: Saving Throws">
+    <param name="Local" value="CPa00005.htm">
+    </OBJECT>
+    <A HREF="file:CPa00005.htm">Table 5: Saving Throws</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 6: Paladin Attacks Per Round">
+    <param name="Local" value="CPa00006.htm">
+    </OBJECT>
+    <A HREF="file:CPa00006.htm">Table 6: Paladin Attacks Per Round</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 7: Two-Weapon Attack Roll Penalties">
+    <param name="Local" value="CPa00006.htm">
+    </OBJECT>
+    <A HREF="file:CPa00006.htm">Table 7: Two-Weapon Attack Roll Penalties</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 8: Paladin Spell Progression">
+    <param name="Local" value="CPa00007.htm">
+    </OBJECT>
+    <A HREF="file:CPa00007.htm">Table 8: Paladin Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 9: Paladin Spells">
+    <param name="Local" value="CPa00007.htm">
+    </OBJECT>
+    <A HREF="file:CPa00007.htm">Table 9: Paladin Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 10: Turning Undead (Paladin)">
+    <param name="Local" value="CPa00007.htm">
+    </OBJECT>
+    <A HREF="file:CPa00007.htm">Table 10: Turning Undead (Paladin)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 11: Degrees of Evil">
+    <param name="Local" value="CPa00009.htm">
+    </OBJECT>
+    <A HREF="file:CPa00009.htm">Table 11: Degrees of Evil</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 12: Level Progression of Powers">
+    <param name="Local" value="CPa00012.htm">
+    </OBJECT>
+    <A HREF="file:CPa00012.htm">Table 12: Level Progression of Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 13: Bonded Mounts">
+    <param name="Local" value="CPa00017.htm">
+    </OBJECT>
+    <A HREF="file:CPa00017.htm">Table 13: Bonded Mounts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 14: Fealty Combinations">
+    <param name="Local" value="CPa00022.htm">
+    </OBJECT>
+    <A HREF="file:CPa00022.htm">Table 14: Fealty Combinations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 15: Penalties for Enchanted Paladins (Alternate Method)">
+    <param name="Local" value="CPa00024.htm">
+    </OBJECT>
+    <A HREF="file:CPa00024.htm">Table 15: Penalties for Enchanted Paladins (Alternate Method)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 16: XP for Equerry Bonded Mount">
+    <param name="Local" value="CPa00033.htm">
+    </OBJECT>
+    <A HREF="file:CPa00033.htm">Table 16: XP for Equerry Bonded Mount</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 17: Ghosthunter Abilities">
+    <param name="Local" value="CPa00036.htm">
+    </OBJECT>
+    <A HREF="file:CPa00036.htm">Table 17: Ghosthunter Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 18: Turning Undead (Ghosthunter)">
+    <param name="Local" value="CPa00036.htm">
+    </OBJECT>
+    <A HREF="file:CPa00036.htm">Table 18: Turning Undead (Ghosthunter)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 19: Frequency of Dispel Evil Magic">
+    <param name="Local" value="CPa00037.htm">
+    </OBJECT>
+    <A HREF="file:CPa00037.htm">Table 19: Frequency of Dispel Evil Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 20: Militarist Honors">
+    <param name="Local" value="CPa00039.htm">
+    </OBJECT>
+    <A HREF="file:CPa00039.htm">Table 20: Militarist Honors</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 21: Skyrider Mounted Missile Fire">
+    <param name="Local" value="CPa00040.htm">
+    </OBJECT>
+    <A HREF="file:CPa00040.htm">Table 21: Skyrider Mounted Missile Fire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 22 : Votary Spell Progression">
+    <param name="Local" value="CPa00042.htm">
+    </OBJECT>
+    <A HREF="file:CPa00042.htm">Table 22 : Votary Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 23: Nonweapon Proficiencies">
+    <param name="Local" value="CPa00049.htm">
+    </OBJECT>
+    <A HREF="file:CPa00049.htm">Table 23: Nonweapon Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 24: Barding Construction Times">
+    <param name="Local" value="CPa00050.htm">
+    </OBJECT>
+    <A HREF="file:CPa00050.htm">Table 24: Barding Construction Times</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 25: Miscellaneous Equipment">
+    <param name="Local" value="CPa00055.htm">
+    </OBJECT>
+    <A HREF="file:CPa00055.htm">Table 25: Miscellaneous Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 26: Job Applicant's Reaction">
+    <param name="Local" value="CPa00065.htm">
+    </OBJECT>
+    <A HREF="file:CPa00065.htm">Table 26: Job Applicant's Reaction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 27: Staff Sizes for Strongholds">
+    <param name="Local" value="CPa00065.htm">
+    </OBJECT>
+    <A HREF="file:CPa00065.htm">Table 27: Staff Sizes for Strongholds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 28: Paladin Experience">
+    <param name="Local" value="CPa00067.htm">
+    </OBJECT>
+    <A HREF="file:CPa00067.htm">Table 28: Paladin Experience</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 29: Optional Experience Awards">
+    <param name="Local" value="CPa00067.htm">
+    </OBJECT>
+    <A HREF="file:CPa00067.htm">Table 29: Optional Experience Awards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 30: Experience Levels">
+    <param name="Local" value="CPa00082.htm">
+    </OBJECT>
+    <A HREF="file:CPa00082.htm">Table 30: Experience Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 31: Attacks Per Round">
+    <param name="Local" value="CPa00082.htm">
+    </OBJECT>
+    <A HREF="file:CPa00082.htm">Table 31: Attacks Per Round</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 32: Spell Progression (1st Edition)">
+    <param name="Local" value="CPa00082.htm">
+    </OBJECT>
+    <A HREF="file:CPa00082.htm">Table 32: Spell Progression (1st Edition)</A>
+</UL>
+</UL>
+</UL>
+</HTML>
