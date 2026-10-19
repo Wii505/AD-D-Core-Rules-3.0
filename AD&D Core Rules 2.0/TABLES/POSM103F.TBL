@@ -1,0 +1,32 @@
+Crushing Spell-Critical Strike Effect on Tail
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 5 0 0 0 0
+Tip of tail struck; if prehensile, /n1any items carried are dropped, -2 /n2penalty to all tail attacks due /n3to pain/n4
+Item1
+Item2
+6 6 0 0 0 0
+Tail injured, lose any tail attacks; /n1normal animals must roll saving /n2throw vs. death magic or retreat /n3in pain/n4
+Item1
+Item2
+7 8 0 0 0 0
+Tail broken, lose any tail attacks, /n11/4 move if animal uses tail for movement/n2
+Item1
+Item2
+9 10 0 0 0 0
+Tail crushed, victim stunned 1d6 rounds, /n1lose any tail attacks, no movement or /n2attacks if creature uses tail for /n3movement/n4
+Item1
+Item2
+11 11 0 0 0 0
+Tail crushed, pain reduces creature /n1to 1/4 move and -2 penalty on any attack /n2rolls, minor bleeding; no move or /n3attack and major bleeding if creature uses /n4tail for movement/n5
+Item1
+Item2
+12 12 0 0 0 0
+Tail crushed, pain reduces creature /n1to 1/4 move and -2 penalty on any attack /n2rolls, minor bleeding; no move or /n3attack and major bleeding if creature uses /n4tail for movement with additional abdomen /n5or torso hit/n6
+Item1
+Item2
+13 20 48046 0 0 0

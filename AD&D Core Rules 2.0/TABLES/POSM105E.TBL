@@ -1,0 +1,48 @@
+Fire Spell-Critical Strike Effect on Head
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim singed, -1 penalty to /n1attacks/n2
+Item1
+Item2
+4 4 0 0 0 0
+Head scorched, -2 to all attack /n1rolls, if victim wears metal helm, /n2hot metal sears him for 2d4 damage /n3in next round, 1d4 more the round after/n4 
+Item1
+Item2
+5 5 0 0 0 0
+Head scorched, -2 to attacks, /n1victim must roll saving throw vs. /n2death magic or catch fire (see /n3page 122)/n4
+Item1
+Item2
+6 6 0 0 0 0
+Face burned, stunned 1d6 rounds, /n1-4 to all attacks and 1/2 move; /n2if victim wears metal helm, hot /n3metal sears him for 2d4 damage in /n4next round, 1d4 more the round /n5after/n6
+Item1
+Item2
+7 7 0 0 0 0
+Face burned, victim blinded, no /n1move or attack/n2
+Item1
+Item2
+8 8 0 0 0 0
+Scalp burned, victim stunned /n11d6 rounds, 1/2 move and -4 /n2penalty to attacks, victim /n3set on fire/n4
+Item1
+Item2
+9 9 0 0 0 0
+Face burned, victim blinded, no /n1move or attack/n2
+Item1
+Item2
+10 10 0 0 0 0
+Head burned, victim blinded and /n1deafend, and remains so intil he /n2recieves a regenerate spell or /n3similar healing magic/n3
+Item1
+Item2
+11 11 0 0 0 0
+Skull incinerated, immediate death
+Item1
+Item2
+12 12 0 0 0 0
+Skull incinerated, immediate death /n1with additional torso hit/n2
+Item1
+Item2
+13 20 47046 0 0 0

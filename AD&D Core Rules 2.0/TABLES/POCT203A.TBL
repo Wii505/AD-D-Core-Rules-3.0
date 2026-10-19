@@ -1,0 +1,50 @@
+Slashing vs. Humanoids (legs)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Leg struck, minor bleeding/n1
+Item1
+Item2
+4 4 0 0 0 0
+Leg struck, minor bleeding; 1/2 move/n1
+Item1
+Item2
+5 5 0 0 0 0
+Leg injured, major bleeding, 1/2 move/n1
+Item1
+Item2
+6 6 0 0 0 0
+Armor damaged; leg injured if /n1target has no leg armor, /n21/2 move, major bleeding/n3
+Item1
+Item2
+7 7 0 0 0 0
+Knee shattered, major bleeding, /n1no move, –4 penalty to any attacks/n2
+Item1
+Item2
+8 8 0 0 0 0
+Armor damaged, leg struck, minor /n1bleeding, 1/2 move; if target has /n2no leg armor, leg severed at /n3knee, severe bleeding, no move /n4or attack/n5
+Item1
+Item2
+9 9 0 0 0 0
+Hip shattered, no move or attack, /n1severe bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Leg severed, severe bleeding, /n1no move or attack/n2
+Item1
+Item2
+11 11 0 0 0 0
+Leg severed at thigh, no move or /n1attack, victim reduced to 0 hit /n2points with severe bleeding/n3
+Item1
+Item2
+12 12 0 0 0 0
+Leg severed at thigh, no move or /n1attack, victim reduced to 0 hit /n2points with severe bleeding /n3with tripled damage dice/n4
+Item1
+Item2
+13 20 0 0 0 0
+
+
