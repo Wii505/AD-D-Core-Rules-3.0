@@ -1,0 +1,69 @@
+Twenty books can be accessed as rtf files in the following folders: 
+ 
+	Arms & Equipment Guide					MacBooks\Books\ArmsBk.rtf
+	DM Option: High-Level Campaigns				MacBooks\Books\DOHLCBk.rtf
+	Dungeon Master Guide					MacBooks\Books\DmgBk.rtf
+	Monstrous Manual					MacBooks\Books\MonBk.rtf
+	Player's Handbook					MacBooks\Books\PhbBk.rtf
+	Player's Option: Skills & Powers			MacBooks\Books\POSPBk.rtf
+	Player's Option: Spells & Magic				MacBooks\Books\POSMBk.rtf
+	Player's Option: Combat & Tactics			MacBooks\Books\POCTBk.rtf
+	The Complete Bard's Handbook				MacBooks\Books\BardBk.rtf
+	The Complete Book of Dwarves				MacBooks\Books\DwarfBk.rtf
+	The Complete Book of Elves				MacBooks\Books\ElfBk.rtf
+	The Complete Book of Gnomes and Halflings 		MacBooks\Books\GnmHlfBk.rtf
+	The Complete Druid's Handbook				MacBooks\Books\DruidBk.rtf
+	The Complete Fighter's Handbook				MacBooks\Books\FightrBk.rtf
+	The Complete Paladin's Handbook				MacBooks\Books\PaladnBk.rtf
+	The Complete Priest's Handbook 				MacBooks\Books\PriestBk.rtf
+	The Complete Ranger's Handbook				MacBooks\Books\RangerBk.rtf
+	The Complete Thief's Handbook 				MacBooks\Books\ThiefBk.rtf
+	The Complete Wizard's Handbook				MacBooks\Books\WizardBk.rtf			
+	Tome of Magic						MacBooks\Books\TomeBk.rtf
+
+Viewing the RTF files:
+Double click on the book you want to view in the RTF folder. If the file
+does not open, you will see a dialogue asking you to choose which
+application you want to open the file. Choose whatever word processing
+program you have on your Mac from the list. The file will open in your
+word processing program.
+
+
+
+The same twenty books can be accessed as html files. They can be found in the 
+following folders: 
+ 
+	Arms & Equipment Guide					MacBooks\html\Aeg
+	DM Option: High-Level Campaigns				MacBooks\html\Hlc
+	Dungeon Master Guide					MacBooks\html\Dmg
+	Monstrous Manual					MacBooks\html\Mm
+	Player's Handbook					MacBooks\html\Phb
+	Player's Option: Skills & Powers			MacBooks\html\Sp
+	Player's Option: Spells & Magic				MacBooks\html\Sm
+	Player's Option: Combat & Tactics			MacBooks\html\Ct
+	The Complete Bard's Handbook				MacBooks\html\CBH
+	The Complete Book of Dwarves				MacBooks\html\CBD
+	The Complete Book of Elves				MacBooks\html\CBE
+	The Complete Book of Gnomes and Halflings 		MacBooks\html\CBGH
+	The Complete Druid's Handbook				MacBooks\html\CDH
+	The Complete Fighter's Handbook				MacBooks\html\CFH
+	The Complete Paladin's Handbook				MacBooks\html\CPaH
+	The Complete Priest's Handbook 				MacBooks\html\CPrH
+	The Complete Ranger's Handbook				MacBooks\html\Crh
+	The Complete Thief's Handbook 				MacBooks\html\Cth
+	The Complete Wizard's Handbook				MacBooks\html\Cwh			
+	Tome of Magic						MacBooks\html\Tom
+
+
+Viewing the HTML files:
+To access the individual books in html format, double click the start.htm file in the chosen 
+book folder. You will have to choose whatever web browser (i.e. Netscape Navigator,
+Microsoft Internet Explorer) you have on your Mac from the list. To get quicker access 
+without the index, you can click on the htm file that is number **0000.htm. 
+
+
+Viewing WebHelp:
+The files in the WebHelp folder contain links between all twenty books. Your ability
+to use these links depends on your system and browser.
+
+
