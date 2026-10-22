@@ -1,0 +1,48 @@
+Crushing Spell-Critical Strike Effect on Head
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim stunned 1d6 rounds
+Item1
+Item2
+4 4 0 0 0 0
+Head struck, helm removed, victim /n1stunned 1d6 rounds; head injured, /n2-2 to attack rolls if victim had /n3no helm/n4
+Item1
+Item2
+5 5 0 0 0 0
+Head injured, stunned 2d6 rounds, /n11/4 move, -2 to all attacks/n2
+Item1
+Item2
+6 6 0 0 0 0
+Helm destroyed, face injured, /n1stunned 2d6 rounds, 1/4 move, -4 /n2to all attacks; victim must roll /n3saving throw vs. death magic or /n4be blinded as well/n5
+Item1
+Item2
+7 7 0 0 0 0
+Skull broken, helm destroyed, victim /n1reduced to 0 hit points and /n2unconcious 2d6 hours/n3
+Item1
+Item2
+8 8 0 0 0 0
+Face crushed, minor bleeding, no /n1move or attack, -2 charisma /n2permanently/n3
+Item1
+Item2
+9 9 0 0 0 0
+Skull broken, unconscious 1d6 days, /n1-2 to all attacks, lose 1 point /n2each of Intelligence/Wisdom/Charisma permanently/n3
+Item1
+Item2
+10 10 0 0 0 0
+Skull crushed, reduced to 0 hit/n1 points, major bleeding; victim /n2loses 1d6 points of Intelligence, /n3Wisdom and, Charisma (a heal or /n4regenerate spell can restore lost /n5ability points)/n6
+Item1
+Item2
+11 11 0 0 0 0
+Skull crushed, immediate death
+Item1
+Item2
+12 12 0 0 0 0
+Skull crushed, immediate death with /n1additional torso hit/n2
+Item1
+Item2
+13 20 47046 0 0 0

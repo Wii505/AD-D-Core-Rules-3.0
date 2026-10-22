@@ -1,0 +1,48 @@
+Slashing Spell-Critical Strike Effect on Arms
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Hand struck, weapon or shield /n1dropped/n2
+Item1
+Item2
+4 4 0 0 0 0
+Arm struck, minor bleeding, shield /n1damage or weapon dropped/n2
+Item1
+Item2
+5 5 0 0 0 0
+Hand injured, minor bleeding, -2 /n1to attacks or no shield use/n2
+Item1
+Item2
+6 6 0 0 0 0
+Armor damaged, arm injured minor /n1bleeding, -2 to all attacks; if /n2victim has no armor,a rm broken, /n3stunned 1d6 rounds, major /n4bleeding, -2 to all attacks/n5
+Item1
+Item2
+7 7 0 0 0 0
+Hand severed, stunned 1d6 rounds, /n1major bleeding/n2
+Item1
+Item2
+8 8 0 0 0 0
+Arm broken, and useless, stunned /n11d6 rounds, major bleeding, 1/2 /n2move, -2 to all other attacks/n3
+Item1
+Item2
+9 9 0 0 0 0
+Shoulder injured, stunned /n11d6 rounds, no attacks, /n2major bleeding/n3
+Item1
+Item2
+10 10 0 0 0 0
+Arm severed at elbow, stunned /n12d6 rounds, no attacks, major /n2bleeding/n3
+Item1
+Item2
+11 11 0 0 0 0
+Arm severed at shoulder, no /n1move or attacks, severe bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Arm severed at shoulder, no move /n1or attacks, severe bleeding, /n2with additional torso hit/n3
+Item1
+Item2
+13 20 47046 0 0 0

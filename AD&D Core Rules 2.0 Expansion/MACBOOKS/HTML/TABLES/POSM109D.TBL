@@ -1,0 +1,48 @@
+Wounding Spell-Critical Strike Effect on Arms
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Hand grazed, weapon or shield dropped
+Item1
+Item2
+4 4 0 0 0 0
+Arm struck, -2 to attacks with that /n1hand/n2
+Item1
+Item2
+5 5 0 0 0 0
+Hand injured, -2 to attacks with /n1that hand (or no shield use if /n2shield hand is injured)/n3
+Item1
+Item2
+6 6 0 0 0 0
+Arm injured, -2 penalty to all /n1attacks, minor bleeding/n2
+Item1
+Item2
+7 7 0 0 0 0
+Arm injured, stunned 1d6 rounds, -4 /n1to attacks with affected arm, -2 /n2penalty to all other atttacks, /n3minor bleeding/n4
+Item1
+Item2
+8 8 0 0 0 0
+Arm injured and useless, victim /n1stunned 1d6 rounds, minor /n2bleeding/n3
+Item1
+Item2
+9 9 0 0 0 0
+Hand withered, stunned 1d6 rounds, /n1-2 to all atacks/n2
+Item1
+Item2
+10 10 0 0 0 0
+Arm withered at elbow, stunned /n11d6 rounds, no attacks/n2
+Item1
+Item2
+11 11 0 0 0 0
+Arm withered at shoulder, stunned /n11d6 rounds, 1/2 move, no attacks/n2
+Item1
+Item2
+12 12 0 0 0 0
+Arm withered at shoulder, stunned /n11d6 rounds, 1/2 move, no attacks, /n2with additional torso hit/n3
+Item1
+Item2
+13 20 47046 0 0 0

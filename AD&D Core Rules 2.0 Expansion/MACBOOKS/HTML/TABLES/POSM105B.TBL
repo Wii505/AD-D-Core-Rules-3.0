@@ -1,0 +1,48 @@
+Fire Spell-Critical Strike Effect on Abdomen
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim singed, -1 to attack rolls
+Item1
+Item2
+4 4 0 0 0 0
+Abdomen scorched, -1 to attack /n1rolls, 1/2 move/n2
+Item1
+Item2
+5 5 0 0 0 0
+Abdomen burned, 1/2 move, -2 /n1to attack rolls; if victim /n2wears metal armor, hot steel /n3scorches him for an additional /n42d4 damage in the following /n5round, and 1d4 damage /n5in the round after that/n6
+Item1
+Item2
+6 6 0 0 0 0
+Abdomen burned, 1/2 move, -2 to /n1attack rolls, victim must roll /n2saving throw vs. death magic or /n3catch fire(see page 122)/n4
+Item1
+Item2
+7 7 0 0 0 0
+Abdomen burned, 1/4 move, -4 to /n1attack rolls, stunned 1d6 rounds/n2
+Item1
+Item2
+8 8 0 0 0 0
+Abdomen burned, stunned 1d6 rounds, /n11/4 move, -4 to attacks; if /n2victim wears metal armor, armor /n3destroyed, hot steel scorches /n4him for an additional 2d4 damage /n5in the following round, and 1d4 /n6damage in the round after that/n7
+Item1
+Item2
+9 9 0 0 0 0
+Abdomen burned severly, no move or /n1attack/n2
+Item1
+Item2
+10 10 0 0 0 0
+Abdomen partially incinerated, no /n1move or attack, death in 1d4 /n2hours unless victim recieves /n3cure crital wounds or more /n4powerful magic/n5
+Item1
+Item2
+11 11 0 0 0 0
+Abdomen incinerated, immediate /n1death/n2
+Item1
+Item2
+12 12 0 0 0 0
+Abdomen incinerated, immediate /n1death with additional torso or /n2leg hit(50% chance of each)/n3
+Item1
+Item2
+13 20 45046 0 0 0

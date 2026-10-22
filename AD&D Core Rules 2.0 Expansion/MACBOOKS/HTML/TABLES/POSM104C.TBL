@@ -1,0 +1,48 @@
+Electricity Spell-Critical Strike Effect on Torso
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim shocked and knocked down, -2 /n1to attack rolls for 1d6 rounds/n2
+Item1
+Item2
+4 4 0 0 0 0
+Torso struck; 1/2 move, -2 to /n1attack rolls, victim knocked down/n2
+Item1
+Item2
+5 5 0 0 0 0
+Shield destroyed, torso burned, /n1victim knocked down, 1/2 move, /n2-2 to attack rolls/n3
+Item1
+Item2
+6 6 0 0 0 0
+Armor destroyed, torso burned, /n1victim stunned 1d6 rounds, 1/2 /n2move, -2 to attacks/n3
+Item1
+Item2
+7 7 0 0 0 0
+Torso burned, victim stunned /n12d8 rounds, 1/4 move, -4 to /n2attack rolls/n3
+Item1
+Item2
+8 8 0 0 0 0
+Torso burned, no move or attack
+Item1
+Item2
+9 9 0 0 0 0
+Torso burned deeply, no move or /n1attack, possible stopped heart; /n2roll a saving throw vs. death /n3magic or die in 1d3 rounds/n3
+Item1
+Item2
+10 10 0 0 0 0
+Torso partially incinerated, victim /n1reduced to 0 hit points and dies /n2in 1d3 turns unless treated by /n3cure critical wounds or more /n4powerful healing magic/n5
+Item1
+Item2
+11 11 0 0 0 0
+Torso incinerated, victim killed /n1instantly/n2
+Item1
+Item2
+12 12 0 0 0 0
+Torso incinerated, victim killed /n1instantly with additional /n2abdomen, arm or head hit (40% /n3abdomen, 20% left arm, 20% right /n4arm, 20% head)/n5
+Item1
+Item2
+13 20 46046 0 0 0

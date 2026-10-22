@@ -1,0 +1,48 @@
+Impact Spell-Critical Strike Effect on Abdomen
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim stunned 1d6 rounds
+Item1
+Item2
+4 4 0 0 0 0
+Abdomen struck, victim stunned 1 /n1round, reduced to 1/2 move/n2
+Item1
+Item2
+5 5 0 0 0 0
+Abdomen struck, 1/2 move, -2 to /n1all attacks; if victim wears no /n2armor, abdomen injured, stunned /n31d6 rounds, 1/2 move, -2 to all /n4attacks, minor bleeding/n5
+Item1
+Item2
+6 6 0 0 0 0
+Abdomen injured, stunned 1d6 rounds, /n11/2 move, -2 to attacks, /n2major bleeding/n3
+Item1
+Item2
+7 7 0 0 0 0
+Abdomen injured, major bleeding, /n1stunned 1d6 rounds, 1/4 move, /n2-4 to all attacks/n3
+Item1
+Item2
+8 8 0 0 0 0
+Abdomen injured, stunned /n11d6 rounds, major bleeding, /n21/4 move, -4 to all attack /n3rolls, armor destroyed; if /n4victim wears no armor, no /n5move or attack, major /n6bleeding/n7
+Item1
+Item2
+9 9 0 0 0 0
+Abdomen injured, no move or /n1attack, major bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Abdomen destroyed, no move or /n1attack, major bleeding/n2
+Item1
+Item2
+11 11 0 0 0 0
+Abdomen destroyed, victim /n1reduced to 0 hp, severe /n2bleeding/n3
+Item1
+Item2
+12 12 0 0 0 0
+Abdomen destroyed, victim reduced /n1to 0 hp, severe bleeding with /n2additional torso (50%) or leg /n3(50%) hit/n4
+Item1
+Item2
+13 20 45046 0 0 0

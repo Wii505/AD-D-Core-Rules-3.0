@@ -1,0 +1,32 @@
+Acid Spell-Critical Strike Effect on tail
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 5 0 0 0 0
+Tip of tail burned; if prehensile, /n1any items carried are dropped, -2 /n2penalty to all tail attacks /n3due to pain/n4
+Item1
+Item2
+6 6 0 0 0 0
+Tail burned, lose any tail attacks; /n1normal animals must roll saving /n2throw vs. death magic or retreat /n3in pain/n4
+Item1
+Item2
+7 8 0 0 0 0
+Tail burned, lose any tail attacks; 1/2 /n1move if animal uses tail for /n2movement/n3
+Item1
+Item2
+9 10 0 0 0 0
+Tail dissolved at mid-length, /n1victim stunned 1d3 rounds, major /n2bleeding, lose any tail attacks, /n3no movement or attacks if /n4creatures uses tail for movement/n5
+Item1
+Item2
+11 11 0 0 0 0
+Tail dissolved, victim stunned 1d6 /n1rounds, pain reduces creature to 1/2 /n2move and -2 penalty on any /n3attack rolls, major bleeding; no /n4move or attack and severe /n5bleeding if creature uses tail /n6for movement/n7
+Item1
+Item2
+12 12 0 0 0 0
+Tail dissolved, victim stunned 1d6 /n1rounds, pain reduces creature to 1/2 /n2move and -2 penalty on any /n3attack rolls, major bleeding; no /n4move or attack and severe /n5bleeding if creature uses tail /n6for movement with abdomen or /n7torso hit(assign 50% chance to both)/n8
+Item1
+Item2
+13 20 48046 0 0 0

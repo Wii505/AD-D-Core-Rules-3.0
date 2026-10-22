@@ -1,0 +1,32 @@
+Electricity Spell-Critical Strike Effect on Tail
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 5 0 0 0 0
+Tip of tail shocked; if prehensile, /n1any items carried are dropped, /n2-2 penalty to all tail attacks/n3
+Item1
+Item2
+6 6 0 0 0 0
+Tail burned, lose any tail /n1attacks; normal animals must /n2roll saving throw vs. death /n3magic or retreat/n4
+Item1
+Item2
+7 8 0 0 0 0
+Tail burned, lose any tail attacks, /n11/2 move if animal uses tail for /n2movement/n3
+Item1
+Item2
+9 10 0 0 0 0
+Tail incinerated at mid-length, /n1victim stunned 1d3 rounds, minor /n2bleding, lose any tail attacks, /n3no movement or attacks if /n4creature uses tail for movement/n5
+Item1
+Item2
+11 11 0 0 0 0
+Tail incinerated, victim stunned /n11d6 rounds, pain reduces /n2creature to 1/2 move and -2 /n3penalty on any attack rolls, /n4minor bleeding; no move or /n5attack and major bleeding if /n6creature uses tail for movement/n7
+Item1
+Item2
+12 12 0 0 0 0
+Tail incinerated, victim stunned /n11d6 rounds, pain reduces /n2creature to 1/2 move and -2 /n3penalty on any attack rolls, /n4minor bleeding; no move or /n5attack and major bleeding if /n6creature uses tail for movement /n7with abdomen or torso hit (50% /n8chance of either)/n9
+Item1
+Item2
+13 20 48046 0 0 0

@@ -1,0 +1,32 @@
+Slashing Spell-Critical Strike Effect on Tail
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 5 0 0 0 0
+Tip of tail struck; if prehensile, /n1any items carried are dropped, /n2-2 penalty to tail attacks, /n3minor bleeding/n4
+Item1
+Item2
+6 6 0 0 0 0
+Tail injured, lose any tail /n1attacks, minor bleeding, normal /n2animals must roll saving throw /n3vs. death magic or retreat in /n4pain/n5
+Item1
+Item2
+7 8 0 0 0 0
+Tail broken, lose any tail attacks, /n11/2 move if animal uses tail for /n2movement, minor bleeding/n3
+Item1
+Item2
+9 10 0 0 0 0
+Tail destroyed, stunned 1d3 rounds, /n1major bleeding, lose any tail /n2attacks, no move or attack if /n3creature uses tail for movement/n4
+Item1
+Item2
+11 11 0 0 0 0
+Tail severed, stunned 1d6 rounds, /n11/2 move, -2 penalty on all /n2attacks, major bleeding; no move /n3or attack if creature uses tail /n4for movement/n5
+Item1
+Item2
+12 12 0 0 0 0
+Tail severed, stunned 1d6 rounds, /n11/2 move, -2 penalty on all /n2attacks, major bleeding; no move /n3or attack if creature uses tail /n4for movement, with double damage/n5 dice
+Item1
+Item2
+13 20 48046 0 0 0

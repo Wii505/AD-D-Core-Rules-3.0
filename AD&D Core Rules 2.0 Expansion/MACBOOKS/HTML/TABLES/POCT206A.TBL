@@ -1,0 +1,51 @@
+Piercing vs. Humanoids (legs)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect/n1
+Item1
+Item2
+1 3 0 0 0 0
+Leg grazed, victim knocked down/n1
+Item1
+Item2
+4 4 0 0 0 0
+Leg struck, minor bleeding/n1
+Item1
+Item2
+5 5 0 0 0 0
+Leg injured, minor bleeding, 2/3 move/n1
+Item1
+Item2
+6 6 0 0 0 0
+Armor damaged; leg injured if /n1target has no leg armor, /n21/2 move, major bleeding/n3
+Item1
+Item2
+7 7 0 0 0 0
+Knee broken, minor bleeding, /n11/3 move, –4 penalty to any attacks/n2
+Item1
+Item2
+8 8 0 0 0 0
+Armor damaged, leg struck, minor /n1bleeding, 2/3 move; if target /n2has no leg armor, leg broken, /n3major bleeding, 1/3 move, –4 penalty /n4to attacks/n5
+Item1
+Item2
+9 9 0 0 0 0
+Hip broken, no move or attack, /n1major bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Leg broken, severe bleeding, /n1no move or attack/n2
+Item1
+Item2
+11 11 0 0 0 0
+Leg destroyed, no move or attack, /n1severe bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Leg destroyed, no move or attack, /n1severe bleeding with tripled damage dice/n2
+Item1
+Item2
+13 20 0 0 0 0
+
+
+

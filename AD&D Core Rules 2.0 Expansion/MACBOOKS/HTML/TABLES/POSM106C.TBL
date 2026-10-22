@@ -1,0 +1,48 @@
+Impact Spell-Critical Strike Effect on Torso
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Knockdown, stunned 1d4 rounds
+Item1
+Item2
+4 4 0 0 0 0
+Torso struck, victim stunned 1 /n1round, 1/2 move/n2
+Item1
+Item2
+5 5 0 0 0 0
+Torso struck, 1/2 move, shield /n1damaged; if victim has no /n2shield, stunned 1d6 rounds, 1/2 /n3move, -2 to attacks, minor /n4bleeding/n5
+Item1
+Item2
+6 6 0 0 0 0
+Armor damaged, torso injured, /n11/2 move, -2 to attacks; if /n2victim wears no armor, stunned /n31d6 rounds, ribs broken, minor /n4bleeding, 1/2 move, -2 penalty /n5to all attacks/n6
+Item1
+Item2
+7 7 0 0 0 0
+Torso injured, stunned 1d6 rounds, /n1major bleeding, 1/4 move, -4 to /n2attacks/n3
+Item1
+Item2
+8 8 0 0 0 0
+Ribs broken, major bleeding, /n1stunned 1d6 rounds, 1/4 move, /n2-4 attacks/n3
+Item1
+Item2
+9 9 0 0 0 0
+Ribs broken, major bleeding, no /n1move or attack/n2
+Item1
+Item2
+10 10 0 0 0 0
+Torso destroyed, victim reduced /n1to 0 hp, severe bleeding/n2
+Item1
+Item2
+11 11 0 0 0 0
+Torso destroyed, victim killed
+Item1
+Item2
+12 12 0 0 0 0
+Torso destroyed, victim killed /n1with additional abdomen (40%), /n2arm (20% each) or head (20%) /n3hit
+Item1
+Item2
+13 20 46046 0 0 0

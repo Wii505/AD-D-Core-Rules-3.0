@@ -1,0 +1,48 @@
+Wounding Spell-Critical Strike Effect on Head
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim grazed, -1 penalty to attacks
+Item1
+Item2
+4 4 0 0 0 0
+Head struck, -2 to all attack rolls
+Item1
+Item2
+5 5 0 0 0 0
+Head injured, -2 to attacks, stunned /n11d6 rounds/n2
+Item1
+Item2
+6 6 0 0 0 0
+Face injured, stunned 1d6 rounds, /n1-4 to all attacks and 1/2 move/n2
+Item1
+Item2
+7 7 0 0 0 0
+Face injured, victim blinded, /n1stunned 1d6 rounds/n2
+Item1
+Item2
+8 8 0 0 0 0
+Head partially withered, stunned /n11d6 rounds, 1/2 move and -4 /n2penalty to attacks, minor /n3bleeding/n4
+Item1
+Item2
+9 9 0 0 0 0
+Face destroyed, victim blinded, /n1no move or attack, major bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Throat destroyed, stunned 1d6 rounds, /n1severe bleeding/n2
+Item1
+Item2
+11 11 0 0 0 0
+Skull destroyed, immediate death
+Item1
+Item2
+12 12 0 0 0 0
+Skull destroyed, immediate death, /n1with additional torso hit/n2
+Item1
+Item2
+13 20 47046 0 0 0

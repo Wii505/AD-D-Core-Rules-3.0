@@ -1,0 +1,48 @@
+Wounding Spell-Critical Strike Effect on Torso
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim grazed, -1 to attack rolls, /n1stunned 1 round/n2
+Item1
+Item2
+4 4 0 0 0 0
+Torso struck; 1/2 move, -2 to /n1attack rolls/n2
+Item1
+Item2
+5 5 0 0 0 0
+Torso injured, 1/2 move, -2 to /n1attack rolls/n2
+Item1
+Item2
+6 6 0 0 0 0
+Torso injured, victim stunned /n11d6 rounds, 1/2 move, -2 to /n2attacks, minor bleeding/n3
+Item1
+Item2
+7 7 0 0 0 0
+Torso injured, victim stunned /n11d6 rounds, 1/4 move, -4 to /n2attack rolls, minor bleeding/n3
+Item1
+Item2
+8 8 0 0 0 0
+Torso injured, no move or attack, /n1major bleeding/n2
+Item1
+Item2
+9 9 0 0 0 0
+Torso withered, no move or attack, /n1major bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Torso withered, victim reduced /n1to 0 hit points, dies in 1d3 /n2turns unless treated by cure /n3critical wounds or more powerful /n4magic/n5
+Item1
+Item2
+11 11 0 0 0 0
+Torso destroyed, victim killed instantly
+Item1
+Item2
+12 12 0 0 0 0
+Torso destroyed, victim killed /n1instantly, with additional /n2abdomen, arm or head hit (40% /n3abdomen, 20% left arm, 20% right /n4arm, 20% head)/n5
+Item1
+Item2
+13 20 46046 0 0 0

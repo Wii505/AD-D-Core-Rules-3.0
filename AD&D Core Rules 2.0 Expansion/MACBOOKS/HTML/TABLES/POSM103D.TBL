@@ -1,0 +1,48 @@
+Crushing Spell-Critical Strike Effect on Arms
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Hand struck, weapon/shield dropped
+Item1
+Item2
+4 4 0 0 0 0
+Arm struck, -2 to attacks with that/n1 arm/n2
+Item1
+Item2
+5 5 0 0 0 0
+Hand broken, -2 to all attacks, /n1weapon or shield dropped/n2
+Item1
+Item2
+6 6 0 0 0 0
+Armor destroyed, arm injured, -2 /n1to attacks with that arm; if /n2victim has no armor, arm broken, /n3stunned 1 round/n4
+Item1
+Item2
+7 7 0 0 0 0
+Shield destroyed, arm broken, /n1stunned 1d3 rounds/n2
+Item1
+Item2
+8 8 0 0 0 0
+Hand crushed, stunned 1d4 rounds, /n1minor bleeding/n2
+Item1
+Item2
+9 9 0 0 0 0
+Shoulder dislocated (broken), no /n1attacks, major bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Arm crushed to elbow, 1/4 move, /n1no attacks, major bleeding/n2
+Item1
+Item2
+11 11 0 0 0 0
+Arm crushed to shoulder, no move or /n1attacks, major bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Arm crushed to shoulder, no move /n1or attacks, major bleeding with /n2additional torso hit/n3
+Item1
+Item2
+13 20 47046 0 0 0

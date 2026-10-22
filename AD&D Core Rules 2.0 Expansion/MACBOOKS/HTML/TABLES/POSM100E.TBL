@@ -1,0 +1,48 @@
+Acid Spell-Critical Strike Effect on head
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Acid splash distracts victim /n1for 2d4 rounds, -2 penalty /n2to all attacks/n3
+Item1
+Item2
+4 4 0 0 0 0
+Head struck, helm damaged, /n1victim stunned 1d3 rounds; -2 /n2to all attack rolls if /n3victim has no helm/n4
+Item1
+Item2
+5 5 0 0 0 0
+Head struck, -2 to attacks, /n1stunned 1d4 rounds by pain/n2
+Item1
+Item2
+6 6 0 0 0 0
+Helm destroyed, face burned, /n1stunned 1d6 rounds, -2 to /n2attacks; if victim wears no /n3helm, -4 to all attacks and 1/2 /n4move/n5
+Item1
+Item2
+7 7 0 0 0 0
+Face burned, victim blinded, /n1stunned 2d8 rounds, charisma /n2reduced by 2d6 points, minor /n3bleeding/n4
+Item1
+Item2
+8 8 0 0 0 0
+Scalp and one ear dissolved, /n1victim stunned 2d8 rounds, /n2major bleeding, 1/2 move and /n3no attacks, charisma reduced /n4by 2d4 points/n5
+Item1
+Item2
+9 9 0 0 0 0
+Face dissolved, victim blinded, /n1no move or attack, major /n2bleeding, charisma/appearance /n3reduced to 3/n4
+Item1
+Item2
+10 10 0 0 0 0
+Throat dissolved, no move or /n1attack, severe bleeding; if /n2bleeding doesn't kill the /n3victim, he asphyxiates in 1d4+1 /n4rounds/n5
+Item1
+Item2
+11 11 0 0 0 0
+Skull dissolved, immediate death/n1
+Item1
+Item2
+12 12 0 0 0 0
+Skull dissolved, immediate death /n1with additional torso hit/n2
+Item1
+Item2
+13 20 47046 0 0 0

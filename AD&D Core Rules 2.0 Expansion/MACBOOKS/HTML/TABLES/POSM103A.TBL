@@ -1,0 +1,48 @@
+Crushing Spell-Critical Strike Effect on Legs
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim knocked down
+Item1
+Item2
+4 4 0 0 0 0
+Leg struck, knockdown, 1/2 move
+Item1
+Item2
+5 5 0 0 0 0
+Foot broken, 1/2 move
+Item1
+Item2
+6 6 0 0 0 0
+Armor damaged, leg struck, 1/2 move; /n1if target has no armor to cover /n2legs, leg injured, 1/4 move, -2 /n3to all attacks/n4
+Item1
+Item2
+7 7 0 0 0 0
+Hip broken, minor bleeding, no move, /n1-4 to attacks/n2
+Item1
+Item2
+8 8 0 0 0 0
+Armor destroyed, leg injured, 1/2 /n1move; leg broken if target has no /n2armor to cover legs, no move, -4 /n3to attacks/n4
+Item1
+Item2
+9 9 0 0 0 0
+Knee crushed, no move, -4 to /n1attacks, minor bleeding/n2
+Item1
+Item2
+10 10 0 0 0 0
+Hip shattered, minor bleeding, no /n1move or attack/n2
+Item1
+Item2
+11 11 0 0 0 0
+Leg crushed, no move or attack, /n1major bleeding from compound/n2 fractures
+Item1
+Item2
+12 12 0 0 0 0
+Leg crushed, no move or attack, /n1major bleeding from compound /n2fractures with additional abdomen/n3 hit
+Item1
+Item2
+13 20 44046 0 0 0

@@ -1,0 +1,48 @@
+Vibration Spell-Critical Strike Effect on Head
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Victim stunned 1 round
+Item1
+Item2
+4 4 0 0 0 0
+Head struck, helm destroyed, victim /n1stunned 1d4 rounds, -2 to all /n2attack rolls/n3
+Item1
+Item2
+5 5 0 0 0 0
+Head struck, -2 to attacks, stunned /n12d4 rounds, victim deafened/n2
+Item1
+Item2
+6 6 0 0 0 0
+Helm destroyed, face injured, /n1stunned 2d4 rounds, -4 penalty /n2to all attacks, 1/2 move, victim /n3deafened/n4
+Item1
+Item2
+7 7 0 0 0 0
+Face injured, victim blinded and /n1deafened, stunned 2d4 rounds/n2
+Item1
+Item2
+8 8 0 0 0 0
+Skull broken, stunned 2d4 rounds, /n11/2 move and -4 penalty to /n2attacks; roll saving throw vs. /n3death magic or lose 1d3 points /n4of intelligence/n5
+Item1
+Item2
+9 9 0 0 0 0
+Jaw/face broken, no move or attack, /n1unconscious 4d6 days, major /n2bleeding, victim deafened/n3
+Item1
+Item2
+10 10 0 0 0 0
+Throat destroyed, stunned 2d4 rounds, /n1severe bleeding/n2
+Item1
+Item2
+11 11 0 0 0 0
+Skull disintegrated, immediate /n1death/n2
+Item1
+Item2
+12 12 0 0 0 0
+Skull disintegrated, immediate /n1death, with additional torso hit/n2
+Item1
+Item2
+13 20 47046 0 0 0

@@ -1,0 +1,35 @@
+Cold Spell-Critical Strike Effect on Tail
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 5 0 0 0 0
+Tip of tail frostbitten; if /n1prehensile, any items carried /n2are dropped, -2 to all tail /n3attacks/n4
+Item1
+Item2
+6 6 0 0 0 0
+Tail frostbitten, lose any tail /n1attacks; victim chilled 1d6 /n2hours, suffers a -2 penalty to /n3attacks while chilled/n4
+Item1
+Item2
+7 8 0 0 0 0
+Tail badly frostbitten, lose any /n1tail attacks, 1/4 move if animal /n2uses tail for movement/n3  
+Item1
+Item2
+9 10 0 0 0 0
+Tail frozen at mid-length, victim /n1stunned 1d6 rounds, lose any /n2tail attacks, no movement or /n3attacks if creature uses tail /n4for movement/n5
+Item1
+Item2
+11 11 0 0 0 0
+Tail frozen, victim stunned 1d6 /n1rounds, pain reduces creature /n2to 1/4 move and -2 penalty on /n3any attack rolls; no move or /n4attack if creature uses tail for /n5movement/n6
+Item1
+Item2
+12 12 0 0 0 0
+Tail frozen, victim stunned /n11d6 rounds, pain reduces creature /n2to 1/4 move and -2 penalty on /n3any attack rolls; no move or /n4attack if creature uses tail /n5for movement with abdomen or /n6torso hit (50% chance of /n7either)/n8
+Item1
+Item2
+13 20 48046 0 0 0
+
+
+
