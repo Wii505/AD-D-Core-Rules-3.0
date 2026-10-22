@@ -1,0 +1,4323 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tome of Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="tom00000.htm">
+    </OBJECT>
+    <A HREF="file:tom00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forward">
+    <param name="Local" value="tom00001.htm">
+    </OBJECT>
+    <A HREF="file:tom00001.htm">Forward</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="tom00002.htm">
+    </OBJECT>
+    <A HREF="file:tom00002.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: How to Use Tome of Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How to use Tome of Magic">
+    <param name="Local" value="tom00003.htm">
+    </OBJECT>
+    <A HREF="file:tom00003.htm">How to use Tome of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How to Use This Book">
+    <param name="Local" value="tom00004.htm">
+    </OBJECT>
+    <A HREF="file:tom00004.htm">How to Use This Book</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Who Is It For?">
+    <param name="Local" value="tom00005.htm">
+    </OBJECT>
+    <A HREF="file:tom00005.htm">Who Is It For?</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizards">
+    <param name="Local" value="tom00006.htm">
+    </OBJECT>
+    <A HREF="file:tom00006.htm">Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest">
+    <param name="Local" value="tom00007.htm">
+    </OBJECT>
+    <A HREF="file:tom00007.htm">Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Items">
+    <param name="Local" value="tom00008.htm">
+    </OBJECT>
+    <A HREF="file:tom00008.htm">Magical Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Patience, Patience, Patience">
+    <param name="Local" value="tom00009.htm">
+    </OBJECT>
+    <A HREF="file:tom00009.htm">Patience, Patience, Patience</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Rules for Wizards">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Rules for Wizards">
+    <param name="Local" value="tom00010.htm">
+    </OBJECT>
+    <A HREF="file:tom00010.htm">New Rules for Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wild Magic">
+    <param name="Local" value="tom00011.htm">
+    </OBJECT>
+    <A HREF="file:tom00011.htm">Wild Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wild Mages">
+    <param name="Local" value="tom00012.htm">
+    </OBJECT>
+    <A HREF="file:tom00012.htm">Wild Mages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Level Variations">
+    <param name="Local" value="tom00014.htm">
+    </OBJECT>
+    <A HREF="file:tom00014.htm">Level Variations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Wizards">
+    <param name="Local" value="tom00016.htm">
+    </OBJECT>
+    <A HREF="file:tom00016.htm">Elemental Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Metamagic">
+    <param name="Local" value="tom00017.htm">
+    </OBJECT>
+    <A HREF="file:tom00017.htm">Metamagic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 1: Level Variation">
+    <param name="Local" value="tom00013.htm">
+    </OBJECT>
+    <A HREF="file:tom00013.htm">Table 1: Level Variation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 2: Wild Surge Results">
+    <param name="Local" value="tom00015.htm">
+    </OBJECT>
+    <A HREF="file:tom00015.htm">Table 2: Wild Surge Results</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Rules for Priests">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Rules for Priests">
+    <param name="Local" value="tom00018.htm">
+    </OBJECT>
+    <A HREF="file:tom00018.htm">New Rules for Priests</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quest Spells">
+    <param name="Local" value="tom00019.htm">
+    </OBJECT>
+    <A HREF="file:tom00019.htm">Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Why Quest Spells">
+    <param name="Local" value="tom00020.htm">
+    </OBJECT>
+    <A HREF="file:tom00020.htm">Why Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conditions for Quest Spells">
+    <param name="Local" value="tom00021.htm">
+    </OBJECT>
+    <A HREF="file:tom00021.htm">Conditions for Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Situations Unworthy of Quest Spells">
+    <param name="Local" value="tom00022.htm">
+    </OBJECT>
+    <A HREF="file:tom00022.htm">Situations Unworthy of Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Which Priests Recieve Quest Spells">
+    <param name="Local" value="tom00023.htm">
+    </OBJECT>
+    <A HREF="file:tom00023.htm">Which Priests Recieve Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How Is the Quest Spell Granted">
+    <param name="Local" value="tom00024.htm">
+    </OBJECT>
+    <A HREF="file:tom00024.htm">How Is the Quest Spell Granted</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introducing the Quest Spell">
+    <param name="Local" value="tom00025.htm">
+    </OBJECT>
+    <A HREF="file:tom00025.htm">Introducing the Quest Spell</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Cost of Quest Spells">
+    <param name="Local" value="tom00026.htm">
+    </OBJECT>
+    <A HREF="file:tom00026.htm">The Cost of Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adjudicating Quest Spells">
+    <param name="Local" value="tom00027.htm">
+    </OBJECT>
+    <A HREF="file:tom00027.htm">Adjudicating Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Faith Magic">
+    <param name="Local" value="tom00028.htm">
+    </OBJECT>
+    <A HREF="file:tom00028.htm">Faith Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Devotional Power">
+    <param name="Local" value="tom00029.htm">
+    </OBJECT>
+    <A HREF="file:tom00029.htm">Devotional Power</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cooperative Magic">
+    <param name="Local" value="tom00030.htm">
+    </OBJECT>
+    <A HREF="file:tom00030.htm">Cooperative Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Spheres">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Spheres">
+    <param name="Local" value="tom00031.htm">
+    </OBJECT>
+    <A HREF="file:tom00031.htm">New Spheres</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaos">
+    <param name="Local" value="tom00032.htm">
+    </OBJECT>
+    <A HREF="file:tom00032.htm">Chaos</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Law">
+    <param name="Local" value="tom00033.htm">
+    </OBJECT>
+    <A HREF="file:tom00033.htm">Law</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Numbers">
+    <param name="Local" value="tom00034.htm">
+    </OBJECT>
+    <A HREF="file:tom00034.htm">Numbers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought">
+    <param name="Local" value="tom00035.htm">
+    </OBJECT>
+    <A HREF="file:tom00035.htm">Thought</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Time">
+    <param name="Local" value="tom00036.htm">
+    </OBJECT>
+    <A HREF="file:tom00036.htm">Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Travelers">
+    <param name="Local" value="tom00037.htm">
+    </OBJECT>
+    <A HREF="file:tom00037.htm">Travelers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War">
+    <param name="Local" value="tom00038.htm">
+    </OBJECT>
+    <A HREF="file:tom00038.htm">War</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wards">
+    <param name="Local" value="tom00039.htm">
+    </OBJECT>
+    <A HREF="file:tom00039.htm">Wards</A>
+</UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Wizard Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="First-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conjure Spell Component">
+    <param name="Local" value="tom00041.htm">
+    </OBJECT>
+    <A HREF="file:tom00041.htm">Conjure Spell Component</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fire Burst">
+    <param name="Local" value="tom00042.htm">
+    </OBJECT>
+    <A HREF="file:tom00042.htm">Fire Burst</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fist of Stone">
+    <param name="Local" value="tom00043.htm">
+    </OBJECT>
+    <A HREF="file:tom00043.htm">Fist of Stone</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hornung's Guess">
+    <param name="Local" value="tom00044.htm">
+    </OBJECT>
+    <A HREF="file:tom00044.htm">Hornung's Guess</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lasting Breath">
+    <param name="Local" value="tom00045.htm">
+    </OBJECT>
+    <A HREF="file:tom00045.htm">Lasting Breath</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Metamorphose Liquids">
+    <param name="Local" value="tom00046.htm">
+    </OBJECT>
+    <A HREF="file:tom00046.htm">Metamorphose Liquids</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Murdock's Feathery Flyer">
+    <param name="Local" value="tom00047.htm">
+    </OBJECT>
+    <A HREF="file:tom00047.htm">Murdock's Feathery Flyer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nahal's Reckless Dweomer">
+    <param name="Local" value="tom00048.htm">
+    </OBJECT>
+    <A HREF="file:tom00048.htm">Nahal's Reckless Dweomer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Patternweave">
+    <param name="Local" value="tom00049.htm">
+    </OBJECT>
+    <A HREF="file:tom00049.htm">Patternweave</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Second-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaos Shield">
+    <param name="Local" value="tom00050.htm">
+    </OBJECT>
+    <A HREF="file:tom00050.htm">Chaos Shield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hornung's Baneful Deflector*">
+    <param name="Local" value="tom00051.htm">
+    </OBJECT>
+    <A HREF="file:tom00051.htm">Hornung's Baneful Deflector*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Insatiable Thirst">
+    <param name="Local" value="tom00052.htm">
+    </OBJECT>
+    <A HREF="file:tom00052.htm">Insatiable Thirst</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Maximilian's Earthen Grasp">
+    <param name="Local" value="tom00053.htm">
+    </OBJECT>
+    <A HREF="file:tom00053.htm">Maximilian's Earthen Grasp</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nahal's Nonsensical Nullifier*">
+    <param name="Local" value="tom00054.htm">
+    </OBJECT>
+    <A HREF="file:tom00054.htm">Nahal's Nonsensical Nullifier*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Past Life">
+    <param name="Local" value="tom00055.htm">
+    </OBJECT>
+    <A HREF="file:tom00055.htm">Past Life</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Protection From Paralysis">
+    <param name="Local" value="tom00056.htm">
+    </OBJECT>
+    <A HREF="file:tom00056.htm">Protection From Paralysis</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ride the Wind">
+    <param name="Local" value="tom00057.htm">
+    </OBJECT>
+    <A HREF="file:tom00057.htm">Ride the Wind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sense Shifting">
+    <param name="Local" value="tom00058.htm">
+    </OBJECT>
+    <A HREF="file:tom00058.htm">Sense Shifting</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Third-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alacrity">
+    <param name="Local" value="tom00059.htm">
+    </OBJECT>
+    <A HREF="file:tom00059.htm">Alacrity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alamir's Fundemental Breakdown">
+    <param name="Local" value="tom00060.htm">
+    </OBJECT>
+    <A HREF="file:tom00060.htm">Alamir's Fundemental Breakdown</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alternate Reality*">
+    <param name="Local" value="tom00061.htm">
+    </OBJECT>
+    <A HREF="file:tom00061.htm">Alternate Reality*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Augmentation I">
+    <param name="Local" value="tom00062.htm">
+    </OBJECT>
+    <A HREF="file:tom00062.htm">Augmentation I</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Far Reaching I">
+    <param name="Local" value="tom00063.htm">
+    </OBJECT>
+    <A HREF="file:tom00063.htm">Far Reaching I</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fireflow*">
+    <param name="Local" value="tom00064.htm">
+    </OBJECT>
+    <A HREF="file:tom00064.htm">Fireflow*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fool's Speech*">
+    <param name="Local" value="tom00065.htm">
+    </OBJECT>
+    <A HREF="file:tom00065.htm">Fool's Speech*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lorloveim's Creeping Shadow">
+    <param name="Local" value="tom00066.htm">
+    </OBJECT>
+    <A HREF="file:tom00066.htm">Lorloveim's Creeping Shadow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Maximilian's Stoney Grasp">
+    <param name="Local" value="tom00067.htm">
+    </OBJECT>
+    <A HREF="file:tom00067.htm">Maximilian's Stoney Grasp</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Minor Malison">
+    <param name="Local" value="tom00068.htm">
+    </OBJECT>
+    <A HREF="file:tom00068.htm">Minor Malison</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spirit Armor">
+    <param name="Local" value="tom00069.htm">
+    </OBJECT>
+    <A HREF="file:tom00069.htm">Spirit Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Squaring the Circle">
+    <param name="Local" value="tom00070.htm">
+    </OBJECT>
+    <A HREF="file:tom00070.htm">Squaring the Circle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Watery Double">
+    <param name="Local" value="tom00071.htm">
+    </OBJECT>
+    <A HREF="file:tom00071.htm">Watery Double</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Sight">
+    <param name="Local" value="tom00072.htm">
+    </OBJECT>
+    <A HREF="file:tom00072.htm">Wizard Sight</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fourth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dilation I">
+    <param name="Local" value="tom00073.htm">
+    </OBJECT>
+    <A HREF="file:tom00073.htm">Dilation I</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divination Enhancement">
+    <param name="Local" value="tom00074.htm">
+    </OBJECT>
+    <A HREF="file:tom00074.htm">Divination Enhancement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Far Reaching II">
+    <param name="Local" value="tom00075.htm">
+    </OBJECT>
+    <A HREF="file:tom00075.htm">Far Reaching II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Greater Malison">
+    <param name="Local" value="tom00076.htm">
+    </OBJECT>
+    <A HREF="file:tom00076.htm">Greater Malison</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Locate Creature">
+    <param name="Local" value="tom00077.htm">
+    </OBJECT>
+    <A HREF="file:tom00077.htm">Locate Creature</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mask of Death">
+    <param name="Local" value="tom00078.htm">
+    </OBJECT>
+    <A HREF="file:tom00078.htm">Mask of Death</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Minor Spell Turning">
+    <param name="Local" value="tom00079.htm">
+    </OBJECT>
+    <A HREF="file:tom00079.htm">Minor Spell Turning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mordinkainen's Celerity">
+    <param name="Local" value="tom00080.htm">
+    </OBJECT>
+    <A HREF="file:tom00080.htm">Mordinkainen's Celerity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Summon Lycantthrope">
+    <param name="Local" value="tom00081.htm">
+    </OBJECT>
+    <A HREF="file:tom00081.htm">Summon Lycantthrope</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="There/Not There*">
+    <param name="Local" value="tom00082.htm">
+    </OBJECT>
+    <A HREF="file:tom00082.htm">There/Not There*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thunder Staff">
+    <param name="Local" value="tom00083.htm">
+    </OBJECT>
+    <A HREF="file:tom00083.htm">Thunder Staff</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Turn Pebble to Boulder">
+    <param name="Local" value="tom00084.htm">
+    </OBJECT>
+    <A HREF="file:tom00084.htm">Turn Pebble to Boulder</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unluck*">
+    <param name="Local" value="tom00085.htm">
+    </OBJECT>
+    <A HREF="file:tom00085.htm">Unluck*</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fifth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Far Reaching III">
+    <param name="Local" value="tom00087.htm">
+    </OBJECT>
+    <A HREF="file:tom00087.htm">Far Reaching III</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Khazid's Procurement">
+    <param name="Local" value="tom00088.htm">
+    </OBJECT>
+    <A HREF="file:tom00088.htm">Khazid's Procurement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lower Resistance">
+    <param name="Local" value="tom00089.htm">
+    </OBJECT>
+    <A HREF="file:tom00089.htm">Lower Resistance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic Staff">
+    <param name="Local" value="tom00090.htm">
+    </OBJECT>
+    <A HREF="file:tom00090.htm">Magic Staff</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mind Fog">
+    <param name="Local" value="tom00091.htm">
+    </OBJECT>
+    <A HREF="file:tom00091.htm">Mind Fog</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Safeguarding">
+    <param name="Local" value="tom00092.htm">
+    </OBJECT>
+    <A HREF="file:tom00092.htm">Safeguarding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Von Gasik's Refusal">
+    <param name="Local" value="tom00093.htm">
+    </OBJECT>
+    <A HREF="file:tom00093.htm">Von Gasik's Refusal</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vortex*">
+    <param name="Local" value="tom00094.htm">
+    </OBJECT>
+    <A HREF="file:tom00094.htm">Vortex*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Waveform*">
+    <param name="Local" value="tom00095.htm">
+    </OBJECT>
+    <A HREF="file:tom00095.htm">Waveform*</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sixth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Augmentation II">
+    <param name="Local" value="tom00096.htm">
+    </OBJECT>
+    <A HREF="file:tom00096.htm">Augmentation II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bloddstone's Spectral Steed">
+    <param name="Local" value="tom00097.htm">
+    </OBJECT>
+    <A HREF="file:tom00097.htm">Bloddstone's Spectral Steed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Claws of the Umber Hulk">
+    <param name="Local" value="tom00098.htm">
+    </OBJECT>
+    <A HREF="file:tom00098.htm">Claws of the Umber Hulk</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dilation II">
+    <param name="Local" value="tom00099.htm">
+    </OBJECT>
+    <A HREF="file:tom00099.htm">Dilation II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forest's Fiery Constrictor">
+    <param name="Local" value="tom00100.htm">
+    </OBJECT>
+    <A HREF="file:tom00100.htm">Forest's Fiery Constrictor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lorloveim's Shadowy Transformation">
+    <param name="Local" value="tom00101.htm">
+    </OBJECT>
+    <A HREF="file:tom00101.htm">Lorloveim's Shadowy Transformation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildshield*">
+    <param name="Local" value="tom00102.htm">
+    </OBJECT>
+    <A HREF="file:tom00102.htm">Wildshield*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildstrike*">
+    <param name="Local" value="tom00103.htm">
+    </OBJECT>
+    <A HREF="file:tom00103.htm">Wildstrike*</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seventh-Level">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Acid Storm">
+    <param name="Local" value="tom00104.htm">
+    </OBJECT>
+    <A HREF="file:tom00104.htm">Acid Storm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bloodstone's Frightful Joining">
+    <param name="Local" value="tom00105.htm">
+    </OBJECT>
+    <A HREF="file:tom00105.htm">Bloodstone's Frightful Joining</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hatch the Stone from the Egg">
+    <param name="Local" value="tom00106.htm">
+    </OBJECT>
+    <A HREF="file:tom00106.htm">Hatch the Stone from the Egg</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hornung's Surge Selector*">
+    <param name="Local" value="tom00107.htm">
+    </OBJECT>
+    <A HREF="file:tom00107.htm">Hornung's Surge Selector*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Intensify Summoning">
+    <param name="Local" value="tom00108.htm">
+    </OBJECT>
+    <A HREF="file:tom00108.htm">Intensify Summoning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Malec-Keth's Flame Fist">
+    <param name="Local" value="tom00109.htm">
+    </OBJECT>
+    <A HREF="file:tom00109.htm">Malec-Keth's Flame Fist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shadowcat">
+    <param name="Local" value="tom00110.htm">
+    </OBJECT>
+    <A HREF="file:tom00110.htm">Shadowcat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Shape*">
+    <param name="Local" value="tom00111.htm">
+    </OBJECT>
+    <A HREF="file:tom00111.htm">Spell Shape*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Steal Enchantment">
+    <param name="Local" value="tom00112.htm">
+    </OBJECT>
+    <A HREF="file:tom00112.htm">Steal Enchantment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Suffocate">
+    <param name="Local" value="tom00113.htm">
+    </OBJECT>
+    <A HREF="file:tom00113.htm">Suffocate</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Eighth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abi-Dalzim's Horrid Wilting">
+    <param name="Local" value="tom00114.htm">
+    </OBJECT>
+    <A HREF="file:tom00114.htm">Abi-Dalzim's Horrid Wilting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Air Boat">
+    <param name="Local" value="tom00115.htm">
+    </OBJECT>
+    <A HREF="file:tom00115.htm">Air Boat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gunther's Kaleidoscopic Strike">
+    <param name="Local" value="tom00116.htm">
+    </OBJECT>
+    <A HREF="file:tom00116.htm">Gunther's Kaleidoscopic Strike</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Homunculus Shield">
+    <param name="Local" value="tom00117.htm">
+    </OBJECT>
+    <A HREF="file:tom00117.htm">Homunculus Shield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hornung's Random Dispatcher*">
+    <param name="Local" value="tom00118.htm">
+    </OBJECT>
+    <A HREF="file:tom00118.htm">Hornung's Random Dispatcher*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildzone*">
+    <param name="Local" value="tom00119.htm">
+    </OBJECT>
+    <A HREF="file:tom00119.htm">Wildzone*</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ninth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chain Contingency">
+    <param name="Local" value="tom00120.htm">
+    </OBJECT>
+    <A HREF="file:tom00120.htm">Chain Contingency</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Aura">
+    <param name="Local" value="tom00121.htm">
+    </OBJECT>
+    <A HREF="file:tom00121.htm">Elemental Aura</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Estate Transference">
+    <param name="Local" value="tom00122.htm">
+    </OBJECT>
+    <A HREF="file:tom00122.htm">Estate Transference</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Glorious Tranmutation">
+    <param name="Local" value="tom00123.htm">
+    </OBJECT>
+    <A HREF="file:tom00123.htm">Glorious Tranmutation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wail of the Banshee">
+    <param name="Local" value="tom00124.htm">
+    </OBJECT>
+    <A HREF="file:tom00124.htm">Wail of the Banshee</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildfire*">
+    <param name="Local" value="tom00126.htm">
+    </OBJECT>
+    <A HREF="file:tom00126.htm">Wildfire*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildwind*">
+    <param name="Local" value="tom00127.htm">
+    </OBJECT>
+    <A HREF="file:tom00127.htm">Wildwind*</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Priest Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="First-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Analyze Balance">
+    <param name="Local" value="tom00129.htm">
+    </OBJECT>
+    <A HREF="file:tom00129.htm">Analyze Balance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Anti-Vermin Barrier">
+    <param name="Local" value="tom00130.htm">
+    </OBJECT>
+    <A HREF="file:tom00130.htm">Anti-Vermin Barrier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Call Upon Faith">
+    <param name="Local" value="tom00131.htm">
+    </OBJECT>
+    <A HREF="file:tom00131.htm">Call Upon Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Courage">
+    <param name="Local" value="tom00132.htm">
+    </OBJECT>
+    <A HREF="file:tom00132.htm">Courage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Emotion Read">
+    <param name="Local" value="tom00133.htm">
+    </OBJECT>
+    <A HREF="file:tom00133.htm">Emotion Read</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Know Age">
+    <param name="Local" value="tom00134.htm">
+    </OBJECT>
+    <A HREF="file:tom00134.htm">Know Age</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Know Direction">
+    <param name="Local" value="tom00135.htm">
+    </OBJECT>
+    <A HREF="file:tom00135.htm">Know Direction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Know Time">
+    <param name="Local" value="tom00136.htm">
+    </OBJECT>
+    <A HREF="file:tom00136.htm">Know Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Log of Everburning">
+    <param name="Local" value="tom00137.htm">
+    </OBJECT>
+    <A HREF="file:tom00137.htm">Log of Everburning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mistake Missive">
+    <param name="Local" value="tom00138.htm">
+    </OBJECT>
+    <A HREF="file:tom00138.htm">Mistake Missive</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Morale">
+    <param name="Local" value="tom00139.htm">
+    </OBJECT>
+    <A HREF="file:tom00139.htm">Morale</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Personal Reading">
+    <param name="Local" value="tom00140.htm">
+    </OBJECT>
+    <A HREF="file:tom00140.htm">Personal Reading</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of Hands">
+    <param name="Local" value="tom00141.htm">
+    </OBJECT>
+    <A HREF="file:tom00141.htm">Ring of Hands</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sacred Guardian">
+    <param name="Local" value="tom00142.htm">
+    </OBJECT>
+    <A HREF="file:tom00142.htm">Sacred Guardian</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Speak With Astral Traveler">
+    <param name="Local" value="tom00143.htm">
+    </OBJECT>
+    <A HREF="file:tom00143.htm">Speak With Astral Traveler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought Capture">
+    <param name="Local" value="tom00144.htm">
+    </OBJECT>
+    <A HREF="file:tom00144.htm">Thought Capture</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weighty Chest">
+    <param name="Local" value="tom00145.htm">
+    </OBJECT>
+    <A HREF="file:tom00145.htm">Weighty Chest</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Second-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aura of Comfort">
+    <param name="Local" value="tom00146.htm">
+    </OBJECT>
+    <A HREF="file:tom00146.htm">Aura of Comfort</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Calm Chaos">
+    <param name="Local" value="tom00147.htm">
+    </OBJECT>
+    <A HREF="file:tom00147.htm">Calm Chaos</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Create Holy Symbol">
+    <param name="Local" value="tom00148.htm">
+    </OBJECT>
+    <A HREF="file:tom00148.htm">Create Holy Symbol</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dissension's Feast">
+    <param name="Local" value="tom00149.htm">
+    </OBJECT>
+    <A HREF="file:tom00149.htm">Dissension's Feast</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Draw Upon Holy Might">
+    <param name="Local" value="tom00150.htm">
+    </OBJECT>
+    <A HREF="file:tom00150.htm">Draw Upon Holy Might</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Emotion Perception">
+    <param name="Local" value="tom00151.htm">
+    </OBJECT>
+    <A HREF="file:tom00151.htm">Emotion Perception</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Frisky Chest">
+    <param name="Local" value="tom00152.htm">
+    </OBJECT>
+    <A HREF="file:tom00152.htm">Frisky Chest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hesitation">
+    <param name="Local" value="tom00153.htm">
+    </OBJECT>
+    <A HREF="file:tom00153.htm">Hesitation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Idea">
+    <param name="Local" value="tom00154.htm">
+    </OBJECT>
+    <A HREF="file:tom00154.htm">Idea</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lighten Load">
+    <param name="Local" value="tom00155.htm">
+    </OBJECT>
+    <A HREF="file:tom00155.htm">Lighten Load</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mind Read">
+    <param name="Local" value="tom00156.htm">
+    </OBJECT>
+    <A HREF="file:tom00156.htm">Mind Read</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Moment">
+    <param name="Local" value="tom00157.htm">
+    </OBJECT>
+    <A HREF="file:tom00157.htm">Moment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Music of the Spheres">
+    <param name="Local" value="tom00158.htm">
+    </OBJECT>
+    <A HREF="file:tom00158.htm">Music of the Spheres</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mystic Transfer">
+    <param name="Local" value="tom00159.htm">
+    </OBJECT>
+    <A HREF="file:tom00159.htm">Mystic Transfer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nap">
+    <param name="Local" value="tom00160.htm">
+    </OBJECT>
+    <A HREF="file:tom00160.htm">Nap</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rally">
+    <param name="Local" value="tom00161.htm">
+    </OBJECT>
+    <A HREF="file:tom00161.htm">Rally</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sanctify">
+    <param name="Local" value="tom00162.htm">
+    </OBJECT>
+    <A HREF="file:tom00162.htm">Sanctify</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Zone of Truth">
+    <param name="Local" value="tom00163.htm">
+    </OBJECT>
+    <A HREF="file:tom00163.htm">Zone of Truth</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Third-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Acclerate Healing">
+    <param name="Local" value="tom00164.htm">
+    </OBJECT>
+    <A HREF="file:tom00164.htm">Acclerate Healing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adaptation">
+    <param name="Local" value="tom00165.htm">
+    </OBJECT>
+    <A HREF="file:tom00165.htm">Adaptation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Astral Window">
+    <param name="Local" value="tom00166.htm">
+    </OBJECT>
+    <A HREF="file:tom00166.htm">Astral Window</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Caltrops">
+    <param name="Local" value="tom00167.htm">
+    </OBJECT>
+    <A HREF="file:tom00167.htm">Caltrops</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Choose Future">
+    <param name="Local" value="tom00168.htm">
+    </OBJECT>
+    <A HREF="file:tom00168.htm">Choose Future</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Create Campsite">
+    <param name="Local" value="tom00169.htm">
+    </OBJECT>
+    <A HREF="file:tom00169.htm">Create Campsite</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Efficacious Monster Ward">
+    <param name="Local" value="tom00170.htm">
+    </OBJECT>
+    <A HREF="file:tom00170.htm">Efficacious Monster Ward</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Emotion Control">
+    <param name="Local" value="tom00171.htm">
+    </OBJECT>
+    <A HREF="file:tom00171.htm">Emotion Control</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Extradimensional Detection">
+    <param name="Local" value="tom00172.htm">
+    </OBJECT>
+    <A HREF="file:tom00172.htm">Extradimensional Detection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Helping Hand">
+    <param name="Local" value="tom00173.htm">
+    </OBJECT>
+    <A HREF="file:tom00173.htm">Helping Hand</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Invisibility Purge">
+    <param name="Local" value="tom00174.htm">
+    </OBJECT>
+    <A HREF="file:tom00174.htm">Invisibility Purge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Know Customs">
+    <param name="Local" value="tom00175.htm">
+    </OBJECT>
+    <A HREF="file:tom00175.htm">Know Customs</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Line of Protection">
+    <param name="Local" value="tom00176.htm">
+    </OBJECT>
+    <A HREF="file:tom00176.htm">Line of Protection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Memory Read">
+    <param name="Local" value="tom00177.htm">
+    </OBJECT>
+    <A HREF="file:tom00177.htm">Memory Read</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Miscast Magic">
+    <param name="Local" value="tom00178.htm">
+    </OBJECT>
+    <A HREF="file:tom00178.htm">Miscast Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Moment Reading">
+    <param name="Local" value="tom00179.htm">
+    </OBJECT>
+    <A HREF="file:tom00179.htm">Moment Reading</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Random Causality">
+    <param name="Local" value="tom00180.htm">
+    </OBJECT>
+    <A HREF="file:tom00180.htm">Random Causality</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rigid Thinking">
+    <param name="Local" value="tom00181.htm">
+    </OBJECT>
+    <A HREF="file:tom00181.htm">Rigid Thinking</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Slow Rot">
+    <param name="Local" value="tom00182.htm">
+    </OBJECT>
+    <A HREF="file:tom00182.htm">Slow Rot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Squeaking Floors">
+    <param name="Local" value="tom00183.htm">
+    </OBJECT>
+    <A HREF="file:tom00183.htm">Squeaking Floors</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strength of One">
+    <param name="Local" value="tom00184.htm">
+    </OBJECT>
+    <A HREF="file:tom00184.htm">Strength of One</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Telepathy">
+    <param name="Local" value="tom00185.htm">
+    </OBJECT>
+    <A HREF="file:tom00185.htm">Telepathy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Telethaumaturgy">
+    <param name="Local" value="tom00186.htm">
+    </OBJECT>
+    <A HREF="file:tom00186.htm">Telethaumaturgy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thief's Lament">
+    <param name="Local" value="tom00187.htm">
+    </OBJECT>
+    <A HREF="file:tom00187.htm">Thief's Lament</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unearthly Choir">
+    <param name="Local" value="tom00188.htm">
+    </OBJECT>
+    <A HREF="file:tom00188.htm">Unearthly Choir</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Zone of Sweet Air">
+    <param name="Local" value="tom00189.htm">
+    </OBJECT>
+    <A HREF="file:tom00189.htm">Zone of Sweet Air</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fourth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Addition">
+    <param name="Local" value="tom00190.htm">
+    </OBJECT>
+    <A HREF="file:tom00190.htm">Addition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Age Plant">
+    <param name="Local" value="tom00191.htm">
+    </OBJECT>
+    <A HREF="file:tom00191.htm">Age Plant</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blessed Warmth">
+    <param name="Local" value="tom00192.htm">
+    </OBJECT>
+    <A HREF="file:tom00192.htm">Blessed Warmth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Body Clock">
+    <param name="Local" value="tom00193.htm">
+    </OBJECT>
+    <A HREF="file:tom00193.htm">Body Clock</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaotic Combat">
+    <param name="Local" value="tom00194.htm">
+    </OBJECT>
+    <A HREF="file:tom00194.htm">Chaotic Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaotic Sleep">
+    <param name="Local" value="tom00195.htm">
+    </OBJECT>
+    <A HREF="file:tom00195.htm">Chaotic Sleep</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Circle of Privacy">
+    <param name="Local" value="tom00196.htm">
+    </OBJECT>
+    <A HREF="file:tom00196.htm">Circle of Privacy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Compulsive Order">
+    <param name="Local" value="tom00197.htm">
+    </OBJECT>
+    <A HREF="file:tom00197.htm">Compulsive Order</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Defensive Harmony">
+    <param name="Local" value="tom00198.htm">
+    </OBJECT>
+    <A HREF="file:tom00198.htm">Defensive Harmony</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dimensional Folding">
+    <param name="Local" value="tom00199.htm">
+    </OBJECT>
+    <A HREF="file:tom00199.htm">Dimensional Folding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fire Purge">
+    <param name="Local" value="tom00200.htm">
+    </OBJECT>
+    <A HREF="file:tom00200.htm">Fire Purge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Focus">
+    <param name="Local" value="tom00201.htm">
+    </OBJECT>
+    <A HREF="file:tom00201.htm">Focus</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fortify">
+    <param name="Local" value="tom00202.htm">
+    </OBJECT>
+    <A HREF="file:tom00202.htm">Fortify</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Genius">
+    <param name="Local" value="tom00203.htm">
+    </OBJECT>
+    <A HREF="file:tom00203.htm">Genius</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inverted Ethics">
+    <param name="Local" value="tom00204.htm">
+    </OBJECT>
+    <A HREF="file:tom00204.htm">Inverted Ethics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Join With Astral Traveler">
+    <param name="Local" value="tom00205.htm">
+    </OBJECT>
+    <A HREF="file:tom00205.htm">Join With Astral Traveler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Leadership">
+    <param name="Local" value="tom00206.htm">
+    </OBJECT>
+    <A HREF="file:tom00206.htm">Leadership</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mental Domination">
+    <param name="Local" value="tom00207.htm">
+    </OBJECT>
+    <A HREF="file:tom00207.htm">Mental Domination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Modify Memory">
+    <param name="Local" value="tom00208.htm">
+    </OBJECT>
+    <A HREF="file:tom00208.htm">Modify Memory</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rapport">
+    <param name="Local" value="tom00210.htm">
+    </OBJECT>
+    <A HREF="file:tom00210.htm">Rapport</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Probability Control">
+    <param name="Local" value="tom00209.htm">
+    </OBJECT>
+    <A HREF="file:tom00209.htm">Probability Control</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Solipsism">
+    <param name="Local" value="tom00211.htm">
+    </OBJECT>
+    <A HREF="file:tom00211.htm">Solipsism</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tanglefoot">
+    <param name="Local" value="tom00212.htm">
+    </OBJECT>
+    <A HREF="file:tom00212.htm">Tanglefoot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought Broadcast">
+    <param name="Local" value="tom00213.htm">
+    </OBJECT>
+    <A HREF="file:tom00213.htm">Thought Broadcast</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tree Steed">
+    <param name="Local" value="tom00214.htm">
+    </OBJECT>
+    <A HREF="file:tom00214.htm">Tree Steed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Uplift">
+    <param name="Local" value="tom00215.htm">
+    </OBJECT>
+    <A HREF="file:tom00215.htm">Uplift</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weather Stasis">
+    <param name="Local" value="tom00216.htm">
+    </OBJECT>
+    <A HREF="file:tom00216.htm">Weather Stasis</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fifth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Age Object">
+    <param name="Local" value="tom00217.htm">
+    </OBJECT>
+    <A HREF="file:tom00217.htm">Age Object</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Barrier of Retention">
+    <param name="Local" value="tom00218.htm">
+    </OBJECT>
+    <A HREF="file:tom00218.htm">Barrier of Retention</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blessed Abundance">
+    <param name="Local" value="tom00219.htm">
+    </OBJECT>
+    <A HREF="file:tom00219.htm">Blessed Abundance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Champion's Strength">
+    <param name="Local" value="tom00220.htm">
+    </OBJECT>
+    <A HREF="file:tom00220.htm">Champion's Strength</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaotic Command">
+    <param name="Local" value="tom00221.htm">
+    </OBJECT>
+    <A HREF="file:tom00221.htm">Chaotic Command</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clear Path">
+    <param name="Local" value="tom00222.htm">
+    </OBJECT>
+    <A HREF="file:tom00222.htm">Clear Path</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cloud of Purification">
+    <param name="Local" value="tom00223.htm">
+    </OBJECT>
+    <A HREF="file:tom00223.htm">Cloud of Purification</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Consequence">
+    <param name="Local" value="tom00224.htm">
+    </OBJECT>
+    <A HREF="file:tom00224.htm">Consequence</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disguise">
+    <param name="Local" value="tom00225.htm">
+    </OBJECT>
+    <A HREF="file:tom00225.htm">Disguise</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Easy March">
+    <param name="Local" value="tom00226.htm">
+    </OBJECT>
+    <A HREF="file:tom00226.htm">Easy March</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Forbiddance">
+    <param name="Local" value="tom00227.htm">
+    </OBJECT>
+    <A HREF="file:tom00227.htm">Elemental Forbiddance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Extradimensional Manipulation">
+    <param name="Local" value="tom00228.htm">
+    </OBJECT>
+    <A HREF="file:tom00228.htm">Extradimensional Manipulation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Extradimensional Pocket">
+    <param name="Local" value="tom00229.htm">
+    </OBJECT>
+    <A HREF="file:tom00229.htm">Extradimensional Pocket</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grounding">
+    <param name="Local" value="tom00230.htm">
+    </OBJECT>
+    <A HREF="file:tom00230.htm">Grounding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Illusory Artillery">
+    <param name="Local" value="tom00231.htm">
+    </OBJECT>
+    <A HREF="file:tom00231.htm">Illusory Artillery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Impeding Permission">
+    <param name="Local" value="tom00232.htm">
+    </OBJECT>
+    <A HREF="file:tom00232.htm">Impeding Permission</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Meld">
+    <param name="Local" value="tom00233.htm">
+    </OBJECT>
+    <A HREF="file:tom00233.htm">Meld</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Memory Wrack">
+    <param name="Local" value="tom00234.htm">
+    </OBJECT>
+    <A HREF="file:tom00234.htm">Memory Wrack</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mindshatter">
+    <param name="Local" value="tom00235.htm">
+    </OBJECT>
+    <A HREF="file:tom00235.htm">Mindshatter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Repeat Action">
+    <param name="Local" value="tom00236.htm">
+    </OBJECT>
+    <A HREF="file:tom00236.htm">Repeat Action</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shrieking Walls">
+    <param name="Local" value="tom00237.htm">
+    </OBJECT>
+    <A HREF="file:tom00237.htm">Shrieking Walls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thoughtwave">
+    <param name="Local" value="tom00238.htm">
+    </OBJECT>
+    <A HREF="file:tom00238.htm">Thoughtwave</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Time Pool">
+    <param name="Local" value="tom00239.htm">
+    </OBJECT>
+    <A HREF="file:tom00239.htm">Time Pool</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unceasing Vigilance of the Holly Sentinel">
+    <param name="Local" value="tom00240.htm">
+    </OBJECT>
+    <A HREF="file:tom00240.htm">Unceasing Vigilance of the Holly Sentinel</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Undead Ward">
+    <param name="Local" value="tom00241.htm">
+    </OBJECT>
+    <A HREF="file:tom00241.htm">Undead Ward</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sixth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Age Creature">
+    <param name="Local" value="tom00242.htm">
+    </OBJECT>
+    <A HREF="file:tom00242.htm">Age Creature</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crushing Walls">
+    <param name="Local" value="tom00243.htm">
+    </OBJECT>
+    <A HREF="file:tom00243.htm">Crushing Walls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disbelief">
+    <param name="Local" value="tom00244.htm">
+    </OBJECT>
+    <A HREF="file:tom00244.htm">Disbelief</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dragonbane">
+    <param name="Local" value="tom00245.htm">
+    </OBJECT>
+    <A HREF="file:tom00245.htm">Dragonbane</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gravity Variation">
+    <param name="Local" value="tom00246.htm">
+    </OBJECT>
+    <A HREF="file:tom00246.htm">Gravity Variation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Great Circle">
+    <param name="Local" value="tom00247.htm">
+    </OBJECT>
+    <A HREF="file:tom00247.htm">The Great Circle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Group Mind">
+    <param name="Local" value="tom00248.htm">
+    </OBJECT>
+    <A HREF="file:tom00248.htm">Group Mind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Land of Stability">
+    <param name="Local" value="tom00249.htm">
+    </OBJECT>
+    <A HREF="file:tom00249.htm">Land of Stability</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Legal Thoughts">
+    <param name="Local" value="tom00250.htm">
+    </OBJECT>
+    <A HREF="file:tom00250.htm">Legal Thoughts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Monster Mount">
+    <param name="Local" value="tom00251.htm">
+    </OBJECT>
+    <A HREF="file:tom00251.htm">Monster Mount</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Physical Mirror">
+    <param name="Local" value="tom00252.htm">
+    </OBJECT>
+    <A HREF="file:tom00252.htm">Physical Mirror</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reverse Time">
+    <param name="Local" value="tom00253.htm">
+    </OBJECT>
+    <A HREF="file:tom00253.htm">Reverse Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seclusion">
+    <param name="Local" value="tom00254.htm">
+    </OBJECT>
+    <A HREF="file:tom00254.htm">Seclusion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Skip Day">
+    <param name="Local" value="tom00255.htm">
+    </OBJECT>
+    <A HREF="file:tom00255.htm">Skip Day</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sol's Searing Orb">
+    <param name="Local" value="tom00256.htm">
+    </OBJECT>
+    <A HREF="file:tom00256.htm">Sol's Searing Orb</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spiritual Wrath">
+    <param name="Local" value="tom00257.htm">
+    </OBJECT>
+    <A HREF="file:tom00257.htm">Spiritual Wrath</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seventh-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Age Dragon">
+    <param name="Local" value="tom00258.htm">
+    </OBJECT>
+    <A HREF="file:tom00258.htm">Age Dragon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Breath of Life">
+    <param name="Local" value="tom00259.htm">
+    </OBJECT>
+    <A HREF="file:tom00259.htm">Breath of Life</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divine Inspiration">
+    <param name="Local" value="tom00260.htm">
+    </OBJECT>
+    <A HREF="file:tom00260.htm">Divine Inspiration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hovering Road">
+    <param name="Local" value="tom00261.htm">
+    </OBJECT>
+    <A HREF="file:tom00261.htm">Hovering Road</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Illusory Fortification">
+    <param name="Local" value="tom00262.htm">
+    </OBJECT>
+    <A HREF="file:tom00262.htm">Illusory Fortification</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mind Tracker">
+    <param name="Local" value="tom00263.htm">
+    </OBJECT>
+    <A HREF="file:tom00263.htm">Mind Tracker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shadow Engines">
+    <param name="Local" value="tom00264.htm">
+    </OBJECT>
+    <A HREF="file:tom00264.htm">Shadow Engines</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spacewarp">
+    <param name="Local" value="tom00265.htm">
+    </OBJECT>
+    <A HREF="file:tom00265.htm">Spacewarp</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spirit of Power">
+    <param name="Local" value="tom00266.htm">
+    </OBJECT>
+    <A HREF="file:tom00266.htm">Spirit of Power</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tentacle Walls">
+    <param name="Local" value="tom00267.htm">
+    </OBJECT>
+    <A HREF="file:tom00267.htm">Tentacle Walls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Timelessness">
+    <param name="Local" value="tom00268.htm">
+    </OBJECT>
+    <A HREF="file:tom00268.htm">Timelessness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Uncontrolled Weather">
+    <param name="Local" value="tom00269.htm">
+    </OBJECT>
+    <A HREF="file:tom00269.htm">Uncontrolled Weather</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quest Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quest Spells">
+    <param name="Local" value="tom00270.htm">
+    </OBJECT>
+    <A HREF="file:tom00270.htm">Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abundance">
+    <param name="Local" value="tom00271.htm">
+    </OBJECT>
+    <A HREF="file:tom00271.htm">Abundance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Horde">
+    <param name="Local" value="tom00272.htm">
+    </OBJECT>
+    <A HREF="file:tom00272.htm">Animal Horde</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Circle of Sunmotes">
+    <param name="Local" value="tom00273.htm">
+    </OBJECT>
+    <A HREF="file:tom00273.htm">Circle of Sunmotes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conformance">
+    <param name="Local" value="tom00274.htm">
+    </OBJECT>
+    <A HREF="file:tom00274.htm">Conformance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Swarm">
+    <param name="Local" value="tom00275.htm">
+    </OBJECT>
+    <A HREF="file:tom00275.htm">Elemental Swarm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Etherwalk">
+    <param name="Local" value="tom00276.htm">
+    </OBJECT>
+    <A HREF="file:tom00276.htm">Etherwalk</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fear Contagion">
+    <param name="Local" value="tom00277.htm">
+    </OBJECT>
+    <A HREF="file:tom00277.htm">Fear Contagion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Health Blessing">
+    <param name="Local" value="tom00278.htm">
+    </OBJECT>
+    <A HREF="file:tom00278.htm">Health Blessing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Imago Interrogation">
+    <param name="Local" value="tom00280.htm">
+    </OBJECT>
+    <A HREF="file:tom00280.htm">Imago Interrogation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Highway">
+    <param name="Local" value="tom00279.htm">
+    </OBJECT>
+    <A HREF="file:tom00279.htm">Highway</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Implosion/Inversion">
+    <param name="Local" value="tom00281.htm">
+    </OBJECT>
+    <A HREF="file:tom00281.htm">Implosion/Inversion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Interdiction">
+    <param name="Local" value="tom00282.htm">
+    </OBJECT>
+    <A HREF="file:tom00282.htm">Interdiction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mindnet">
+    <param name="Local" value="tom00283.htm">
+    </OBJECT>
+    <A HREF="file:tom00283.htm">Mindnet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="PLanar Quest">
+    <param name="Local" value="tom00284.htm">
+    </OBJECT>
+    <A HREF="file:tom00284.htm">PLanar Quest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Preservation">
+    <param name="Local" value="tom00285.htm">
+    </OBJECT>
+    <A HREF="file:tom00285.htm">Preservation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Revelation">
+    <param name="Local" value="tom00286.htm">
+    </OBJECT>
+    <A HREF="file:tom00286.htm">Revelation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reversion">
+    <param name="Local" value="tom00287.htm">
+    </OBJECT>
+    <A HREF="file:tom00287.htm">Reversion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Robe of Healing">
+    <param name="Local" value="tom00288.htm">
+    </OBJECT>
+    <A HREF="file:tom00288.htm">Robe of Healing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Siege Wall">
+    <param name="Local" value="tom00289.htm">
+    </OBJECT>
+    <A HREF="file:tom00289.htm">Siege Wall</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shooting Stars">
+    <param name="Local" value="tom00290.htm">
+    </OBJECT>
+    <A HREF="file:tom00290.htm">Shooting Stars</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sphere of Security">
+    <param name="Local" value="tom00291.htm">
+    </OBJECT>
+    <A HREF="file:tom00291.htm">Sphere of Security</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spiral of Degeneration">
+    <param name="Local" value="tom00292.htm">
+    </OBJECT>
+    <A HREF="file:tom00292.htm">Spiral of Degeneration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stalker">
+    <param name="Local" value="tom00293.htm">
+    </OBJECT>
+    <A HREF="file:tom00293.htm">Stalker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Storm of Vengeance">
+    <param name="Local" value="tom00294.htm">
+    </OBJECT>
+    <A HREF="file:tom00294.htm">Storm of Vengeance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Transformation">
+    <param name="Local" value="tom00295.htm">
+    </OBJECT>
+    <A HREF="file:tom00295.htm">Transformation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Undead Plague">
+    <param name="Local" value="tom00296.htm">
+    </OBJECT>
+    <A HREF="file:tom00296.htm">Undead Plague</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warband Quest">
+    <param name="Local" value="tom00297.htm">
+    </OBJECT>
+    <A HREF="file:tom00297.htm">Warband Quest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ward Matrix">
+    <param name="Local" value="tom00298.htm">
+    </OBJECT>
+    <A HREF="file:tom00298.htm">Ward Matrix</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wolf Spirits">
+    <param name="Local" value="tom00299.htm">
+    </OBJECT>
+    <A HREF="file:tom00299.htm">Wolf Spirits</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Magical Items">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic Item Tables">
+    <param name="Local" value="tom00300.htm">
+    </OBJECT>
+    <A HREF="file:tom00300.htm">Magic Item Tables</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 4: Potions and Oils">
+    <param name="Local" value="tom00300.htm">
+    </OBJECT>
+    <A HREF="file:tom00300.htm">Table 4: Potions and Oils</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 5: Rings">
+    <param name="Local" value="tom00301.htm">
+    </OBJECT>
+    <A HREF="file:tom00301.htm">Table 5: Rings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 6:  Rods, Staves, Wands">
+    <param name="Local" value="tom00302.htm">
+    </OBJECT>
+    <A HREF="file:tom00302.htm">Table 6:  Rods, Staves, Wands</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 7: Miscellaneous Magic: Books, Librams, Manuals, Tomes">
+    <param name="Local" value="tom00303.htm">
+    </OBJECT>
+    <A HREF="file:tom00303.htm">Table 7: Miscellaneous Magic: Books, Librams, Manuals, Tomes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 8: Miscellaneous Magic: Jewels, Jewelry, Phylacteries">
+    <param name="Local" value="tom00304.htm">
+    </OBJECT>
+    <A HREF="file:tom00304.htm">Table 8: Miscellaneous Magic: Jewels, Jewelry, Phylacteries</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 9: Miscellaneous Magic: Bracers, Gloves, Hats, Robes">
+    <param name="Local" value="tom00305.htm">
+    </OBJECT>
+    <A HREF="file:tom00305.htm">Table 9: Miscellaneous Magic: Bracers, Gloves, Hats, Robes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 10: Miscellaneous Magic: Bags, Bottles, Pouches, Containers">
+    <param name="Local" value="tom00306.htm">
+    </OBJECT>
+    <A HREF="file:tom00306.htm">Table 10: Miscellaneous Magic: Bags, Bottles, Pouches, Containers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 11: Miscellaneous Magic: Candles, Dusts, Ointments, Stones">
+    <param name="Local" value="tom00307.htm">
+    </OBJECT>
+    <A HREF="file:tom00307.htm">Table 11: Miscellaneous Magic: Candles, Dusts, Ointments, Stones</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 12: Miscellaneous Magic: Household Items, Tools, Muscial Instruments">
+    <param name="Local" value="tom00308.htm">
+    </OBJECT>
+    <A HREF="file:tom00308.htm">Table 12: Miscellaneous Magic: Household Items, Tools, Muscial Instruments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 13: Miscellaneous Magic: The Weird Stuff">
+    <param name="Local" value="tom00309.htm">
+    </OBJECT>
+    <A HREF="file:tom00309.htm">Table 13: Miscellaneous Magic: The Weird Stuff</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aromatic Oils">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aromatic Oils">
+    <param name="Local" value="tom00310.htm">
+    </OBJECT>
+    <A HREF="file:tom00310.htm">Aromatic Oils</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aroma of Dreams">
+    <param name="Local" value="tom00311.htm">
+    </OBJECT>
+    <A HREF="file:tom00311.htm">Aroma of Dreams</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Curdled Death">
+    <param name="Local" value="tom00312.htm">
+    </OBJECT>
+    <A HREF="file:tom00312.htm">Curdled Death</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Murdock's Insect Ward">
+    <param name="Local" value="tom00313.htm">
+    </OBJECT>
+    <A HREF="file:tom00313.htm">Murdock's Insect Ward</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Starella's Aphrodisiac">
+    <param name="Local" value="tom00314.htm">
+    </OBJECT>
+    <A HREF="file:tom00314.htm">Starella's Aphrodisiac</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Potions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Potions">
+    <param name="Local" value="tom00315.htm">
+    </OBJECT>
+    <A HREF="file:tom00315.htm">Potions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Potion of Elemental Control">
+    <param name="Local" value="tom00315.htm">
+    </OBJECT>
+    <A HREF="file:tom00315.htm">Potion of Elemental Control</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Oil of Elemental Plane Invulnerability">
+    <param name="Local" value="tom00316.htm">
+    </OBJECT>
+    <A HREF="file:tom00316.htm">Oil of Elemental Plane Invulnerability</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Oil of Preservation">
+    <param name="Local" value="tom00317.htm">
+    </OBJECT>
+    <A HREF="file:tom00317.htm">Oil of Preservation</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Powders">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Powders">
+    <param name="Local" value="tom00318.htm">
+    </OBJECT>
+    <A HREF="file:tom00318.htm">Powders</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Powder of the Black Veil">
+    <param name="Local" value="tom00319.htm">
+    </OBJECT>
+    <A HREF="file:tom00319.htm">Powder of the Black Veil</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Powder of Coagulation">
+    <param name="Local" value="tom00320.htm">
+    </OBJECT>
+    <A HREF="file:tom00320.htm">Powder of Coagulation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Powder of the Hero's Heart">
+    <param name="Local" value="tom00321.htm">
+    </OBJECT>
+    <A HREF="file:tom00321.htm">Powder of the Hero's Heart</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Powder of Magic Detections">
+    <param name="Local" value="tom00322.htm">
+    </OBJECT>
+    <A HREF="file:tom00322.htm">Powder of Magic Detections</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rings">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of Affliction">
+    <param name="Local" value="tom00323.htm">
+    </OBJECT>
+    <A HREF="file:tom00323.htm">Ring of Affliction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of Armoring">
+    <param name="Local" value="tom00324.htm">
+    </OBJECT>
+    <A HREF="file:tom00324.htm">Ring of Armoring</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of Bureacractic Wizardry">
+    <param name="Local" value="tom00325.htm">
+    </OBJECT>
+    <A HREF="file:tom00325.htm">Ring of Bureacractic Wizardry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of Elemental Metamorphosis">
+    <param name="Local" value="tom00326.htm">
+    </OBJECT>
+    <A HREF="file:tom00326.htm">Ring of Elemental Metamorphosis</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of Fortitude">
+    <param name="Local" value="tom00327.htm">
+    </OBJECT>
+    <A HREF="file:tom00327.htm">Ring of Fortitude</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of Randomness">
+    <param name="Local" value="tom00328.htm">
+    </OBJECT>
+    <A HREF="file:tom00328.htm">Ring of Randomness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of Resistance">
+    <param name="Local" value="tom00329.htm">
+    </OBJECT>
+    <A HREF="file:tom00329.htm">Ring of Resistance</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rod">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rod of Distortion">
+    <param name="Local" value="tom00330.htm">
+    </OBJECT>
+    <A HREF="file:tom00330.htm">Rod of Distortion</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Staff">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Staff of the Elements">
+    <param name="Local" value="tom00331.htm">
+    </OBJECT>
+    <A HREF="file:tom00331.htm">Staff of the Elements</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wands">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wand of Corridors">
+    <param name="Local" value="tom00332.htm">
+    </OBJECT>
+    <A HREF="file:tom00332.htm">Wand of Corridors</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wand of Element Transmogrification">
+    <param name="Local" value="tom00333.htm">
+    </OBJECT>
+    <A HREF="file:tom00333.htm">Wand of Element Transmogrification</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wand of Misplaced Objects">
+    <param name="Local" value="tom00334.htm">
+    </OBJECT>
+    <A HREF="file:tom00334.htm">Wand of Misplaced Objects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wand of Prime Material Pockets">
+    <param name="Local" value="tom00335.htm">
+    </OBJECT>
+    <A HREF="file:tom00335.htm">Wand of Prime Material Pockets</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Miscellaneous Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Air Spores">
+    <param name="Local" value="tom00336.htm">
+    </OBJECT>
+    <A HREF="file:tom00336.htm">Air Spores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amulet of Extension">
+    <param name="Local" value="tom00337.htm">
+    </OBJECT>
+    <A HREF="file:tom00337.htm">Amulet of Extension</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amulet of Far Reaching">
+    <param name="Local" value="tom00338.htm">
+    </OBJECT>
+    <A HREF="file:tom00338.htm">Amulet of Far Reaching</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amulet of Leadership">
+    <param name="Local" value="tom00339.htm">
+    </OBJECT>
+    <A HREF="file:tom00339.htm">Amulet of Leadership</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amulet of Magic Resistance">
+    <param name="Local" value="tom00340.htm">
+    </OBJECT>
+    <A HREF="file:tom00340.htm">Amulet of Magic Resistance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amulet of Metaspell Influence">
+    <param name="Local" value="tom00341.htm">
+    </OBJECT>
+    <A HREF="file:tom00341.htm">Amulet of Metaspell Influence</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amulet of Perpetual Youth">
+    <param name="Local" value="tom00342.htm">
+    </OBJECT>
+    <A HREF="file:tom00342.htm">Amulet of Perpetual Youth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bag of Beans">
+    <param name="Local" value="tom00343.htm">
+    </OBJECT>
+    <A HREF="file:tom00343.htm">Bag of Beans</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bell's Palette of Identity">
+    <param name="Local" value="tom00344.htm">
+    </OBJECT>
+    <A HREF="file:tom00344.htm">Bell's Palette of Identity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bracers of Brandishing">
+    <param name="Local" value="tom00345.htm">
+    </OBJECT>
+    <A HREF="file:tom00345.htm">Bracers of Brandishing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Brooch of Number Numbering">
+    <param name="Local" value="tom00346.htm">
+    </OBJECT>
+    <A HREF="file:tom00346.htm">Brooch of Number Numbering</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Candle of Propitiousness">
+    <param name="Local" value="tom00347.htm">
+    </OBJECT>
+    <A HREF="file:tom00347.htm">Candle of Propitiousness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Claw of Magic Stealing">
+    <param name="Local" value="tom00348.htm">
+    </OBJECT>
+    <A HREF="file:tom00348.htm">Claw of Magic Stealing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Contracts of Nepthas">
+    <param name="Local" value="tom00349.htm">
+    </OBJECT>
+    <A HREF="file:tom00349.htm">Contracts of Nepthas</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crucible of Melting">
+    <param name="Local" value="tom00350.htm">
+    </OBJECT>
+    <A HREF="file:tom00350.htm">Crucible of Melting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crystal Parrot">
+    <param name="Local" value="tom00351.htm">
+    </OBJECT>
+    <A HREF="file:tom00351.htm">Crystal Parrot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dimensional Mine">
+    <param name="Local" value="tom00352.htm">
+    </OBJECT>
+    <A HREF="file:tom00352.htm">Dimensional Mine</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disintegration Chamber">
+    <param name="Local" value="tom00353.htm">
+    </OBJECT>
+    <A HREF="file:tom00353.htm">Disintegration Chamber</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dust of Mind Dulling">
+    <param name="Local" value="tom00354.htm">
+    </OBJECT>
+    <A HREF="file:tom00354.htm">Dust of Mind Dulling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Compass">
+    <param name="Local" value="tom00355.htm">
+    </OBJECT>
+    <A HREF="file:tom00355.htm">Elemental Compass</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Everbountiful Soup Kettle">
+    <param name="Local" value="tom00356.htm">
+    </OBJECT>
+    <A HREF="file:tom00356.htm">Everbountiful Soup Kettle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flatbox">
+    <param name="Local" value="tom00357.htm">
+    </OBJECT>
+    <A HREF="file:tom00357.htm">Flatbox</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forge of Metal Protection">
+    <param name="Local" value="tom00358.htm">
+    </OBJECT>
+    <A HREF="file:tom00358.htm">Forge of Metal Protection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fur of Warmth">
+    <param name="Local" value="tom00359.htm">
+    </OBJECT>
+    <A HREF="file:tom00359.htm">Fur of Warmth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gem of Retaliation">
+    <param name="Local" value="tom00360.htm">
+    </OBJECT>
+    <A HREF="file:tom00360.htm">Gem of Retaliation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Glass of Preserved Words">
+    <param name="Local" value="tom00361.htm">
+    </OBJECT>
+    <A HREF="file:tom00361.htm">Glass of Preserved Words</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Globe of Purification">
+    <param name="Local" value="tom00362.htm">
+    </OBJECT>
+    <A HREF="file:tom00362.htm">Globe of Purification</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Globe of Serenity">
+    <param name="Local" value="tom00363.htm">
+    </OBJECT>
+    <A HREF="file:tom00363.htm">Globe of Serenity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Horn of Valor">
+    <param name="Local" value="tom00364.htm">
+    </OBJECT>
+    <A HREF="file:tom00364.htm">Horn of Valor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hourglass of Fire and Ice">
+    <param name="Local" value="tom00365.htm">
+    </OBJECT>
+    <A HREF="file:tom00365.htm">Hourglass of Fire and Ice</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jar of Preserving">
+    <param name="Local" value="tom00366.htm">
+    </OBJECT>
+    <A HREF="file:tom00366.htm">Jar of Preserving</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Law's Banner">
+    <param name="Local" value="tom00367.htm">
+    </OBJECT>
+    <A HREF="file:tom00367.htm">Law's Banner</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lens of Speed Reading">
+    <param name="Local" value="tom00368.htm">
+    </OBJECT>
+    <A HREF="file:tom00368.htm">Lens of Speed Reading</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Liquid Road">
+    <param name="Local" value="tom00369.htm">
+    </OBJECT>
+    <A HREF="file:tom00369.htm">Liquid Road</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lorloveim's Obsidian Mortar and Pestle">
+    <param name="Local" value="tom00370.htm">
+    </OBJECT>
+    <A HREF="file:tom00370.htm">Lorloveim's Obsidian Mortar and Pestle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Manual of Dogmatic Methods">
+    <param name="Local" value="tom00371.htm">
+    </OBJECT>
+    <A HREF="file:tom00371.htm">Manual of Dogmatic Methods</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Medallion of Spell Exchange">
+    <param name="Local" value="tom00372.htm">
+    </OBJECT>
+    <A HREF="file:tom00372.htm">Medallion of Spell Exchange</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mirror of Retention">
+    <param name="Local" value="tom00373.htm">
+    </OBJECT>
+    <A HREF="file:tom00373.htm">Mirror of Retention</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mirror of Simple Order">
+    <param name="Local" value="tom00374.htm">
+    </OBJECT>
+    <A HREF="file:tom00374.htm">Mirror of Simple Order</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mist Tent">
+    <param name="Local" value="tom00375.htm">
+    </OBJECT>
+    <A HREF="file:tom00375.htm">Mist Tent</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mordom's Cauldron of Air">
+    <param name="Local" value="tom00376.htm">
+    </OBJECT>
+    <A HREF="file:tom00376.htm">Mordom's Cauldron of Air</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mouse Cart">
+    <param name="Local" value="tom00377.htm">
+    </OBJECT>
+    <A HREF="file:tom00377.htm">Mouse Cart</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Necklace of Memory Enhancement">
+    <param name="Local" value="tom00378.htm">
+    </OBJECT>
+    <A HREF="file:tom00378.htm">Necklace of Memory Enhancement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nefradina's Indentifier">
+    <param name="Local" value="tom00379.htm">
+    </OBJECT>
+    <A HREF="file:tom00379.htm">Nefradina's Indentifier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Philosopher's Egg">
+    <param name="Local" value="tom00380.htm">
+    </OBJECT>
+    <A HREF="file:tom00380.htm">Philosopher's Egg</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pick of Earth Parting">
+    <param name="Local" value="tom00381.htm">
+    </OBJECT>
+    <A HREF="file:tom00381.htm">Pick of Earth Parting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Portable Canoe">
+    <param name="Local" value="tom00382.htm">
+    </OBJECT>
+    <A HREF="file:tom00382.htm">Portable Canoe</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Prism of Light Splitting">
+    <param name="Local" value="tom00383.htm">
+    </OBJECT>
+    <A HREF="file:tom00383.htm">Prism of Light Splitting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Puchezma's Powder of Edible Ojects">
+    <param name="Local" value="tom00384.htm">
+    </OBJECT>
+    <A HREF="file:tom00384.htm">Puchezma's Powder of Edible Ojects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quill of Law">
+    <param name="Local" value="tom00385.htm">
+    </OBJECT>
+    <A HREF="file:tom00385.htm">Quill of Law</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reglar's Gloves of Freedom">
+    <param name="Local" value="tom00386.htm">
+    </OBJECT>
+    <A HREF="file:tom00386.htm">Reglar's Gloves of Freedom</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Robe of Repetition">
+    <param name="Local" value="tom00387.htm">
+    </OBJECT>
+    <A HREF="file:tom00387.htm">Robe of Repetition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Saddle of Flying">
+    <param name="Local" value="tom00388.htm">
+    </OBJECT>
+    <A HREF="file:tom00388.htm">Saddle of Flying</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Salves of Far Seeing">
+    <param name="Local" value="tom00389.htm">
+    </OBJECT>
+    <A HREF="file:tom00389.htm">Salves of Far Seeing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scarab of Uncertainty">
+    <param name="Local" value="tom00390.htm">
+    </OBJECT>
+    <A HREF="file:tom00390.htm">Scarab of Uncertainty</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="School Cap">
+    <param name="Local" value="tom00391.htm">
+    </OBJECT>
+    <A HREF="file:tom00391.htm">School Cap</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Skie's Locks and Bolts">
+    <param name="Local" value="tom00392.htm">
+    </OBJECT>
+    <A HREF="file:tom00392.htm">Skie's Locks and Bolts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Talisman of Memorization">
+    <param name="Local" value="tom00393.htm">
+    </OBJECT>
+    <A HREF="file:tom00393.htm">Talisman of Memorization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tapestry of Disease Warding">
+    <param name="Local" value="tom00394.htm">
+    </OBJECT>
+    <A HREF="file:tom00394.htm">Tapestry of Disease Warding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Teleportation Chamber">
+    <param name="Local" value="tom00395.htm">
+    </OBJECT>
+    <A HREF="file:tom00395.htm">Teleportation Chamber</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tenser's Portmanteau of Frugality">
+    <param name="Local" value="tom00396.htm">
+    </OBJECT>
+    <A HREF="file:tom00396.htm">Tenser's Portmanteau of Frugality</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought Bottle">
+    <param name="Local" value="tom00397.htm">
+    </OBJECT>
+    <A HREF="file:tom00397.htm">Thought Bottle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Time Bomb">
+    <param name="Local" value="tom00398.htm">
+    </OBJECT>
+    <A HREF="file:tom00398.htm">Time Bomb</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tome of Mystical Equations">
+    <param name="Local" value="tom00399.htm">
+    </OBJECT>
+    <A HREF="file:tom00399.htm">Tome of Mystical Equations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trimia's Catalogue of Outer Plane Artifacts">
+    <param name="Local" value="tom00400.htm">
+    </OBJECT>
+    <A HREF="file:tom00400.htm">Trimia's Catalogue of Outer Plane Artifacts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warp Marble">
+    <param name="Local" value="tom00401.htm">
+    </OBJECT>
+    <A HREF="file:tom00401.htm">Warp Marble</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Zwann's Watering Can">
+    <param name="Local" value="tom00402.htm">
+    </OBJECT>
+    <A HREF="file:tom00402.htm">Zwann's Watering Can</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Spells by School">
+    <param name="Local" value="tom00403.htm">
+    </OBJECT>
+    <A HREF="file:tom00403.htm">Wizard Spells by School</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abjuration">
+    <param name="Local" value="tom00404.htm">
+    </OBJECT>
+    <A HREF="file:tom00404.htm">Abjuration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alteration">
+    <param name="Local" value="tom00405.htm">
+    </OBJECT>
+    <A HREF="file:tom00405.htm">Alteration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conjuration/Summoning">
+    <param name="Local" value="tom00406.htm">
+    </OBJECT>
+    <A HREF="file:tom00406.htm">Conjuration/Summoning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Enchantment/Charm">
+    <param name="Local" value="tom00407.htm">
+    </OBJECT>
+    <A HREF="file:tom00407.htm">Enchantment/Charm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Illusion/Phantasm">
+    <param name="Local" value="tom00408.htm">
+    </OBJECT>
+    <A HREF="file:tom00408.htm">Illusion/Phantasm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Invocation/Evocation">
+    <param name="Local" value="tom00409.htm">
+    </OBJECT>
+    <A HREF="file:tom00409.htm">Invocation/Evocation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divination">
+    <param name="Local" value="tom00410.htm">
+    </OBJECT>
+    <A HREF="file:tom00410.htm">Divination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Necromancy">
+    <param name="Local" value="tom00411.htm">
+    </OBJECT>
+    <A HREF="file:tom00411.htm">Necromancy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wild Magic II">
+    <param name="Local" value="tom00412.htm">
+    </OBJECT>
+    <A HREF="file:tom00412.htm">Wild Magic II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Air">
+    <param name="Local" value="tom00413.htm">
+    </OBJECT>
+    <A HREF="file:tom00413.htm">Elemental Air</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Earth">
+    <param name="Local" value="tom00414.htm">
+    </OBJECT>
+    <A HREF="file:tom00414.htm">Elemental Earth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Fire">
+    <param name="Local" value="tom00415.htm">
+    </OBJECT>
+    <A HREF="file:tom00415.htm">Elemental Fire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Water">
+    <param name="Local" value="tom00416.htm">
+    </OBJECT>
+    <A HREF="file:tom00416.htm">Elemental Water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Spells by Sphere">
+    <param name="Local" value="tom00417.htm">
+    </OBJECT>
+    <A HREF="file:tom00417.htm">Priest Spells by Sphere</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="All">
+    <param name="Local" value="tom00418.htm">
+    </OBJECT>
+    <A HREF="file:tom00418.htm">All</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal">
+    <param name="Local" value="tom00419.htm">
+    </OBJECT>
+    <A HREF="file:tom00419.htm">Animal</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Astral">
+    <param name="Local" value="tom00420.htm">
+    </OBJECT>
+    <A HREF="file:tom00420.htm">Astral</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaos II">
+    <param name="Local" value="tom00421.htm">
+    </OBJECT>
+    <A HREF="file:tom00421.htm">Chaos II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Charm">
+    <param name="Local" value="tom00422.htm">
+    </OBJECT>
+    <A HREF="file:tom00422.htm">Charm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat">
+    <param name="Local" value="tom00423.htm">
+    </OBJECT>
+    <A HREF="file:tom00423.htm">Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creation">
+    <param name="Local" value="tom00424.htm">
+    </OBJECT>
+    <A HREF="file:tom00424.htm">Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divination">
+    <param name="Local" value="tom00425.htm">
+    </OBJECT>
+    <A HREF="file:tom00425.htm">Divination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental">
+    <param name="Local" value="tom00426.htm">
+    </OBJECT>
+    <A HREF="file:tom00426.htm">Elemental</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Air">
+    <param name="Local" value="tom00427.htm">
+    </OBJECT>
+    <A HREF="file:tom00427.htm">Elemental Air</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Earth">
+    <param name="Local" value="tom00428.htm">
+    </OBJECT>
+    <A HREF="file:tom00428.htm">Elemental Earth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Fire">
+    <param name="Local" value="tom00429.htm">
+    </OBJECT>
+    <A HREF="file:tom00429.htm">Elemental Fire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Water">
+    <param name="Local" value="tom00430.htm">
+    </OBJECT>
+    <A HREF="file:tom00430.htm">Elemental Water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guardian">
+    <param name="Local" value="tom00431.htm">
+    </OBJECT>
+    <A HREF="file:tom00431.htm">Guardian</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Healing">
+    <param name="Local" value="tom00432.htm">
+    </OBJECT>
+    <A HREF="file:tom00432.htm">Healing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Law">
+    <param name="Local" value="tom00433.htm">
+    </OBJECT>
+    <A HREF="file:tom00433.htm">Law</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Necromantic">
+    <param name="Local" value="tom00434.htm">
+    </OBJECT>
+    <A HREF="file:tom00434.htm">Necromantic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Number">
+    <param name="Local" value="tom00435.htm">
+    </OBJECT>
+    <A HREF="file:tom00435.htm">Number</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Plant">
+    <param name="Local" value="tom00436.htm">
+    </OBJECT>
+    <A HREF="file:tom00436.htm">Plant</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Protection">
+    <param name="Local" value="tom00437.htm">
+    </OBJECT>
+    <A HREF="file:tom00437.htm">Protection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Summoning">
+    <param name="Local" value="tom00438.htm">
+    </OBJECT>
+    <A HREF="file:tom00438.htm">Summoning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sun">
+    <param name="Local" value="tom00439.htm">
+    </OBJECT>
+    <A HREF="file:tom00439.htm">Sun</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought">
+    <param name="Local" value="tom00440.htm">
+    </OBJECT>
+    <A HREF="file:tom00440.htm">Thought</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Time">
+    <param name="Local" value="tom00441.htm">
+    </OBJECT>
+    <A HREF="file:tom00441.htm">Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Travelers">
+    <param name="Local" value="tom00442.htm">
+    </OBJECT>
+    <A HREF="file:tom00442.htm">Travelers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War">
+    <param name="Local" value="tom00443.htm">
+    </OBJECT>
+    <A HREF="file:tom00443.htm">War</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wards">
+    <param name="Local" value="tom00444.htm">
+    </OBJECT>
+    <A HREF="file:tom00444.htm">Wards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weather">
+    <param name="Local" value="tom00445.htm">
+    </OBJECT>
+    <A HREF="file:tom00445.htm">Weather</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: How to Use Tome of Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: How to use Tome of Magic">
+    <param name="Local" value="tom00003.htm">
+    </OBJECT>
+    <A HREF="file:tom00003.htm">Chapter 1: How to use Tome of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How to Use This Book">
+    <param name="Local" value="tom00004.htm">
+    </OBJECT>
+    <A HREF="file:tom00004.htm">How to Use This Book</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Who Is It For?">
+    <param name="Local" value="tom00005.htm">
+    </OBJECT>
+    <A HREF="file:tom00005.htm">Who Is It For?</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizards">
+    <param name="Local" value="tom00006.htm">
+    </OBJECT>
+    <A HREF="file:tom00006.htm">Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest">
+    <param name="Local" value="tom00007.htm">
+    </OBJECT>
+    <A HREF="file:tom00007.htm">Priest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magical Items">
+    <param name="Local" value="tom00008.htm">
+    </OBJECT>
+    <A HREF="file:tom00008.htm">Magical Items</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Patience, Patience, Patience">
+    <param name="Local" value="tom00009.htm">
+    </OBJECT>
+    <A HREF="file:tom00009.htm">Patience, Patience, Patience</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Rules for Wizards">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Rules for Wizards">
+    <param name="Local" value="tom00010.htm">
+    </OBJECT>
+    <A HREF="file:tom00010.htm">New Rules for Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wild Magic">
+    <param name="Local" value="tom00011.htm">
+    </OBJECT>
+    <A HREF="file:tom00011.htm">Wild Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wild Mages">
+    <param name="Local" value="tom00012.htm">
+    </OBJECT>
+    <A HREF="file:tom00012.htm">Wild Mages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Level Variations">
+    <param name="Local" value="tom00014.htm">
+    </OBJECT>
+    <A HREF="file:tom00014.htm">Level Variations</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 1: Level Variation">
+    <param name="Local" value="tom00013.htm">
+    </OBJECT>
+    <A HREF="file:tom00013.htm">Table 1: Level Variation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 2: Wild Surge Results">
+    <param name="Local" value="tom00015.htm">
+    </OBJECT>
+    <A HREF="file:tom00015.htm">Table 2: Wild Surge Results</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Wizards">
+    <param name="Local" value="tom00016.htm">
+    </OBJECT>
+    <A HREF="file:tom00016.htm">Elemental Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Metamagic">
+    <param name="Local" value="tom00017.htm">
+    </OBJECT>
+    <A HREF="file:tom00017.htm">Metamagic</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Rules for Priests">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Rules for Priests">
+    <param name="Local" value="tom00018.htm">
+    </OBJECT>
+    <A HREF="file:tom00018.htm">New Rules for Priests</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quest Spells">
+    <param name="Local" value="tom00019.htm">
+    </OBJECT>
+    <A HREF="file:tom00019.htm">Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Why Quest Spells">
+    <param name="Local" value="tom00020.htm">
+    </OBJECT>
+    <A HREF="file:tom00020.htm">Why Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conditions for Quest Spells">
+    <param name="Local" value="tom00021.htm">
+    </OBJECT>
+    <A HREF="file:tom00021.htm">Conditions for Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Situations Unworthy of Quest Spells">
+    <param name="Local" value="tom00022.htm">
+    </OBJECT>
+    <A HREF="file:tom00022.htm">Situations Unworthy of Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Which Priests Recieve Quest Spells">
+    <param name="Local" value="tom00023.htm">
+    </OBJECT>
+    <A HREF="file:tom00023.htm">Which Priests Recieve Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="How Is the Quest Spell Granted">
+    <param name="Local" value="tom00024.htm">
+    </OBJECT>
+    <A HREF="file:tom00024.htm">How Is the Quest Spell Granted</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Introducing the Quest Spell">
+    <param name="Local" value="tom00025.htm">
+    </OBJECT>
+    <A HREF="file:tom00025.htm">Introducing the Quest Spell</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Cost of Quest Spells">
+    <param name="Local" value="tom00026.htm">
+    </OBJECT>
+    <A HREF="file:tom00026.htm">The Cost of Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adjudicating Quest Spells">
+    <param name="Local" value="tom00027.htm">
+    </OBJECT>
+    <A HREF="file:tom00027.htm">Adjudicating Quest Spells</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Faith Magic">
+    <param name="Local" value="tom00028.htm">
+    </OBJECT>
+    <A HREF="file:tom00028.htm">Faith Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Devotional Power">
+    <param name="Local" value="tom00029.htm">
+    </OBJECT>
+    <A HREF="file:tom00029.htm">Devotional Power</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cooperative Magic">
+    <param name="Local" value="tom00030.htm">
+    </OBJECT>
+    <A HREF="file:tom00030.htm">Cooperative Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Spheres">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Spheres">
+    <param name="Local" value="tom00031.htm">
+    </OBJECT>
+    <A HREF="file:tom00031.htm">New Spheres</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaos">
+    <param name="Local" value="tom00032.htm">
+    </OBJECT>
+    <A HREF="file:tom00032.htm">Chaos</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Law">
+    <param name="Local" value="tom00033.htm">
+    </OBJECT>
+    <A HREF="file:tom00033.htm">Law</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Numbers">
+    <param name="Local" value="tom00034.htm">
+    </OBJECT>
+    <A HREF="file:tom00034.htm">Numbers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought">
+    <param name="Local" value="tom00035.htm">
+    </OBJECT>
+    <A HREF="file:tom00035.htm">Thought</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Time">
+    <param name="Local" value="tom00036.htm">
+    </OBJECT>
+    <A HREF="file:tom00036.htm">Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Travelers">
+    <param name="Local" value="tom00037.htm">
+    </OBJECT>
+    <A HREF="file:tom00037.htm">Travelers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War">
+    <param name="Local" value="tom00038.htm">
+    </OBJECT>
+    <A HREF="file:tom00038.htm">War</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wards">
+    <param name="Local" value="tom00039.htm">
+    </OBJECT>
+    <A HREF="file:tom00039.htm">Wards</A>
+</UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Wizard Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="First-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conjure Spell Component">
+    <param name="Local" value="tom00041.htm">
+    </OBJECT>
+    <A HREF="file:tom00041.htm">Conjure Spell Component</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fire Burst">
+    <param name="Local" value="tom00042.htm">
+    </OBJECT>
+    <A HREF="file:tom00042.htm">Fire Burst</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fist of Stone">
+    <param name="Local" value="tom00043.htm">
+    </OBJECT>
+    <A HREF="file:tom00043.htm">Fist of Stone</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hornung's Guess">
+    <param name="Local" value="tom00044.htm">
+    </OBJECT>
+    <A HREF="file:tom00044.htm">Hornung's Guess</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lasting Breath">
+    <param name="Local" value="tom00045.htm">
+    </OBJECT>
+    <A HREF="file:tom00045.htm">Lasting Breath</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Metamorphose Liquids">
+    <param name="Local" value="tom00046.htm">
+    </OBJECT>
+    <A HREF="file:tom00046.htm">Metamorphose Liquids</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Murdock's Feathery Flyer">
+    <param name="Local" value="tom00047.htm">
+    </OBJECT>
+    <A HREF="file:tom00047.htm">Murdock's Feathery Flyer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nahal's Reckless Dweomer">
+    <param name="Local" value="tom00048.htm">
+    </OBJECT>
+    <A HREF="file:tom00048.htm">Nahal's Reckless Dweomer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Patternweave">
+    <param name="Local" value="tom00049.htm">
+    </OBJECT>
+    <A HREF="file:tom00049.htm">Patternweave</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Second-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaos Shield">
+    <param name="Local" value="tom00050.htm">
+    </OBJECT>
+    <A HREF="file:tom00050.htm">Chaos Shield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hornung's Baneful Deflector*">
+    <param name="Local" value="tom00051.htm">
+    </OBJECT>
+    <A HREF="file:tom00051.htm">Hornung's Baneful Deflector*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Insatiable Thirst">
+    <param name="Local" value="tom00052.htm">
+    </OBJECT>
+    <A HREF="file:tom00052.htm">Insatiable Thirst</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Maximilian's Earthen Grasp">
+    <param name="Local" value="tom00053.htm">
+    </OBJECT>
+    <A HREF="file:tom00053.htm">Maximilian's Earthen Grasp</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nahal's Nonsensical Nullifier*">
+    <param name="Local" value="tom00054.htm">
+    </OBJECT>
+    <A HREF="file:tom00054.htm">Nahal's Nonsensical Nullifier*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Past Life">
+    <param name="Local" value="tom00055.htm">
+    </OBJECT>
+    <A HREF="file:tom00055.htm">Past Life</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Protection From Paralysis">
+    <param name="Local" value="tom00056.htm">
+    </OBJECT>
+    <A HREF="file:tom00056.htm">Protection From Paralysis</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ride the Wind">
+    <param name="Local" value="tom00057.htm">
+    </OBJECT>
+    <A HREF="file:tom00057.htm">Ride the Wind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sense Shifting">
+    <param name="Local" value="tom00058.htm">
+    </OBJECT>
+    <A HREF="file:tom00058.htm">Sense Shifting</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Third-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alacrity">
+    <param name="Local" value="tom00059.htm">
+    </OBJECT>
+    <A HREF="file:tom00059.htm">Alacrity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alamir's Fundemental Breakdown">
+    <param name="Local" value="tom00060.htm">
+    </OBJECT>
+    <A HREF="file:tom00060.htm">Alamir's Fundemental Breakdown</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alternate Reality*">
+    <param name="Local" value="tom00061.htm">
+    </OBJECT>
+    <A HREF="file:tom00061.htm">Alternate Reality*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Augmentation I">
+    <param name="Local" value="tom00062.htm">
+    </OBJECT>
+    <A HREF="file:tom00062.htm">Augmentation I</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Far Reaching I">
+    <param name="Local" value="tom00063.htm">
+    </OBJECT>
+    <A HREF="file:tom00063.htm">Far Reaching I</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fireflow*">
+    <param name="Local" value="tom00064.htm">
+    </OBJECT>
+    <A HREF="file:tom00064.htm">Fireflow*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fool's Speech*">
+    <param name="Local" value="tom00065.htm">
+    </OBJECT>
+    <A HREF="file:tom00065.htm">Fool's Speech*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lorloveim's Creeping Shadow">
+    <param name="Local" value="tom00066.htm">
+    </OBJECT>
+    <A HREF="file:tom00066.htm">Lorloveim's Creeping Shadow</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Maximilian's Stoney Grasp">
+    <param name="Local" value="tom00067.htm">
+    </OBJECT>
+    <A HREF="file:tom00067.htm">Maximilian's Stoney Grasp</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Minor Malison">
+    <param name="Local" value="tom00068.htm">
+    </OBJECT>
+    <A HREF="file:tom00068.htm">Minor Malison</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spirit Armor">
+    <param name="Local" value="tom00069.htm">
+    </OBJECT>
+    <A HREF="file:tom00069.htm">Spirit Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Squaring the Circle">
+    <param name="Local" value="tom00070.htm">
+    </OBJECT>
+    <A HREF="file:tom00070.htm">Squaring the Circle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Watery Double">
+    <param name="Local" value="tom00071.htm">
+    </OBJECT>
+    <A HREF="file:tom00071.htm">Watery Double</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Sight">
+    <param name="Local" value="tom00072.htm">
+    </OBJECT>
+    <A HREF="file:tom00072.htm">Wizard Sight</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fourth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dilation I">
+    <param name="Local" value="tom00073.htm">
+    </OBJECT>
+    <A HREF="file:tom00073.htm">Dilation I</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divination Enhancement">
+    <param name="Local" value="tom00074.htm">
+    </OBJECT>
+    <A HREF="file:tom00074.htm">Divination Enhancement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Far Reaching II">
+    <param name="Local" value="tom00075.htm">
+    </OBJECT>
+    <A HREF="file:tom00075.htm">Far Reaching II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Greater Malison">
+    <param name="Local" value="tom00076.htm">
+    </OBJECT>
+    <A HREF="file:tom00076.htm">Greater Malison</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Locate Creature">
+    <param name="Local" value="tom00077.htm">
+    </OBJECT>
+    <A HREF="file:tom00077.htm">Locate Creature</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mask of Death">
+    <param name="Local" value="tom00078.htm">
+    </OBJECT>
+    <A HREF="file:tom00078.htm">Mask of Death</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Minor Spell Turning">
+    <param name="Local" value="tom00079.htm">
+    </OBJECT>
+    <A HREF="file:tom00079.htm">Minor Spell Turning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mordinkainen's Celerity">
+    <param name="Local" value="tom00080.htm">
+    </OBJECT>
+    <A HREF="file:tom00080.htm">Mordinkainen's Celerity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Summon Lycantthrope">
+    <param name="Local" value="tom00081.htm">
+    </OBJECT>
+    <A HREF="file:tom00081.htm">Summon Lycantthrope</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="There/Not There*">
+    <param name="Local" value="tom00082.htm">
+    </OBJECT>
+    <A HREF="file:tom00082.htm">There/Not There*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thunder Staff">
+    <param name="Local" value="tom00083.htm">
+    </OBJECT>
+    <A HREF="file:tom00083.htm">Thunder Staff</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Turn Pebble to Boulder">
+    <param name="Local" value="tom00084.htm">
+    </OBJECT>
+    <A HREF="file:tom00084.htm">Turn Pebble to Boulder</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unluck*">
+    <param name="Local" value="tom00085.htm">
+    </OBJECT>
+    <A HREF="file:tom00085.htm">Unluck*</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fifth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Far Reaching III">
+    <param name="Local" value="tom00087.htm">
+    </OBJECT>
+    <A HREF="file:tom00087.htm">Far Reaching III</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Khazid's Procurement">
+    <param name="Local" value="tom00088.htm">
+    </OBJECT>
+    <A HREF="file:tom00088.htm">Khazid's Procurement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lower Resistance">
+    <param name="Local" value="tom00089.htm">
+    </OBJECT>
+    <A HREF="file:tom00089.htm">Lower Resistance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Magic Staff">
+    <param name="Local" value="tom00090.htm">
+    </OBJECT>
+    <A HREF="file:tom00090.htm">Magic Staff</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mind Fog">
+    <param name="Local" value="tom00091.htm">
+    </OBJECT>
+    <A HREF="file:tom00091.htm">Mind Fog</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Safeguarding">
+    <param name="Local" value="tom00092.htm">
+    </OBJECT>
+    <A HREF="file:tom00092.htm">Safeguarding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Von Gasik's Refusal">
+    <param name="Local" value="tom00093.htm">
+    </OBJECT>
+    <A HREF="file:tom00093.htm">Von Gasik's Refusal</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Vortex*">
+    <param name="Local" value="tom00094.htm">
+    </OBJECT>
+    <A HREF="file:tom00094.htm">Vortex*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Waveform*">
+    <param name="Local" value="tom00095.htm">
+    </OBJECT>
+    <A HREF="file:tom00095.htm">Waveform*</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sixth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Augmentation II">
+    <param name="Local" value="tom00096.htm">
+    </OBJECT>
+    <A HREF="file:tom00096.htm">Augmentation II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bloddstone's Spectral Steed">
+    <param name="Local" value="tom00097.htm">
+    </OBJECT>
+    <A HREF="file:tom00097.htm">Bloddstone's Spectral Steed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Claws of the Umber Hulk">
+    <param name="Local" value="tom00098.htm">
+    </OBJECT>
+    <A HREF="file:tom00098.htm">Claws of the Umber Hulk</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dilation II">
+    <param name="Local" value="tom00099.htm">
+    </OBJECT>
+    <A HREF="file:tom00099.htm">Dilation II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forest's Fiery Constrictor">
+    <param name="Local" value="tom00100.htm">
+    </OBJECT>
+    <A HREF="file:tom00100.htm">Forest's Fiery Constrictor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lorloveim's Shadowy Transformation">
+    <param name="Local" value="tom00101.htm">
+    </OBJECT>
+    <A HREF="file:tom00101.htm">Lorloveim's Shadowy Transformation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildshield*">
+    <param name="Local" value="tom00102.htm">
+    </OBJECT>
+    <A HREF="file:tom00102.htm">Wildshield*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildstrike*">
+    <param name="Local" value="tom00103.htm">
+    </OBJECT>
+    <A HREF="file:tom00103.htm">Wildstrike*</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seventh-Level">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Acid Storm">
+    <param name="Local" value="tom00104.htm">
+    </OBJECT>
+    <A HREF="file:tom00104.htm">Acid Storm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bloodstone's Frightful Joining">
+    <param name="Local" value="tom00105.htm">
+    </OBJECT>
+    <A HREF="file:tom00105.htm">Bloodstone's Frightful Joining</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hatch the Stone from the Egg">
+    <param name="Local" value="tom00106.htm">
+    </OBJECT>
+    <A HREF="file:tom00106.htm">Hatch the Stone from the Egg</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hornung's Surge Selector*">
+    <param name="Local" value="tom00107.htm">
+    </OBJECT>
+    <A HREF="file:tom00107.htm">Hornung's Surge Selector*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Intensify Summoning">
+    <param name="Local" value="tom00108.htm">
+    </OBJECT>
+    <A HREF="file:tom00108.htm">Intensify Summoning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Malec-Keth's Flame Fist">
+    <param name="Local" value="tom00109.htm">
+    </OBJECT>
+    <A HREF="file:tom00109.htm">Malec-Keth's Flame Fist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shadowcat">
+    <param name="Local" value="tom00110.htm">
+    </OBJECT>
+    <A HREF="file:tom00110.htm">Shadowcat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spell Shape*">
+    <param name="Local" value="tom00111.htm">
+    </OBJECT>
+    <A HREF="file:tom00111.htm">Spell Shape*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Steal Enchantment">
+    <param name="Local" value="tom00112.htm">
+    </OBJECT>
+    <A HREF="file:tom00112.htm">Steal Enchantment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Suffocate">
+    <param name="Local" value="tom00113.htm">
+    </OBJECT>
+    <A HREF="file:tom00113.htm">Suffocate</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Eigth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abi-Dalzim's Horrid Wilting">
+    <param name="Local" value="tom00114.htm">
+    </OBJECT>
+    <A HREF="file:tom00114.htm">Abi-Dalzim's Horrid Wilting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Air Boat">
+    <param name="Local" value="tom00115.htm">
+    </OBJECT>
+    <A HREF="file:tom00115.htm">Air Boat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gunther's Kaleidoscopic Strike">
+    <param name="Local" value="tom00116.htm">
+    </OBJECT>
+    <A HREF="file:tom00116.htm">Gunther's Kaleidoscopic Strike</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Homunculus Shield">
+    <param name="Local" value="tom00117.htm">
+    </OBJECT>
+    <A HREF="file:tom00117.htm">Homunculus Shield</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hornung's Random Dispatcher*">
+    <param name="Local" value="tom00118.htm">
+    </OBJECT>
+    <A HREF="file:tom00118.htm">Hornung's Random Dispatcher*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildzone*">
+    <param name="Local" value="tom00119.htm">
+    </OBJECT>
+    <A HREF="file:tom00119.htm">Wildzone*</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ninth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chain Contingency">
+    <param name="Local" value="tom00120.htm">
+    </OBJECT>
+    <A HREF="file:tom00120.htm">Chain Contingency</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Aura">
+    <param name="Local" value="tom00121.htm">
+    </OBJECT>
+    <A HREF="file:tom00121.htm">Elemental Aura</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Estate Transference">
+    <param name="Local" value="tom00122.htm">
+    </OBJECT>
+    <A HREF="file:tom00122.htm">Estate Transference</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Glorious Tranmutation">
+    <param name="Local" value="tom00123.htm">
+    </OBJECT>
+    <A HREF="file:tom00123.htm">Glorious Tranmutation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wail of the Banshee">
+    <param name="Local" value="tom00124.htm">
+    </OBJECT>
+    <A HREF="file:tom00124.htm">Wail of the Banshee</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildfire*">
+    <param name="Local" value="tom00126.htm">
+    </OBJECT>
+    <A HREF="file:tom00126.htm">Wildfire*</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wildwind*">
+    <param name="Local" value="tom00127.htm">
+    </OBJECT>
+    <A HREF="file:tom00127.htm">Wildwind*</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Priest Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="First-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Analyze Balance">
+    <param name="Local" value="tom00129.htm">
+    </OBJECT>
+    <A HREF="file:tom00129.htm">Analyze Balance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Anti-Vermin Barrier">
+    <param name="Local" value="tom00130.htm">
+    </OBJECT>
+    <A HREF="file:tom00130.htm">Anti-Vermin Barrier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Call Upon Faith">
+    <param name="Local" value="tom00131.htm">
+    </OBJECT>
+    <A HREF="file:tom00131.htm">Call Upon Faith</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Courage">
+    <param name="Local" value="tom00132.htm">
+    </OBJECT>
+    <A HREF="file:tom00132.htm">Courage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Emotion Read">
+    <param name="Local" value="tom00133.htm">
+    </OBJECT>
+    <A HREF="file:tom00133.htm">Emotion Read</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Know Age">
+    <param name="Local" value="tom00134.htm">
+    </OBJECT>
+    <A HREF="file:tom00134.htm">Know Age</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Know Direction">
+    <param name="Local" value="tom00135.htm">
+    </OBJECT>
+    <A HREF="file:tom00135.htm">Know Direction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Know Time">
+    <param name="Local" value="tom00136.htm">
+    </OBJECT>
+    <A HREF="file:tom00136.htm">Know Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Log of Everburning">
+    <param name="Local" value="tom00137.htm">
+    </OBJECT>
+    <A HREF="file:tom00137.htm">Log of Everburning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mistake Missive">
+    <param name="Local" value="tom00138.htm">
+    </OBJECT>
+    <A HREF="file:tom00138.htm">Mistake Missive</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Morale">
+    <param name="Local" value="tom00139.htm">
+    </OBJECT>
+    <A HREF="file:tom00139.htm">Morale</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Personal Reading">
+    <param name="Local" value="tom00140.htm">
+    </OBJECT>
+    <A HREF="file:tom00140.htm">Personal Reading</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ring of Hands">
+    <param name="Local" value="tom00141.htm">
+    </OBJECT>
+    <A HREF="file:tom00141.htm">Ring of Hands</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sacred Guardian">
+    <param name="Local" value="tom00142.htm">
+    </OBJECT>
+    <A HREF="file:tom00142.htm">Sacred Guardian</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Speak With Astral Traveler">
+    <param name="Local" value="tom00143.htm">
+    </OBJECT>
+    <A HREF="file:tom00143.htm">Speak With Astral Traveler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought Capture">
+    <param name="Local" value="tom00144.htm">
+    </OBJECT>
+    <A HREF="file:tom00144.htm">Thought Capture</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weighty Chest">
+    <param name="Local" value="tom00145.htm">
+    </OBJECT>
+    <A HREF="file:tom00145.htm">Weighty Chest</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Second-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aura of Comfort">
+    <param name="Local" value="tom00146.htm">
+    </OBJECT>
+    <A HREF="file:tom00146.htm">Aura of Comfort</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Calm Chaos">
+    <param name="Local" value="tom00147.htm">
+    </OBJECT>
+    <A HREF="file:tom00147.htm">Calm Chaos</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Create Holy Symbol">
+    <param name="Local" value="tom00148.htm">
+    </OBJECT>
+    <A HREF="file:tom00148.htm">Create Holy Symbol</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dissension's Feast">
+    <param name="Local" value="tom00149.htm">
+    </OBJECT>
+    <A HREF="file:tom00149.htm">Dissension's Feast</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Draw Upon Holy Might">
+    <param name="Local" value="tom00150.htm">
+    </OBJECT>
+    <A HREF="file:tom00150.htm">Draw Upon Holy Might</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Emotion Perception">
+    <param name="Local" value="tom00151.htm">
+    </OBJECT>
+    <A HREF="file:tom00151.htm">Emotion Perception</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Frisky Chest">
+    <param name="Local" value="tom00152.htm">
+    </OBJECT>
+    <A HREF="file:tom00152.htm">Frisky Chest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hesitation">
+    <param name="Local" value="tom00153.htm">
+    </OBJECT>
+    <A HREF="file:tom00153.htm">Hesitation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Idea">
+    <param name="Local" value="tom00154.htm">
+    </OBJECT>
+    <A HREF="file:tom00154.htm">Idea</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lighten Load">
+    <param name="Local" value="tom00155.htm">
+    </OBJECT>
+    <A HREF="file:tom00155.htm">Lighten Load</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mind Read">
+    <param name="Local" value="tom00156.htm">
+    </OBJECT>
+    <A HREF="file:tom00156.htm">Mind Read</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Moment">
+    <param name="Local" value="tom00157.htm">
+    </OBJECT>
+    <A HREF="file:tom00157.htm">Moment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Music of the Spheres">
+    <param name="Local" value="tom00158.htm">
+    </OBJECT>
+    <A HREF="file:tom00158.htm">Music of the Spheres</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mystic Transfer">
+    <param name="Local" value="tom00159.htm">
+    </OBJECT>
+    <A HREF="file:tom00159.htm">Mystic Transfer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nap">
+    <param name="Local" value="tom00160.htm">
+    </OBJECT>
+    <A HREF="file:tom00160.htm">Nap</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rally">
+    <param name="Local" value="tom00161.htm">
+    </OBJECT>
+    <A HREF="file:tom00161.htm">Rally</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sanctify">
+    <param name="Local" value="tom00162.htm">
+    </OBJECT>
+    <A HREF="file:tom00162.htm">Sanctify</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Zone of Truth">
+    <param name="Local" value="tom00163.htm">
+    </OBJECT>
+    <A HREF="file:tom00163.htm">Zone of Truth</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Third-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Acclerate Healing">
+    <param name="Local" value="tom00164.htm">
+    </OBJECT>
+    <A HREF="file:tom00164.htm">Acclerate Healing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adaptation">
+    <param name="Local" value="tom00165.htm">
+    </OBJECT>
+    <A HREF="file:tom00165.htm">Adaptation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Astral Window">
+    <param name="Local" value="tom00166.htm">
+    </OBJECT>
+    <A HREF="file:tom00166.htm">Astral Window</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Caltrops">
+    <param name="Local" value="tom00167.htm">
+    </OBJECT>
+    <A HREF="file:tom00167.htm">Caltrops</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Choose Future">
+    <param name="Local" value="tom00168.htm">
+    </OBJECT>
+    <A HREF="file:tom00168.htm">Choose Future</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Create Campsite">
+    <param name="Local" value="tom00169.htm">
+    </OBJECT>
+    <A HREF="file:tom00169.htm">Create Campsite</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Efficacious Monster Ward">
+    <param name="Local" value="tom00170.htm">
+    </OBJECT>
+    <A HREF="file:tom00170.htm">Efficacious Monster Ward</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Emotion Control">
+    <param name="Local" value="tom00171.htm">
+    </OBJECT>
+    <A HREF="file:tom00171.htm">Emotion Control</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Extradimensional Detection">
+    <param name="Local" value="tom00172.htm">
+    </OBJECT>
+    <A HREF="file:tom00172.htm">Extradimensional Detection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Helping Hand">
+    <param name="Local" value="tom00173.htm">
+    </OBJECT>
+    <A HREF="file:tom00173.htm">Helping Hand</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Invisibility Purge">
+    <param name="Local" value="tom00174.htm">
+    </OBJECT>
+    <A HREF="file:tom00174.htm">Invisibility Purge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Know Customs">
+    <param name="Local" value="tom00175.htm">
+    </OBJECT>
+    <A HREF="file:tom00175.htm">Know Customs</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Line of Protection">
+    <param name="Local" value="tom00176.htm">
+    </OBJECT>
+    <A HREF="file:tom00176.htm">Line of Protection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Memory Read">
+    <param name="Local" value="tom00177.htm">
+    </OBJECT>
+    <A HREF="file:tom00177.htm">Memory Read</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Miscast Magic">
+    <param name="Local" value="tom00178.htm">
+    </OBJECT>
+    <A HREF="file:tom00178.htm">Miscast Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Moment Reading">
+    <param name="Local" value="tom00179.htm">
+    </OBJECT>
+    <A HREF="file:tom00179.htm">Moment Reading</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Random Causality">
+    <param name="Local" value="tom00180.htm">
+    </OBJECT>
+    <A HREF="file:tom00180.htm">Random Causality</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rigid Thinking">
+    <param name="Local" value="tom00181.htm">
+    </OBJECT>
+    <A HREF="file:tom00181.htm">Rigid Thinking</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Slow Rot">
+    <param name="Local" value="tom00182.htm">
+    </OBJECT>
+    <A HREF="file:tom00182.htm">Slow Rot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Squeaking Floors">
+    <param name="Local" value="tom00183.htm">
+    </OBJECT>
+    <A HREF="file:tom00183.htm">Squeaking Floors</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strength of One">
+    <param name="Local" value="tom00184.htm">
+    </OBJECT>
+    <A HREF="file:tom00184.htm">Strength of One</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Telepathy">
+    <param name="Local" value="tom00185.htm">
+    </OBJECT>
+    <A HREF="file:tom00185.htm">Telepathy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Telethaumaturgy">
+    <param name="Local" value="tom00186.htm">
+    </OBJECT>
+    <A HREF="file:tom00186.htm">Telethaumaturgy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thief's Lament">
+    <param name="Local" value="tom00187.htm">
+    </OBJECT>
+    <A HREF="file:tom00187.htm">Thief's Lament</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unearthly Choir">
+    <param name="Local" value="tom00188.htm">
+    </OBJECT>
+    <A HREF="file:tom00188.htm">Unearthly Choir</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Zone of Sweet Air">
+    <param name="Local" value="tom00189.htm">
+    </OBJECT>
+    <A HREF="file:tom00189.htm">Zone of Sweet Air</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fourth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Addition">
+    <param name="Local" value="tom00190.htm">
+    </OBJECT>
+    <A HREF="file:tom00190.htm">Addition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Age Plant">
+    <param name="Local" value="tom00191.htm">
+    </OBJECT>
+    <A HREF="file:tom00191.htm">Age Plant</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blessed Warmth">
+    <param name="Local" value="tom00192.htm">
+    </OBJECT>
+    <A HREF="file:tom00192.htm">Blessed Warmth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Body Clock">
+    <param name="Local" value="tom00193.htm">
+    </OBJECT>
+    <A HREF="file:tom00193.htm">Body Clock</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaotic Combat">
+    <param name="Local" value="tom00194.htm">
+    </OBJECT>
+    <A HREF="file:tom00194.htm">Chaotic Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaotic Sleep">
+    <param name="Local" value="tom00195.htm">
+    </OBJECT>
+    <A HREF="file:tom00195.htm">Chaotic Sleep</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Circle of Privacy">
+    <param name="Local" value="tom00196.htm">
+    </OBJECT>
+    <A HREF="file:tom00196.htm">Circle of Privacy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Compulsive Order">
+    <param name="Local" value="tom00197.htm">
+    </OBJECT>
+    <A HREF="file:tom00197.htm">Compulsive Order</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Defensive Harmony">
+    <param name="Local" value="tom00198.htm">
+    </OBJECT>
+    <A HREF="file:tom00198.htm">Defensive Harmony</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dimensional Folding">
+    <param name="Local" value="tom00199.htm">
+    </OBJECT>
+    <A HREF="file:tom00199.htm">Dimensional Folding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fire Purge">
+    <param name="Local" value="tom00200.htm">
+    </OBJECT>
+    <A HREF="file:tom00200.htm">Fire Purge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Focus">
+    <param name="Local" value="tom00201.htm">
+    </OBJECT>
+    <A HREF="file:tom00201.htm">Focus</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fortify">
+    <param name="Local" value="tom00202.htm">
+    </OBJECT>
+    <A HREF="file:tom00202.htm">Fortify</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Genius">
+    <param name="Local" value="tom00203.htm">
+    </OBJECT>
+    <A HREF="file:tom00203.htm">Genius</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inverted Ethics">
+    <param name="Local" value="tom00204.htm">
+    </OBJECT>
+    <A HREF="file:tom00204.htm">Inverted Ethics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Join With Astral Traveler">
+    <param name="Local" value="tom00205.htm">
+    </OBJECT>
+    <A HREF="file:tom00205.htm">Join With Astral Traveler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Leadership">
+    <param name="Local" value="tom00206.htm">
+    </OBJECT>
+    <A HREF="file:tom00206.htm">Leadership</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mental Domination">
+    <param name="Local" value="tom00207.htm">
+    </OBJECT>
+    <A HREF="file:tom00207.htm">Mental Domination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Modify Memory">
+    <param name="Local" value="tom00208.htm">
+    </OBJECT>
+    <A HREF="file:tom00208.htm">Modify Memory</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rapport">
+    <param name="Local" value="tom00210.htm">
+    </OBJECT>
+    <A HREF="file:tom00210.htm">Rapport</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Probability Control">
+    <param name="Local" value="tom00209.htm">
+    </OBJECT>
+    <A HREF="file:tom00209.htm">Probability Control</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Solipsism">
+    <param name="Local" value="tom00211.htm">
+    </OBJECT>
+    <A HREF="file:tom00211.htm">Solipsism</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tanglefoot">
+    <param name="Local" value="tom00212.htm">
+    </OBJECT>
+    <A HREF="file:tom00212.htm">Tanglefoot</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought Broadcast">
+    <param name="Local" value="tom00213.htm">
+    </OBJECT>
+    <A HREF="file:tom00213.htm">Thought Broadcast</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tree Steed">
+    <param name="Local" value="tom00214.htm">
+    </OBJECT>
+    <A HREF="file:tom00214.htm">Tree Steed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Uplift">
+    <param name="Local" value="tom00215.htm">
+    </OBJECT>
+    <A HREF="file:tom00215.htm">Uplift</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weather Stasis">
+    <param name="Local" value="tom00216.htm">
+    </OBJECT>
+    <A HREF="file:tom00216.htm">Weather Stasis</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fifth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Age Object">
+    <param name="Local" value="tom00217.htm">
+    </OBJECT>
+    <A HREF="file:tom00217.htm">Age Object</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Barrier of Retention">
+    <param name="Local" value="tom00218.htm">
+    </OBJECT>
+    <A HREF="file:tom00218.htm">Barrier of Retention</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blessed Abundance">
+    <param name="Local" value="tom00219.htm">
+    </OBJECT>
+    <A HREF="file:tom00219.htm">Blessed Abundance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Champion's Strength">
+    <param name="Local" value="tom00220.htm">
+    </OBJECT>
+    <A HREF="file:tom00220.htm">Champion's Strength</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaotic Command">
+    <param name="Local" value="tom00221.htm">
+    </OBJECT>
+    <A HREF="file:tom00221.htm">Chaotic Command</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clear Path">
+    <param name="Local" value="tom00222.htm">
+    </OBJECT>
+    <A HREF="file:tom00222.htm">Clear Path</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cloud of Purification">
+    <param name="Local" value="tom00223.htm">
+    </OBJECT>
+    <A HREF="file:tom00223.htm">Cloud of Purification</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Consequence">
+    <param name="Local" value="tom00224.htm">
+    </OBJECT>
+    <A HREF="file:tom00224.htm">Consequence</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disguise">
+    <param name="Local" value="tom00225.htm">
+    </OBJECT>
+    <A HREF="file:tom00225.htm">Disguise</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Easy March">
+    <param name="Local" value="tom00226.htm">
+    </OBJECT>
+    <A HREF="file:tom00226.htm">Easy March</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Forbiddance">
+    <param name="Local" value="tom00227.htm">
+    </OBJECT>
+    <A HREF="file:tom00227.htm">Elemental Forbiddance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Extradimensional Manipulation">
+    <param name="Local" value="tom00228.htm">
+    </OBJECT>
+    <A HREF="file:tom00228.htm">Extradimensional Manipulation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Extradimensional Pocket">
+    <param name="Local" value="tom00229.htm">
+    </OBJECT>
+    <A HREF="file:tom00229.htm">Extradimensional Pocket</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Grounding">
+    <param name="Local" value="tom00230.htm">
+    </OBJECT>
+    <A HREF="file:tom00230.htm">Grounding</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Illusory Artillery">
+    <param name="Local" value="tom00231.htm">
+    </OBJECT>
+    <A HREF="file:tom00231.htm">Illusory Artillery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Impeding Permission">
+    <param name="Local" value="tom00232.htm">
+    </OBJECT>
+    <A HREF="file:tom00232.htm">Impeding Permission</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Meld">
+    <param name="Local" value="tom00233.htm">
+    </OBJECT>
+    <A HREF="file:tom00233.htm">Meld</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Memory Wrack">
+    <param name="Local" value="tom00234.htm">
+    </OBJECT>
+    <A HREF="file:tom00234.htm">Memory Wrack</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mindshatter">
+    <param name="Local" value="tom00235.htm">
+    </OBJECT>
+    <A HREF="file:tom00235.htm">Mindshatter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Repeat Action">
+    <param name="Local" value="tom00236.htm">
+    </OBJECT>
+    <A HREF="file:tom00236.htm">Repeat Action</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shrieking Walls">
+    <param name="Local" value="tom00237.htm">
+    </OBJECT>
+    <A HREF="file:tom00237.htm">Shrieking Walls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thoughtwave">
+    <param name="Local" value="tom00238.htm">
+    </OBJECT>
+    <A HREF="file:tom00238.htm">Thoughtwave</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Time Pool">
+    <param name="Local" value="tom00239.htm">
+    </OBJECT>
+    <A HREF="file:tom00239.htm">Time Pool</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unceasing Vigilance of the Holly Sentinel">
+    <param name="Local" value="tom00240.htm">
+    </OBJECT>
+    <A HREF="file:tom00240.htm">Unceasing Vigilance of the Holly Sentinel</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Undead Ward">
+    <param name="Local" value="tom00241.htm">
+    </OBJECT>
+    <A HREF="file:tom00241.htm">Undead Ward</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sixth-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Age Creature">
+    <param name="Local" value="tom00242.htm">
+    </OBJECT>
+    <A HREF="file:tom00242.htm">Age Creature</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Crushing Walls">
+    <param name="Local" value="tom00243.htm">
+    </OBJECT>
+    <A HREF="file:tom00243.htm">Crushing Walls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disbelief">
+    <param name="Local" value="tom00244.htm">
+    </OBJECT>
+    <A HREF="file:tom00244.htm">Disbelief</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dragonbane">
+    <param name="Local" value="tom00245.htm">
+    </OBJECT>
+    <A HREF="file:tom00245.htm">Dragonbane</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gravity Variation">
+    <param name="Local" value="tom00246.htm">
+    </OBJECT>
+    <A HREF="file:tom00246.htm">Gravity Variation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Great Circle">
+    <param name="Local" value="tom00247.htm">
+    </OBJECT>
+    <A HREF="file:tom00247.htm">The Great Circle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Group Mind">
+    <param name="Local" value="tom00248.htm">
+    </OBJECT>
+    <A HREF="file:tom00248.htm">Group Mind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Land of Stability">
+    <param name="Local" value="tom00249.htm">
+    </OBJECT>
+    <A HREF="file:tom00249.htm">Land of Stability</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Legal Thoughts">
+    <param name="Local" value="tom00250.htm">
+    </OBJECT>
+    <A HREF="file:tom00250.htm">Legal Thoughts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Monster Mount">
+    <param name="Local" value="tom00251.htm">
+    </OBJECT>
+    <A HREF="file:tom00251.htm">Monster Mount</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Physical Mirror">
+    <param name="Local" value="tom00252.htm">
+    </OBJECT>
+    <A HREF="file:tom00252.htm">Physical Mirror</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reverse Time">
+    <param name="Local" value="tom00253.htm">
+    </OBJECT>
+    <A HREF="file:tom00253.htm">Reverse Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seclusion">
+    <param name="Local" value="tom00254.htm">
+    </OBJECT>
+    <A HREF="file:tom00254.htm">Seclusion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Skip Day">
+    <param name="Local" value="tom00255.htm">
+    </OBJECT>
+    <A HREF="file:tom00255.htm">Skip Day</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sol's Searing Orb">
+    <param name="Local" value="tom00256.htm">
+    </OBJECT>
+    <A HREF="file:tom00256.htm">Sol's Searing Orb</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spiritual Wrath">
+    <param name="Local" value="tom00257.htm">
+    </OBJECT>
+    <A HREF="file:tom00257.htm">Spiritual Wrath</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seventh-Level Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Age Dragon">
+    <param name="Local" value="tom00258.htm">
+    </OBJECT>
+    <A HREF="file:tom00258.htm">Age Dragon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Breath of Life">
+    <param name="Local" value="tom00259.htm">
+    </OBJECT>
+    <A HREF="file:tom00259.htm">Breath of Life</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divine Inspiration">
+    <param name="Local" value="tom00260.htm">
+    </OBJECT>
+    <A HREF="file:tom00260.htm">Divine Inspiration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hovering Road">
+    <param name="Local" value="tom00261.htm">
+    </OBJECT>
+    <A HREF="file:tom00261.htm">Hovering Road</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Illusory Fortification">
+    <param name="Local" value="tom00262.htm">
+    </OBJECT>
+    <A HREF="file:tom00262.htm">Illusory Fortification</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mind Tracker">
+    <param name="Local" value="tom00263.htm">
+    </OBJECT>
+    <A HREF="file:tom00263.htm">Mind Tracker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shadow Engines">
+    <param name="Local" value="tom00264.htm">
+    </OBJECT>
+    <A HREF="file:tom00264.htm">Shadow Engines</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spacewarp">
+    <param name="Local" value="tom00265.htm">
+    </OBJECT>
+    <A HREF="file:tom00265.htm">Spacewarp</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spirit of Power">
+    <param name="Local" value="tom00266.htm">
+    </OBJECT>
+    <A HREF="file:tom00266.htm">Spirit of Power</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tentacle Walls">
+    <param name="Local" value="tom00267.htm">
+    </OBJECT>
+    <A HREF="file:tom00267.htm">Tentacle Walls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Timelessness">
+    <param name="Local" value="tom00268.htm">
+    </OBJECT>
+    <A HREF="file:tom00268.htm">Timelessness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Uncontrolled Weather">
+    <param name="Local" value="tom00269.htm">
+    </OBJECT>
+    <A HREF="file:tom00269.htm">Uncontrolled Weather</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Quest Spells">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abundance">
+    <param name="Local" value="tom00271.htm">
+    </OBJECT>
+    <A HREF="file:tom00271.htm">Abundance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Horde">
+    <param name="Local" value="tom00272.htm">
+    </OBJECT>
+    <A HREF="file:tom00272.htm">Animal Horde</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Circle of Sunmotes">
+    <param name="Local" value="tom00273.htm">
+    </OBJECT>
+    <A HREF="file:tom00273.htm">Circle of Sunmotes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conformance">
+    <param name="Local" value="tom00274.htm">
+    </OBJECT>
+    <A HREF="file:tom00274.htm">Conformance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Swarm">
+    <param name="Local" value="tom00275.htm">
+    </OBJECT>
+    <A HREF="file:tom00275.htm">Elemental Swarm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Etherwalk">
+    <param name="Local" value="tom00276.htm">
+    </OBJECT>
+    <A HREF="file:tom00276.htm">Etherwalk</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fear Contagion">
+    <param name="Local" value="tom00277.htm">
+    </OBJECT>
+    <A HREF="file:tom00277.htm">Fear Contagion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Health Blessing">
+    <param name="Local" value="tom00278.htm">
+    </OBJECT>
+    <A HREF="file:tom00278.htm">Health Blessing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Imago Interrogation">
+    <param name="Local" value="tom00280.htm">
+    </OBJECT>
+    <A HREF="file:tom00280.htm">Imago Interrogation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Highway">
+    <param name="Local" value="tom00279.htm">
+    </OBJECT>
+    <A HREF="file:tom00279.htm">Highway</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Implosion/Inversion">
+    <param name="Local" value="tom00281.htm">
+    </OBJECT>
+    <A HREF="file:tom00281.htm">Implosion/Inversion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Interdiction">
+    <param name="Local" value="tom00282.htm">
+    </OBJECT>
+    <A HREF="file:tom00282.htm">Interdiction</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mindnet">
+    <param name="Local" value="tom00283.htm">
+    </OBJECT>
+    <A HREF="file:tom00283.htm">Mindnet</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="PLanar Quest">
+    <param name="Local" value="tom00284.htm">
+    </OBJECT>
+    <A HREF="file:tom00284.htm">PLanar Quest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Preservation">
+    <param name="Local" value="tom00285.htm">
+    </OBJECT>
+    <A HREF="file:tom00285.htm">Preservation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Revelation">
+    <param name="Local" value="tom00286.htm">
+    </OBJECT>
+    <A HREF="file:tom00286.htm">Revelation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reversion">
+    <param name="Local" value="tom00287.htm">
+    </OBJECT>
+    <A HREF="file:tom00287.htm">Reversion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Robe of Healing">
+    <param name="Local" value="tom00288.htm">
+    </OBJECT>
+    <A HREF="file:tom00288.htm">Robe of Healing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Siege Wall">
+    <param name="Local" value="tom00289.htm">
+    </OBJECT>
+    <A HREF="file:tom00289.htm">Siege Wall</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shooting Stars">
+    <param name="Local" value="tom00290.htm">
+    </OBJECT>
+    <A HREF="file:tom00290.htm">Shooting Stars</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sphere of Security">
+    <param name="Local" value="tom00291.htm">
+    </OBJECT>
+    <A HREF="file:tom00291.htm">Sphere of Security</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spiral of Degeneration">
+    <param name="Local" value="tom00292.htm">
+    </OBJECT>
+    <A HREF="file:tom00292.htm">Spiral of Degeneration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stalker">
+    <param name="Local" value="tom00293.htm">
+    </OBJECT>
+    <A HREF="file:tom00293.htm">Stalker</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Storm of Vengeance">
+    <param name="Local" value="tom00294.htm">
+    </OBJECT>
+    <A HREF="file:tom00294.htm">Storm of Vengeance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Transformation">
+    <param name="Local" value="tom00295.htm">
+    </OBJECT>
+    <A HREF="file:tom00295.htm">Transformation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Undead Plague">
+    <param name="Local" value="tom00296.htm">
+    </OBJECT>
+    <A HREF="file:tom00296.htm">Undead Plague</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warband Quest">
+    <param name="Local" value="tom00297.htm">
+    </OBJECT>
+    <A HREF="file:tom00297.htm">Warband Quest</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ward Matrix">
+    <param name="Local" value="tom00298.htm">
+    </OBJECT>
+    <A HREF="file:tom00298.htm">Ward Matrix</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wolf Spirits">
+    <param name="Local" value="tom00299.htm">
+    </OBJECT>
+    <A HREF="file:tom00299.htm">Wolf Spirits</A>
+</UL>
+</UL>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix 1: Wizard Spells by School">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizard Spells by School">
+    <param name="Local" value="tom00403.htm">
+    </OBJECT>
+    <A HREF="file:tom00403.htm">Wizard Spells by School</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Abjuration">
+    <param name="Local" value="tom00404.htm">
+    </OBJECT>
+    <A HREF="file:tom00404.htm">Abjuration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alteration">
+    <param name="Local" value="tom00405.htm">
+    </OBJECT>
+    <A HREF="file:tom00405.htm">Alteration</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conjuration/Summoning">
+    <param name="Local" value="tom00406.htm">
+    </OBJECT>
+    <A HREF="file:tom00406.htm">Conjuration/Summoning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Enchantment/Charm">
+    <param name="Local" value="tom00407.htm">
+    </OBJECT>
+    <A HREF="file:tom00407.htm">Enchantment/Charm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Illusion/Phantasm">
+    <param name="Local" value="tom00408.htm">
+    </OBJECT>
+    <A HREF="file:tom00408.htm">Illusion/Phantasm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Invocation/Evocation">
+    <param name="Local" value="tom00409.htm">
+    </OBJECT>
+    <A HREF="file:tom00409.htm">Invocation/Evocation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divination">
+    <param name="Local" value="tom00410.htm">
+    </OBJECT>
+    <A HREF="file:tom00410.htm">Divination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Necromancy">
+    <param name="Local" value="tom00411.htm">
+    </OBJECT>
+    <A HREF="file:tom00411.htm">Necromancy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wild Magic II">
+    <param name="Local" value="tom00412.htm">
+    </OBJECT>
+    <A HREF="file:tom00412.htm">Wild Magic II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Air">
+    <param name="Local" value="tom00413.htm">
+    </OBJECT>
+    <A HREF="file:tom00413.htm">Elemental Air</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Earth">
+    <param name="Local" value="tom00414.htm">
+    </OBJECT>
+    <A HREF="file:tom00414.htm">Elemental Earth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Fire">
+    <param name="Local" value="tom00415.htm">
+    </OBJECT>
+    <A HREF="file:tom00415.htm">Elemental Fire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Water">
+    <param name="Local" value="tom00416.htm">
+    </OBJECT>
+    <A HREF="file:tom00416.htm">Elemental Water</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix 2: Priest Spells by Sphere">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priest Spells by Sphere">
+    <param name="Local" value="tom00417.htm">
+    </OBJECT>
+    <A HREF="file:tom00417.htm">Priest Spells by Sphere</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="All">
+    <param name="Local" value="tom00418.htm">
+    </OBJECT>
+    <A HREF="file:tom00418.htm">All</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal">
+    <param name="Local" value="tom00419.htm">
+    </OBJECT>
+    <A HREF="file:tom00419.htm">Animal</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Astral">
+    <param name="Local" value="tom00420.htm">
+    </OBJECT>
+    <A HREF="file:tom00420.htm">Astral</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chaos II">
+    <param name="Local" value="tom00421.htm">
+    </OBJECT>
+    <A HREF="file:tom00421.htm">Chaos II</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Charm">
+    <param name="Local" value="tom00422.htm">
+    </OBJECT>
+    <A HREF="file:tom00422.htm">Charm</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat">
+    <param name="Local" value="tom00423.htm">
+    </OBJECT>
+    <A HREF="file:tom00423.htm">Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Creation">
+    <param name="Local" value="tom00424.htm">
+    </OBJECT>
+    <A HREF="file:tom00424.htm">Creation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Divination">
+    <param name="Local" value="tom00425.htm">
+    </OBJECT>
+    <A HREF="file:tom00425.htm">Divination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental">
+    <param name="Local" value="tom00426.htm">
+    </OBJECT>
+    <A HREF="file:tom00426.htm">Elemental</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Air">
+    <param name="Local" value="tom00427.htm">
+    </OBJECT>
+    <A HREF="file:tom00427.htm">Elemental Air</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Earth">
+    <param name="Local" value="tom00428.htm">
+    </OBJECT>
+    <A HREF="file:tom00428.htm">Elemental Earth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Fire">
+    <param name="Local" value="tom00429.htm">
+    </OBJECT>
+    <A HREF="file:tom00429.htm">Elemental Fire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elemental Water">
+    <param name="Local" value="tom00430.htm">
+    </OBJECT>
+    <A HREF="file:tom00430.htm">Elemental Water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Guardian">
+    <param name="Local" value="tom00431.htm">
+    </OBJECT>
+    <A HREF="file:tom00431.htm">Guardian</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Healing">
+    <param name="Local" value="tom00432.htm">
+    </OBJECT>
+    <A HREF="file:tom00432.htm">Healing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Law">
+    <param name="Local" value="tom00433.htm">
+    </OBJECT>
+    <A HREF="file:tom00433.htm">Law</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Necromantic">
+    <param name="Local" value="tom00434.htm">
+    </OBJECT>
+    <A HREF="file:tom00434.htm">Necromantic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Number">
+    <param name="Local" value="tom00435.htm">
+    </OBJECT>
+    <A HREF="file:tom00435.htm">Number</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Plant">
+    <param name="Local" value="tom00436.htm">
+    </OBJECT>
+    <A HREF="file:tom00436.htm">Plant</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Protection">
+    <param name="Local" value="tom00437.htm">
+    </OBJECT>
+    <A HREF="file:tom00437.htm">Protection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Summoning">
+    <param name="Local" value="tom00438.htm">
+    </OBJECT>
+    <A HREF="file:tom00438.htm">Summoning</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sun">
+    <param name="Local" value="tom00439.htm">
+    </OBJECT>
+    <A HREF="file:tom00439.htm">Sun</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought">
+    <param name="Local" value="tom00440.htm">
+    </OBJECT>
+    <A HREF="file:tom00440.htm">Thought</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Time">
+    <param name="Local" value="tom00441.htm">
+    </OBJECT>
+    <A HREF="file:tom00441.htm">Time</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Travelers">
+    <param name="Local" value="tom00442.htm">
+    </OBJECT>
+    <A HREF="file:tom00442.htm">Travelers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="War">
+    <param name="Local" value="tom00443.htm">
+    </OBJECT>
+    <A HREF="file:tom00443.htm">War</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wards">
+    <param name="Local" value="tom00444.htm">
+    </OBJECT>
+    <A HREF="file:tom00444.htm">Wards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weather">
+    <param name="Local" value="tom00445.htm">
+    </OBJECT>
+    <A HREF="file:tom00445.htm">Weather</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix 3: Alphabetical Spell Index">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A">
+    <param name="Local" value="tom00446.htm">
+    </OBJECT>
+    <A HREF="file:tom00446.htm">A</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="B">
+    <param name="Local" value="tom00447.htm">
+    </OBJECT>
+    <A HREF="file:tom00447.htm">B</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="C">
+    <param name="Local" value="tom00448.htm">
+    </OBJECT>
+    <A HREF="file:tom00448.htm">C</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="D">
+    <param name="Local" value="tom00449.htm">
+    </OBJECT>
+    <A HREF="file:tom00449.htm">D</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="E">
+    <param name="Local" value="tom00450.htm">
+    </OBJECT>
+    <A HREF="file:tom00450.htm">E</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="F">
+    <param name="Local" value="tom00451.htm">
+    </OBJECT>
+    <A HREF="file:tom00451.htm">F</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="G">
+    <param name="Local" value="tom00452.htm">
+    </OBJECT>
+    <A HREF="file:tom00452.htm">G</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="H">
+    <param name="Local" value="tom00453.htm">
+    </OBJECT>
+    <A HREF="file:tom00453.htm">H</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="I">
+    <param name="Local" value="tom00454.htm">
+    </OBJECT>
+    <A HREF="file:tom00454.htm">I</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="J">
+    <param name="Local" value="tom00455.htm">
+    </OBJECT>
+    <A HREF="file:tom00455.htm">J</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="K">
+    <param name="Local" value="tom00456.htm">
+    </OBJECT>
+    <A HREF="file:tom00456.htm">K</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="L">
+    <param name="Local" value="tom00457.htm">
+    </OBJECT>
+    <A HREF="file:tom00457.htm">L</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="M">
+    <param name="Local" value="tom00458.htm">
+    </OBJECT>
+    <A HREF="file:tom00458.htm">M</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="N">
+    <param name="Local" value="tom00459.htm">
+    </OBJECT>
+    <A HREF="file:tom00459.htm">N</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="O">
+    <param name="Local" value="tom00460.htm">
+    </OBJECT>
+    <A HREF="file:tom00460.htm">O</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="P">
+    <param name="Local" value="tom00461.htm">
+    </OBJECT>
+    <A HREF="file:tom00461.htm">P</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Q">
+    <param name="Local" value="tom00462.htm">
+    </OBJECT>
+    <A HREF="file:tom00462.htm">Q</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="R">
+    <param name="Local" value="tom00463.htm">
+    </OBJECT>
+    <A HREF="file:tom00463.htm">R</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="S">
+    <param name="Local" value="tom00464.htm">
+    </OBJECT>
+    <A HREF="file:tom00464.htm">S</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="T">
+    <param name="Local" value="tom00465.htm">
+    </OBJECT>
+    <A HREF="file:tom00465.htm">T</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="U">
+    <param name="Local" value="tom00466.htm">
+    </OBJECT>
+    <A HREF="file:tom00466.htm">U</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="V">
+    <param name="Local" value="tom00467.htm">
+    </OBJECT>
+    <A HREF="file:tom00467.htm">V</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="W-Y">
+    <param name="Local" value="tom00468.htm">
+    </OBJECT>
+    <A HREF="file:tom00468.htm">W-Y</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Z">
+    <param name="Local" value="tom00469.htm">
+    </OBJECT>
+    <A HREF="file:tom00469.htm">Z</A>
+</UL>
+</UL>
+</UL>
+</HTML>
