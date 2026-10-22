@@ -1,0 +1,32 @@
+Animal type
+Item1
+Item2
+0 0 0 0 0 0
+mammal/marsupial
+Item1
+Item2
+1 4 0 0 0 0
+avian
+Item1
+Item2
+5 8 0 0 0 0
+reptile/amphibian
+Item1
+Item2
+9 12 0 0 0 0
+fish
+Item1
+Item2
+13 15 0 0 0 0
+mammal/marsupial/avian
+Item1
+Item2
+16 17 0 0 0 0
+reptile/amphibian/fish
+Item1
+Item2
+18 19 0 0 0 0
+amphibian/avian/fish/mammal/marsupial/reptile
+Item1
+Item2
+20 20 0 0 0 0
