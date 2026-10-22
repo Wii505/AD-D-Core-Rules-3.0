@@ -1,0 +1,2728 @@
+<HTML>
+<!Sitemap 1.0>
+<OBJECT type="text/site properties">
+    <param name="FrameName" value="right">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Player's Option: Skills & Powers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table of Contents">
+    <param name="Local" value="SP00000.htm">
+    </OBJECT>
+    <A HREF="file:SP00000.htm">Table of Contents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Credits">
+    <param name="Local" value="SP00001.htm">
+    </OBJECT>
+    <A HREF="file:SP00001.htm">Credits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Foreword">
+    <param name="Local" value="SP00002.htm">
+    </OBJECT>
+    <A HREF="file:SP00002.htm">Foreword</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 1: Character Points">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Points">
+    <param name="Local" value="SP00003.htm">
+    </OBJECT>
+    <A HREF="file:SP00003.htm">Character Points</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Generation">
+    <param name="Local" value="SP00004.htm">
+    </OBJECT>
+    <A HREF="file:SP00004.htm">Character Generation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Backgrounds">
+    <param name="Local" value="SP00005.htm">
+    </OBJECT>
+    <A HREF="file:SP00005.htm">Character Backgrounds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 01: Background Events">
+    <param name="Local" value="SP00006.htm">
+    </OBJECT>
+    <A HREF="file:SP00006.htm">Table 01: Background Events</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 2: Ability Scores">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ability Scores">
+    <param name="Local" value="SP00007.htm">
+    </OBJECT>
+    <A HREF="file:SP00007.htm">Ability Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Strength, Stamina, Muscle">
+    <param name="Local" value="SP00008.htm">
+    </OBJECT>
+    <A HREF="file:SP00008.htm">Strength, Stamina, Muscle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dexterity, Aim, Balance">
+    <param name="Local" value="SP00009.htm">
+    </OBJECT>
+    <A HREF="file:SP00009.htm">Dexterity, Aim, Balance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Constitution, Health, Fitness">
+    <param name="Local" value="SP00010.htm">
+    </OBJECT>
+    <A HREF="file:SP00010.htm">Constitution, Health, Fitness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Intelligence, Reason, Knowledge">
+    <param name="Local" value="SP00011.htm">
+    </OBJECT>
+    <A HREF="file:SP00011.htm">Intelligence, Reason, Knowledge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wisdom, Intuition, Willpower">
+    <param name="Local" value="SP00012.htm">
+    </OBJECT>
+    <A HREF="file:SP00012.htm">Wisdom, Intuition, Willpower</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Charisma, Leadership, Appearance">
+    <param name="Local" value="SP00013.htm">
+    </OBJECT>
+    <A HREF="file:SP00013.htm">Charisma, Leadership, Appearance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alternate Subability Method">
+    <param name="Local" value="SP00014.htm">
+    </OBJECT>
+    <A HREF="file:SP00014.htm">Alternate Subability Method</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Subability Checks">
+    <param name="Local" value="SP00015.htm">
+    </OBJECT>
+    <A HREF="file:SP00015.htm">Subability Checks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="More About Ability Checks">
+    <param name="Local" value="SP00016.htm">
+    </OBJECT>
+    <A HREF="file:SP00016.htm">More About Ability Checks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 2: Stamina">
+    <param name="Local" value="SP00008.htm">
+    </OBJECT>
+    <A HREF="file:SP00008.htm">Table 2: Stamina</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 3: Muscle">
+    <param name="Local" value="SP00008.htm">
+    </OBJECT>
+    <A HREF="file:SP00008.htm">Table 3: Muscle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 4: Aim">
+    <param name="Local" value="SP00009.htm">
+    </OBJECT>
+    <A HREF="file:SP00009.htm">Table 4: Aim</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 5: Balance">
+    <param name="Local" value="SP00009.htm">
+    </OBJECT>
+    <A HREF="file:SP00009.htm">Table 5: Balance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 6: Health">
+    <param name="Local" value="SP00010.htm">
+    </OBJECT>
+    <A HREF="file:SP00010.htm">Table 6: Health</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 7: Fitness">
+    <param name="Local" value="SP00010.htm">
+    </OBJECT>
+    <A HREF="file:SP00010.htm">Table 7: Fitness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 8: Reason">
+    <param name="Local" value="SP00011.htm">
+    </OBJECT>
+    <A HREF="file:SP00011.htm">Table 8: Reason</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 9: Knowledge">
+    <param name="Local" value="SP00011.htm">
+    </OBJECT>
+    <A HREF="file:SP00011.htm">Table 9: Knowledge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 10: Intuition">
+    <param name="Local" value="SP00012.htm">
+    </OBJECT>
+    <A HREF="file:SP00012.htm">Table 10: Intuition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 11: Willpower">
+    <param name="Local" value="SP00012.htm">
+    </OBJECT>
+    <A HREF="file:SP00012.htm">Table 11: Willpower</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 12: Leadership">
+    <param name="Local" value="SP00013.htm">
+    </OBJECT>
+    <A HREF="file:SP00013.htm">Table 12: Leadership</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 13: Appearance">
+    <param name="Local" value="SP00013.htm">
+    </OBJECT>
+    <A HREF="file:SP00013.htm">Table 13: Appearance</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 3: Racial Requirements">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Racial Requirements">
+    <param name="Local" value="SP00017.htm">
+    </OBJECT>
+    <A HREF="file:SP00017.htm">Racial Requirements</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Racial Ability Adjustments">
+    <param name="Local" value="SP00018.htm">
+    </OBJECT>
+    <A HREF="file:SP00018.htm">Racial Ability Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Racial Level Limits">
+    <param name="Local" value="SP00018.htm">
+    </OBJECT>
+    <A HREF="file:SP00018.htm">Racial Level Limits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Points">
+    <param name="Local" value="SP00023.htm">
+    </OBJECT>
+    <A HREF="file:SP00023.htm">Character Points</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dwarves">
+    <param name="Local" value="SP00024.htm">
+    </OBJECT>
+    <A HREF="file:SP00024.htm">Dwarves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Elves">
+    <param name="Local" value="SP00025.htm">
+    </OBJECT>
+    <A HREF="file:SP00025.htm">Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnomes">
+    <param name="Local" value="SP00026.htm">
+    </OBJECT>
+    <A HREF="file:SP00026.htm">Gnomes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Halflings">
+    <param name="Local" value="SP00027.htm">
+    </OBJECT>
+    <A HREF="file:SP00027.htm">Halflings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Half-Elves">
+    <param name="Local" value="SP00028.htm">
+    </OBJECT>
+    <A HREF="file:SP00028.htm">Half-Elves</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Half-Orcs">
+    <param name="Local" value="SP00029.htm">
+    </OBJECT>
+    <A HREF="file:SP00029.htm">Half-Orcs</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Half-Ogres">
+    <param name="Local" value="SP00030.htm">
+    </OBJECT>
+    <A HREF="file:SP00030.htm">Half-Ogres</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Humans">
+    <param name="Local" value="SP00031.htm">
+    </OBJECT>
+    <A HREF="file:SP00031.htm">Humans</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Other Races">
+    <param name="Local" value="SP00032.htm">
+    </OBJECT>
+    <A HREF="file:SP00032.htm">Other Races</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ability Score Requirements">
+    <param name="Local" value="SP00035.htm">
+    </OBJECT>
+    <A HREF="file:SP00035.htm">Ability Score Requirements</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Racial Ability Score Adjustments">
+    <param name="Local" value="SP00036.htm">
+    </OBJECT>
+    <A HREF="file:SP00036.htm">Racial Ability Score Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Humanoid and Monster Character Level Limtis by Class">
+    <param name="Local" value="SP00037.htm">
+    </OBJECT>
+    <A HREF="file:SP00037.htm">Humanoid and Monster Character Level Limtis by Class</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 14: Racial Requirements">
+    <param name="Local" value="SP00019.htm">
+    </OBJECT>
+    <A HREF="file:SP00019.htm">Table 14: Racial Requirements</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 15: Racial Adjustments">
+    <param name="Local" value="SP00020.htm">
+    </OBJECT>
+    <A HREF="file:SP00020.htm">Table 15: Racial Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 16: Racial Level Limits">
+    <param name="Local" value="SP00021.htm">
+    </OBJECT>
+    <A HREF="file:SP00021.htm">Table 16: Racial Level Limits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 17: Prime Requisite Bonuses">
+    <param name="Local" value="SP00022.htm">
+    </OBJECT>
+    <A HREF="file:SP00022.htm">Table 17: Prime Requisite Bonuses</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Races">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aarakocra">
+    <param name="Local" value="SP00038.htm">
+    </OBJECT>
+    <A HREF="file:SP00038.htm">Aarakocra</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alaghi">
+    <param name="Local" value="SP00039.htm">
+    </OBJECT>
+    <A HREF="file:SP00039.htm">Alaghi</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bugbear">
+    <param name="Local" value="SP00040.htm">
+    </OBJECT>
+    <A HREF="file:SP00040.htm">Bugbear</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bullywug">
+    <param name="Local" value="SP00041.htm">
+    </OBJECT>
+    <A HREF="file:SP00041.htm">Bullywug</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Centaur">
+    <param name="Local" value="SP00042.htm">
+    </OBJECT>
+    <A HREF="file:SP00042.htm">Centaur</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Flind">
+    <param name="Local" value="SP00043.htm">
+    </OBJECT>
+    <A HREF="file:SP00043.htm">Flind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Giff">
+    <param name="Local" value="SP00044.htm">
+    </OBJECT>
+    <A HREF="file:SP00044.htm">Giff</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Githzerai">
+    <param name="Local" value="SP00045.htm">
+    </OBJECT>
+    <A HREF="file:SP00045.htm">Githzerai</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gnoll">
+    <param name="Local" value="SP00046.htm">
+    </OBJECT>
+    <A HREF="file:SP00046.htm">Gnoll</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Goblin">
+    <param name="Local" value="SP00047.htm">
+    </OBJECT>
+    <A HREF="file:SP00047.htm">Goblin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hobgoblin">
+    <param name="Local" value="SP00048.htm">
+    </OBJECT>
+    <A HREF="file:SP00048.htm">Hobgoblin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kobold">
+    <param name="Local" value="SP00049.htm">
+    </OBJECT>
+    <A HREF="file:SP00049.htm">Kobold</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lizard man">
+    <param name="Local" value="SP00050.htm">
+    </OBJECT>
+    <A HREF="file:SP00050.htm">Lizard man</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Minotaur">
+    <param name="Local" value="SP00051.htm">
+    </OBJECT>
+    <A HREF="file:SP00051.htm">Minotaur</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mongrelman">
+    <param name="Local" value="SP00052.htm">
+    </OBJECT>
+    <A HREF="file:SP00052.htm">Mongrelman</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ogre">
+    <param name="Local" value="SP00053.htm">
+    </OBJECT>
+    <A HREF="file:SP00053.htm">Ogre</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Orc">
+    <param name="Local" value="SP00054.htm">
+    </OBJECT>
+    <A HREF="file:SP00054.htm">Orc</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Satyr">
+    <param name="Local" value="SP00055.htm">
+    </OBJECT>
+    <A HREF="file:SP00055.htm">Satyr</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swanmay">
+    <param name="Local" value="SP00056.htm">
+    </OBJECT>
+    <A HREF="file:SP00056.htm">Swanmay</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thri-kreen">
+    <param name="Local" value="SP00057.htm">
+    </OBJECT>
+    <A HREF="file:SP00057.htm">Thri-kreen</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wemic">
+    <param name="Local" value="SP00058.htm">
+    </OBJECT>
+    <A HREF="file:SP00058.htm">Wemic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Racial Abilities and Restrictions">
+    <param name="Local" value="SP00059.htm">
+    </OBJECT>
+    <A HREF="file:SP00059.htm">Racial Abilities and Restrictions</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 4: Character Classes">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Classes">
+    <param name="Local" value="SP00060.htm">
+    </OBJECT>
+    <A HREF="file:SP00060.htm">Character Classes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warriors">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Warriors">
+    <param name="Local" value="SP00061.htm">
+    </OBJECT>
+    <A HREF="file:SP00061.htm">Warriors</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighter">
+    <param name="Local" value="SP00064.htm">
+    </OBJECT>
+    <A HREF="file:SP00064.htm">Fighter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Paladin">
+    <param name="Local" value="SP00065.htm">
+    </OBJECT>
+    <A HREF="file:SP00065.htm">Paladin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ranger">
+    <param name="Local" value="SP00066.htm">
+    </OBJECT>
+    <A HREF="file:SP00066.htm">Ranger</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 18: Warrior Melee Attacks By Level">
+    <param name="Local" value="SP00062.htm">
+    </OBJECT>
+    <A HREF="file:SP00062.htm">Table 18: Warrior Melee Attacks By Level</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 19: Warrior Experience Levels">
+    <param name="Local" value="SP00063.htm">
+    </OBJECT>
+    <A HREF="file:SP00063.htm">Table 19: Warrior Experience Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 20: Paladin Spell Progression">
+    <param name="Local" value="SP00065.htm">
+    </OBJECT>
+    <A HREF="file:SP00065.htm">Table 20: Paladin Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 21: Rangers' Spell-Casting Abilities">
+    <param name="Local" value="SP00066.htm">
+    </OBJECT>
+    <A HREF="file:SP00066.htm">Table 21: Rangers' Spell-Casting Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 22: Ranger Abilities By level">
+    <param name="Local" value="SP00066.htm">
+    </OBJECT>
+    <A HREF="file:SP00066.htm">Table 22: Ranger Abilities By level</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rogues">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rogues">
+    <param name="Local" value="SP00067.htm">
+    </OBJECT>
+    <A HREF="file:SP00067.htm">Rogues</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thief">
+    <param name="Local" value="SP00068.htm">
+    </OBJECT>
+    <A HREF="file:SP00068.htm">Thief</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bard">
+    <param name="Local" value="SP00077.htm">
+    </OBJECT>
+    <A HREF="file:SP00077.htm">Bard</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 23: Rogue Experience Levels">
+    <param name="Local" value="SP00069.htm">
+    </OBJECT>
+    <A HREF="file:SP00069.htm">Table 23: Rogue Experience Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 24: Backstab Damage Multiplier">
+    <param name="Local" value="SP00070.htm">
+    </OBJECT>
+    <A HREF="file:SP00070.htm">Table 24: Backstab Damage Multiplier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 25: Thief Scroll Use">
+    <param name="Local" value="SP00071.htm">
+    </OBJECT>
+    <A HREF="file:SP00071.htm">Table 25: Thief Scroll Use</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 26: Tunneling">
+    <param name="Local" value="SP00072.htm">
+    </OBJECT>
+    <A HREF="file:SP00072.htm">Table 26: Tunneling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 27: Theiving Skill Base Scores">
+    <param name="Local" value="SP00073.htm">
+    </OBJECT>
+    <A HREF="file:SP00073.htm">Table 27: Theiving Skill Base Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 28: Theiving Skill Racial Adjustments">
+    <param name="Local" value="SP00074.htm">
+    </OBJECT>
+    <A HREF="file:SP00074.htm">Table 28: Theiving Skill Racial Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 29: Thieving SKill Dexterity Adjustments">
+    <param name="Local" value="SP00075.htm">
+    </OBJECT>
+    <A HREF="file:SP00075.htm">Table 29: Thieving SKill Dexterity Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 30: Thieving Skill Armor Adjustments">
+    <param name="Local" value="SP00076.htm">
+    </OBJECT>
+    <A HREF="file:SP00076.htm">Table 30: Thieving Skill Armor Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 31: Bard Scroll Use">
+    <param name="Local" value="SP00078.htm">
+    </OBJECT>
+    <A HREF="file:SP00078.htm">Table 31: Bard Scroll Use</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 32: Bard Spell Progression">
+    <param name="Local" value="SP00079.htm">
+    </OBJECT>
+    <A HREF="file:SP00079.htm">Table 32: Bard Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 33: Bard Skill Base Scores">
+    <param name="Local" value="SP00080.htm">
+    </OBJECT>
+    <A HREF="file:SP00080.htm">Table 33: Bard Skill Base Scores</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priests">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Priests">
+    <param name="Local" value="SP00081.htm">
+    </OBJECT>
+    <A HREF="file:SP00081.htm">Priests</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clerics">
+    <param name="Local" value="SP00084.htm">
+    </OBJECT>
+    <A HREF="file:SP00084.htm">Clerics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specialty Priests">
+    <param name="Local" value="SP00086.htm">
+    </OBJECT>
+    <A HREF="file:SP00086.htm">Specialty Priests</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Druids">
+    <param name="Local" value="SP00087.htm">
+    </OBJECT>
+    <A HREF="file:SP00087.htm">Druids</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 34: Priest Spell Progression">
+    <param name="Local" value="SP00082.htm">
+    </OBJECT>
+    <A HREF="file:SP00082.htm">Table 34: Priest Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 35: Priest Experience Levels">
+    <param name="Local" value="SP00083.htm">
+    </OBJECT>
+    <A HREF="file:SP00083.htm">Table 35: Priest Experience Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 36: Turning Undead">
+    <param name="Local" value="SP00085.htm">
+    </OBJECT>
+    <A HREF="file:SP00085.htm">Table 36: Turning Undead</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizards">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wizards">
+    <param name="Local" value="SP00088.htm">
+    </OBJECT>
+    <A HREF="file:SP00088.htm">Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mage">
+    <param name="Local" value="SP00089.htm">
+    </OBJECT>
+    <A HREF="file:SP00089.htm">Mage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Specialist Wizards">
+    <param name="Local" value="SP00092.htm">
+    </OBJECT>
+    <A HREF="file:SP00092.htm">Specialist Wizards</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 37: Wizards' Spell Progression">
+    <param name="Local" value="SP00090.htm">
+    </OBJECT>
+    <A HREF="file:SP00090.htm">Table 37: Wizards' Spell Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 38: Wizard Experience Levels">
+    <param name="Local" value="SP00091.htm">
+    </OBJECT>
+    <A HREF="file:SP00091.htm">Table 38: Wizard Experience Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 39: Specialist Wizard Requirements">
+    <param name="Local" value="SP00093.htm">
+    </OBJECT>
+    <A HREF="file:SP00093.htm">Table 39: Specialist Wizard Requirements</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionicist">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionicist">
+    <param name="Local" value="SP00094.htm">
+    </OBJECT>
+    <A HREF="file:SP00094.htm">Psionicist</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multi-classes and Dual-classed Characters">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Multi-Classed and Dual Classed Characters">
+    <param name="Local" value="SP00095.htm">
+    </OBJECT>
+    <A HREF="file:SP00095.htm">Multi-Classed and Dual Classed Characters</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Non-Adventurers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Non-Adventurers">
+    <param name="Local" value="SP00096.htm">
+    </OBJECT>
+    <A HREF="file:SP00096.htm">Non-Adventurers</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 5: Character Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Kits">
+    <param name="Local" value="SP00097.htm">
+    </OBJECT>
+    <A HREF="file:SP00097.htm">Character Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Social Ranks System">
+    <param name="Local" value="SP00098.htm">
+    </OBJECT>
+    <A HREF="file:SP00098.htm">The Social Ranks System</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 40: The Social Ranks Table">
+    <param name="Local" value="SP00099.htm">
+    </OBJECT>
+    <A HREF="file:SP00099.htm">Table 40: The Social Ranks Table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 41: Character Kit Table">
+    <param name="Local" value="SP00100.htm">
+    </OBJECT>
+    <A HREF="file:SP00100.htm">Table 41: Character Kit Table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 42: Animal Companions">
+    <param name="Local" value="SP00105.htm">
+    </OBJECT>
+    <A HREF="file:SP00105.htm">Table 42: Animal Companions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 43: Mounts">
+    <param name="Local" value="SP00123.htm">
+    </OBJECT>
+    <A HREF="file:SP00123.htm">Table 43: Mounts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Kits">
+    <param name="Local" value="SP00101.htm">
+    </OBJECT>
+    <A HREF="file:SP00101.htm">Kits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Acrobat">
+    <param name="Local" value="SP00102.htm">
+    </OBJECT>
+    <A HREF="file:SP00102.htm">Acrobat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Amazon">
+    <param name="Local" value="SP00103.htm">
+    </OBJECT>
+    <A HREF="file:SP00103.htm">Amazon</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Master">
+    <param name="Local" value="SP00104.htm">
+    </OBJECT>
+    <A HREF="file:SP00104.htm">Animal Master</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 42: Animal Companions">
+    <param name="Local" value="SP00105.htm">
+    </OBJECT>
+    <A HREF="file:SP00105.htm">Table 42: Animal Companions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Assassin">
+    <param name="Local" value="SP00106.htm">
+    </OBJECT>
+    <A HREF="file:SP00106.htm">Assassin</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Barbarian">
+    <param name="Local" value="SP00107.htm">
+    </OBJECT>
+    <A HREF="file:SP00107.htm">Barbarian</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Beggars">
+    <param name="Local" value="SP00108.htm">
+    </OBJECT>
+    <A HREF="file:SP00108.htm">Beggars</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cavalier">
+    <param name="Local" value="SP00109.htm">
+    </OBJECT>
+    <A HREF="file:SP00109.htm">Cavalier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Diplomat">
+    <param name="Local" value="SP00110.htm">
+    </OBJECT>
+    <A HREF="file:SP00110.htm">Diplomat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Explorers">
+    <param name="Local" value="SP00111.htm">
+    </OBJECT>
+    <A HREF="file:SP00111.htm">Explorers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gladiator">
+    <param name="Local" value="SP00112.htm">
+    </OBJECT>
+    <A HREF="file:SP00112.htm">Gladiator</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jester">
+    <param name="Local" value="SP00113.htm">
+    </OBJECT>
+    <A HREF="file:SP00113.htm">Jester</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mariner">
+    <param name="Local" value="SP00114.htm">
+    </OBJECT>
+    <A HREF="file:SP00114.htm">Mariner</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Merchants">
+    <param name="Local" value="SP00115.htm">
+    </OBJECT>
+    <A HREF="file:SP00115.htm">Merchants</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mystic">
+    <param name="Local" value="SP00116.htm">
+    </OBJECT>
+    <A HREF="file:SP00116.htm">Mystic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nobles">
+    <param name="Local" value="SP00117.htm">
+    </OBJECT>
+    <A HREF="file:SP00117.htm">Nobles</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Outlaw">
+    <param name="Local" value="SP00118.htm">
+    </OBJECT>
+    <A HREF="file:SP00118.htm">Outlaw</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Peasant Hero">
+    <param name="Local" value="SP00119.htm">
+    </OBJECT>
+    <A HREF="file:SP00119.htm">Peasant Hero</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pirate">
+    <param name="Local" value="SP00120.htm">
+    </OBJECT>
+    <A HREF="file:SP00120.htm">Pirate</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pugilist">
+    <param name="Local" value="SP00121.htm">
+    </OBJECT>
+    <A HREF="file:SP00121.htm">Pugilist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rider">
+    <param name="Local" value="SP00122.htm">
+    </OBJECT>
+    <A HREF="file:SP00122.htm">Rider</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Savage">
+    <param name="Local" value="SP00124.htm">
+    </OBJECT>
+    <A HREF="file:SP00124.htm">Savage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scholar">
+    <param name="Local" value="SP00125.htm">
+    </OBJECT>
+    <A HREF="file:SP00125.htm">Scholar</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Scout">
+    <param name="Local" value="SP00126.htm">
+    </OBJECT>
+    <A HREF="file:SP00126.htm">Scout</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sharpshooter">
+    <param name="Local" value="SP00127.htm">
+    </OBJECT>
+    <A HREF="file:SP00127.htm">Sharpshooter</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Smuggler">
+    <param name="Local" value="SP00128.htm">
+    </OBJECT>
+    <A HREF="file:SP00128.htm">Smuggler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Soldier">
+    <param name="Local" value="SP00129.htm">
+    </OBJECT>
+    <A HREF="file:SP00129.htm">Soldier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spy">
+    <param name="Local" value="SP00130.htm">
+    </OBJECT>
+    <A HREF="file:SP00130.htm">Spy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swashbuckler">
+    <param name="Local" value="SP00131.htm">
+    </OBJECT>
+    <A HREF="file:SP00131.htm">Swashbuckler</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thug">
+    <param name="Local" value="SP00132.htm">
+    </OBJECT>
+    <A HREF="file:SP00132.htm">Thug</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Master">
+    <param name="Local" value="SP00133.htm">
+    </OBJECT>
+    <A HREF="file:SP00133.htm">Weapon Master</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 6: Nonweapon Proficiencies">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nonweapon Proficiencies">
+    <param name="Local" value="SP00135.htm">
+    </OBJECT>
+    <A HREF="file:SP00135.htm">Nonweapon Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies and the Point System">
+    <param name="Local" value="SP00136.htm">
+    </OBJECT>
+    <A HREF="file:SP00136.htm">Proficiencies and the Point System</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Improving Proficiencies">
+    <param name="Local" value="SP00137.htm">
+    </OBJECT>
+    <A HREF="file:SP00137.htm">Improving Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Acquiring Character Traits">
+    <param name="Local" value="SP00138.htm">
+    </OBJECT>
+    <A HREF="file:SP00138.htm">Acquiring Character Traits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Selecting Character Disadvantages">
+    <param name="Local" value="SP00139.htm">
+    </OBJECT>
+    <A HREF="file:SP00139.htm">Selecting Character Disadvantages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Using Proficiencies in Play">
+    <param name="Local" value="SP00140.htm">
+    </OBJECT>
+    <A HREF="file:SP00140.htm">Using Proficiencies in Play</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Modifying Proficiency Rolls">
+    <param name="Local" value="SP00144.htm">
+    </OBJECT>
+    <A HREF="file:SP00144.htm">Modifying Proficiency Rolls</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiencies and Level Advancement">
+    <param name="Local" value="SP00145.htm">
+    </OBJECT>
+    <A HREF="file:SP00145.htm">Proficiencies and Level Advancement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Use of Proficiencies by Nonproficient Characters">
+    <param name="Local" value="SP00146.htm">
+    </OBJECT>
+    <A HREF="file:SP00146.htm">Use of Proficiencies by Nonproficient Characters</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Using Disadvantages">
+    <param name="Local" value="SP00147.htm">
+    </OBJECT>
+    <A HREF="file:SP00147.htm">Using Disadvantages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiency Descriptions">
+    <param name="Local" value="SP00149.htm">
+    </OBJECT>
+    <A HREF="file:SP00149.htm">Proficiency Descriptions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Moderate/Severe Disadvantages">
+    <param name="Local" value="SP00147.htm">
+    </OBJECT>
+    <A HREF="file:SP00147.htm">Moderate/Severe Disadvantages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Removing Disadvantages">
+    <param name="Local" value="SP00147.htm">
+    </OBJECT>
+    <A HREF="file:SP00147.htm">Removing Disadvantages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 44: Ability Modifiers to Proficiency Scores">
+    <param name="Local" value="SP00141.htm">
+    </OBJECT>
+    <A HREF="file:SP00141.htm">Table 44: Ability Modifiers to Proficiency Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 45: Nonweapon Proficiency Groups">
+    <param name="Local" value="SP00142.htm">
+    </OBJECT>
+    <A HREF="file:SP00142.htm">Table 45: Nonweapon Proficiency Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 46: Traits">
+    <param name="Local" value="SP00143.htm">
+    </OBJECT>
+    <A HREF="file:SP00143.htm">Table 46: Traits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 47: Disadvantages">
+    <param name="Local" value="SP00148.htm">
+    </OBJECT>
+    <A HREF="file:SP00148.htm">Table 47: Disadvantages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiency Descriptions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Proficiency Descriptions">
+    <param name="Local" value="SP00149.htm">
+    </OBJECT>
+    <A HREF="file:SP00149.htm">Proficiency Descriptions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Agriculture">
+    <param name="Local" value="SP00150.htm">
+    </OBJECT>
+    <A HREF="file:SP00150.htm">Agriculture</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ancient History">
+    <param name="Local" value="SP00151.htm">
+    </OBJECT>
+    <A HREF="file:SP00151.htm">Ancient History</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ancient Languages">
+    <param name="Local" value="SP00152.htm">
+    </OBJECT>
+    <A HREF="file:SP00152.htm">Ancient Languages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Handling">
+    <param name="Local" value="SP00153.htm">
+    </OBJECT>
+    <A HREF="file:SP00153.htm">Animal Handling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Lore">
+    <param name="Local" value="SP00154.htm">
+    </OBJECT>
+    <A HREF="file:SP00154.htm">Animal Lore</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Training">
+    <param name="Local" value="SP00155.htm">
+    </OBJECT>
+    <A HREF="file:SP00155.htm">Animal Training</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appraising">
+    <param name="Local" value="SP00156.htm">
+    </OBJECT>
+    <A HREF="file:SP00156.htm">Appraising</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armorer">
+    <param name="Local" value="SP00157.htm">
+    </OBJECT>
+    <A HREF="file:SP00157.htm">Armorer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Astrology">
+    <param name="Local" value="SP00158.htm">
+    </OBJECT>
+    <A HREF="file:SP00158.htm">Astrology</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Astronomy">
+    <param name="Local" value="SP00159.htm">
+    </OBJECT>
+    <A HREF="file:SP00159.htm">Astronomy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blacksmthing">
+    <param name="Local" value="SP00160.htm">
+    </OBJECT>
+    <A HREF="file:SP00160.htm">Blacksmthing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blind-fighting">
+    <param name="Local" value="SP00161.htm">
+    </OBJECT>
+    <A HREF="file:SP00161.htm">Blind-fighting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Boat Piloting">
+    <param name="Local" value="SP00162.htm">
+    </OBJECT>
+    <A HREF="file:SP00162.htm">Boat Piloting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bowyer/Fletcher">
+    <param name="Local" value="SP00163.htm">
+    </OBJECT>
+    <A HREF="file:SP00163.htm">Bowyer/Fletcher</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Brewing">
+    <param name="Local" value="SP00164.htm">
+    </OBJECT>
+    <A HREF="file:SP00164.htm">Brewing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Carpentry">
+    <param name="Local" value="SP00165.htm">
+    </OBJECT>
+    <A HREF="file:SP00165.htm">Carpentry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Charioteering">
+    <param name="Local" value="SP00166.htm">
+    </OBJECT>
+    <A HREF="file:SP00166.htm">Charioteering</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cobbling">
+    <param name="Local" value="SP00167.htm">
+    </OBJECT>
+    <A HREF="file:SP00167.htm">Cobbling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cooking">
+    <param name="Local" value="SP00168.htm">
+    </OBJECT>
+    <A HREF="file:SP00168.htm">Cooking</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cryptography">
+    <param name="Local" value="SP00169.htm">
+    </OBJECT>
+    <A HREF="file:SP00169.htm">Cryptography</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dancing">
+    <param name="Local" value="SP00170.htm">
+    </OBJECT>
+    <A HREF="file:SP00170.htm">Dancing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Deep Diving">
+    <param name="Local" value="SP00171.htm">
+    </OBJECT>
+    <A HREF="file:SP00171.htm">Deep Diving</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disguise">
+    <param name="Local" value="SP00172.htm">
+    </OBJECT>
+    <A HREF="file:SP00172.htm">Disguise</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Endurance">
+    <param name="Local" value="SP00173.htm">
+    </OBJECT>
+    <A HREF="file:SP00173.htm">Endurance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Engineering">
+    <param name="Local" value="SP00174.htm">
+    </OBJECT>
+    <A HREF="file:SP00174.htm">Engineering</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Etiquette">
+    <param name="Local" value="SP00175.htm">
+    </OBJECT>
+    <A HREF="file:SP00175.htm">Etiquette</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fire-Building">
+    <param name="Local" value="SP00176.htm">
+    </OBJECT>
+    <A HREF="file:SP00176.htm">Fire-Building</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fishing">
+    <param name="Local" value="SP00177.htm">
+    </OBJECT>
+    <A HREF="file:SP00177.htm">Fishing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Forgery">
+    <param name="Local" value="SP00178.htm">
+    </OBJECT>
+    <A HREF="file:SP00178.htm">Forgery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gaming">
+    <param name="Local" value="SP00179.htm">
+    </OBJECT>
+    <A HREF="file:SP00179.htm">Gaming</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gem-cutting">
+    <param name="Local" value="SP00180.htm">
+    </OBJECT>
+    <A HREF="file:SP00180.htm">Gem-cutting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Healing">
+    <param name="Local" value="SP00181.htm">
+    </OBJECT>
+    <A HREF="file:SP00181.htm">Healing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Heraldry">
+    <param name="Local" value="SP00182.htm">
+    </OBJECT>
+    <A HREF="file:SP00182.htm">Heraldry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Herbalism">
+    <param name="Local" value="SP00183.htm">
+    </OBJECT>
+    <A HREF="file:SP00183.htm">Herbalism</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Hunting">
+    <param name="Local" value="SP00184.htm">
+    </OBJECT>
+    <A HREF="file:SP00184.htm">Hunting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Juggling">
+    <param name="Local" value="SP00185.htm">
+    </OBJECT>
+    <A HREF="file:SP00185.htm">Juggling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Jumping">
+    <param name="Local" value="SP00186.htm">
+    </OBJECT>
+    <A HREF="file:SP00186.htm">Jumping</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Leather working">
+    <param name="Local" value="SP00187.htm">
+    </OBJECT>
+    <A HREF="file:SP00187.htm">Leather working</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Local History">
+    <param name="Local" value="SP00188.htm">
+    </OBJECT>
+    <A HREF="file:SP00188.htm">Local History</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mining">
+    <param name="Local" value="SP00189.htm">
+    </OBJECT>
+    <A HREF="file:SP00189.htm">Mining</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Modern Languages">
+    <param name="Local" value="SP00190.htm">
+    </OBJECT>
+    <A HREF="file:SP00190.htm">Modern Languages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mountaineering">
+    <param name="Local" value="SP00191.htm">
+    </OBJECT>
+    <A HREF="file:SP00191.htm">Mountaineering</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Musical Instrument">
+    <param name="Local" value="SP00192.htm">
+    </OBJECT>
+    <A HREF="file:SP00192.htm">Musical Instrument</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Navigation">
+    <param name="Local" value="SP00193.htm">
+    </OBJECT>
+    <A HREF="file:SP00193.htm">Navigation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Orienteering">
+    <param name="Local" value="SP00194.htm">
+    </OBJECT>
+    <A HREF="file:SP00194.htm">Orienteering</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Painting">
+    <param name="Local" value="SP00195.htm">
+    </OBJECT>
+    <A HREF="file:SP00195.htm">Painting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Pottery">
+    <param name="Local" value="SP00196.htm">
+    </OBJECT>
+    <A HREF="file:SP00196.htm">Pottery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reading/Writing">
+    <param name="Local" value="SP00197.htm">
+    </OBJECT>
+    <A HREF="file:SP00197.htm">Reading/Writing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Reading Lips">
+    <param name="Local" value="SP00198.htm">
+    </OBJECT>
+    <A HREF="file:SP00198.htm">Reading Lips</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Religion">
+    <param name="Local" value="SP00199.htm">
+    </OBJECT>
+    <A HREF="file:SP00199.htm">Religion</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Riding, Airborne and Riding, Land">
+    <param name="Local" value="SP00200.htm">
+    </OBJECT>
+    <A HREF="file:SP00200.htm">Riding, Airborne and Riding, Land</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Rope Use">
+    <param name="Local" value="SP00201.htm">
+    </OBJECT>
+    <A HREF="file:SP00201.htm">Rope Use</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Running">
+    <param name="Local" value="SP00202.htm">
+    </OBJECT>
+    <A HREF="file:SP00202.htm">Running</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sculpting">
+    <param name="Local" value="SP00203.htm">
+    </OBJECT>
+    <A HREF="file:SP00203.htm">Sculpting</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Seamanship">
+    <param name="Local" value="SP00204.htm">
+    </OBJECT>
+    <A HREF="file:SP00204.htm">Seamanship</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Set Snares">
+    <param name="Local" value="SP00205.htm">
+    </OBJECT>
+    <A HREF="file:SP00205.htm">Set Snares</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Singing">
+    <param name="Local" value="SP00206.htm">
+    </OBJECT>
+    <A HREF="file:SP00206.htm">Singing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Spellcraft">
+    <param name="Local" value="SP00207.htm">
+    </OBJECT>
+    <A HREF="file:SP00207.htm">Spellcraft</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Stonemasonry">
+    <param name="Local" value="SP00208.htm">
+    </OBJECT>
+    <A HREF="file:SP00208.htm">Stonemasonry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Survival">
+    <param name="Local" value="SP00209.htm">
+    </OBJECT>
+    <A HREF="file:SP00209.htm">Survival</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Swimming">
+    <param name="Local" value="SP00210.htm">
+    </OBJECT>
+    <A HREF="file:SP00210.htm">Swimming</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tailoring">
+    <param name="Local" value="SP00211.htm">
+    </OBJECT>
+    <A HREF="file:SP00211.htm">Tailoring</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Throwing">
+    <param name="Local" value="SP00212.htm">
+    </OBJECT>
+    <A HREF="file:SP00212.htm">Throwing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tighrope Walking">
+    <param name="Local" value="SP00213.htm">
+    </OBJECT>
+    <A HREF="file:SP00213.htm">Tighrope Walking</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tracking">
+    <param name="Local" value="SP00214.htm">
+    </OBJECT>
+    <A HREF="file:SP00214.htm">Tracking</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tumbling">
+    <param name="Local" value="SP00215.htm">
+    </OBJECT>
+    <A HREF="file:SP00215.htm">Tumbling</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ventriloquism">
+    <param name="Local" value="SP00216.htm">
+    </OBJECT>
+    <A HREF="file:SP00216.htm">Ventriloquism</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weaponsmithing">
+    <param name="Local" value="SP00217.htm">
+    </OBJECT>
+    <A HREF="file:SP00217.htm">Weaponsmithing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weather Knowledge">
+    <param name="Local" value="SP00218.htm">
+    </OBJECT>
+    <A HREF="file:SP00218.htm">Weather Knowledge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weaving">
+    <param name="Local" value="SP00219.htm">
+    </OBJECT>
+    <A HREF="file:SP00219.htm">Weaving</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Trait Descriptions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Allure">
+    <param name="Local" value="SP00220.htm">
+    </OBJECT>
+    <A HREF="file:SP00220.htm">Allure</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Alertness">
+    <param name="Local" value="SP00221.htm">
+    </OBJECT>
+    <A HREF="file:SP00221.htm">Alertness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ambidexterity">
+    <param name="Local" value="SP00222.htm">
+    </OBJECT>
+    <A HREF="file:SP00222.htm">Ambidexterity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Empathy">
+    <param name="Local" value="SP00223.htm">
+    </OBJECT>
+    <A HREF="file:SP00223.htm">Animal Empathy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Artistic Ability">
+    <param name="Local" value="SP00224.htm">
+    </OBJECT>
+    <A HREF="file:SP00224.htm">Artistic Ability</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Climate Sense">
+    <param name="Local" value="SP00225.htm">
+    </OBJECT>
+    <A HREF="file:SP00225.htm">Climate Sense</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Double-jointed">
+    <param name="Local" value="SP00226.htm">
+    </OBJECT>
+    <A HREF="file:SP00226.htm">Double-jointed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Empathy">
+    <param name="Local" value="SP00227.htm">
+    </OBJECT>
+    <A HREF="file:SP00227.htm">Empathy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fast Healer">
+    <param name="Local" value="SP00228.htm">
+    </OBJECT>
+    <A HREF="file:SP00228.htm">Fast Healer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Glibness">
+    <param name="Local" value="SP00229.htm">
+    </OBJECT>
+    <A HREF="file:SP00229.htm">Glibness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Impersonation">
+    <param name="Local" value="SP00230.htm">
+    </OBJECT>
+    <A HREF="file:SP00230.htm">Impersonation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inherent Immunity/Poison">
+    <param name="Local" value="SP00231.htm">
+    </OBJECT>
+    <A HREF="file:SP00231.htm">Inherent Immunity/Poison</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inherent Immunity/Disease">
+    <param name="Local" value="SP00232.htm">
+    </OBJECT>
+    <A HREF="file:SP00232.htm">Inherent Immunity/Disease</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inherent Immunity/Cold">
+    <param name="Local" value="SP00233.htm">
+    </OBJECT>
+    <A HREF="file:SP00233.htm">Inherent Immunity/Cold</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inherent Immunity/Heat">
+    <param name="Local" value="SP00234.htm">
+    </OBJECT>
+    <A HREF="file:SP00234.htm">Inherent Immunity/Heat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Internal Compass">
+    <param name="Local" value="SP00235.htm">
+    </OBJECT>
+    <A HREF="file:SP00235.htm">Internal Compass</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Keen Eyesight">
+    <param name="Local" value="SP00236.htm">
+    </OBJECT>
+    <A HREF="file:SP00236.htm">Keen Eyesight</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Keen Hearing">
+    <param name="Local" value="SP00237.htm">
+    </OBJECT>
+    <A HREF="file:SP00237.htm">Keen Hearing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Keen Olfactory Sense">
+    <param name="Local" value="SP00238.htm">
+    </OBJECT>
+    <A HREF="file:SP00238.htm">Keen Olfactory Sense</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Keen Taste Sense">
+    <param name="Local" value="SP00239.htm">
+    </OBJECT>
+    <A HREF="file:SP00239.htm">Keen Taste Sense</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Keen Touch Sense">
+    <param name="Local" value="SP00240.htm">
+    </OBJECT>
+    <A HREF="file:SP00240.htm">Keen Touch Sense</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Light Sleeper">
+    <param name="Local" value="SP00241.htm">
+    </OBJECT>
+    <A HREF="file:SP00241.htm">Light Sleeper</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lucky">
+    <param name="Local" value="SP00242.htm">
+    </OBJECT>
+    <A HREF="file:SP00242.htm">Lucky</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Music/Singing">
+    <param name="Local" value="SP00243.htm">
+    </OBJECT>
+    <A HREF="file:SP00243.htm">Music/Singing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Music/Instrument">
+    <param name="Local" value="SP00244.htm">
+    </OBJECT>
+    <A HREF="file:SP00244.htm">Music/Instrument</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Obscure Knowledge">
+    <param name="Local" value="SP00245.htm">
+    </OBJECT>
+    <A HREF="file:SP00245.htm">Obscure Knowledge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Precise Memory">
+    <param name="Local" value="SP00246.htm">
+    </OBJECT>
+    <A HREF="file:SP00246.htm">Precise Memory</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Disadvantage Descriptions">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Allergies">
+    <param name="Local" value="SP00247.htm">
+    </OBJECT>
+    <A HREF="file:SP00247.htm">Allergies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bad Tempered">
+    <param name="Local" value="SP00248.htm">
+    </OBJECT>
+    <A HREF="file:SP00248.htm">Bad Tempered</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bruise Easily">
+    <param name="Local" value="SP00249.htm">
+    </OBJECT>
+    <A HREF="file:SP00249.htm">Bruise Easily</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clumsy">
+    <param name="Local" value="SP00250.htm">
+    </OBJECT>
+    <A HREF="file:SP00250.htm">Clumsy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Colorblind">
+    <param name="Local" value="SP00251.htm">
+    </OBJECT>
+    <A HREF="file:SP00251.htm">Colorblind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Compulsive Honesty">
+    <param name="Local" value="SP00252.htm">
+    </OBJECT>
+    <A HREF="file:SP00252.htm">Compulsive Honesty</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cowardice">
+    <param name="Local" value="SP00253.htm">
+    </OBJECT>
+    <A HREF="file:SP00253.htm">Cowardice</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Deep Sleeper">
+    <param name="Local" value="SP00254.htm">
+    </OBJECT>
+    <A HREF="file:SP00254.htm">Deep Sleeper</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fanaticism">
+    <param name="Local" value="SP00255.htm">
+    </OBJECT>
+    <A HREF="file:SP00255.htm">Fanaticism</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Greed">
+    <param name="Local" value="SP00256.htm">
+    </OBJECT>
+    <A HREF="file:SP00256.htm">Greed</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Irritating Personality">
+    <param name="Local" value="SP00257.htm">
+    </OBJECT>
+    <A HREF="file:SP00257.htm">Irritating Personality</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Lazy">
+    <param name="Local" value="SP00258.htm">
+    </OBJECT>
+    <A HREF="file:SP00258.htm">Lazy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobias">
+    <param name="Local" value="SP00259.htm">
+    </OBJECT>
+    <A HREF="file:SP00259.htm">Phobias</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Crowds">
+    <param name="Local" value="SP00260.htm">
+    </OBJECT>
+    <A HREF="file:SP00260.htm">Phobia-Crowds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Darkness">
+    <param name="Local" value="SP00261.htm">
+    </OBJECT>
+    <A HREF="file:SP00261.htm">Phobia-Darkness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Enclosed Spaces">
+    <param name="Local" value="SP00262.htm">
+    </OBJECT>
+    <A HREF="file:SP00262.htm">Phobia-Enclosed Spaces</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Heights">
+    <param name="Local" value="SP00263.htm">
+    </OBJECT>
+    <A HREF="file:SP00263.htm">Phobia-Heights</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Magic">
+    <param name="Local" value="SP00264.htm">
+    </OBJECT>
+    <A HREF="file:SP00264.htm">Phobia-Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Monster">
+    <param name="Local" value="SP00265.htm">
+    </OBJECT>
+    <A HREF="file:SP00265.htm">Phobia-Monster</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Snakes">
+    <param name="Local" value="SP00266.htm">
+    </OBJECT>
+    <A HREF="file:SP00266.htm">Phobia-Snakes</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Spiders">
+    <param name="Local" value="SP00267.htm">
+    </OBJECT>
+    <A HREF="file:SP00267.htm">Phobia-Spiders</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Undead">
+    <param name="Local" value="SP00268.htm">
+    </OBJECT>
+    <A HREF="file:SP00268.htm">Phobia-Undead</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phobia-Water">
+    <param name="Local" value="SP00269.htm">
+    </OBJECT>
+    <A HREF="file:SP00269.htm">Phobia-Water</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Powerful Enemy">
+    <param name="Local" value="SP00270.htm">
+    </OBJECT>
+    <A HREF="file:SP00270.htm">Powerful Enemy</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tongue-Tied">
+    <param name="Local" value="SP00271.htm">
+    </OBJECT>
+    <A HREF="file:SP00271.htm">Tongue-Tied</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Unlucky">
+    <param name="Local" value="SP00272.htm">
+    </OBJECT>
+    <A HREF="file:SP00272.htm">Unlucky</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 7: Weapon Proficiency and Mastery">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Proficiency and Mastery">
+    <param name="Local" value="SP00273.htm">
+    </OBJECT>
+    <A HREF="file:SP00273.htm">Weapon Proficiency and Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Selecting Weapon Proficiencies">
+    <param name="Local" value="SP00274.htm">
+    </OBJECT>
+    <A HREF="file:SP00274.htm">Selecting Weapon Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Character Class Restrictions">
+    <param name="Local" value="SP00276.htm">
+    </OBJECT>
+    <A HREF="file:SP00276.htm">Character Class Restrictions</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Groups">
+    <param name="Local" value="SP00277.htm">
+    </OBJECT>
+    <A HREF="file:SP00277.htm">Weapon Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nonproficiency and Weapon Familiarity">
+    <param name="Local" value="SP00279.htm">
+    </OBJECT>
+    <A HREF="file:SP00279.htm">Nonproficiency and Weapon Familiarity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Group Proficiencies">
+    <param name="Local" value="SP00281.htm">
+    </OBJECT>
+    <A HREF="file:SP00281.htm">Weapon Group Proficiencies</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shield Proficiency">
+    <param name="Local" value="SP00282.htm">
+    </OBJECT>
+    <A HREF="file:SP00282.htm">Shield Proficiency</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Armor Proficiency">
+    <param name="Local" value="SP00284.htm">
+    </OBJECT>
+    <A HREF="file:SP00284.htm">Armor Proficiency</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Fighting Style Specialization">
+    <param name="Local" value="SP00285.htm">
+    </OBJECT>
+    <A HREF="file:SP00285.htm">Fighting Style Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Specialization and Mastery">
+    <param name="Local" value="SP00285.htm">
+    </OBJECT>
+    <A HREF="file:SP00285.htm">Weapon Specialization and Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Monster and Weapon Mastery">
+    <param name="Local" value="SP00289.htm">
+    </OBJECT>
+    <A HREF="file:SP00289.htm">Monster and Weapon Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment">
+    <param name="Local" value="SP00290.htm">
+    </OBJECT>
+    <A HREF="file:SP00290.htm">Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Different Forms of Wealth">
+    <param name="Local" value="SP00291.htm">
+    </OBJECT>
+    <A HREF="file:SP00291.htm">Different Forms of Wealth</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ways to Spend and Save Money">
+    <param name="Local" value="SP00292.htm">
+    </OBJECT>
+    <A HREF="file:SP00292.htm">Ways to Spend and Save Money</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Encumbrance and Movement">
+    <param name="Local" value="SP00293.htm">
+    </OBJECT>
+    <A HREF="file:SP00293.htm">Encumbrance and Movement</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 48: Weapon Proficiency CP Costs">
+    <param name="Local" value="SP00275.htm">
+    </OBJECT>
+    <A HREF="file:SP00275.htm">Table 48: Weapon Proficiency CP Costs</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 49: Weapon Groups">
+    <param name="Local" value="SP00278.htm">
+    </OBJECT>
+    <A HREF="file:SP00278.htm">Table 49: Weapon Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 50: Nonproficiency Attack Penalties">
+    <param name="Local" value="SP00280.htm">
+    </OBJECT>
+    <A HREF="file:SP00280.htm">Table 50: Nonproficiency Attack Penalties</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 51: Shield Proficiency Effects">
+    <param name="Local" value="SP00283.htm">
+    </OBJECT>
+    <A HREF="file:SP00283.htm">Table 51: Shield Proficiency Effects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 52: Fighting Styles by Character Class">
+    <param name="Local" value="SP00286.htm">
+    </OBJECT>
+    <A HREF="file:SP00286.htm">Table 52: Fighting Styles by Character Class</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 53: Gaining Weapon Specialization">
+    <param name="Local" value="SP00287.htm">
+    </OBJECT>
+    <A HREF="file:SP00287.htm">Table 53: Gaining Weapon Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 54: Gaining Weapon Mastery">
+    <param name="Local" value="SP00288.htm">
+    </OBJECT>
+    <A HREF="file:SP00288.htm">Table 54: Gaining Weapon Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 54: Strength and Encumbrance">
+    <param name="Local" value="SP00294.htm">
+    </OBJECT>
+    <A HREF="file:SP00294.htm">Table 54: Strength and Encumbrance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 55: Movement and Encumbrance">
+    <param name="Local" value="SP00295.htm">
+    </OBJECT>
+    <A HREF="file:SP00295.htm">Table 55: Movement and Encumbrance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Equipment Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 56: Stone Age/Savage Settings">
+    <param name="Local" value="SP00296.htm">
+    </OBJECT>
+    <A HREF="file:SP00296.htm">Table 56: Stone Age/Savage Settings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 57: Bronze Age/Ancient Settings">
+    <param name="Local" value="SP00297.htm">
+    </OBJECT>
+    <A HREF="file:SP00297.htm">Table 57: Bronze Age/Ancient Settings</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 58: Cultures of the Roman Age">
+    <param name="Local" value="SP00298.htm">
+    </OBJECT>
+    <A HREF="file:SP00298.htm">Table 58: Cultures of the Roman Age</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 59: Dark Ages">
+    <param name="Local" value="SP00299.htm">
+    </OBJECT>
+    <A HREF="file:SP00299.htm">Table 59: Dark Ages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 60: The Crusades">
+    <param name="Local" value="SP00300.htm">
+    </OBJECT>
+    <A HREF="file:SP00300.htm">Table 60: The Crusades</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 61: Late Middle Ages/Renaissance">
+    <param name="Local" value="SP00301.htm">
+    </OBJECT>
+    <A HREF="file:SP00301.htm">Table 61: Late Middle Ages/Renaissance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 62: Middle Eastern Cultures">
+    <param name="Local" value="SP00302.htm">
+    </OBJECT>
+    <A HREF="file:SP00302.htm">Table 62: Middle Eastern Cultures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 63: Oriental Cultures">
+    <param name="Local" value="SP00303.htm">
+    </OBJECT>
+    <A HREF="file:SP00303.htm">Table 63: Oriental Cultures</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 64: Weapons">
+    <param name="Local" value="SP00304.htm">
+    </OBJECT>
+    <A HREF="file:SP00304.htm">Table 64: Weapons</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 65: Missile Ranges and Rates of Fire">
+    <param name="Local" value="SP00305.htm">
+    </OBJECT>
+    <A HREF="file:SP00305.htm">Table 65: Missile Ranges and Rates of Fire</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 66: Armor">
+    <param name="Local" value="SP00306.htm">
+    </OBJECT>
+    <A HREF="file:SP00306.htm">Table 66: Armor</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 67: Miscellaneous Equipment">
+    <param name="Local" value="SP00307.htm">
+    </OBJECT>
+    <A HREF="file:SP00307.htm">Table 67: Miscellaneous Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 68: Household Provisions/Trade Goods">
+    <param name="Local" value="SP00308.htm">
+    </OBJECT>
+    <A HREF="file:SP00308.htm">Table 68: Household Provisions/Trade Goods</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 69: Dwarven Equipment">
+    <param name="Local" value="SP00309.htm">
+    </OBJECT>
+    <A HREF="file:SP00309.htm">Table 69: Dwarven Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 70: Elven Equipment">
+    <param name="Local" value="SP00310.htm">
+    </OBJECT>
+    <A HREF="file:SP00310.htm">Table 70: Elven Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 71: Halfling Equipment">
+    <param name="Local" value="SP00311.htm">
+    </OBJECT>
+    <A HREF="file:SP00311.htm">Table 71: Halfling Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 72: Gnomish Equipment">
+    <param name="Local" value="SP00312.htm">
+    </OBJECT>
+    <A HREF="file:SP00312.htm">Table 72: Gnomish Equipment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 73: Common Magic Items">
+    <param name="Local" value="SP00313.htm">
+    </OBJECT>
+    <A HREF="file:SP00313.htm">Table 73: Common Magic Items</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 8: New Schools of Magic">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="New Schools of Magic">
+    <param name="Local" value="SP00314.htm">
+    </OBJECT>
+    <A HREF="file:SP00314.htm">New Schools of Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Alchemist">
+    <param name="Local" value="SP00315.htm">
+    </OBJECT>
+    <A HREF="file:SP00315.htm">The Alchemist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Geometer">
+    <param name="Local" value="SP00316.htm">
+    </OBJECT>
+    <A HREF="file:SP00316.htm">The Geometer</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Shadow Mage">
+    <param name="Local" value="SP00317.htm">
+    </OBJECT>
+    <A HREF="file:SP00317.htm">The Shadow Mage</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Song Wizard">
+    <param name="Local" value="SP00318.htm">
+    </OBJECT>
+    <A HREF="file:SP00318.htm">The Song Wizard</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chapter 9: Psionics">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionics">
+    <param name="Local" value="SP00319.htm">
+    </OBJECT>
+    <A HREF="file:SP00319.htm">Psionics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Using Psionics">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Using Psionics">
+    <param name="Local" value="SP00320.htm">
+    </OBJECT>
+    <A HREF="file:SP00320.htm">Using Psionics</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Closed and Open Minds">
+    <param name="Local" value="SP00321.htm">
+    </OBJECT>
+    <A HREF="file:SP00321.htm">Closed and Open Minds</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mental Armor Class (MAC)">
+    <param name="Local" value="SP00322.htm">
+    </OBJECT>
+    <A HREF="file:SP00322.htm">Mental Armor Class (MAC)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionic Strength Points (PSPs) p144">
+    <param name="Local" value="SP00324.htm">
+    </OBJECT>
+    <A HREF="file:SP00324.htm">Psionic Strength Points (PSPs) p144</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 74: Base MAC and PSP Bonuses">
+    <param name="Local" value="SP00323.htm">
+    </OBJECT>
+    <A HREF="file:SP00323.htm">Table 74: Base MAC and PSP Bonuses</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionic Combat">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionic Combat">
+    <param name="Local" value="SP00325.htm">
+    </OBJECT>
+    <A HREF="file:SP00325.htm">Psionic Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adding Substance to Psionic Combat">
+    <param name="Local" value="SP00341.htm">
+    </OBJECT>
+    <A HREF="file:SP00341.htm">Adding Substance to Psionic Combat</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Using Psionic Powers">
+    <param name="Local" value="SP00342.htm">
+    </OBJECT>
+    <A HREF="file:SP00342.htm">Using Psionic Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Closing an Open Mind">
+    <param name="Local" value="SP00345.htm">
+    </OBJECT>
+    <A HREF="file:SP00345.htm">Closing an Open Mind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionics in a Round">
+    <param name="Local" value="SP00346.htm">
+    </OBJECT>
+    <A HREF="file:SP00346.htm">Psionics in a Round</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Limitations to Psionic Powers">
+    <param name="Local" value="SP00347.htm">
+    </OBJECT>
+    <A HREF="file:SP00347.htm">Limitations to Psionic Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionics and Magic">
+    <param name="Local" value="SP00349.htm">
+    </OBJECT>
+    <A HREF="file:SP00349.htm">Psionics and Magic</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 75: MTHAC0 Modifiers">
+    <param name="Local" value="SP00327.htm">
+    </OBJECT>
+    <A HREF="file:SP00327.htm">Table 75: MTHAC0 Modifiers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 76: Psionic Attacks vs. Psionic Defenses">
+    <param name="Local" value="SP00340.htm">
+    </OBJECT>
+    <A HREF="file:SP00340.htm">Table 76: Psionic Attacks vs. Psionic Defenses</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Five Psionic Attacks">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Five Psionic Attacks">
+    <param name="Local" value="SP00328.htm">
+    </OBJECT>
+    <A HREF="file:SP00328.htm">The Five Psionic Attacks</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Ego Whip (EW)">
+    <param name="Local" value="SP00329.htm">
+    </OBJECT>
+    <A HREF="file:SP00329.htm">Ego Whip (EW)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Id Insinuation (II)">
+    <param name="Local" value="SP00330.htm">
+    </OBJECT>
+    <A HREF="file:SP00330.htm">Id Insinuation (II)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mind Thrust">
+    <param name="Local" value="SP00331.htm">
+    </OBJECT>
+    <A HREF="file:SP00331.htm">Mind Thrust</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionic Blast (PB)">
+    <param name="Local" value="SP00332.htm">
+    </OBJECT>
+    <A HREF="file:SP00332.htm">Psionic Blast (PB)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psychic Crush (PsC)">
+    <param name="Local" value="SP00333.htm">
+    </OBJECT>
+    <A HREF="file:SP00333.htm">Psychic Crush (PsC)</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Five Psionic Defenses">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Intellect Fortress (IF)">
+    <param name="Local" value="SP00335.htm">
+    </OBJECT>
+    <A HREF="file:SP00335.htm">Intellect Fortress (IF)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mental Barrier (MB)">
+    <param name="Local" value="SP00336.htm">
+    </OBJECT>
+    <A HREF="file:SP00336.htm">Mental Barrier (MB)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mind Blank (MBk)">
+    <param name="Local" value="SP00337.htm">
+    </OBJECT>
+    <A HREF="file:SP00337.htm">Mind Blank (MBk)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Thought Sheild (TS)">
+    <param name="Local" value="SP00338.htm">
+    </OBJECT>
+    <A HREF="file:SP00338.htm">Thought Sheild (TS)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Tower of Iron Will (TW)">
+    <param name="Local" value="SP00339.htm">
+    </OBJECT>
+    <A HREF="file:SP00339.htm">Tower of Iron Will (TW)</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="The Five Psionic Defenses">
+    <param name="Local" value="SP00334.htm">
+    </OBJECT>
+    <A HREF="file:SP00334.htm">The Five Psionic Defenses</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 77: THAC0s and MTHAC0s">
+    <param name="Local" value="SP00343.htm">
+    </OBJECT>
+    <A HREF="file:SP00343.htm">Table 77: THAC0s and MTHAC0s</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 78: Psionicist Saving Throws">
+    <param name="Local" value="SP00344.htm">
+    </OBJECT>
+    <A HREF="file:SP00344.htm">Table 78: Psionicist Saving Throws</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionist and Wild Talents">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionicists and Wild Talents">
+    <param name="Local" value="SP00350.htm">
+    </OBJECT>
+    <A HREF="file:SP00350.htm">Psionicists and Wild Talents</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionicists">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionicist">
+    <param name="Local" value="SP00351.htm">
+    </OBJECT>
+    <A HREF="file:SP00351.htm">Psionicist</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 79: Psionicist Experience Levels">
+    <param name="Local" value="SP00352.htm">
+    </OBJECT>
+    <A HREF="file:SP00352.htm">Table 79: Psionicist Experience Levels</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 80: Psionic Progression">
+    <param name="Local" value="SP00353.htm">
+    </OBJECT>
+    <A HREF="file:SP00353.htm">Table 80: Psionic Progression</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 81: Psionicist Proficiency Slots">
+    <param name="Local" value="SP00354.htm">
+    </OBJECT>
+    <A HREF="file:SP00354.htm">Table 81: Psionicist Proficiency Slots</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 82 Nonweapon Proficiencies">
+    <param name="Local" value="SP00355.htm">
+    </OBJECT>
+    <A HREF="file:SP00355.htm">Table 82 Nonweapon Proficiencies</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wild Talents">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Wild Talents">
+    <param name="Local" value="SP00361.htm">
+    </OBJECT>
+    <A HREF="file:SP00361.htm">Wild Talents</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 83: Wild Talents">
+    <param name="Local" value="SP00362.htm">
+    </OBJECT>
+    <A HREF="file:SP00362.htm">Table 83: Wild Talents</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionic Powers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clairsentient Powers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clairsentient Powers">
+    <param name="Local" value="SP00364.htm">
+    </OBJECT>
+    <A HREF="file:SP00364.htm">Clairsentient Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Aura Sight">
+    <param name="Local" value="SP00365.htm">
+    </OBJECT>
+    <A HREF="file:SP00365.htm">Aura Sight</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clairaudience">
+    <param name="Local" value="SP00366.htm">
+    </OBJECT>
+    <A HREF="file:SP00366.htm">Clairaudience</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Clairvoyance">
+    <param name="Local" value="SP00367.htm">
+    </OBJECT>
+    <A HREF="file:SP00367.htm">Clairvoyance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Object Reading">
+    <param name="Local" value="SP00368.htm">
+    </OBJECT>
+    <A HREF="file:SP00368.htm">Object Reading</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="All-Round Vision">
+    <param name="Local" value="SP00369.htm">
+    </OBJECT>
+    <A HREF="file:SP00369.htm">All-Round Vision</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Combat Mind">
+    <param name="Local" value="SP00370.htm">
+    </OBJECT>
+    <A HREF="file:SP00370.htm">Combat Mind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Danger Sense">
+    <param name="Local" value="SP00371.htm">
+    </OBJECT>
+    <A HREF="file:SP00371.htm">Danger Sense</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Feel Sound">
+    <param name="Local" value="SP00372.htm">
+    </OBJECT>
+    <A HREF="file:SP00372.htm">Feel Sound</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Know Location">
+    <param name="Local" value="SP00373.htm">
+    </OBJECT>
+    <A HREF="file:SP00373.htm">Know Location</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Martial Trance">
+    <param name="Local" value="SP00374.htm">
+    </OBJECT>
+    <A HREF="file:SP00374.htm">Martial Trance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Poison Sense">
+    <param name="Local" value="SP00375.htm">
+    </OBJECT>
+    <A HREF="file:SP00375.htm">Poison Sense</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionic Sense">
+    <param name="Local" value="SP00376.htm">
+    </OBJECT>
+    <A HREF="file:SP00376.htm">Psionic Sense</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="See Sound">
+    <param name="Local" value="SP00377.htm">
+    </OBJECT>
+    <A HREF="file:SP00377.htm">See Sound</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psychokinetic Powers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psychokinetic Powers">
+    <param name="Local" value="SP00378.htm">
+    </OBJECT>
+    <A HREF="file:SP00378.htm">Psychokinetic Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Create Object">
+    <param name="Local" value="SP00378.htm">
+    </OBJECT>
+    <A HREF="file:SP00378.htm">Create Object</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Detonate">
+    <param name="Local" value="SP00380.htm">
+    </OBJECT>
+    <A HREF="file:SP00380.htm">Detonate</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Project Force">
+    <param name="Local" value="SP00381.htm">
+    </OBJECT>
+    <A HREF="file:SP00381.htm">Project Force</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Telekinesis">
+    <param name="Local" value="SP00382.htm">
+    </OBJECT>
+    <A HREF="file:SP00382.htm">Telekinesis</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animate Object">
+    <param name="Local" value="SP00383.htm">
+    </OBJECT>
+    <A HREF="file:SP00383.htm">Animate Object</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Control Light">
+    <param name="Local" value="SP00384.htm">
+    </OBJECT>
+    <A HREF="file:SP00384.htm">Control Light</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Control Sound">
+    <param name="Local" value="SP00385.htm">
+    </OBJECT>
+    <A HREF="file:SP00385.htm">Control Sound</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Control Wind">
+    <param name="Local" value="SP00386.htm">
+    </OBJECT>
+    <A HREF="file:SP00386.htm">Control Wind</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inertial Barrier">
+    <param name="Local" value="SP00387.htm">
+    </OBJECT>
+    <A HREF="file:SP00387.htm">Inertial Barrier</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Levitation">
+    <param name="Local" value="SP00388.htm">
+    </OBJECT>
+    <A HREF="file:SP00388.htm">Levitation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Molecular Agitation">
+    <param name="Local" value="SP00389.htm">
+    </OBJECT>
+    <A HREF="file:SP00389.htm">Molecular Agitation</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Molecular Manipulation">
+    <param name="Local" value="SP00390.htm">
+    </OBJECT>
+    <A HREF="file:SP00390.htm">Molecular Manipulation</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psychometabolic Powers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psychometabolic Powers">
+    <param name="Local" value="SP00391.htm">
+    </OBJECT>
+    <A HREF="file:SP00391.htm">Psychometabolic Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Animal Affinity">
+    <param name="Local" value="SP00391.htm">
+    </OBJECT>
+    <A HREF="file:SP00391.htm">Animal Affinity</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Complete Healing">
+    <param name="Local" value="SP00393.htm">
+    </OBJECT>
+    <A HREF="file:SP00393.htm">Complete Healing</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Metamorphosis">
+    <param name="Local" value="SP00394.htm">
+    </OBJECT>
+    <A HREF="file:SP00394.htm">Metamorphosis</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Shadowform">
+    <param name="Local" value="SP00395.htm">
+    </OBJECT>
+    <A HREF="file:SP00395.htm">Shadowform</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Adrenaline Control">
+    <param name="Local" value="SP00396.htm">
+    </OBJECT>
+    <A HREF="file:SP00396.htm">Adrenaline Control</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Body Control">
+    <param name="Local" value="SP00397.htm">
+    </OBJECT>
+    <A HREF="file:SP00397.htm">Body Control</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Body Equilibrium">
+    <param name="Local" value="SP00398.htm">
+    </OBJECT>
+    <A HREF="file:SP00398.htm">Body Equilibrium</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Body Weaponry">
+    <param name="Local" value="SP00399.htm">
+    </OBJECT>
+    <A HREF="file:SP00399.htm">Body Weaponry</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cannibalize">
+    <param name="Local" value="SP00400.htm">
+    </OBJECT>
+    <A HREF="file:SP00400.htm">Cannibalize</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Cell Adjustment">
+    <param name="Local" value="SP00401.htm">
+    </OBJECT>
+    <A HREF="file:SP00401.htm">Cell Adjustment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Chameleon Power">
+    <param name="Local" value="SP00402.htm">
+    </OBJECT>
+    <A HREF="file:SP00402.htm">Chameleon Power</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Heightened Senses">
+    <param name="Local" value="SP00403.htm">
+    </OBJECT>
+    <A HREF="file:SP00403.htm">Heightened Senses</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psychoportive Powers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psychoportive Powers">
+    <param name="Local" value="SP00404.htm">
+    </OBJECT>
+    <A HREF="file:SP00404.htm">Psychoportive Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Banishment">
+    <param name="Local" value="SP00404.htm">
+    </OBJECT>
+    <A HREF="file:SP00404.htm">Banishment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Summon Planar Creature">
+    <param name="Local" value="SP00406.htm">
+    </OBJECT>
+    <A HREF="file:SP00406.htm">Summon Planar Creature</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Teleport">
+    <param name="Local" value="SP00407.htm">
+    </OBJECT>
+    <A HREF="file:SP00407.htm">Teleport</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Teleport Other">
+    <param name="Local" value="SP00408.htm">
+    </OBJECT>
+    <A HREF="file:SP00408.htm">Teleport Other</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Astral Projection">
+    <param name="Local" value="SP00409.htm">
+    </OBJECT>
+    <A HREF="file:SP00409.htm">Astral Projection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Blink">
+    <param name="Local" value="SP00410.htm">
+    </OBJECT>
+    <A HREF="file:SP00410.htm">Blink</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dimensional Door">
+    <param name="Local" value="SP00411.htm">
+    </OBJECT>
+    <A HREF="file:SP00411.htm">Dimensional Door</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Dimension Walk">
+    <param name="Local" value="SP00412.htm">
+    </OBJECT>
+    <A HREF="file:SP00412.htm">Dimension Walk</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Phase">
+    <param name="Local" value="SP00413.htm">
+    </OBJECT>
+    <A HREF="file:SP00413.htm">Phase</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Teleport Trigger">
+    <param name="Local" value="SP00414.htm">
+    </OBJECT>
+    <A HREF="file:SP00414.htm">Teleport Trigger</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Telepathic Powers">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Telepathic Powers">
+    <param name="Local" value="SP00415.htm">
+    </OBJECT>
+    <A HREF="file:SP00415.htm">Telepathic Powers</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Domination">
+    <param name="Local" value="SP00416.htm">
+    </OBJECT>
+    <A HREF="file:SP00416.htm">Domination</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Mindlink">
+    <param name="Local" value="SP00417.htm">
+    </OBJECT>
+    <A HREF="file:SP00417.htm">Mindlink</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Probe">
+    <param name="Local" value="SP00418.htm">
+    </OBJECT>
+    <A HREF="file:SP00418.htm">Probe</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psychic Surgery">
+    <param name="Local" value="SP00419.htm">
+    </OBJECT>
+    <A HREF="file:SP00419.htm">Psychic Surgery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Awe">
+    <param name="Local" value="SP00420.htm">
+    </OBJECT>
+    <A HREF="file:SP00420.htm">Awe</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Conceal Throughts">
+    <param name="Local" value="SP00421.htm">
+    </OBJECT>
+    <A HREF="file:SP00421.htm">Conceal Throughts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="ESP">
+    <param name="Local" value="SP00422.htm">
+    </OBJECT>
+    <A HREF="file:SP00422.htm">ESP</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Inflict Pain">
+    <param name="Local" value="SP00423.htm">
+    </OBJECT>
+    <A HREF="file:SP00423.htm">Inflict Pain</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Invisibility">
+    <param name="Local" value="SP00424.htm">
+    </OBJECT>
+    <A HREF="file:SP00424.htm">Invisibility</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Life Detection">
+    <param name="Local" value="SP00425.htm">
+    </OBJECT>
+    <A HREF="file:SP00425.htm">Life Detection</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Send Thoughts">
+    <param name="Local" value="SP00426.htm">
+    </OBJECT>
+    <A HREF="file:SP00426.htm">Send Thoughts</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Sight Link">
+    <param name="Local" value="SP00427.htm">
+    </OBJECT>
+    <A HREF="file:SP00427.htm">Sight Link</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionic Powers Summary">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Psionic Powers Summary">
+    <param name="Local" value="SP00428.htm">
+    </OBJECT>
+    <A HREF="file:SP00428.htm">Psionic Powers Summary</A>
+</UL>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Appendix: Compiled Tables">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 2: Stamina">
+    <param name="Local" value="SP00429.htm">
+    </OBJECT>
+    <A HREF="file:SP00429.htm">Table 2: Stamina</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 3: Muscle">
+    <param name="Local" value="SP00430.htm">
+    </OBJECT>
+    <A HREF="file:SP00430.htm">Table 3: Muscle</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 4: Aim">
+    <param name="Local" value="SP00431.htm">
+    </OBJECT>
+    <A HREF="file:SP00431.htm">Table 4: Aim</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 5: Balance">
+    <param name="Local" value="SP00432.htm">
+    </OBJECT>
+    <A HREF="file:SP00432.htm">Table 5: Balance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 6: Health">
+    <param name="Local" value="SP00433.htm">
+    </OBJECT>
+    <A HREF="file:SP00433.htm">Table 6: Health</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 7: Fitness">
+    <param name="Local" value="SP00434.htm">
+    </OBJECT>
+    <A HREF="file:SP00434.htm">Table 7: Fitness</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 8: Reason">
+    <param name="Local" value="SP00435.htm">
+    </OBJECT>
+    <A HREF="file:SP00435.htm">Table 8: Reason</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 9: Knowledge">
+    <param name="Local" value="SP00436.htm">
+    </OBJECT>
+    <A HREF="file:SP00436.htm">Table 9: Knowledge</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 10: Intuition">
+    <param name="Local" value="SP00437.htm">
+    </OBJECT>
+    <A HREF="file:SP00437.htm">Table 10: Intuition</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 11: Willpower">
+    <param name="Local" value="SP00438.htm">
+    </OBJECT>
+    <A HREF="file:SP00438.htm">Table 11: Willpower</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 12: Leadership">
+    <param name="Local" value="SP00439.htm">
+    </OBJECT>
+    <A HREF="file:SP00439.htm">Table 12: Leadership</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 13: Appearance">
+    <param name="Local" value="SP00440.htm">
+    </OBJECT>
+    <A HREF="file:SP00440.htm">Table 13: Appearance</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Point Allotments for Starting Characters by Race">
+    <param name="Local" value="SP00441.htm">
+    </OBJECT>
+    <A HREF="file:SP00441.htm">Point Allotments for Starting Characters by Race</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Racial Abilities">
+    <param name="Local" value="SP00442.htm">
+    </OBJECT>
+    <A HREF="file:SP00442.htm">Racial Abilities</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Point Allotments for Starting Characters by Class">
+    <param name="Local" value="SP00443.htm">
+    </OBJECT>
+    <A HREF="file:SP00443.htm">Point Allotments for Starting Characters by Class</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Nonplayer Character Allotment">
+    <param name="Local" value="SP00444.htm">
+    </OBJECT>
+    <A HREF="file:SP00444.htm">Nonplayer Character Allotment</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Bonus Points">
+    <param name="Local" value="SP00445.htm">
+    </OBJECT>
+    <A HREF="file:SP00445.htm">Bonus Points</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 1: Background Events">
+    <param name="Local" value="SP00446.htm">
+    </OBJECT>
+    <A HREF="file:SP00446.htm">Table 1: Background Events</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 27: Thieving Skill Base Scores">
+    <param name="Local" value="SP00447.htm">
+    </OBJECT>
+    <A HREF="file:SP00447.htm">Table 27: Thieving Skill Base Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 14: Racial Requirements">
+    <param name="Local" value="SP00448.htm">
+    </OBJECT>
+    <A HREF="file:SP00448.htm">Table 14: Racial Requirements</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 15: Racial Adjustments">
+    <param name="Local" value="SP00449.htm">
+    </OBJECT>
+    <A HREF="file:SP00449.htm">Table 15: Racial Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 16: Racial Level Limits">
+    <param name="Local" value="SP00450.htm">
+    </OBJECT>
+    <A HREF="file:SP00450.htm">Table 16: Racial Level Limits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 41: Character Kit Table">
+    <param name="Local" value="SP00451.htm">
+    </OBJECT>
+    <A HREF="file:SP00451.htm">Table 41: Character Kit Table</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 28: thieving Skill Racial Adjustments">
+    <param name="Local" value="SP00452.htm">
+    </OBJECT>
+    <A HREF="file:SP00452.htm">Table 28: thieving Skill Racial Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 29: Thieving Skill Dexterity Adjustments">
+    <param name="Local" value="SP00453.htm">
+    </OBJECT>
+    <A HREF="file:SP00453.htm">Table 29: Thieving Skill Dexterity Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 30: Thieving Skill Armor Adjustments">
+    <param name="Local" value="SP00454.htm">
+    </OBJECT>
+    <A HREF="file:SP00454.htm">Table 30: Thieving Skill Armor Adjustments</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 31: Bard Scroll Use">
+    <param name="Local" value="SP00455.htm">
+    </OBJECT>
+    <A HREF="file:SP00455.htm">Table 31: Bard Scroll Use</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 45: Nonweapon Proficiency Groups">
+    <param name="Local" value="SP00456.htm">
+    </OBJECT>
+    <A HREF="file:SP00456.htm">Table 45: Nonweapon Proficiency Groups</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 46: Traits">
+    <param name="Local" value="SP00457.htm">
+    </OBJECT>
+    <A HREF="file:SP00457.htm">Table 46: Traits</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 44: Ability Modifiers to Proficiency Scores">
+    <param name="Local" value="SP00458.htm">
+    </OBJECT>
+    <A HREF="file:SP00458.htm">Table 44: Ability Modifiers to Proficiency Scores</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Weapon Proficiency Slots">
+    <param name="Local" value="SP00459.htm">
+    </OBJECT>
+    <A HREF="file:SP00459.htm">Weapon Proficiency Slots</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 47: Disadvantages">
+    <param name="Local" value="SP00460.htm">
+    </OBJECT>
+    <A HREF="file:SP00460.htm">Table 47: Disadvantages</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 48: Weapon Proficiency CP Costs">
+    <param name="Local" value="SP00461.htm">
+    </OBJECT>
+    <A HREF="file:SP00461.htm">Table 48: Weapon Proficiency CP Costs</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Purchasing Weapon Proficiencies Out of Class">
+    <param name="Local" value="SP00462.htm">
+    </OBJECT>
+    <A HREF="file:SP00462.htm">Purchasing Weapon Proficiencies Out of Class</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 50: Nonproficiency Attack Penalties">
+    <param name="Local" value="SP00463.htm">
+    </OBJECT>
+    <A HREF="file:SP00463.htm">Table 50: Nonproficiency Attack Penalties</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 51: Shield Proficiency Effects">
+    <param name="Local" value="SP00464.htm">
+    </OBJECT>
+    <A HREF="file:SP00464.htm">Table 51: Shield Proficiency Effects</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 52: Fighting Styles by Character Class">
+    <param name="Local" value="SP00465.htm">
+    </OBJECT>
+    <A HREF="file:SP00465.htm">Table 52: Fighting Styles by Character Class</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Two Weapon Style">
+    <param name="Local" value="SP00466.htm">
+    </OBJECT>
+    <A HREF="file:SP00466.htm">Two Weapon Style</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Designating a Weapon of Choice">
+    <param name="Local" value="SP00467.htm">
+    </OBJECT>
+    <A HREF="file:SP00467.htm">Designating a Weapon of Choice</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gaining Proficiencies in Weapon Groups, Warriors Only">
+    <param name="Local" value="SP00468.htm">
+    </OBJECT>
+    <A HREF="file:SP00468.htm">Gaining Proficiencies in Weapon Groups, Warriors Only</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 53: Gaining Weapon Specialization">
+    <param name="Local" value="SP00469.htm">
+    </OBJECT>
+    <A HREF="file:SP00469.htm">Table 53: Gaining Weapon Specialization</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gaining Weapon Expertise">
+    <param name="Local" value="SP00470.htm">
+    </OBJECT>
+    <A HREF="file:SP00470.htm">Gaining Weapon Expertise</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Table 54: Gaining Weapon Mastery">
+    <param name="Local" value="SP00471.htm">
+    </OBJECT>
+    <A HREF="file:SP00471.htm">Table 54: Gaining Weapon Mastery</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Buying Character Points">
+    <param name="Local" value="SP00472.htm">
+    </OBJECT>
+    <A HREF="file:SP00472.htm">Buying Character Points</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Gaining Character Points">
+    <param name="Local" value="SP00473.htm">
+    </OBJECT>
+    <A HREF="file:SP00473.htm">Gaining Character Points</A>
+</UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Index">
+    </OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="A">
+    <param name="Local" value="SP00474.htm">
+    </OBJECT>
+    <A HREF="file:SP00474.htm">A</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="B">
+    <param name="Local" value="SP00475.htm">
+    </OBJECT>
+    <A HREF="file:SP00475.htm">B</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="C">
+    <param name="Local" value="SP00476.htm">
+    </OBJECT>
+    <A HREF="file:SP00476.htm">C</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="D">
+    <param name="Local" value="SP00477.htm">
+    </OBJECT>
+    <A HREF="file:SP00477.htm">D</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="E">
+    <param name="Local" value="SP00478.htm">
+    </OBJECT>
+    <A HREF="file:SP00478.htm">E</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="F">
+    <param name="Local" value="SP00479.htm">
+    </OBJECT>
+    <A HREF="file:SP00479.htm">F</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="G">
+    <param name="Local" value="SP00480.htm">
+    </OBJECT>
+    <A HREF="file:SP00480.htm">G</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="H">
+    <param name="Local" value="SP00481.htm">
+    </OBJECT>
+    <A HREF="file:SP00481.htm">H</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="I">
+    <param name="Local" value="SP00482.htm">
+    </OBJECT>
+    <A HREF="file:SP00482.htm">I</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="J">
+    <param name="Local" value="SP00483.htm">
+    </OBJECT>
+    <A HREF="file:SP00483.htm">J</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="K">
+    <param name="Local" value="SP00484.htm">
+    </OBJECT>
+    <A HREF="file:SP00484.htm">K</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="L">
+    <param name="Local" value="SP00485.htm">
+    </OBJECT>
+    <A HREF="file:SP00485.htm">L</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="M">
+    <param name="Local" value="SP00486.htm">
+    </OBJECT>
+    <A HREF="file:SP00486.htm">M</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="N">
+    <param name="Local" value="SP00487.htm">
+    </OBJECT>
+    <A HREF="file:SP00487.htm">N</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="O">
+    <param name="Local" value="SP00488.htm">
+    </OBJECT>
+    <A HREF="file:SP00488.htm">O</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="P-Q">
+    <param name="Local" value="SP00489.htm">
+    </OBJECT>
+    <A HREF="file:SP00489.htm">P-Q</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="R">
+    <param name="Local" value="SP00490.htm">
+    </OBJECT>
+    <A HREF="file:SP00490.htm">R</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="S">
+    <param name="Local" value="SP00491.htm">
+    </OBJECT>
+    <A HREF="file:SP00491.htm">S</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="T">
+    <param name="Local" value="SP00492.htm">
+    </OBJECT>
+    <A HREF="file:SP00492.htm">T</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="U-V">
+    <param name="Local" value="SP00493.htm">
+    </OBJECT>
+    <A HREF="file:SP00493.htm">U-V</A>
+<LI><OBJECT type="text/sitemap">
+    <param name="Name" value="W-Z">
+    <param name="Local" value="SP00494.htm">
+    </OBJECT>
+    <A HREF="file:SP00494.htm">W-Z</A>
+</UL>
+</UL>
+</UL>
+</HTML>
