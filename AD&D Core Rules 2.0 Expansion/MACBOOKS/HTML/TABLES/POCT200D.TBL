@@ -1,0 +1,52 @@
+Bludgeoning vs. Humanoids (Torso)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Arm struck, weapon/shield dropped/n1
+Item1
+Item2
+4 4 0 0 0 0
+Arm struck, shield damage/weapon dropped/n1
+Item1
+Item2
+5 5 0 0 0 0
+Hand broken, -2 penalty to /n1attacks/shield dropped/n2
+Item1
+Item2
+6 6 0 0 0 0
+Armor damage, arm broken if victim has /n1no armor to cover limb/n2
+Item1
+Item2
+7 7 0 0 0 0
+Armor damage, arm broken stunned 1 round /n1
+Item1
+Item2
+8 8 0 0 0 0
+Weapon dropped, arm broken, stunned 1d4 rounds /n1
+Item1
+Item2
+9 9 0 0 0 0
+Shoulder injured, no attacks, minor bleeding/n1
+Item1
+Item2
+10 10 0 0 0 0
+Arm shattered, 1/2 move, no attacks, /n1major bleeding/n2
+Item1
+Item2
+11 11 0 0 0 0
+Shoulder shattered, no move or attacks, /n1major bleeding/n2
+Item1
+Item2
+12 12 0 0 0 0
+Shoulder shattered, no move or attacks, /n1major bleeding with tripled damage dice/n2
+Item1
+Item2
+13 20 0 0 0 0
+
+
+
+

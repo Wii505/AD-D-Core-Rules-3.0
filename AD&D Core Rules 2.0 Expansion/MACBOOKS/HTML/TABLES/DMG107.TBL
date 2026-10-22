@@ -1,0 +1,44 @@
+DMGTable107 Special Armors
+If the XP value is to be added to the AC Adj, Value1 is set to 1
+Item2
+0 0 0 0 0 0
+Armor of Command
+Item1
+Item2
+1 2 1000 1 0 1359
+Armor of Blending
+Item1
+Item2
+3 4 500 1 0 218
+Armor of Missile Attraction*/n1/n2* No experience points are gained, /n3regardless of the amount of /n4additional AC protection the item /n5provides/n6
+Item1
+Item2
+5 6 -1 0 0 1361
+Armor of Rage*/n1/n2* No experience points are gained, /n3regardless of the amount of /n4additional AC protection the item /n5provides/n6
+Item1
+Item2
+7 8 -1 1 0 1362
+Elven Chain Mail
+Item1
+Item2
+9 10 1000 1 90045 216
+Plate Mail of Etherealness
+Item1
+Item2
+11 12 5000 0 0 1364
+Plate Mail of Fear
+Item1
+Item2
+13 14 4000 0 0 1365
+Plate Mail of Vulnerability
+Item1
+Item2
+15 16 0 0 0 1366
+Shield, Large, +1, /n1+4 vs Missiles/n2
+Item1
+Item2
+17 18 400 0 0 1367
+Shield -1, Missile Attractor
+Item1
+Item2
+19 20 0 0 0 1368

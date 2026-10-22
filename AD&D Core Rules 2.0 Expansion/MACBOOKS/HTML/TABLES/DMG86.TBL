@@ -1,0 +1,28 @@
+Table 86 DMG Gem Variations
+Item1
+Item2
+0 0 0 0 0 0
+Stone increases to the next higher base /n1value. Roll again, ignoring all/n2results but 1.*/n3 /n4* Above 5,000 gp, the base value /n5of the stone doubles each time./n6No stone can be greater than 100,000 gp./n7
+Item1
+Item2
+1 1 0 0 0 0
+Stone is double base value
+Item1
+Item2
+2 2 0 0 0 0
+Stone is 10-60% above the base value
+Item1
+Item2
+3 3 0 0 0 0
+Stone is 10-40% below the base value
+Item1
+Item2
+4 4 0 0 0 0
+Stone is half base value
+Item1
+Item2
+5 5 0 0 0 0
+Stone decreased to next lower base value. /n1Roll again, ignoring all results but 6.**/n2 /n3** Below 10 gp, values decrease to 5 gp,/n41 gp, 5 sp, 1 sp. No stone can be worth /n5less than 1 sp and no stone can decrease /n6more than five places from its initial /n7value./n8
+Item1
+Item2
+6 6 0 0 0 0

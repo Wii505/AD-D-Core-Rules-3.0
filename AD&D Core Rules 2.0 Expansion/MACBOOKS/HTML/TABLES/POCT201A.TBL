@@ -1,0 +1,50 @@
+Bludgeoning vs. Animals (legs/wing)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect/n1
+Item1
+Item2
+1 3 0 0 0 0
+Victim knocked down/n1
+Item1
+Item2
+4 4 0 0 0 0
+Knee struck, victim reduced to 2/3 move/n1
+Item1
+Item2
+5 5 0 0 0 0
+Foot/wrist broken, 2/3 move/n1  
+Item1
+Item2
+6 6 0 0 0 0
+Leg injured, 2/3 move, -2 penalty to attacks/n1
+Item1
+Item2
+7 7 0 0 0 0
+Hip broken, minor bleeding, no movement, /n1–2 penalty to attacks; wing hit /n2forces crash landing/n3
+Item1
+Item2
+8 8 0 0 0 0
+Leg broken, 2/3 move, minor bleeding; /n1wing hit forces immediate landing/n2
+Item1
+Item2
+9 9 0 0 0 0
+Knee shattered, 1/3 move, /n1–2 penalty to attacks/n2
+Item1
+Item2
+10 10 0 0 0 0
+Hip/shoulder shattered, minor bleeding, /n1no move or attack; wing hit forces /n2crash landing/n3
+Item1
+Item2
+11 11 0 0 0 0
+Leg/wing shattered, no move or attack, /n1major bleeding from compound fractures/n2
+Item1
+Item2
+12 12 0 0 0 0
+Leg/wing shattered, no move or attack, /n1major bleeding from compound fractures /n2with tripled damage dice/n3
+Item1
+Item2
+13 20 0 0 0 0
+
+

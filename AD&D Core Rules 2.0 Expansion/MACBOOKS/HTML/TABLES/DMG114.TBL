@@ -1,0 +1,40 @@
+DMGTable114 Weapon Alignment
+Item1
+Item2
+0 0 0 0 0 0
+Chaotic Good
+Item1
+Item2
+1 5 0 0 0 0
+Chaotic Neutral*/n1 /n2*The item can also be used by any /n3character whose alignment corresponds /n4to the non-neutral alignment portion /n5of the weapon's alignment (i.e., /n6chaotic, evil, good or lawful). Thus /n7any chaotic character can use a weapon /n8with with chaotic neutral alignment./n9 
+Item1
+Item2
+6 15 0 0 0 0
+Chaotic Evil
+Item1
+Item2
+16 20 0 0 0 0
+Neutral Evil*/n1 /n2*The item can also be used by any /n3character whose alignment corresponds /n4to the non-neutral alignment portion /n5of the weapon's alignment (i.e., /n6chaotic, evil, good or lawful). Thus /n7any chaotic character can use a weapon /n8with with chaotic neutral alignment./n9
+Item1
+Item2
+21 25 0 0 0 0
+Lawful Evil
+Item1
+Item2
+26 30 0 0 0 0
+Lawful Good
+Item1
+Item2
+31 55 0 0 0 0
+Lawful Neutral*/n1 /n2*The item can also be used by any /n3character whose alignment corresponds /n4to the non-neutral alignment portion /n5of the weapon's alignment (i.e., /n6chaotic, evil, good or lawful). Thus /n7any chaotic character can use a weapon /n8with with chaotic neutral alignment./n9
+Item1
+Item2
+56 60 0 0 0 0
+Neutral (Absolute)
+Item1
+Item2
+61 80 0 0 0 0
+Neutral Good*/n1 /n2*The item can also be used by any /n3character whose alignment corresponds /n4to the non-neutral alignment portion /n5of the weapon's alignment (i.e., /n6chaotic, evil, good or lawful). Thus /n7any chaotic character can use a weapon /n8with with chaotic neutral alignment./n9
+Item1
+Item2
+81 100 0 0 0 0

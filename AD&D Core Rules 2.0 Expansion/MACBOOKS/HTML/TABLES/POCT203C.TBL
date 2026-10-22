@@ -1,0 +1,52 @@
+Slashing vs. Humanoids (Torso)
+Item1
+Item2
+0 0 0 0 0 0
+No unusual effect
+Item1
+Item2
+1 3 0 0 0 0
+Torso grazed, minor bleeding
+Item1
+Item2
+4 4 0 0 0 0
+Torso struck, victim stunned 1 round, /n1reduced to 1/2 move with minor bleeding/n2
+Item1
+Item2
+5 5 0 0 0 0
+Shield damage, torso struck, /n11/2 move & minor bleeding/n2
+Item1
+Item2
+6 6 0 0 0 0
+Armor damage, torso struck, 1/2 move, /n1–2 penalty to attacks; if no armor, /n2torso injured, no move or attack, /n3severe bleeding/n4
+Item1
+Item2
+7 7 0 0 0 0
+Torso injured, major bleeding, 1/2 /n1move, –4 penalty to attacks/n2
+Item1
+Item2
+8 8 0 0 0 0
+Shield damage; torso struck, –2 /n1penalty to attacks; if no shield, torso /n2injured, severe bleeding, /n3no move or attack/n4
+Item1
+Item2
+9 9 0 0 0 0
+Torso injured, severe bleeding, /n1no move or attack/n2
+Item1
+Item2
+10 10 0 0 0 0
+Torso destroyed, victim reduced to 0 /n1hit points with severe bleeding/n2
+Item1
+Item2
+11 11 0 0 0 0
+Torso destroyed, victim killed/n1
+Item1
+Item2
+12 12 0 0 0 0
+Torso destroyed, victim killed /n1with tripled damage dice/n2
+Item1
+Item2
+13 20 0 0 0 0
+
+
+
+
